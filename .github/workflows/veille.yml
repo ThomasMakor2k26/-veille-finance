@@ -1,0 +1,43 @@
+name: Veille en direct
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dependances
+        run: pip install -r requirements-web.txt
+
+      - name: Collecter
+        run: python veille_web.py
+
+      - name: Publier si le JSON a change
+        run: |
+          if [[ -n "$(git status --porcelain docs/articles.json)" ]]; then
+            git config user.name  "veille-bot"
+            git config user.email "actions@github.com"
+            git add docs/articles.json
+            git commit -m "Veille: maj $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "Aucun changement."
+          fi
