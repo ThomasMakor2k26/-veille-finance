@@ -1,0 +1,7 @@
+venv/
+logs/
+articles_tries*.xlsx
+test_rendu.xlsx
+__pycache__/
+*.pyc
+.env
