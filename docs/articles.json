@@ -1,8 +1,360 @@
 {
- "genere_le": "2026-09-03T13:51:57.947852+00:00",
+ "genere_le": "2026-09-03T17:22:51.896219+00:00",
  "fenetre_heures": 24,
- "nb_articles": 161,
+ "nb_articles": 198,
  "articles": [
+  {
+   "titre": "La désinflation marque le pas et la marge d’erreur de la Fed vient de se réduire",
+   "source": "Investing.com",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://fr.investing.com/analysis/la-desinflation-marque-le-pas-et-la-marge-derreur-de-la-fed-vient-de-se-reduire-200457581",
+   "url_propre": "https://fr.investing.com/analysis/la-desinflation-marque-le-pas-et-la-marge-derreur-de-la-fed-vient-de-se-reduire-200457581",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.185270+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "L’offensive chinoise dans le transport maritime arctique pourrait redéfinir les échanges entre l’Asie et l’Europe",
+   "source": "Investing.com",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://fr.investing.com/analysis/loffensive-chinoise-dans-le-transport-maritime-arctique-pourrait-redefinir-les-echanges-entre-lasie-et-leurope-200457580",
+   "url_propre": "https://fr.investing.com/analysis/loffensive-chinoise-dans-le-transport-maritime-arctique-pourrait-redefinir-les-echanges-entre-lasie-et-leurope-200457580",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.176616+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Risque de crédit : après Oracle, Broadcom…",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/risque-de-credit--apres-oracle-broadcom-200457578",
+   "url_propre": "https://fr.investing.com/analysis/risque-de-credit--apres-oracle-broadcom-200457578",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.165629+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Top départ pour l’Or",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/top-depart-pour-lor-200457545",
+   "url_propre": "https://fr.investing.com/analysis/top-depart-pour-lor-200457545",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.155238+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Le socialisme démocratique : un beau gâteau à l’arrière-goût amer",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/le-socialisme-democratique--un-beau-gateau-a-larrieregout-amer-200457593",
+   "url_propre": "https://fr.investing.com/analysis/le-socialisme-democratique--un-beau-gateau-a-larrieregout-amer-200457593",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.142621+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Six mois de guerre en Iran en six graphiques",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/six-mois-de-guerre-en-iran-en-six-graphiques-200457592",
+   "url_propre": "https://fr.investing.com/analysis/six-mois-de-guerre-en-iran-en-six-graphiques-200457592",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.133436+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Verdict de Wall Street : Warsh adopte une position restrictive",
+   "source": "Investing.com",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://fr.investing.com/analysis/verdict-de-wall-street--warsh-adopte-une-position-restrictive-200457622",
+   "url_propre": "https://fr.investing.com/analysis/verdict-de-wall-street--warsh-adopte-une-position-restrictive-200457622",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.125759+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Le secteur manufacturier américain reste solide, mais le marché de l’emploi reste atone",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/le-secteur-manufacturier-americain-reste-solide-mais-le-marche-de-lemploi-reste-atone-200457628",
+   "url_propre": "https://fr.investing.com/analysis/le-secteur-manufacturier-americain-reste-solide-mais-le-marche-de-lemploi-reste-atone-200457628",
+   "date_publication": "",
+   "vu_le": "2026-09-03T17:22:57.117125+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Alstom remporte un contrat de 3 milliards d'euros au Canada pour une nouvelle flotte de trains longue distance",
+   "source": "Le Figaro Economie",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://www.lefigaro.fr/societes/alstom-remporte-un-contrat-de-3-milliards-d-euros-au-canada-pour-une-nouvelle-flotte-de-trains-longue-distance-20260903",
+   "url_propre": "https://www.lefigaro.fr/societes/alstom-remporte-un-contrat-de-3-milliards-d-euros-au-canada-pour-une-nouvelle-flotte-de-trains-longue-distance-20260903",
+   "date_publication": "2026-09-03T17:06:45+00:00",
+   "vu_le": "2026-09-03T17:22:56.172609+00:00",
+   "resume": "L’accord porte sur «la livraison de 313 voitures de passagers Adessia, d’une valeur d’environ 4 milliards de dollars canadiens», et sur «un contrat de soutien technique et d’approvisionnement en pièces de rechange d’une durée de 15 ans». Le savoir-faire français traverse l’Atlantique. Le constructeu"
+  },
+  {
+   "titre": "Blue Origin et Space X renoncent à leur venue au Sommet spatial à Paris, selon le ministère français de l'Espace",
+   "source": "Le Figaro Economie",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://www.lefigaro.fr/societes/blue-origin-et-space-x-renoncent-a-leur-venue-au-sommet-spatial-a-paris-selon-le-ministere-francais-de-l-espace-20260903",
+   "url_propre": "https://www.lefigaro.fr/societes/blue-origin-et-space-x-renoncent-a-leur-venue-au-sommet-spatial-a-paris-selon-le-ministere-francais-de-l-espace-20260903",
+   "date_publication": "2026-09-03T17:02:36+00:00",
+   "vu_le": "2026-09-03T17:22:55.274319+00:00",
+   "resume": "Blue Origin et Space X renoncent à leur venue au Sommet spatial à Paris, selon le ministère français de l'Espace Selon Politico, la Maison-Blanche a poussé des entreprises spatiales américaines à ne pas participer à ce sommet voulu par le président français Emmanuel Macron. Passer la publicité Passe"
+  },
+  {
+   "titre": "L’économie allemande amorce sa reprise, portée par les exportations vers l’Europe et l’IA",
+   "source": "Le Monde Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/03/l-economie-allemande-amorce-sa-reprise-portee-par-les-exportations-vers-l-europe-et-l-ia_6765196_3234.html",
+   "url_propre": "https://www.lemonde.fr/economie/article/2026/09/03/l-economie-allemande-amorce-sa-reprise-portee-par-les-exportations-vers-l-europe-et-l-ia_6765196_3234.html",
+   "date_publication": "2026-09-03T17:00:09+00:00",
+   "vu_le": "2026-09-03T17:22:56.303205+00:00",
+   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "L’impôt sécheresse exceptionnel de 1976, ce précédent historique convoqué par les Jeunes Agriculteurs",
+   "source": "Le Figaro Economie",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.lefigaro.fr/conjoncture/l-impot-secheresse-exceptionnel-de-1976-ce-precedent-historique-convoque-par-les-jeunes-agriculteurs-20260903",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/l-impot-secheresse-exceptionnel-de-1976-ce-precedent-historique-convoque-par-les-jeunes-agriculteurs-20260903",
+   "date_publication": "2026-09-03T17:00:00+00:00",
+   "vu_le": "2026-09-03T17:22:55.582443+00:00",
+   "resume": "L’impôt sécheresse exceptionnel de 1976, ce précédent historique convoqué par les Jeunes Agriculteurs Lors de sa conférence de rentrée le 31 août, le syndicat Jeunes Agriculteurs a proposé la mise en place d’une «contribution générale sur l’impôt» pour aider les producteurs. Un dispositif inspiré de"
+  },
+  {
+   "titre": "Lecornu souhaite des «économies nouvelles» dans le budget pour financer les aides aux agriculteurs",
+   "source": "Le Figaro Economie",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://www.lefigaro.fr/conjoncture/lecornu-souhaite-des-economies-nouvelles-dans-le-budget-pour-financer-les-aides-aux-agriculteurs-20260903",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/lecornu-souhaite-des-economies-nouvelles-dans-le-budget-pour-financer-les-aides-aux-agriculteurs-20260903",
+   "date_publication": "2026-09-03T16:26:45+00:00",
+   "vu_le": "2026-09-03T17:22:55.655988+00:00",
+   "resume": "Les crises ne dissuadent pas l’exécutif de remettre les comptes publics d’équerre : c’est, en substance, le message transmis par l’entourage du premier ministre ce jeudi. Alors que les appels à l’aide du monde agricole se multiplient après un été douloureux marqué par la sécheresse et les vagues de "
+  },
+  {
+   "titre": "ChatGPT, Claude, Gemini, Grok... Les principaux assistants IA touchés par une panne",
+   "source": "Le Figaro Economie",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/chatgpt-claude-gemini-grok-les-principaux-assistants-ia-touches-par-une-panne-20260903",
+   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/chatgpt-claude-gemini-grok-les-principaux-assistants-ia-touches-par-une-panne-20260903",
+   "date_publication": "2026-09-03T16:26:07+00:00",
+   "vu_le": "2026-09-03T17:22:55.997257+00:00",
+   "resume": "ChatGPT, Claude, Grok… Plusieurs des principaux assistants IA sont touchés par une panne ce jeudi après-midi, perturbant voire empêchant leur accès. Selon DownDetector, un site qui recense les signalements d’utilisateurs confrontés à des difficultés d’accès à des services en ligne, une vague de sign"
+  },
+  {
+   "titre": "Remaniements chez Air France-KLM pour renforcer le pilotage du groupe - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHg5VFRZeERXTnhES2NieEoxTndxMXZoaXQwb3NRUEVFSTBfU2l3TG00U3NrQWFSTjlNcGhmVUF5RGg1VE5LVlVOZUc2bUVaenptNDJ3WFFVNlRvaHpWMHViYjl0T0tpMXNodmx2VkxObnYxV1VzbG54Rk1nb254aTRKcEd6TkFGNHdyYUtZT19lXzFpT0p3cVV6cVVNRlUyRUxhTEZIa3FIeWFSNEF4UTIwSFR6c3I1WWo2RHhPMTRic2NtQUxCWQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHg5VFRZeERXTnhES2NieEoxTndxMXZoaXQwb3NRUEVFSTBfU2l3TG00U3NrQWFSTjlNcGhmVUF5RGg1VE5LVlVOZUc2bUVaenptNDJ3WFFVNlRvaHpWMHViYjl0T0tpMXNodmx2VkxObnYxV1VzbG54Rk1nb254aTRKcEd6TkFGNHdyYUtZT19lXzFpT0p3cVV6cVVNRlUyRUxhTEZIa3FIeWFSNEF4UTIwSFR6c3I1WWo2RHhPMTRic2NtQUxCWQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T16:14:18+00:00",
+   "vu_le": "2026-09-03T17:22:58.537580+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Suisse : les actions progressent de 0,2% - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFl1a2Zua1ozQkhBMmJZaUJtRVA2ZEFZRWd5LV9ZZmxzY3o3TEs4bjJ4N1FNbUZsM29OLWtERkNJM0hOS2NBS1dYWWZPb0h2bV9yRjJTeXphUnJnaE9tc1NYbkp3M1FXWk5zajlOVkg1OEpqOUFpU045Z1lVcjZ1WnBfcWQ3dFFTY2F1Nno4dnlYeTM3SV83M0s1ajA4dw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFl1a2Zua1ozQkhBMmJZaUJtRVA2ZEFZRWd5LV9ZZmxzY3o3TEs4bjJ4N1FNbUZsM29OLWtERkNJM0hOS2NBS1dYWWZPb0h2bV9yRjJTeXphUnJnaE9tc1NYbkp3M1FXWk5zajlOVkg1OEpqOUFpU045Z1lVcjZ1WnBfcWQ3dFFTY2F1Nno4dnlYeTM3SV83M0s1ajA4dw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T16:07:19+00:00",
+   "vu_le": "2026-09-03T17:22:58.290494+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Stef améliore nettement sa rentabilité au premier semestre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUJqLWRTSzhTRllUY09ZNUpZUXFXNmxFcG94WE9nWEcxTW9VSmNNbnRfM0JDRzFfMzI4SXo0aFpqZ1BQalE4S0RmZUJocFNXVjFpZnpQbXNzSzE0MU9Mdk5zcENRNi1ERWRpNjZtcWZITERUOXNra3VBa2FGbkR2Nk1GZm44UVRQQlNoMDJNQnpHSWsyVEswdzJJWmQ0NmM0RE9GSmk0Ynd0aG1MTnRweHJlMWVlZnFrdFE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUJqLWRTSzhTRllUY09ZNUpZUXFXNmxFcG94WE9nWEcxTW9VSmNNbnRfM0JDRzFfMzI4SXo0aFpqZ1BQalE4S0RmZUJocFNXVjFpZnpQbXNzSzE0MU9Mdk5zcENRNi1ERWRpNjZtcWZITERUOXNra3VBa2FGbkR2Nk1GZm44UVRQQlNoMDJNQnpHSWsyVEswdzJJWmQ0NmM0RE9GSmk0Ynd0aG1MTnRweHJlMWVlZnFrdFE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T16:05:18+00:00",
+   "vu_le": "2026-09-03T17:22:58.305859+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "«Il serait impensable que les enfants européens soient moins bien protégés» : 59 députés européens appellent Bruxelles à «sanctionner Meta sans délai»",
+   "source": "Le Figaro Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/il-serait-impensable-que-les-enfants-europeens-soient-moins-bien-proteges-59-deputes-europeens-appellent-bruxelles-a-sanctionner-meta-sans-delai-20260903",
+   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/il-serait-impensable-que-les-enfants-europeens-soient-moins-bien-proteges-59-deputes-europeens-appellent-bruxelles-a-sanctionner-meta-sans-delai-20260903",
+   "date_publication": "2026-09-03T16:03:18+00:00",
+   "vu_le": "2026-09-03T17:22:55.726565+00:00",
+   "resume": "«Il serait impensable que les enfants européens soient moins bien protégés» : 59 députés européens appellent Bruxelles à «sanctionner Meta sans délai» Une semaine après l’accord conclu par le groupe de Mark Zuckerberg aux États-Unis, ils appellent l’exécutif européen à mener à son terme la procédure"
+  },
+  {
+   "titre": "Revolut wins provisional US banking licence",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/d6c24b34-1520-4dc4-8996-83eab8e81941?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/d6c24b34-1520-4dc4-8996-83eab8e81941?syn-25a6b1a6=1",
+   "date_publication": "2026-09-03T15:48:45+00:00",
+   "vu_le": "2026-09-03T17:22:57.548947+00:00",
+   "resume": "Revolut wins provisional US banking licence Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential di"
+  },
+  {
+   "titre": "La Chine menace la France de contre-mesures si celle-ci n’annule pas son malus sur l’ultrafast-fashion",
+   "source": "Le Monde Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lemonde.fr/economie/video/2026/09/03/la-chine-menace-la-france-de-contre-mesures-si-celle-ci-n-annule-pas-son-malus-sur-l-ultrafast-fashion_6765182_3234.html",
+   "url_propre": "https://www.lemonde.fr/economie/video/2026/09/03/la-chine-menace-la-france-de-contre-mesures-si-celle-ci-n-annule-pas-son-malus-sur-l-ultrafast-fashion_6765182_3234.html",
+   "date_publication": "2026-09-03T15:34:17+00:00",
+   "vu_le": "2026-09-03T17:22:56.218946+00:00",
+   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "En Allemagne, le faible niveau des stocks de gaz nourrit la peur d’une nouvelle crise",
+   "source": "Le Monde Economie",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/03/en-allemagne-le-faible-niveau-des-stocks-de-gaz-nourrit-la-peur-d-une-nouvelle-crise_6765177_3234.html",
+   "url_propre": "https://www.lemonde.fr/economie/article/2026/09/03/en-allemagne-le-faible-niveau-des-stocks-de-gaz-nourrit-la-peur-d-une-nouvelle-crise_6765177_3234.html",
+   "date_publication": "2026-09-03T15:30:08+00:00",
+   "vu_le": "2026-09-03T17:22:56.385289+00:00",
+   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "Agenda Zonebourse des résultats de sociétés : le 4 septembre 2026 - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnBrS1RBSDlIWmRkTlpQYVd0c1RtcTk2VUNOdmJTOHZRYV9DSENXUUZJSGJ2aUlyOThQUmYxaXQ5cXJfMU5nZWdFVXdxalkzb1Ywb04xSEE4YnJsR09ycDQ4REFmVHR2ME5JLV84RDk0blZRSG9LZFZIakNhdDJiR0JqTm9NOXRLNjlfUUJfVl9LdVA5b0dnS3dvTmpvMnFIODJXT3JVREhkR3RSRjdqb3BsYzRvOVBLX1BIai1GY2w?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnBrS1RBSDlIWmRkTlpQYVd0c1RtcTk2VUNOdmJTOHZRYV9DSENXUUZJSGJ2aUlyOThQUmYxaXQ5cXJfMU5nZWdFVXdxalkzb1Ywb04xSEE4YnJsR09ycDQ4REFmVHR2ME5JLV84RDk0blZRSG9LZFZIakNhdDJiR0JqTm9NOXRLNjlfUUJfVl9LdVA5b0dnS3dvTmpvMnFIODJXT3JVREhkR3RSRjdqb3BsYzRvOVBLX1BIai1GY2w?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T15:28:21+00:00",
+   "vu_le": "2026-09-03T17:22:58.118443+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Zegna marque une pause en Bourse après des semestriels sans surprise - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOURPeHNqMlVHMXEtQXpsZnl6cUM1VXRHZ2c5WGJsbFpPcU5LcGo4VS0wVUt2azNubUxCVGxUVXVpRDFOQkgyRi1rcHVjTGl6endORDFGLVVXTWszaHpOZXJEMlZxR3J3Y2U2dDhrd2JULW53QVg4WGZCYWFsVm1GSWNJWGs3aVhTMXc2XzRvLVMyT3JlRlliaXhkd0JVajdSanJzbWd2WWltaHVvZ24xNkIwM1ViNGlLRzVJQk4ta2Fya1FDdUMw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOURPeHNqMlVHMXEtQXpsZnl6cUM1VXRHZ2c5WGJsbFpPcU5LcGo4VS0wVUt2azNubUxCVGxUVXVpRDFOQkgyRi1rcHVjTGl6endORDFGLVVXTWszaHpOZXJEMlZxR3J3Y2U2dDhrd2JULW53QVg4WGZCYWFsVm1GSWNJWGs3aVhTMXc2XzRvLVMyT3JlRlliaXhkd0JVajdSanJzbWd2WWltaHVvZ24xNkIwM1ViNGlLRzVJQk4ta2Fya1FDdUMw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T15:19:26+00:00",
+   "vu_le": "2026-09-03T17:22:58.821948+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Safran en légère hausse après une commande majeure de la Bundeswehr - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGVtTjRqNlFXc3h4RTQ0OHloWjhxMndhdDlkVl91Y0tlMm4taEthdVdYdjhmYkNXTF85RnZVbms5VTdRbVRRTFJaTDd3NHZncG8zS091SE85TFFaMm5SaHhZcjIwTFh5dVhuR1hsUUh0RGlTdDY0RDdkeDlySlVnaktnSDZyTFROdjg0dnd2NnM5cDlyaWZOZkx2S3gzQjd5dlFrNlR5aXcyQTJDQ2xncWhkVWl4RzJMRXhiS1ozZkwtYmJzSHc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGVtTjRqNlFXc3h4RTQ0OHloWjhxMndhdDlkVl91Y0tlMm4taEthdVdYdjhmYkNXTF85RnZVbms5VTdRbVRRTFJaTDd3NHZncG8zS091SE85TFFaMm5SaHhZcjIwTFh5dVhuR1hsUUh0RGlTdDY0RDdkeDlySlVnaktnSDZyTFROdjg0dnd2NnM5cDlyaWZOZkx2S3gzQjd5dlFrNlR5aXcyQTJDQ2xncWhkVWl4RzJMRXhiS1ozZkwtYmJzSHc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T15:01:25+00:00",
+   "vu_le": "2026-09-03T17:22:58.624041+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "« “Foutre au feu” la dette, une image puissante qui s’inscrit dans une longue histoire politique »",
+   "source": "Le Monde Economie",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.lemonde.fr/idees/article/2026/09/03/foutre-au-feu-la-dette-une-image-puissante-qui-s-inscrit-dans-une-longue-histoire-politique_6765171_3232.html",
+   "url_propre": "https://www.lemonde.fr/idees/article/2026/09/03/foutre-au-feu-la-dette-une-image-puissante-qui-s-inscrit-dans-une-longue-histoire-politique_6765171_3232.html",
+   "date_publication": "2026-09-03T15:00:03+00:00",
+   "vu_le": "2026-09-03T17:22:56.386712+00:00",
+   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "Leon Black sues US Congress over Epstein probe",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/c99a833b-337a-4cb9-913b-ef1e43a96c5c?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/c99a833b-337a-4cb9-913b-ef1e43a96c5c?syn-25a6b1a6=1",
+   "date_publication": "2026-09-03T14:56:10+00:00",
+   "vu_le": "2026-09-03T17:22:57.777767+00:00",
+   "resume": "Leon Black sues US Congress over Jeffrey Epstein probe Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month E"
+  },
+  {
+   "titre": "Uniper va transférer son siège social de Düsseldorf - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTl9QQ0pEb2hPdFhFeXlFMnpjWmJGcHJETDFOMW5RV2xlYml0Ty1naFZ2VFltSUptZUZmOFdaZUJ6S0ZGLTBjZ0EyMDRDOU9RaW1wZVFEYWRBZkc0VXE1SFRQUTNYWXVwd3U5aHczOG1VckJ2SWg5blJlcDZoRFo1VEFCQTBuQmh3Z3pHNkR0b1JPZDFQa3pIenNVNTFzLTFSQlRsRXppMFZYUHB3VXROTg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTl9QQ0pEb2hPdFhFeXlFMnpjWmJGcHJETDFOMW5RV2xlYml0Ty1naFZ2VFltSUptZUZmOFdaZUJ6S0ZGLTBjZ0EyMDRDOU9RaW1wZVFEYWRBZkc0VXE1SFRQUTNYWXVwd3U5aHczOG1VckJ2SWg5blJlcDZoRFo1VEFCQTBuQmh3Z3pHNkR0b1JPZDFQa3pIenNVNTFzLTFSQlRsRXppMFZYUHB3VXROTg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T14:52:14+00:00",
+   "vu_le": "2026-09-03T17:22:58.685784+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "«Moins de promesses, plus de données et probablement davantage de volatilité» : la nouvelle ligne politique de la Fed vue par le stratégiste John Plassard",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/moins-de-promesses-plus-de-donnees-et-probablement-davantage-de-volatilite-la-nouvelle-ligne-politique-de-la-fed-vue-par-le-strategiste-john-plassard-20260903",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/moins-de-promesses-plus-de-donnees-et-probablement-davantage-de-volatilite-la-nouvelle-ligne-politique-de-la-fed-vue-par-le-strategiste-john-plassard-20260903",
+   "date_publication": "2026-09-03T14:52:08+00:00",
+   "vu_le": "2026-09-03T17:22:56.213511+00:00",
+   "resume": "«Moins de promesses, plus de données et probablement davantage de volatilité» : la nouvelle ligne politique de la Fed vue par le stratégiste John Plassard «Moins de promesses, plus de données et probablement davantage de volatilité» : la nouvelle ligne politique de la Fed vue par le stratégiste John"
+  },
+  {
+   "titre": "« On risque de traverser la saison froide sans vrai filet de sécurité » : en Europe, des stocks de gaz au plus bas",
+   "source": "Le Monde Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/03/on-risque-de-traverser-la-saison-froide-sans-vrai-filet-de-securite-en-europe-des-stocks-de-gaz-au-plus-bas_6765167_3234.html",
+   "url_propre": "https://www.lemonde.fr/economie/article/2026/09/03/on-risque-de-traverser-la-saison-froide-sans-vrai-filet-de-securite-en-europe-des-stocks-de-gaz-au-plus-bas_6765167_3234.html",
+   "date_publication": "2026-09-03T14:52:03+00:00",
+   "vu_le": "2026-09-03T17:22:56.420584+00:00",
+   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "«Sauver la France de la faillite» : un jeu en ligne créé par un ex-conseiller de Matignon vous met dans la peau du ministre du Budget",
+   "source": "Le Figaro Economie",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://www.lefigaro.fr/conjoncture/sauver-la-france-de-la-faillite-un-jeu-en-ligne-cree-par-un-ex-conseiller-de-matignon-vous-met-dans-la-peau-du-ministre-du-budget-20260903",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/sauver-la-france-de-la-faillite-un-jeu-en-ligne-cree-par-un-ex-conseiller-de-matignon-vous-met-dans-la-peau-du-ministre-du-budget-20260903",
+   "date_publication": "2026-09-03T14:51:00+00:00",
+   "vu_le": "2026-09-03T17:22:55.786995+00:00",
+   "resume": "«Votre mission : faire adopter le projet de loi de finances pour 2027 et les suivants», explique le jeu en introduction. Rayan Nezzar x Claude Redresser les comptes publics, un jeu d’enfant ? Derrière son aspect ludique, le petit jeu en ligne «La bataille du Budget», conçu par Rayan Nezzar, ex-conse"
+  },
+  {
+   "titre": "Bordeau Chesnel : près du Mans, la plus grande usine de production de rillettes de France en passe d’être vendue",
+   "source": "Le Figaro Economie",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://www.lefigaro.fr/societes/bordeau-chesnel-pres-du-mans-la-plus-grande-usine-de-production-de-rillettes-de-france-en-passe-d-etre-vendue-20260903",
+   "url_propre": "https://www.lefigaro.fr/societes/bordeau-chesnel-pres-du-mans-la-plus-grande-usine-de-production-de-rillettes-de-france-en-passe-d-etre-vendue-20260903",
+   "date_publication": "2026-09-03T14:15:00+00:00",
+   "vu_le": "2026-09-03T17:22:55.530705+00:00",
+   "resume": "Le projet de cession intervient alors que Bordeau Chesnel dispose d’un outil industriel récent (photo d’illustration). ALF photo - stock.adobe.com Savencia a convoqué les représentants du personnel de sa branche Charcuterie et produits de la mer à un CSE extraordinaire le 7 septembre, où seront exam"
+  },
+  {
+   "titre": "«La culture du renoncement n’est pas la nôtre» : la direction de Radio France écarte tout retrait de Charles Sapin",
+   "source": "Le Figaro Economie",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://www.lefigaro.fr/medias/la-culture-du-renoncement-n-est-pas-la-notre-la-direction-de-radio-france-ecarte-tout-retrait-de-charles-sapin-20260903",
+   "url_propre": "https://www.lefigaro.fr/medias/la-culture-du-renoncement-n-est-pas-la-notre-la-direction-de-radio-france-ecarte-tout-retrait-de-charles-sapin-20260903",
+   "date_publication": "2026-09-03T14:10:04+00:00",
+   "vu_le": "2026-09-03T17:22:55.870979+00:00",
+   "resume": "«La culture du renoncement n’est pas la nôtre» : la direction de Radio France écarte tout retrait de Charles Sapin Le directeur éditorial du groupe public défend le choix de confier une chronique au directeur adjoint de Valeurs Actuelles au nom du pluralisme et de l’indépendance de l’audiovisuel pub"
+  },
   {
    "titre": "Il y a des choses « Warsh » que je pourrais faire",
    "source": "Investing.com",
@@ -48,6 +400,17 @@
    "resume": "La TVA sociale consisterait en un transfert du financement de la protection sociale du travail vers la consommation. Villalon / Richard Villalon - stock.adobe.com NOTA BENE - À l’approche de la présidentielle 2027, ce dispositif est promu par plusieurs candidats, qui le présentent comme la solution "
   },
   {
+   "titre": "Publicis grimpe après des informations de presse sur un contrat majeur avec Pepsi - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlJPUWl0QnM3VXpNb0FFdjVoYzF4NzUyeE8zNENvR0toOVVJb0dac1drWnNDUnQxX3FSSTMxUVF3YWZKWXh4dGVacnJLcU8tR0FfRVRjX2xHNUxqOEhLOWVFOWYwUXc4Rnc0YVlxUV9sVkt4d0RsRkJIM3pGTHpqX0FHSkFOUUxIRXNDa3ZmM0lJUjVDM3lvTmthT2h1UWk3ZVQ5WGhuN1dZTVZXVmpCVXJkWk9CcWVUSUhaOXFDdS1XZWZGa0hrYW9rcUFIS20zN08xc2VsWHM?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlJPUWl0QnM3VXpNb0FFdjVoYzF4NzUyeE8zNENvR0toOVVJb0dac1drWnNDUnQxX3FSSTMxUVF3YWZKWXh4dGVacnJLcU8tR0FfRVRjX2xHNUxqOEhLOWVFOWYwUXc4Rnc0YVlxUV9sVkt4d0RsRkJIM3pGTHpqX0FHSkFOUUxIRXNDa3ZmM0lJUjVDM3lvTmthT2h1UWk3ZVQ5WGhuN1dZTVZXVmpCVXJkWk9CcWVUSUhaOXFDdS1XZWZGa0hrYW9rcUFIS20zN08xc2VsWHM?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T13:00:34+00:00",
+   "vu_le": "2026-09-03T17:22:57.586815+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Au cœur d’une cyberattaque sans précédent qui a ébranlé le notariat français",
    "source": "Le Monde Economie",
    "theme": "Finance / Economie (général)",
@@ -79,6 +442,17 @@
    "date_publication": "2026-09-03T12:30:23+00:00",
    "vu_le": "2026-09-03T13:52:02.981750+00:00",
    "resume": "Federal Reserve’s Chris Waller ‘inclined’ to keep interest rates on hold Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digit"
+  },
+  {
+   "titre": "Feminist icon Gloria Steinem dies at 92",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/34813f31-aaa0-4bd2-9c87-b1b258dab872?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/34813f31-aaa0-4bd2-9c87-b1b258dab872?syn-25a6b1a6=1",
+   "date_publication": "2026-09-03T12:20:52+00:00",
+   "vu_le": "2026-09-03T17:22:57.870272+00:00",
+   "resume": "Feminist icon Gloria Steinem dies at 92 Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $45 per month Essential digita"
   },
   {
    "titre": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
@@ -156,6 +530,17 @@
    "date_publication": "2026-09-03T10:00:02+00:00",
    "vu_le": "2026-09-03T13:52:03.457759+00:00",
    "resume": "Friedrich Merz sidelined as party fights far right in regional poll Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. Standard Digital $4"
+  },
+  {
+   "titre": "‘People are going to get screwed’: Pennsylvania voters unite against data centres",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5?syn-25a6b1a6=1",
+   "date_publication": "2026-09-03T10:00:02+00:00",
+   "vu_le": "2026-09-03T17:22:57.746551+00:00",
+   "resume": "Inside Trump's America Register to unlock this article ‘People are going to get screwed’: Pennsylvania voters unite against data centres Register now and uncover how President Trump is upending the US, through the eyes of one city Register now Want a deeper look? Explore our recommended subscription"
   },
   {
    "titre": "10 small-caps à surveiller alors que l’emploi US décevant plaide pour une Fed dovish",
@@ -530,6 +915,17 @@
    "date_publication": "2026-09-03T05:30:00+00:00",
    "vu_le": "2026-09-03T09:38:17.397369+00:00",
    "resume": "Contrairement au small talk habituel autour de la machine à café sur le mercato du PSG ou la dernière série Netflix, l’écologie devient vite source de tensions au bureau. Halfpoint - stock.adobe.com TÉMOIGNAGES - Après un été marqué par des catastrophes climatiques en France, les voyages en avion de"
+  },
+  {
+   "titre": "Sika a finalisé l'acquisition du fabricant turc de colles Akkim - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNSQ19TRWlsbWtmR3dNRDhMUlNDVjMzb0V6bWxLN2E5bGR2QXhqQUMxWWdNNG9HRXVnSHBiSkl3aXVWcFloaTVob1ljakFZbjVxOWJFSG5IeDQ1WFY2TEZZZ3R5YmhDV2FVWEtQc2w3OHBwZURIZW4teGh1bGN1cUpVVnMyVnhZSUxrVzF5UHZTci02MDhHTThvV3BwNDc1bXNTY216NXNmYTdvVWZhdUQ1elpPaEJxbnBJQXJNUi0?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNSQ19TRWlsbWtmR3dNRDhMUlNDVjMzb0V6bWxLN2E5bGR2QXhqQUMxWWdNNG9HRXVnSHBiSkl3aXVWcFloaTVob1ljakFZbjVxOWJFSG5IeDQ1WFY2TEZZZ3R5YmhDV2FVWEtQc2w3OHBwZURIZW4teGh1bGN1cUpVVnMyVnhZSUxrVzF5UHZTci02MDhHTThvV3BwNDc1bXNTY216NXNmYTdvVWZhdUQ1elpPaEJxbnBJQXJNUi0?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-03T05:13:23+00:00",
+   "vu_le": "2026-09-03T17:22:58.148572+00:00",
+   "resume": ""
   },
   {
    "titre": "Après un «échange» avec Elon Musk, la France autorise les «essais sur route» de la conduite autonome supervisée de Tesla",
@@ -1685,6 +2081,17 @@
    "date_publication": "2026-09-02T10:03:53+00:00",
    "vu_le": "2026-09-02T17:28:43.027690+00:00",
    "resume": ""
+  },
+  {
+   "titre": "Portzamparc vise +148% pour l’action d’une techno strasbourgeoise, 63% pour la biotech Nanobiotix, une valeur réunionnaise à suivre… Découvrez les 5 actions à potentiel pour septembre",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/portzamparc-vise-148-pour-l-action-d-une-techno-strasbourgeoise-63-pour-la-biotech-nanobiotix-une-valeur-reunionnaise-a-suivre-decouvrez-les-5-actions-a-potentiel-pour-septembre-20260902",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/portzamparc-vise-148-pour-l-action-d-une-techno-strasbourgeoise-63-pour-la-biotech-nanobiotix-une-valeur-reunionnaise-a-suivre-decouvrez-les-5-actions-a-potentiel-pour-septembre-20260902",
+   "date_publication": "2026-09-02T09:53:08+00:00",
+   "vu_le": "2026-09-03T17:22:57.107662+00:00",
+   "resume": "Portzamparc vise +148% pour l’action d’une techno strasbourgeoise, 63% pour la biotech Nanobiotix, une valeur réunionnaise à suivre… Découvrez les 5 actions à potentiel pour septembre Portzamparc vise +148% pour l’action d’une techno strasbourgeoise, 63% pour la biotech Nanobiotix, une valeur réunio"
   },
   {
    "titre": "Mwb research relève son conseil sur Rheinmetall - Zonebourse Suisse",
