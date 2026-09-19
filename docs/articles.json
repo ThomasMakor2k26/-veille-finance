@@ -1,8 +1,30 @@
 {
- "genere_le": "2026-09-18T22:52:01.865355+00:00",
+ "genere_le": "2026-09-19T00:44:51.661229+00:00",
  "fenetre_heures": 24,
- "nb_articles": 207,
+ "nb_articles": 195,
  "articles": [
+  {
+   "titre": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies",
+   "source": "Le Monde Economie",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+   "url_propre": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+   "date_publication": "2026-09-19T00:39:55+00:00",
+   "vu_le": "2026-09-19T00:44:55.927725+00:00",
+   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "Anthropic brings in Accenture for AI safety testing",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1",
+   "date_publication": "2026-09-18T23:38:50+00:00",
+   "vu_le": "2026-09-19T00:44:56.373332+00:00",
+   "resume": "Anthropic brings in Accenture for AI safety testing Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 per month. Complete"
+  },
   {
    "titre": "Les signaux d’inflation s’affrontent à l’approche d’une décision cruciale de la Fed",
    "source": "Investing.com",
@@ -46,6 +68,17 @@
    "date_publication": "2026-09-18T22:33:32+00:00",
    "vu_le": "2026-09-18T22:52:06.984604+00:00",
    "resume": "OpenAI expects to burn $280bn by 2030 Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 per month. Complete digital acces"
+  },
+  {
+   "titre": "Donald Trump rencontrera Delcy Rodriguez mardi à New York - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDZURy1qNEVhcksxV2FkbmQtMDZYQ19nNlp3VHQyQThMbG9MY0tVMi1CSWN4ZmpPX19ZSDFKd0pWci0zQU40bWJWaWRzbWZBUUZtMHRtWUs0Y08xeHFVVnJyUUFtbHpWdlhZV2h3SlUxOEY0b3MxMW9WcGhuMW1pdGVaLUxLR0tMQUNzcjd1RWs4TVM5bW9rVkF0UlI4ODVZSkI3cUJfQ3pVdXFWd3p3M3RILUZSNHVL?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDZURy1qNEVhcksxV2FkbmQtMDZYQ19nNlp3VHQyQThMbG9MY0tVMi1CSWN4ZmpPX19ZSDFKd0pWci0zQU40bWJWaWRzbWZBUUZtMHRtWUs0Y08xeHFVVnJyUUFtbHpWdlhZV2h3SlUxOEY0b3MxMW9WcGhuMW1pdGVaLUxLR0tMQUNzcjd1RWs4TVM5bW9rVkF0UlI4ODVZSkI3cUJfQ3pVdXFWd3p3M3RILUZSNHVL?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-18T22:28:26+00:00",
+   "vu_le": "2026-09-19T00:44:58.673413+00:00",
+   "resume": ""
   },
   {
    "titre": "Médias et politiques : qui censure qui ? - Boursorama",
@@ -1940,83 +1973,6 @@
    "resume": ""
   },
   {
-   "titre": "Malgré Bessent, les taux longs se crispent avant l’inflation US",
-   "source": "Investing.com",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://fr.investing.com/analysis/malgre-bessent-les-taux-longs-se-crispent-avant-linflation-us-200457730",
-   "url_propre": "https://fr.investing.com/analysis/malgre-bessent-les-taux-longs-se-crispent-avant-linflation-us-200457730",
-   "date_publication": "",
-   "vu_le": "2026-09-17T23:03:36.970469+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Bloom Energy : Nancy Pelosi remet ça !",
-   "source": "Investing.com",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://fr.investing.com/analysis/bloom-energy--nancy-pelosi-remet-ca--200457696",
-   "url_propre": "https://fr.investing.com/analysis/bloom-energy--nancy-pelosi-remet-ca--200457696",
-   "date_publication": "",
-   "vu_le": "2026-09-17T23:03:36.935530+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Cette fois-ci, est-ce différent ? Les résultats et les cours rompent avec des tendances vieilles de 90 ans",
-   "source": "Investing.com",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://fr.investing.com/analysis/cette-foisci-estce-different--les-resultats-et-les-cours-rompent-avec-des-tendances-vieilles-de-90-ans-200457760",
-   "url_propre": "https://fr.investing.com/analysis/cette-foisci-estce-different--les-resultats-et-les-cours-rompent-avec-des-tendances-vieilles-de-90-ans-200457760",
-   "date_publication": "",
-   "vu_le": "2026-09-17T23:03:36.899392+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "La FCC américaine donne son feu vert à l'investissement étranger dans la fusion entre Paramount et Warner - Boursorama",
-   "source": "Boursorama",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQUJTeUp0d1pXUC1ZSndoeVo2UHI0RHoxMi1xT0hPR01wcUZDRG9ka0w4aEl6cmJwQkowSmpRRHZGM3FWWXNNT0k1aGZnMkxjUGVOelRlMGEwRU9Nbkc4aHRkYms3U1NZMzdva1FuT3BSZXZiZ3JnaS1nUjlELTRtN1BZbWl1a2lNaGdJQ1RzZzlCYjdTZ2lONUMxUmxmcUQ1ZzVUYmltbWZlc2JMS0EzcGtpNWF0VnI3bVh2YzJzX09rcjI4VXlITTNES09TdG5jcTNlLTYtN053MmQ2ZnpwM0hHbjZCRl80V0ktUTBtN1dITWlyVGpiVGZIeGpaeXU2R285ekdsemE2aFV0eHA3NdIBlgJBVV95cUxPSXQ1YnBrSndPQ1R6Mm9oazh3T0NxMjVIWXJSeWF2VTNFRzBFX25wUmstd18zWFV2YVdOd0loZFRXclJFaEFtdXc0eWx5T19pRmxMX19PZFU4NkVlUGNqWEJ6S0V2VExtODhvR0pQZDR1a1pVUy05SG1JM3hxM1VnM3d5aHVocG1mb0pIZHZrMmZHSzB0TmxBZXp0aDI0Y01lalpENlJCOU1BYVNnVXdBX0ZFbDg2bENpMW8wa1JGeE1uaXVhZjhIT1JHVTF6U3E3Z3hCQUFvOXZ0dVl4UWtFalAtUkc5bUoyRXJha2ZKbGdtSjNGb3J3UVZoMjNKc2U2SGFHTjZaTUdYLVE3Q05lN2d4elRwQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQUJTeUp0d1pXUC1ZSndoeVo2UHI0RHoxMi1xT0hPR01wcUZDRG9ka0w4aEl6cmJwQkowSmpRRHZGM3FWWXNNT0k1aGZnMkxjUGVOelRlMGEwRU9Nbkc4aHRkYms3U1NZMzdva1FuT3BSZXZiZ3JnaS1nUjlELTRtN1BZbWl1a2lNaGdJQ1RzZzlCYjdTZ2lONUMxUmxmcUQ1ZzVUYmltbWZlc2JMS0EzcGtpNWF0VnI3bVh2YzJzX09rcjI4VXlITTNES09TdG5jcTNlLTYtN053MmQ2ZnpwM0hHbjZCRl80V0ktUTBtN1dITWlyVGpiVGZIeGpaeXU2R285ekdsemE2aFV0eHA3NdIBlgJBVV95cUxPSXQ1YnBrSndPQ1R6Mm9oazh3T0NxMjVIWXJSeWF2VTNFRzBFX25wUmstd18zWFV2YVdOd0loZFRXclJFaEFtdXc0eWx5T19pRmxMX19PZFU4NkVlUGNqWEJ6S0V2VExtODhvR0pQZDR1a1pVUy05SG1JM3hxM1VnM3d5aHVocG1mb0pIZHZrMmZHSzB0TmxBZXp0aDI0Y01lalpENlJCOU1BYVNnVXdBX0ZFbDg2bENpMW8wa1JGeE1uaXVhZjhIT1JHVTF6U3E3Z3hCQUFvOXZ0dVl4UWtFalAtUkc5bUoyRXJha2ZKbGdtSjNGb3J3UVZoMjNKc2U2SGFHTjZaTUdYLVE3Q05lN2d4elRwQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T22:57:25+00:00",
-   "vu_le": "2026-09-17T23:03:37.624333+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Ultragenyx fixe le prix de sa thérapie génique contre une maladie rare à 3,95 millions de dollars - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc09GZGJBeTFaOHZYVXp5eXdkUEY5RjZCRG9FaXB3VWRpQVg1OHhqTGVucFQ2bEg0djNpdl9VSDhhZlpvMkE0UDFodDFBak1Cd1pCX1BRU192M3ZLSjNyQ1ZtRjR1Wjk4alp5TlFCUmtqS2l3Q1NEcUtKaHk3c1JGaURIc0FuUE11aE9HUzVyOHFubkFCMUdxWGhCNTh3XzZIZHhwUVlnS2RIaDA4dXZjcmFlNDJWVE0tN2JTMkhhbExpcTl0b3ZfUGM5WjNNXy14MjM3VjFmR0g4QmxiaWZGc1hIMDdtUXhoTXMzVVE2N0RkMlo0WDRaaGN0T0dmVjJ6d3l6bVp30gGLAkFVX3lxTFBGNVE1Z2hMU2pUYkFnRWJSQTlsWlNORVY4c05XdzhvOHppOUdlY3h2ZXFkN3ZZZzVWSzZOZ1l6cWZtam5QSmUtS1Rzem1CcXVabDZFNUdPTG5vcDBZREJoRkg4QzFBbFJqbGVlRmNLR09ucUh3akEyTHdvNDRPeHZPRG1HNHhqSGx1WFlFU25tVDhGNk9yTllmYWlyVUJEWVlCQkhyTVNVWXZUaVRBY09oMDIwcmcyc0pPZXdqMnpXX2ZYWS1fS1VjSG56ZmowYnFrcU1qYkhoNWxCQlBqSUdWQnZwRS1zcU02dTBnRWRWQ1BTMGY0cXR1WXJKa1dpMjdRbWg3eEc3VTI2TQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc09GZGJBeTFaOHZYVXp5eXdkUEY5RjZCRG9FaXB3VWRpQVg1OHhqTGVucFQ2bEg0djNpdl9VSDhhZlpvMkE0UDFodDFBak1Cd1pCX1BRU192M3ZLSjNyQ1ZtRjR1Wjk4alp5TlFCUmtqS2l3Q1NEcUtKaHk3c1JGaURIc0FuUE11aE9HUzVyOHFubkFCMUdxWGhCNTh3XzZIZHhwUVlnS2RIaDA4dXZjcmFlNDJWVE0tN2JTMkhhbExpcTl0b3ZfUGM5WjNNXy14MjM3VjFmR0g4QmxiaWZGc1hIMDdtUXhoTXMzVVE2N0RkMlo0WDRaaGN0T0dmVjJ6d3l6bVp30gGLAkFVX3lxTFBGNVE1Z2hMU2pUYkFnRWJSQTlsWlNORVY4c05XdzhvOHppOUdlY3h2ZXFkN3ZZZzVWSzZOZ1l6cWZtam5QSmUtS1Rzem1CcXVabDZFNUdPTG5vcDBZREJoRkg4QzFBbFJqbGVlRmNLR09ucUh3akEyTHdvNDRPeHZPRG1HNHhqSGx1WFlFU25tVDhGNk9yTllmYWlyVUJEWVlCQkhyTVNVWXZUaVRBY09oMDIwcmcyc0pPZXdqMnpXX2ZYWS1fS1VjSG56ZmowYnFrcU1qYkhoNWxCQlBqSUdWQnZwRS1zcU02dTBnRWRWQ1BTMGY0cXR1WXJKa1dpMjdRbWg3eEc3VTI2TQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T22:38:36+00:00",
-   "vu_le": "2026-09-17T23:03:37.609470+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Russie : la Douma, une assemblée fantoche ? - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWxBUzl0TU85MTJHUy1uOGtkMzF6aDgzdjhDSEZWeWZxa1BVaEFUeF8yOTJuamdhMlNINjg3amc0ZEpTa1NBWkV2TkdoVjZkVVJfYXVrMzhjMzlyNVVidkpLQTctX0IyRHZucGwwMFVjT25LRWhPVGhfOHA4d0s1cTYwVkpYenBmTG9XdGVOZ1VwSzE4YVJ2RU9GVUtoLWcwMG9TVlhZaHhtRDZwcmllMWFJeGZMOHPSAbwBQVVfeXFMTmZEYjVudzFRel9WTFVJY3FlMUNvekZPTHFLZEFHVURvTk15VVhUaWZNME02TkJ5aDNYZ2RuRjRLWUVUckt5a2thN0hOQ19RdzVmVHh4bWc1a3BWVVVVTXFLT3hoRTBKOGZXbXYyejc3Z04wbUxkUERaTFR5UllqSFdvUlQwRXN1VDE5NTI1TWZPOXBORUZXT3UzODUwWlAtTzB1QzR6M2J4V19vWVBCWktra3dpYWU1SVVnUHc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWxBUzl0TU85MTJHUy1uOGtkMzF6aDgzdjhDSEZWeWZxa1BVaEFUeF8yOTJuamdhMlNINjg3amc0ZEpTa1NBWkV2TkdoVjZkVVJfYXVrMzhjMzlyNVVidkpLQTctX0IyRHZucGwwMFVjT25LRWhPVGhfOHA4d0s1cTYwVkpYenBmTG9XdGVOZ1VwSzE4YVJ2RU9GVUtoLWcwMG9TVlhZaHhtRDZwcmllMWFJeGZMOHPSAbwBQVVfeXFMTmZEYjVudzFRel9WTFVJY3FlMUNvekZPTHFLZEFHVURvTk15VVhUaWZNME02TkJ5aDNYZ2RuRjRLWUVUckt5a2thN0hOQ19RdzVmVHh4bWc1a3BWVVVVTXFLT3hoRTBKOGZXbXYyejc3Z04wbUxkUERaTFR5UllqSFdvUlQwRXN1VDE5NTI1TWZPOXBORUZXT3UzODUwWlAtTzB1QzR6M2J4V19vWVBCWktra3dpYWU1SVVnUHc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T22:28:43+00:00",
-   "vu_le": "2026-09-17T23:03:37.298748+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Un pétrolier touché dans le détroit d'Ormuz, dit l'Iran - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTljTUxQaHh1bnRIQ2xCc3k0N1hvU1gxRG5TZmcwbEMyNnpoR1lZQk5jWVB4TnJWOEVrWWlpXzM0SkdlNmYyejhjcnhPT3R0bkJ4YUhha1VvMVFtUG9jVnpiRHdtQTcwMXBKTXBNOFFDWUFEc3pGODVKYVEtLW5Pa1A1cG9sTTl6Wk51SW90azE2TjFmLW14Uk1Qa1l4RzBEMjRxMlFydGZYOXlQMEtUR0xMOWk3TWZOMGN0ZHgwQWs0TjJ0NmZjLXpzU2dERjZxVjZOd0I1NmlwRnZyRjFn0gHkAUFVX3lxTE1BaXcwbE9rSGJvV0pMbkNuT2JJOG5GTzhwM0dicHFuU052Y3RFZ25pWjF5SlZxNHZ0anhVTlVhVmF6bTNnWXBPZ0MwcTdPbFZaNmlWX1pzNjhLR0daWE9WcmFySTJ4dzBuZ3VYTWdGMnVoRlF2YW9RTVFkS1lKMHRkSFlTY1JDYVF0RTQwM21KcjZXcWRNb2dzNC1aSXB6Vms1NDRSMlBTYzVmNldYTkRUTXVUcHY2M1ZlOGVMamRrcGNlaG00MWEwSE1yNXNreVFESjBjTWVzdGo4R0FLLXFDWTgzQw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTljTUxQaHh1bnRIQ2xCc3k0N1hvU1gxRG5TZmcwbEMyNnpoR1lZQk5jWVB4TnJWOEVrWWlpXzM0SkdlNmYyejhjcnhPT3R0bkJ4YUhha1VvMVFtUG9jVnpiRHdtQTcwMXBKTXBNOFFDWUFEc3pGODVKYVEtLW5Pa1A1cG9sTTl6Wk51SW90azE2TjFmLW14Uk1Qa1l4RzBEMjRxMlFydGZYOXlQMEtUR0xMOWk3TWZOMGN0ZHgwQWs0TjJ0NmZjLXpzU2dERjZxVjZOd0I1NmlwRnZyRjFn0gHkAUFVX3lxTE1BaXcwbE9rSGJvV0pMbkNuT2JJOG5GTzhwM0dicHFuU052Y3RFZ25pWjF5SlZxNHZ0anhVTlVhVmF6bTNnWXBPZ0MwcTdPbFZaNmlWX1pzNjhLR0daWE9WcmFySTJ4dzBuZ3VYTWdGMnVoRlF2YW9RTVFkS1lKMHRkSFlTY1JDYVF0RTQwM21KcjZXcWRNb2dzNC1aSXB6Vms1NDRSMlBTYzVmNldYTkRUTXVUcHY2M1ZlOGVMamRrcGNlaG00MWEwSE1yNXNreVFESjBjTWVzdGo4R0FLLXFDWTgzQw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T21:43:17+00:00",
-   "vu_le": "2026-09-17T23:03:37.800464+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Tech & Co, la quotidienne - Jeudi 17 septembre - bfmtv.com",
    "source": "BFM Business",
    "theme": "Finance / Economie (général)",
@@ -2028,50 +1984,6 @@
    "resume": ""
   },
   {
-   "titre": "Les deux enseignes comptent encore des dizaines de magasins en Russie: un décret de Vladimir Poutine fait passer les actifs d'Auchan et de l’ex-Leroy Merlin, ainsi que ceux de Nestlé, sous le contrôle d’une même société russe - BFM",
-   "source": "BFM Business",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSFNrOUVHR1BTUlhORmdkY1FjazVnM2RhV093emVYMllIZ182OExVQU1NSUJTRzJacGJQZDh4dThTUFhWbkp4aDJNSHQ3THhVQkRQUEpZVUdNSzduZnZWakZZWnRwNkl5LUVqT2RYMGszMGY4WVdTQmZKMXFINkxPWXdOVVpqMW40clBZa3FrMjdGREUzQzZScDhDZmxmbHNnZGptZjhKQzBzb21vYWY2Q1pUaGN4SlVkNThGRDlMdWVrbFlvX1k4UDFLbHpIMkNUbmRIamxoT2IzQ0lzcF9SUDM4NmFjX2lNVWNqb2xSd0dDVEtiYTFYempKUzJWbjVUbHpKTmxGQkNSZU9UWVl2RElsTHRYMGd6d2tRalpFUUYwQmljRjd0M3otd0JRcnhCbTI4YWpYVnJlbUFqWmwyNUpEOGhWbnRfeENITENOd3dNaDBCZVc5eHhKdzNGbUpRMTVWZGlIZVJJNVJQelIzUVN4VmhfZTQ5cmpZaVBfLUdoSnF0NS1VTW8xd1FNUjI1aFlaalU2MEJWQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNSFNrOUVHR1BTUlhORmdkY1FjazVnM2RhV093emVYMllIZ182OExVQU1NSUJTRzJacGJQZDh4dThTUFhWbkp4aDJNSHQ3THhVQkRQUEpZVUdNSzduZnZWakZZWnRwNkl5LUVqT2RYMGszMGY4WVdTQmZKMXFINkxPWXdOVVpqMW40clBZa3FrMjdGREUzQzZScDhDZmxmbHNnZGptZjhKQzBzb21vYWY2Q1pUaGN4SlVkNThGRDlMdWVrbFlvX1k4UDFLbHpIMkNUbmRIamxoT2IzQ0lzcF9SUDM4NmFjX2lNVWNqb2xSd0dDVEtiYTFYempKUzJWbjVUbHpKTmxGQkNSZU9UWVl2RElsTHRYMGd6d2tRalpFUUYwQmljRjd0M3otd0JRcnhCbTI4YWpYVnJlbUFqWmwyNUpEOGhWbnRfeENITENOd3dNaDBCZVc5eHhKdzNGbUpRMTVWZGlIZVJJNVJQelIzUVN4VmhfZTQ5cmpZaVBfLUdoSnF0NS1VTW8xd1FNUjI1aFlaalU2MEJWQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T18:55:49+00:00",
-   "vu_le": "2026-09-17T23:03:38.106289+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse DBT - 17/09/2026 20:43:24 - Demain - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kWU1oQWRHeU1tVlFFUjlXbWtsMlJhQlN5dzFwc3lfZXJ0c1dEM1JvaUgzS3AteXAybnc2Sm8zbmNvQ3ljb0ZiMFhXbnU0ekM2T1FEWURmVWhfUU1BYkh2ekUtejU0RzZFQTMwZ1VDTTJLWHRH?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kWU1oQWRHeU1tVlFFUjlXbWtsMlJhQlN5dzFwc3lfZXJ0c1dEM1JvaUgzS3AteXAybnc2Sm8zbmNvQ3ljb0ZiMFhXbnU0ekM2T1FEWURmVWhfUU1BYkh2ekUtejU0RzZFQTMwZ1VDTTJLWHRH?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T18:43:24+00:00",
-   "vu_le": "2026-09-17T23:03:37.313622+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse DBT - 17/09/2026 20:39:14 - Faites de beaux rêves....lol - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12ZzhJVDRPZFR2N2lBNXBKMmNEUVMyTHE2d1AxcDdSZWs0enE1MzFJUnp3WF9Ic1RYTDFrdXBmU3dXaVY3enNYQUNDZ3dyRWFxSV9sTWJQRTdqb0Uzbno5MkVpTGtyb1JrS21XNGpxSDRMbnEz?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12ZzhJVDRPZFR2N2lBNXBKMmNEUVMyTHE2d1AxcDdSZWs0enE1MzFJUnp3WF9Ic1RYTDFrdXBmU3dXaVY3enNYQUNDZ3dyRWFxSV9sTWJQRTdqb0Uzbno5MkVpTGtyb1JrS21XNGpxSDRMbnEz?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T18:39:14+00:00",
-   "vu_le": "2026-09-17T23:03:37.310924+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Ce sera bien au-dessus de la cible initiale: Bercy estime que le déficit public atteindra 5,4% du PIB en 2026 - BFM",
-   "source": "BFM Business",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOYzF5MWY2STgzb1FuUTVrQlBNVVU2VVlWaEtSek9wTFFXS0VaRTBsUzhmT01MREI2N0EyN2tUQzY1cDlRclZXa1pFV2VNMVE1enEtWWptVnhWY1duZnZBbUdjR1JaVEQ3VzBSU2M5LW9xYm1DcWtjclA0ZFp4NFo1X0t1UWRWMVZ6S2o1aGdaZnFicFNTOW9POVRXb3ZjbTdnbnpqRFdmMk4tN3MweHRWVEJjYkhOeFR4SExoRXFOQUxJMzFTMWdjZHBVLWREWGUxaXJkUmwxSW90V1Y2WDZiWkR2MWRyQ2FRZXNiSTBiRFlxNWM4NmdfYmJUVnExY0VUQVFGOHpDZmw0OXJpRS04VUlQNEZ4dEVQUTJEOWFiMA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOYzF5MWY2STgzb1FuUTVrQlBNVVU2VVlWaEtSek9wTFFXS0VaRTBsUzhmT01MREI2N0EyN2tUQzY1cDlRclZXa1pFV2VNMVE1enEtWWptVnhWY1duZnZBbUdjR1JaVEQ3VzBSU2M5LW9xYm1DcWtjclA0ZFp4NFo1X0t1UWRWMVZ6S2o1aGdaZnFicFNTOW9POVRXb3ZjbTdnbnpqRFdmMk4tN3MweHRWVEJjYkhOeFR4SExoRXFOQUxJMzFTMWdjZHBVLWREWGUxaXJkUmwxSW90V1Y2WDZiWkR2MWRyQ2FRZXNiSTBiRFlxNWM4NmdfYmJUVnExY0VUQVFGOHpDZmw0OXJpRS04VUlQNEZ4dEVQUTJEOWFiMA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T17:42:22+00:00",
-   "vu_le": "2026-09-17T23:03:38.339696+00:00",
-   "resume": ""
-  },
-  {
    "titre": "La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel du point d'indice des fonctionnaires dans le budget 2027, Sophie Binet dénonce un \"scandale\" et appelle à la mobilisation le 29 septembre - BFM",
    "source": "BFM Business",
    "theme": "Bourse / Marchés",
@@ -2080,39 +1992,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOSFdMbTdxbkdXdDZfVzk1SjBqS0d5UW9NdEh6ODMxOE5meElEcE5oVTE1OThLV01oNTlRUVR3RWEyWUpCMjFXVEtjU2U0N0V0TndGTVFIanhHWUxiWkZoQXFWUkpROUZzV25FTEtCaWF2bUpCc0ZtU2VjdU5hM1otWkNVRjJibE5BRlJ0ejBfalhudU9kck90eTdjQkh4eG1BSjM5bkc1bXBHRk5FVGdpZlcxMjVKM1JBdHNMR3M3Y2o0SGIzeEVUcDNYQmZ6NU5VRXREVXdLSklJU3J2UlhzNF9BODdpUmU2NGw3dWZSM3pfVmVQNTV2eU9FUE56d25xcS1GYXU2VVpWYTdmVFdBVDNJeTVsZ2Z4RkktMzlZNTZtanV6eGwwMkx4SE5JVnhJRU42czRxa3kteDRlM1VUUThyWFVzSFFNSm9tZUw5Y0cwR0JiaHIxSzdzMlpDUWpSTkZhZlMtWVpyYzJYZFdYOEZVWlNmRWtDSW9nX21DNHhTcDdZcTRoTnlMbThjOW5SZ3B5a1ZBZlo0Zw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-09-17T17:25:12+00:00",
    "vu_le": "2026-09-18T05:58:37.855531+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Reform UK’s mega-donor backed a friend’s libel claim. Now he controls her home",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/21aa563b-2cd1-4f09-b505-fcf579248fe6?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/21aa563b-2cd1-4f09-b505-fcf579248fe6?syn-25a6b1a6=1",
-   "date_publication": "2026-09-17T17:24:59+00:00",
-   "vu_le": "2026-09-17T23:03:37.683738+00:00",
-   "resume": "Reform UK’s mega-donor backed a friend’s libel claim. Now he controls her home Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial T"
-  },
-  {
-   "titre": "MEDICAL EXERCISE Cours Action MDXR, Cotation Bourse OTCBB - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZkxydGRZSkw4MW51T0doT3VGZ0drWGc0YlNjbUZzd2hib0MxdDFVVWFPS25JTkVpdnFVLVNQOFF1cXk2WVloc29YTXc4SXZ6TFE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZkxydGRZSkw4MW51T0doT3VGZ0drWGc0YlNjbUZzd2hib0MxdDFVVWFPS25JTkVpdnFVLVNQOFF1cXk2WVloc29YTXc4SXZ6TFE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T17:20:45+00:00",
-   "vu_le": "2026-09-17T23:03:37.595332+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "QUICK CUTS V2 Cours Action QCUTS, Cotation Bourse OTCBB - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VMWtTcUt5OFVZNUl6TENMUnJaSFoxY3NoMzFSdkwzYmFJRWNIVUNVMmlIaE10LTlFaEFCUDJUTmU4Y3NSV0R5WWZkUHk3amdUT2g4?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VMWtTcUt5OFVZNUl6TENMUnJaSFoxY3NoMzFSdkwzYmFJRWNIVUNVMmlIaE10LTlFaEFCUDJUTmU4Y3NSV0R5WWZkUHk3amdUT2g4?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T17:13:51+00:00",
-   "vu_le": "2026-09-17T23:03:37.576173+00:00",
    "resume": ""
   },
   {
@@ -2135,17 +2014,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNZ3V6bzhkbkNXQVg3VjNqWjNHbzJyQ3Z1aGdZVEY3QzR4YnFaUnItblk1SUxPWWZQZGRnRGl2RVhtTm15MGhublFURmJBSU5ZNEFjd3Y0MmUtSTlxbGNvRHJka1dHVjBFcVdocmQxVXUxY2s3dDcxLUZqRVJWOGtES2RZdWlKRFctTVFsdWVuX0x6Sm9GcWhnQXJ1Wm5hd3liQWxiMWhIUkphNFJOcWNjYU0xRnQ4alo4a3IyRkxKZmNEX3ZDTVpHMVZfbFZiUzFWVF94ZnR3SWtHYTNNa1JjdDZOeTBKTjE0cThnRFJVNktQVGo1RjNzQ2lERGg2YTJ2ZmZyWkZ5Q0tuOUs0bUtzd295RG5saWFpdXlha0hlVmY0QXZwQ1AxZF9WTkpzWU13Tkpmemx4ejJVOVc0cnBZc0FBVzRvOXAxbndoQ2J4V0ZKUnlUWmxHMVNScXFRRk1XUGc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-09-17T16:44:02+00:00",
    "vu_le": "2026-09-18T20:49:18.104169+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Bolloré : Le dividende exceptionnel n'était pas un cadeau - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3JoOGFIeEdHV1BWV0JsYnhTc1N0ZTRoQVZZWE0za1hfTlY2cjhzRlFPM2Z4SnVGUVBnTGZUeWJUaDlwSXBzbzJiWVVIWmJ3X3J4NWpfeVBIdDNHUjFMWGtJQ01HeVdoaTkwemk1NnNuNkhZbHdQd2U2bEoxeUtnc3hDMGJaa0lvSnZCc3VDZDhVaDlxRnhFZWFHVWtxemJnUDdQVHdIb1N1dDlsVGUtRHAzdmM0a1E?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3JoOGFIeEdHV1BWV0JsYnhTc1N0ZTRoQVZZWE0za1hfTlY2cjhzRlFPM2Z4SnVGUVBnTGZUeWJUaDlwSXBzbzJiWVVIWmJ3X3J4NWpfeVBIdDNHUjFMWGtJQ01HeVdoaTkwemk1NnNuNkhZbHdQd2U2bEoxeUtnc3hDMGJaa0lvSnZCc3VDZDhVaDlxRnhFZWFHVWtxemJnUDdQVHdIb1N1dDlsVGUtRHAzdmM0a1E?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T16:18:45+00:00",
-   "vu_le": "2026-09-17T23:03:38.344911+00:00",
    "resume": ""
   },
   {
@@ -2193,17 +2061,6 @@
    "resume": "Malgré la flambée du pétrole et le tour de vis de la Fed, le CAC 40 remonte vers un seuil technique clé: peut-il aller plus haut encore? Tous les jeudis, le Figaro Patrimoine et Bourse vous propose un regard technique sur le CAC 40: supports, résistances, stratégie et conseils. Passer la publicité L"
   },
   {
-   "titre": "Kevin Warsh marque son territoire et gagne du temps - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEowbnVrMnJvTU9zaFVxWUpWMnlOekpxWnV4cWl5N016Z2Y4Nmc4VFFZcWR6Z2U1c2M3VVk4Q2xSbUFiNkFLUlNDbFcwRDhIYlBzZmUwLTVLcnZMcUtMRnZoTnFrUEpFSFgwb1N0NjZ1ZFJGMXBxcUZRRU9EcEFaSHo2YXRucnp5bExxN2VMNnplcG4wVTl1X3FfM0dNMmUtMzA3MzFsTFRHM2hHV2swc3pR?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEowbnVrMnJvTU9zaFVxWUpWMnlOekpxWnV4cWl5N016Z2Y4Nmc4VFFZcWR6Z2U1c2M3VVk4Q2xSbUFiNkFLUlNDbFcwRDhIYlBzZmUwLTVLcnZMcUtMRnZoTnFrUEpFSFgwb1N0NjZ1ZFJGMXBxcUZRRU9EcEFaSHo2YXRucnp5bExxN2VMNnplcG4wVTl1X3FfM0dNMmUtMzA3MzFsTFRHM2hHV2swc3pR?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-17T05:38:04+00:00",
-   "vu_le": "2026-09-17T23:03:38.342973+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Il est encore temps de s’intéresser aux actions japonaises qui décollent, nos conseils sur Orange, Interparfums et l’IPO de DATE… Consultez La lettre des placements du 16 septembre",
    "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
@@ -2234,6 +2091,17 @@
    "url_propre": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPRDhKOVROVGxPZUI3TV9ZanZydUV5a215OTJtNUlFNHdKNURGV291aDZNM0h5NmZ0X0ZNUl91Y2lrTUJFNjRPUk9hc0draWMzREZpdDhuXzlZWmZZNWVzc1pYNXVkTTlfcl9ISUExMXBpSzQxcHg0aEhkX0Z0aDNUeHhmNFNUMGlxamhRUFlVdW9MSHBGN0ZkRGlGb2huM2NtQ0xVSXFIMDU4VUNOQUVTTWVJYXp5ekdPWGlQaUVBeTBpVzRlZ2xkcUFEdEhwelFUd2E5aGRlcVFJbk1OVDQxVmJoU3pha0Fwc1pOcVdibmVRbVJkVjV2aXpDSElydl9iRnc0cDNVaElrR0tYZGZIelprTnFXSWJHRllGRld0bjBkbGc2TjVGOWJ1MUsyZ1NuVURqX0RNUUs?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-09-16T18:00:01+00:00",
    "vu_le": "2026-09-18T01:15:30.630795+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "\"Une enquête a été ouverte\": des perquisitions ont été menées au siège de la verrerie Duralex, déjà placée en redressement judiciaire - BFM",
+   "source": "BFM Business",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPMURHNk1wQTNmUkpRLUNraExxWnhEUXZoc2tiNlA3bUllc2pmSlpvQzdEaWNCMExUUjBVQlJJSWJNTEdwclFsNUY0QzhodlVabTlaYXJielZ2bUJrVTNabXFKNzZjTW9MTUNMQ3VieFozdndwTVZTc3Bnck5heFZrZUphT3hkSDVyeENIQ2o3MW1GXzFmbjBKT2pWZFF0bTJsLUp0azFTVG5MZDJOVktQYTZ5a1oxLVMxMDVEb19DQWE0RS1HeHhXbzdkbmZuWXpjd091Y2dCdUhKSTBGNUJVajI0cmtTbUZTVXAtc3JGY1lSOG40M0ZTYzI5aXBLcTNTR0h3RDlxVkJWczNPem92V0ppSjBMMDVvVjlFeTJEcjQwZmdPbkFLb3RsMVc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPMURHNk1wQTNmUkpRLUNraExxWnhEUXZoc2tiNlA3bUllc2pmSlpvQzdEaWNCMExUUjBVQlJJSWJNTEdwclFsNUY0QzhodlVabTlaYXJielZ2bUJrVTNabXFKNzZjTW9MTUNMQ3VieFozdndwTVZTc3Bnck5heFZrZUphT3hkSDVyeENIQ2o3MW1GXzFmbjBKT2pWZFF0bTJsLUp0azFTVG5MZDJOVktQYTZ5a1oxLVMxMDVEb19DQWE0RS1HeHhXbzdkbmZuWXpjd091Y2dCdUhKSTBGNUJVajI0cmtTbUZTVXAtc3JGY1lSOG40M0ZTYzI5aXBLcTNTR0h3RDlxVkJWczNPem92V0ppSjBMMDVvVjlFeTJEcjQwZmdPbkFLb3RsMVc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-16T04:16:17+00:00",
+   "vu_le": "2026-09-19T00:44:57.943732+00:00",
    "resume": ""
   },
   {
