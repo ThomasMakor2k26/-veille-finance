@@ -1,8 +1,107 @@
 {
- "genere_le": "2026-09-20T23:37:09.029919+00:00",
+ "genere_le": "2026-09-21T01:39:22.737047+00:00",
  "fenetre_heures": 24,
- "nb_articles": 159,
+ "nb_articles": 165,
  "articles": [
+  {
+   "titre": "Une nouvelle hausse des taux d’ici la fin de l’année et aucune baisse en vue",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/une-nouvelle-hausse-des-taux-dici-la-fin-de-lannee-et-aucune-baisse-en-vue-200457804",
+   "url_propre": "https://fr.investing.com/analysis/une-nouvelle-hausse-des-taux-dici-la-fin-de-lannee-et-aucune-baisse-en-vue-200457804",
+   "date_publication": "",
+   "vu_le": "2026-09-21T01:39:26.221383+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "US and China agree to dialogue on AI ahead of Trump-Xi meeting",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+   "date_publication": "2026-09-21T01:11:44+00:00",
+   "vu_le": "2026-09-21T01:39:27.066089+00:00",
+   "resume": "US and China agree to dialogue on AI ahead of Trump-Xi meeting Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 per mont"
+  },
+  {
+   "titre": "WTS Capital Berhad remplacera son code mnémonique SYSTECH par WTS - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3VYLS1INzcwUmZfR3czSjRhZ0JwMU9yRHlHRGswRXlFbmo5ZGQzbnRSa2Q1QU5HMW5NLVlZWTVWR2loZWJ5bExIQzlLNTV1Z2NYOHFtNi13eTlOdGZCMVVYYktHYWhvSUVJdjJJdU9QeXJwVTFCc2kzSGU5TkRuMmJOVXBqemlEb1JRaWh0M3pfUVZ3ZVJVR2NVbGJSV0YzZEtNX2p0VmJGVEpkWGJITXVidnhzakVYeV80Z3UxU3VMeTg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3VYLS1INzcwUmZfR3czSjRhZ0JwMU9yRHlHRGswRXlFbmo5ZGQzbnRSa2Q1QU5HMW5NLVlZWTVWR2loZWJ5bExIQzlLNTV1Z2NYOHFtNi13eTlOdGZCMVVYYktHYWhvSUVJdjJJdU9QeXJwVTFCc2kzSGU5TkRuMmJOVXBqemlEb1JRaWh0M3pfUVZ3ZVJVR2NVbGJSV0YzZEtNX2p0VmJGVEpkWGJITXVidnhzakVYeV80Z3UxU3VMeTg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-21T00:35:42+00:00",
+   "vu_le": "2026-09-21T01:39:27.999869+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Le pétrole recule, les investisseurs évaluent la reprise des exportations saoudiennes - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzN4WDkzQXZTdUdJRm8yZjRsbmRhVXdCNEVIbFFIbVFJYWpNMmFZQWlwRS02S3R6TUZNTXhDdkIzdWNyNDNGT1BaS0hpQmhKeVNxRnd6ek9RMkZfaVhNYmRMeVNEYzhXeVQxVVFKNU0xSlRoNXFaOG5UQjNzNWxwbVRReFBYeW9kdHRYdm5UZU1RTFhWYkFqbTZ5Wk5vTU1rRmF5ZkR4Q1NvTllZVkpCMUxMRENRUHFSRjhWVlprUWVMNXZNVU50bjZ4SDhNb19YVWxsRlgwZzEzY09t?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzN4WDkzQXZTdUdJRm8yZjRsbmRhVXdCNEVIbFFIbVFJYWpNMmFZQWlwRS02S3R6TUZNTXhDdkIzdWNyNDNGT1BaS0hpQmhKeVNxRnd6ek9RMkZfaVhNYmRMeVNEYzhXeVQxVVFKNU0xSlRoNXFaOG5UQjNzNWxwbVRReFBYeW9kdHRYdm5UZU1RTFhWYkFqbTZ5Wk5vTU1rRmF5ZkR4Q1NvTllZVkpCMUxMRENRUHFSRjhWVlprUWVMNXZNVU50bjZ4SDhNb19YVWxsRlgwZzEzY09t?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-21T00:35:18+00:00",
+   "vu_le": "2026-09-21T01:39:28.174369+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Waypoint REIT augmente son dividende trimestriel - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1U0WnlaYldPVTEyV09NWVZOTl9UMkE5c014TTJaQk0zS2dVLW40cGJtRjR2ejhTTGZhQk5DODFtZ3lNSEpGS1ZBTXl3aDBUS1lOclhwMXVORkNLYUpicnZPZ1YwOHZJYk1HQTlkMlpBSzF1QlZUV3JQaXUyeWpYOXllNVF4WUNvTDgwWmlhZjV4azlsX0NHeHBWc0MxRGJEVFN0dHczTFpUNHBn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1U0WnlaYldPVTEyV09NWVZOTl9UMkE5c014TTJaQk0zS2dVLW40cGJtRjR2ejhTTGZhQk5DODFtZ3lNSEpGS1ZBTXl3aDBUS1lOclhwMXVORkNLYUpicnZPZ1YwOHZJYk1HQTlkMlpBSzF1QlZUV3JQaXUyeWpYOXllNVF4WUNvTDgwWmlhZjV4azlsX0NHeHBWc0MxRGJEVFN0dHczTFpUNHBn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-21T00:33:11+00:00",
+   "vu_le": "2026-09-21T01:39:28.118669+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Le Vietnam intègre l'indice des marchés émergents de FTSE Russell - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGRYaV9XenZocGw5VTUzVVVxcHkyeGtxMXExN1pzTEpGeE1GM05ZME1yWF9jalZUbVhOQkNBWlc4d0hucFpMWTZERnlkcFgtaG1NOGhidTd5eEg3MHRiUl9oWVlmMEh3OWVYLWJtZ1JqR25IM2RHcGNrejV4Zm9OR3c3NTE1VUdHeGlseEdhVXI5WjJpTGdvdU13RmFRZGkxQVpKYVc5djBZblE0WERYNmJiNjJSLTNGVFZIR29QZ1Z0d3M?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGRYaV9XenZocGw5VTUzVVVxcHkyeGtxMXExN1pzTEpGeE1GM05ZME1yWF9jalZUbVhOQkNBWlc4d0hucFpMWTZERnlkcFgtaG1NOGhidTd5eEg3MHRiUl9oWVlmMEh3OWVYLWJtZ1JqR25IM2RHcGNrejV4Zm9OR3c3NTE1VUdHeGlseEdhVXI5WjJpTGdvdU13RmFRZGkxQVpKYVc5djBZblE0WERYNmJiNjJSLTNGVFZIR29QZ1Z0d3M?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-21T00:31:18+00:00",
+   "vu_le": "2026-09-21T01:39:28.214226+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "REVUE DE PRESSE - Financial Times - 21 septembre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzZpaDMwa0VscjBESURsdFVVQ09ZNWpBRTdiX2JHTTFWZVpWUUVDRS1wR0JzbjBEcVZYSHNRUVJSc3RieVA3UVIwU0JKMlQycUJxa0VvdFRCMVFsNVNKYmJWYk1qc0U3cmt0NUx0NkZScUJnZVppQWk0Z1JfSU02UDlyRzFBT1IyTjJzV180TU0wZk1RUElHVkxxN0RxdEFpeDV0UjZrVQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzZpaDMwa0VscjBESURsdFVVQ09ZNWpBRTdiX2JHTTFWZVpWUUVDRS1wR0JzbjBEcVZYSHNRUVJSc3RieVA3UVIwU0JKMlQycUJxa0VvdFRCMVFsNVNKYmJWYk1qc0U3cmt0NUx0NkZScUJnZVppQWk0Z1JfSU02UDlyRzFBT1IyTjJzV180TU0wZk1RUElHVkxxN0RxdEFpeDV0UjZrVQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-21T00:06:19+00:00",
+   "vu_le": "2026-09-21T01:39:28.245008+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Dexus annonce le départ de sa directrice financière - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWFIZ1k5N2h0U2pLR2FtUGViVzdQRmxSam8tdU1wcE16S3dYQ1Q4RWxwTjF2R21VaF9EYzVfM1pwVFdmaVY0RzBfbG42ZTItRGVOZEhkZXpwQ083OFNMeUdwdklfMzFzM2xnY0ZSVTVEWXZhNHhQekxXb2NnT3dMblF1eTU5bEpwT2JEZ1JMTkNxQVdUeTR6a0NZSG5DcWprVVdWblNCNTJiY1JUT0duLQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWFIZ1k5N2h0U2pLR2FtUGViVzdQRmxSam8tdU1wcE16S3dYQ1Q4RWxwTjF2R21VaF9EYzVfM1pwVFdmaVY0RzBfbG42ZTItRGVOZEhkZXpwQ083OFNMeUdwdklfMzFzM2xnY0ZSVTVEWXZhNHhQekxXb2NnT3dMblF1eTU5bEpwT2JEZ1JMTkNxQVdUeTR6a0NZSG5DcWprVVdWblNCNTJiY1JUT0duLQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-21T00:06:15+00:00",
+   "vu_le": "2026-09-21T01:39:28.152327+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Actualités du 20 septembre 2026 - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83RVNwRnFIOW04Q1ZCQ2NUd2wwTkZkbVZCakFnMkFBWVFCV1JYWHBNWG1CaWctVDZpVjdRbTJXSVVVWXdMckY1SG9Ba3FxNlptR0pvNnZCaFpjOHJ5VGVsMlJaTno0R2VxOVE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83RVNwRnFIOW04Q1ZCQ2NUd2wwTkZkbVZCakFnMkFBWVFCV1JYWHBNWG1CaWctVDZpVjdRbTJXSVVVWXdMckY1SG9Ba3FxNlptR0pvNnZCaFpjOHJ5VGVsMlJaTno0R2VxOVE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-20T23:16:51+00:00",
+   "vu_le": "2026-09-21T01:39:26.824277+00:00",
+   "resume": ""
+  },
   {
    "titre": "Ingérences, budget, carburant : l'opération déminage d'Emmanuel Macron - Boursorama",
    "source": "Boursorama",
@@ -1390,28 +1489,6 @@
    "resume": ""
   },
   {
-   "titre": "Les signaux d’inflation s’affrontent à l’approche d’une décision cruciale de la Fed",
-   "source": "Investing.com",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://fr.investing.com/analysis/les-signaux-dinflation-saffrontent-a-lapproche-dune-decision-cruciale-de-la-fed-200457779",
-   "url_propre": "https://fr.investing.com/analysis/les-signaux-dinflation-saffrontent-a-lapproche-dune-decision-cruciale-de-la-fed-200457779",
-   "date_publication": "",
-   "vu_le": "2026-09-20T00:58:03.555985+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Amodei prône le ralentissement : Trump et la Chine s’y opposent",
-   "source": "Investing.com",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://fr.investing.com/analysis/amodei-prone-le-ralentissement--trump-et-la-chine-sy-opposent-200457777",
-   "url_propre": "https://fr.investing.com/analysis/amodei-prone-le-ralentissement--trump-et-la-chine-sy-opposent-200457777",
-   "date_publication": "",
-   "vu_le": "2026-09-20T00:58:03.525338+00:00",
-   "resume": ""
-  },
-  {
    "titre": "«Nous ne freinerons pas sa croissance» : Donald Trump balaie les critiques contre l’IA et annonce la nomination prochaine d’un «tsar» dédié",
    "source": "Le Figaro Economie",
    "theme": "International",
@@ -1729,17 +1806,6 @@
    "date_publication": "2026-09-16T04:16:17+00:00",
    "vu_le": "2026-09-20T05:50:02.481407+00:00",
    "resume": ""
-  },
-  {
-   "titre": "J’ai dans mon portefeuille des actions Exail Technologies. Dois-je vendre maintenant ou attendre l’OPA de Thales à 134€ ?",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/j-ai-dans-mon-portefeuille-des-actions-exail-technologies-dois-je-vendre-maintenant-ou-attendre-l-opa-de-thales-a-134-20260915",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/j-ai-dans-mon-portefeuille-des-actions-exail-technologies-dois-je-vendre-maintenant-ou-attendre-l-opa-de-thales-a-134-20260915",
-   "date_publication": "2026-09-15T05:03:00+00:00",
-   "vu_le": "2026-09-20T00:58:05.169472+00:00",
-   "resume": "Thales, grand nom français de la défense, va lancer une OPA sur Exail Technologies, le spécialiste de la robotique navale. Mais elle va prendre du temps ! Exail Technologies - Le Figaro Vie des entreprises, fonctionnement du marché, droit boursier, ... La rédaction du Figaro Patrimoine et Bourse se "
   },
   {
    "titre": "«Aucun signe de ralentissement lié au conflit au Moyen-Orient» : les confidences optimistes de Jefferies sur GTT, le roi des réservoirs de méthaniers",
