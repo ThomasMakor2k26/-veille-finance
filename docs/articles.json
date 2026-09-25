@@ -1,8 +1,173 @@
 {
- "genere_le": "2026-09-25T18:57:38.128052+00:00",
+ "genere_le": "2026-09-25T22:05:51.851134+00:00",
  "fenetre_heures": 24,
- "nb_articles": 209,
+ "nb_articles": 201,
  "articles": [
+  {
+   "titre": "La Fed relève ses taux : 7 questions clés sur les taux d’intérêt et les perspectives",
+   "source": "Investing.com",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://fr.investing.com/analysis/la-fed-releve-ses-taux--7-questions-cles-sur-les-taux-dinteret-et-les-perspectives-200457816",
+   "url_propre": "https://fr.investing.com/analysis/la-fed-releve-ses-taux--7-questions-cles-sur-les-taux-dinteret-et-les-perspectives-200457816",
+   "date_publication": "",
+   "vu_le": "2026-09-25T22:05:57.862123+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Vie dure mais grands espoirs dans le berceau de l'exploitation pétrolière du Venezuela - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNURsU095R0I5OE45Y3FfX0NxMzdtdkJid0t1OU9aN1c2OVRmMVQ2dzhlSFFvOWlWeGhZaHU4ckVDTkFILU9YU2tNLVBqdjRfeUF6NHdwc1dDWC1uR3FSS0Z4Z09Dc1RpQUZFZE1WY3JOYkJ0XzFKZjlqWTVYV1VvTVdfTkFJdEFpbWZxVDBVYXFNQmJPRTlzZkRZajBzRVNhcWU3OURfQ2VqSFVPamFvZzUyZjF3bHlrLVZfakxMU01IZjJNS3NoUzR5VzJfUVA1UnJaZDhIeEdvRVFaSVRla3B3MnZ5Z0UxQzdrSTBnaU5MV1VaX3Rj0gH8AUFVX3lxTE9oOU4xN2x1aHUwWk5uakdrTHRrR2htOWk2RXR0NERxZEd0VllTRmRZZG4yck45ejA2OHdjSE9CRUdKaHZKbkctNVZDUzdCemFlOTJlYTNKRVlya0lMS1JqZnJHYjF0R1NCWjlyV2NteG1QRkFnaUhTWWtrMmpXWnRiZUl1U2o1bjktdy1wTHhtWXo1YlhkRmZkNi1kWlRHeE85UnlGODl5Y0V0Nlp1bnk1LTUydEI5dENqZ3Y0NTFkeGtocDl4azV5dTlhX3dWcEpPOVR1VmNvZ2NJRnFCc0MtZHJlVnhrdzU3NHpQUDVxcW4wS0U5dmdmNGY0RA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNURsU095R0I5OE45Y3FfX0NxMzdtdkJid0t1OU9aN1c2OVRmMVQ2dzhlSFFvOWlWeGhZaHU4ckVDTkFILU9YU2tNLVBqdjRfeUF6NHdwc1dDWC1uR3FSS0Z4Z09Dc1RpQUZFZE1WY3JOYkJ0XzFKZjlqWTVYV1VvTVdfTkFJdEFpbWZxVDBVYXFNQmJPRTlzZkRZajBzRVNhcWU3OURfQ2VqSFVPamFvZzUyZjF3bHlrLVZfakxMU01IZjJNS3NoUzR5VzJfUVA1UnJaZDhIeEdvRVFaSVRla3B3MnZ5Z0UxQzdrSTBnaU5MV1VaX3Rj0gH8AUFVX3lxTE9oOU4xN2x1aHUwWk5uakdrTHRrR2htOWk2RXR0NERxZEd0VllTRmRZZG4yck45ejA2OHdjSE9CRUdKaHZKbkctNVZDUzdCemFlOTJlYTNKRVlya0lMS1JqZnJHYjF0R1NCWjlyV2NteG1QRkFnaUhTWWtrMmpXWnRiZUl1U2o1bjktdy1wTHhtWXo1YlhkRmZkNi1kWlRHeE85UnlGODl5Y0V0Nlp1bnk1LTUydEI5dENqZ3Y0NTFkeGtocDl4azV5dTlhX3dWcEpPOVR1VmNvZ2NJRnFCc0MtZHJlVnhrdzU3NHpQUDVxcW4wS0U5dmdmNGY0RA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:51:28+00:00",
+   "vu_le": "2026-09-25T22:05:58.860649+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Microsoft progresse en unifiant l’IA Copilot | Clôture des marchés - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXpVREMzWlNERUJTSkNtM0VUdS1zWnNJdHpoazJGMnBFSERRYXNsNl92aHdPaWVMODBMeWdiQ2xRdDRDSnlNek5hUWFDVFVUbWFBWDNRMHQ0OTVEbHdUMzFKQTJZWHUzUWN6WmhRRDB0clpHclBNME44TEI1TUJSQy1IUlNMZVZtcWlMdmVqUW5aMGZMMnA4NWRRNjhldWpUN2NzZkdyRDJuYzc3Yi1IR21pZnhuNFd1WS1relR6dTY5Nkk?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXpVREMzWlNERUJTSkNtM0VUdS1zWnNJdHpoazJGMnBFSERRYXNsNl92aHdPaWVMODBMeWdiQ2xRdDRDSnlNek5hUWFDVFVUbWFBWDNRMHQ0OTVEbHdUMzFKQTJZWHUzUWN6WmhRRDB0clpHclBNME44TEI1TUJSQy1IUlNMZVZtcWlMdmVqUW5aMGZMMnA4NWRRNjhldWpUN2NzZkdyRDJuYzc3Yi1IR21pZnhuNFd1WS1relR6dTY5Nkk?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:31:14+00:00",
+   "vu_le": "2026-09-25T22:05:59.930472+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Walmart chief rules out personalised pricing as AI transforms retail",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1",
+   "date_publication": "2026-09-25T21:16:49+00:00",
+   "vu_le": "2026-09-25T22:05:58.998722+00:00",
+   "resume": "Walmart chief rules out personalised pricing as AI transforms retail Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 pe"
+  },
+  {
+   "titre": "Football-Les Bleus s'imposent en Turquie pour la première de Zidane sur le banc - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPR01ldDdlc2hvMmRWS1k5VzBPSl9kSDJEdnV5QWV5NEdaRkFSbTBOeFVtckZvb0xURTVkSXlOem8zRzVjUWtsYXNPTm53Q3NGNVB5RFFJSTh3VTNQUnBnbDJhTFNkbURtckVjWmdSRHZ4OEp2czNkcjdjVktCVlUyZnU1WWxENkt4TzNyXzFhUGs5Ym9DQ2Mtck9mVmxHWjk1Y2I3RlVqTUkxVTFNTUxuNlpfSDdMV3lQM1VoVV9Sd0RvZ242UG1ReUgwbXhUbzNKTFoyY2ZZYnhmazc2QzFRZEFndkVzM2I2YmJhUzBmcDVrV1A4dDJKS0Qxa29KNjh60gGGAkFVX3lxTE5JblAzaVdKRGNVODJzMlJuLVlQQlpzdXVNNklISTRNTjlIel85bTBsTlJ0Sm1ZTWZpbDhBS2JTblhITHBFQlBlbDRBUS1sYTZQaTRqb2xCblVUU1M2aEdpaUVCT0c3SFJTdTVCeFpNeTJlUmtrczdsWldGYWFhN3hrYnJ2VHpnVWNvTnlTZVZ4VWdsTXJraWd1U3JPVk03WE1lWURsRzFqX2RDaEp5TWZ4SGUxUElMekNwWW5rc0hXRUxCeGg4cC15WV9yamhCSHNSbXFVS3c2c1JJNHpjekxVSE9LN0dTTXdac2pNOE5oQU5pZ0JwaFBwNkMydzZ5ZVRiQk9GRVE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPR01ldDdlc2hvMmRWS1k5VzBPSl9kSDJEdnV5QWV5NEdaRkFSbTBOeFVtckZvb0xURTVkSXlOem8zRzVjUWtsYXNPTm53Q3NGNVB5RFFJSTh3VTNQUnBnbDJhTFNkbURtckVjWmdSRHZ4OEp2czNkcjdjVktCVlUyZnU1WWxENkt4TzNyXzFhUGs5Ym9DQ2Mtck9mVmxHWjk1Y2I3RlVqTUkxVTFNTUxuNlpfSDdMV3lQM1VoVV9Sd0RvZ242UG1ReUgwbXhUbzNKTFoyY2ZZYnhmazc2QzFRZEFndkVzM2I2YmJhUzBmcDVrV1A4dDJKS0Qxa29KNjh60gGGAkFVX3lxTE5JblAzaVdKRGNVODJzMlJuLVlQQlpzdXVNNklISTRNTjlIel85bTBsTlJ0Sm1ZTWZpbDhBS2JTblhITHBFQlBlbDRBUS1sYTZQaTRqb2xCblVUU1M2aEdpaUVCT0c3SFJTdTVCeFpNeTJlUmtrczdsWldGYWFhN3hrYnJ2VHpnVWNvTnlTZVZ4VWdsTXJraWd1U3JPVk03WE1lWURsRzFqX2RDaEp5TWZ4SGUxUElMekNwWW5rc0hXRUxCeGg4cC15WV9yamhCSHNSbXFVS3c2c1JJNHpjekxVSE9LN0dTTXdac2pNOE5oQU5pZ0JwaFBwNkMydzZ5ZVRiQk9GRVE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:15:46+00:00",
+   "vu_le": "2026-09-25T22:05:58.616614+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Ukraine-Les frappes russes font au moins 7 morts à Kyiv, ArcelorMittal ferme une usine - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaUR0UlJRLTdVQjZIaWxKN0FUVkVWMWVYOTRzQ21sVmVBNWlyeGl4bHBBUFhQcFRxbDh2WW55VnFmUzI3UkV0NGxJV1dGaExNOWM5cVA5ZDMzTk1hNVlDek15YzhCNnFVcTJPcXA3Qkl6WXNSX0lKaVh1bFFjTDNRSWhQUDRoY1pJeTA4YnpCd044blBDWEhfUGZ5czRXV0NSLThIMTFnMjlYUzJ2d0ZYNmZyVkRzZUZjTTFwNWNNdFJxZjVfYkdNRU5EVFZrUGdPYVJxaEI2UHRBOHQwbUZ0LTV5N1pMcm41SjNRb3ljWThWX1hIUjZQZFJkQnlpenJyZ3VPUy1pV23SAY4CQVVfeXFMUFpNcml0N3lObW1fNHh4NDlrQmJZUjJkU0tPRHZlOWowOHlnd2tma0wzU2lzUEp6dWdwRFFSR0F5M0FtdXBzQWdfOEZQeE5XMms2WFNqQ1VzQzVQQ3N4Skw5N04yTnE3WVo0eDFtSTYtOFFfLWtSVVh6VUtXZi1UNjQ4R1hYb240WXdYbFN6aFpRWkZQaWtyT0pXTHlLcGFPM1hOYm5WZUhnNjJpZW5TalhWMmxCblk3LTRJZWR5ZjlqV1FmV1dBOEtIdmxWOHpCOHp1UWFzQkp6OWRvN1d3V21vUHdzZ1JxRDl2bm8yUVhSQm92VTBTNUIxZlk0OXUwYVhjMkxzMEZwcWE1a3hB?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaUR0UlJRLTdVQjZIaWxKN0FUVkVWMWVYOTRzQ21sVmVBNWlyeGl4bHBBUFhQcFRxbDh2WW55VnFmUzI3UkV0NGxJV1dGaExNOWM5cVA5ZDMzTk1hNVlDek15YzhCNnFVcTJPcXA3Qkl6WXNSX0lKaVh1bFFjTDNRSWhQUDRoY1pJeTA4YnpCd044blBDWEhfUGZ5czRXV0NSLThIMTFnMjlYUzJ2d0ZYNmZyVkRzZUZjTTFwNWNNdFJxZjVfYkdNRU5EVFZrUGdPYVJxaEI2UHRBOHQwbUZ0LTV5N1pMcm41SjNRb3ljWThWX1hIUjZQZFJkQnlpenJyZ3VPUy1pV23SAY4CQVVfeXFMUFpNcml0N3lObW1fNHh4NDlrQmJZUjJkU0tPRHZlOWowOHlnd2tma0wzU2lzUEp6dWdwRFFSR0F5M0FtdXBzQWdfOEZQeE5XMms2WFNqQ1VzQzVQQ3N4Skw5N04yTnE3WVo0eDFtSTYtOFFfLWtSVVh6VUtXZi1UNjQ4R1hYb240WXdYbFN6aFpRWkZQaWtyT0pXTHlLcGFPM1hOYm5WZUhnNjJpZW5TalhWMmxCblk3LTRJZWR5ZjlqV1FmV1dBOEtIdmxWOHpCOHp1UWFzQkp6OWRvN1d3V21vUHdzZ1JxRDl2bm8yUVhSQm92VTBTNUIxZlk0OXUwYVhjMkxzMEZwcWE1a3hB?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:14:00+00:00",
+   "vu_le": "2026-09-25T22:05:58.682190+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Maroc: les alliances prennent forme en attente du chef du gouvernement - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOWZFcGd2N25jempVMUQ2d1k4SWNpOEtIckl6dXZMcnZCcnpEdzcyTW1YeGNrUS1tZFRXbzJLamxVSk1mQlNUeU04MUx0LXJzOFY0ZDg2b3pGcDBnLThUeDBiejlJVzIyZHJ4c295ejc2RWZpZ1JrZkJ3a2thN1l1dkhpRWFWZGNYZHBUM1drdXhyclkyUmtMcUJyS00ydEJmT2ZBX0Q5NFlSeEllWXFzRFZBZzJVR3ViSUxOS1RfWDhNV2lnWVJhM0VRQ0xiVXFneUlLSk5adjR6SjRJZ1pzZ9IB5gFBVV95cUxNQV9CZFY3WW9UVTNiRkFKdTNIeUl2N1VZRy1PbW5mM2Z6MlVmNkpWWEZvTmZTT2tDNXRRYlpPZk52MVNqNmVuRDNEdl9ZZTk3US1tZ1ZaMkJfeEtOaGo2MGFya0RkT2MwWUN2cWlRRldHcTlROXF0WVE1Q1JvZThDYm1aLWxYSmFIQlJLZXVycjBGM1pBbkFGbHNXdmpJMGUxdGZyQ25lSjhLcW1ucGZpQ0JKQ3hEcnVqdHowT3d5UjRoX0RHQi05VTFWcjRFWVRRVkZGUzNyM3RfZHRjanlTQ3laR1JNQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOWZFcGd2N25jempVMUQ2d1k4SWNpOEtIckl6dXZMcnZCcnpEdzcyTW1YeGNrUS1tZFRXbzJLamxVSk1mQlNUeU04MUx0LXJzOFY0ZDg2b3pGcDBnLThUeDBiejlJVzIyZHJ4c295ejc2RWZpZ1JrZkJ3a2thN1l1dkhpRWFWZGNYZHBUM1drdXhyclkyUmtMcUJyS00ydEJmT2ZBX0Q5NFlSeEllWXFzRFZBZzJVR3ViSUxOS1RfWDhNV2lnWVJhM0VRQ0xiVXFneUlLSk5adjR6SjRJZ1pzZ9IB5gFBVV95cUxNQV9CZFY3WW9UVTNiRkFKdTNIeUl2N1VZRy1PbW5mM2Z6MlVmNkpWWEZvTmZTT2tDNXRRYlpPZk52MVNqNmVuRDNEdl9ZZTk3US1tZ1ZaMkJfeEtOaGo2MGFya0RkT2MwWUN2cWlRRldHcTlROXF0WVE1Q1JvZThDYm1aLWxYSmFIQlJLZXVycjBGM1pBbkFGbHNXdmpJMGUxdGZyQ25lSjhLcW1ucGZpQ0JKQ3hEcnVqdHowT3d5UjRoX0RHQi05VTFWcjRFWVRRVkZGUzNyM3RfZHRjanlTQ3laR1JNQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:13:02+00:00",
+   "vu_le": "2026-09-25T22:05:58.253310+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Le groupe U2 donne des concerts surprise à Dublin pour ses 50 ans - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNEM5T0lFSjd5UnVxWWlfVEZ4QWZkekdDUGlIQmFGRU15cU8xdU14LWpCUzBJbUdHb2tNN0RIOVlER3hNeUFvZUdnYkNtQzBIb2g0emZkb2JjRVp4QXdoVEs3NnN4aVBfMEpiYjllN3Bwa3hLZnFBaVdjNjdXQmx4bFIzbEVmNWdLb0JBdDBuN0VDQ211a1c0R3loOGlsRk1DRHc1M2VKalpZY3NuajRpcDNnQkJUc0dwNUdCRFE2cHhoa05LckhVODRWZmZEN2E3R1JxS0tUTWxqNW0wMGlOMUw0ZzJqS19qYmJvUWxn0gHzAUFVX3lxTE1JR252WjNTdDZmRmx0VUJCOTdVNDRXaktXdlF0bEpqOXJNelJCQVhPbEtDSnBXZFU0bWh0ZV9NNU1jS190dEJaX3hDTnVSWWE1YUJOWTN1STZsZ250dGJ3SUl4Q202RDk0dmI3UE1oaDVYRFdzS2x1dUsyNUJtLWJoQXFZQTNrS0RtUlA3eVlXY1hOZUdhcV9nSzJGVkJCZkVzeHhIa1BTOFFORmxxeFhrajM0R0RSazlpMmN6N0JIclhJUDNYYkk3d0tiaWtxTTNxcTdvWkY4QzVYNFJHdTkxeS10RkdGbmhhc2Ztc2NpelJWSQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNEM5T0lFSjd5UnVxWWlfVEZ4QWZkekdDUGlIQmFGRU15cU8xdU14LWpCUzBJbUdHb2tNN0RIOVlER3hNeUFvZUdnYkNtQzBIb2g0emZkb2JjRVp4QXdoVEs3NnN4aVBfMEpiYjllN3Bwa3hLZnFBaVdjNjdXQmx4bFIzbEVmNWdLb0JBdDBuN0VDQ211a1c0R3loOGlsRk1DRHc1M2VKalpZY3NuajRpcDNnQkJUc0dwNUdCRFE2cHhoa05LckhVODRWZmZEN2E3R1JxS0tUTWxqNW0wMGlOMUw0ZzJqS19qYmJvUWxn0gHzAUFVX3lxTE1JR252WjNTdDZmRmx0VUJCOTdVNDRXaktXdlF0bEpqOXJNelJCQVhPbEtDSnBXZFU0bWh0ZV9NNU1jS190dEJaX3hDTnVSWWE1YUJOWTN1STZsZ250dGJ3SUl4Q202RDk0dmI3UE1oaDVYRFdzS2x1dUsyNUJtLWJoQXFZQTNrS0RtUlA3eVlXY1hOZUdhcV9nSzJGVkJCZkVzeHhIa1BTOFFORmxxeFhrajM0R0RSazlpMmN6N0JIclhJUDNYYkk3d0tiaWtxTTNxcTdvWkY4QzVYNFJHdTkxeS10RkdGbmhhc2Ztc2NpelJWSQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:10:34+00:00",
+   "vu_le": "2026-09-25T22:05:58.783772+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Foot: Zidane réussit sa première à la tête des Bleus - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1dNbEpVaUdoQUxTTXNCenBEcEtfSmtwMmJkYWoxZE83QlozS1czdkxkNWljS25IUDh6MEh1UVZtenFHX3pVbjBSdE14T1YzMVhfcVBfNFlZRGZXci01U2xZd05JWmhmY3huOGFIYnhTdWxwY3h1UU8zQ3N5Q00yQmFuM21kQ1ZtZFRSX3V0VEY2WWxjTzlKS2UxX25FcnJXeHduc204REhNNjlsaG1XYjNLVmlGNDZ6Vkl3alN0ZUlYM1JyVThiMW5BWncyUUE1aEp0R3psNm9VaVXSAeABQVVfeXFMT2JWUXpjeS1DSEVCMnRhYk9xcjdwWUdULUlBSE1FcVhWMW9tT3huMWdDSXJFRWdQZFdRMGNWVzNVYzlSZWFvMHVuSFFKWmRZajNLUUk3S3dwUm50MzRKRHlUcXFrVmtrTzg2T3o0UVNFNmtyS0tpS0RudmF5YTdyVmVtejA0cHkyX2dFOG9vT3U1VUVJSnh5Xy1VRlVQbE9oWWdpcVgtMmV1TThjOGRwZEpsVWZwWnRCS3VRU3A0RHJUR0JlNk5XZ3BPUWhpQ3JUdDZjR1hrZkxGUlB3WVNMWW4?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1dNbEpVaUdoQUxTTXNCenBEcEtfSmtwMmJkYWoxZE83QlozS1czdkxkNWljS25IUDh6MEh1UVZtenFHX3pVbjBSdE14T1YzMVhfcVBfNFlZRGZXci01U2xZd05JWmhmY3huOGFIYnhTdWxwY3h1UU8zQ3N5Q00yQmFuM21kQ1ZtZFRSX3V0VEY2WWxjTzlKS2UxX25FcnJXeHduc204REhNNjlsaG1XYjNLVmlGNDZ6Vkl3alN0ZUlYM1JyVThiMW5BWncyUUE1aEp0R3psNm9VaVXSAeABQVVfeXFMT2JWUXpjeS1DSEVCMnRhYk9xcjdwWUdULUlBSE1FcVhWMW9tT3huMWdDSXJFRWdQZFdRMGNWVzNVYzlSZWFvMHVuSFFKWmRZajNLUUk3S3dwUm50MzRKRHlUcXFrVmtrTzg2T3o0UVNFNmtyS0tpS0RudmF5YTdyVmVtejA0cHkyX2dFOG9vT3U1VUVJSnh5Xy1VRlVQbE9oWWdpcVgtMmV1TThjOGRwZEpsVWZwWnRCS3VRU3A0RHJUR0JlNk5XZ3BPUWhpQ3JUdDZjR1hrZkxGUlB3WVNMWW4?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T21:07:37+00:00",
+   "vu_le": "2026-09-25T22:05:58.873001+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Des «agents rebelles» rôdent-ils sur Internet ? Les révélations explosives d’un laboratoire sur des attaques d’IA jusqu’ici inédites",
+   "source": "Le Figaro Economie",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/des-agents-rebelles-rodent-ils-encore-sur-internet-les-revelations-explosives-d-un-laboratoire-sur-des-attaques-d-ia-jusqu-ici-inedites-20260925",
+   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/des-agents-rebelles-rodent-ils-encore-sur-internet-les-revelations-explosives-d-un-laboratoire-sur-des-attaques-d-ia-jusqu-ici-inedites-20260925",
+   "date_publication": "2026-09-25T20:43:46+00:00",
+   "vu_le": "2026-09-25T22:05:56.814943+00:00",
+   "resume": "Deux des attaques seraient liées à des IA appartenant à OpenAI. JOEL SAGET / AFP DÉCRYPTAGE - Un laboratoire de recherches situé à San Francisco vient de révéler, dans la foulée d’une cyberattaque visant le gouvernement australien, une vague d’actions nuisibles menées par des essaims d’agents liés à"
+  },
+  {
+   "titre": "Trump a bien montré à Xi le chantier de la future salle de bal de la Maison Blanche - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdXpvZzFWaHBTbHZJS0U3MDRBcFVzQkJ5VVZuM3FzWXExaHl3ZkpEcVJ3djJOTVR2WUJweEd5eXVpOXZPUGZ6b1lxNzZBUFl0OUpENjBsSjRGYnMwaU5qZmluS0tMd3pMcTZQak05SVI1YjhfamFZSjJLek5LTnRvOGNlRDJZRWpWY3BvMUpWazctek05UjZVdnV1MGVzY0ItaUcwODRHOUZyUjU0R3VVb3hyLTBMaFp1SXNxQXhJWUJXdUZMZXo5YVFHeU45eTJ2OFdvTEFfSGxxOVVlc0VRd1lxelFQc0RrdVBMQ1NndUNrSHFxckJOSg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdXpvZzFWaHBTbHZJS0U3MDRBcFVzQkJ5VVZuM3FzWXExaHl3ZkpEcVJ3djJOTVR2WUJweEd5eXVpOXZPUGZ6b1lxNzZBUFl0OUpENjBsSjRGYnMwaU5qZmluS0tMd3pMcTZQak05SVI1YjhfamFZSjJLek5LTnRvOGNlRDJZRWpWY3BvMUpWazctek05UjZVdnV1MGVzY0ItaUcwODRHOUZyUjU0R3VVb3hyLTBMaFp1SXNxQXhJWUJXdUZMZXo5YVFHeU45eTJ2OFdvTEFfSGxxOVVlc0VRd1lxelFQc0RrdVBMQ1NndUNrSHFxckJOSg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T20:42:30+00:00",
+   "vu_le": "2026-09-25T22:05:58.346564+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Blackstone’s top private equity executive prepares exit for possible public service move",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/c1ab1254-bf38-43ca-aa22-02a09d6e2b73?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/c1ab1254-bf38-43ca-aa22-02a09d6e2b73?syn-25a6b1a6=1",
+   "date_publication": "2026-09-25T20:10:36+00:00",
+   "vu_le": "2026-09-25T22:05:58.295717+00:00",
+   "resume": "Blackstone’s top private equity executive prepares exit for possible public service move Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offer"
+  },
+  {
+   "titre": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
+   "date_publication": "2026-09-25T20:00:09+00:00",
+   "vu_le": "2026-09-25T22:05:58.014775+00:00",
+   "resume": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Tria"
+  },
+  {
+   "titre": "Forum Bourse SOITEC - 25/09/2026 21:51:41 - SOITEC - Il faut toujours se concentrer sur une croquette Et laisser courir - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JNS1La3pkZXdyal9oRWxNZzlGYzBqcm10ZmI2cjdNYU9FaTJ2a2JhMzNrN3dIUDFWaVpRbzhKNld2RlQ2S05IMFpLN1NvR05MRWcxNk9JcFJJZnpKRllWMVhWMmJZOV9kam9rdEtpdGpXZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JNS1La3pkZXdyal9oRWxNZzlGYzBqcm10ZmI2cjdNYU9FaTJ2a2JhMzNrN3dIUDFWaVpRbzhKNld2RlQ2S05IMFpLN1NvR05MRWcxNk9JcFJJZnpKRllWMVhWMmJZOV9kam9rdEtpdGpXZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T19:51:41+00:00",
+   "vu_le": "2026-09-25T22:05:58.341411+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Face à la dégradation de la situation budgétaire, le gouverneur de la Banque de France appelle à «avoir un budget»",
+   "source": "Le Figaro Economie",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://www.lefigaro.fr/conjoncture/face-a-la-degradation-de-la-situation-budgetaire-le-gouverneur-de-la-banque-de-france-appelle-a-avoir-un-budget-20260925",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/face-a-la-degradation-de-la-situation-budgetaire-le-gouverneur-de-la-banque-de-france-appelle-a-avoir-un-budget-20260925",
+   "date_publication": "2026-09-25T19:11:06+00:00",
+   "vu_le": "2026-09-25T22:05:56.849506+00:00",
+   "resume": "Le gouverneur de la Banque de France Emmanuel Moulin Sarah Meyssonnier / REUTERS Interviewé sur Public Sénat, Emmanuel Moulin a dressé le constat d’une économie française en perte de vitesse mais a observé qu’il n’y a pas de récession, la Banque de France tablant sur une croissance de 0,4% cette ann"
+  },
   {
    "titre": "Nouveau dérapage pour la mise en service du métro du Grand Paris Express",
    "source": "Le Monde Economie",
@@ -26,6 +191,17 @@
    "resume": ""
   },
   {
+   "titre": "La pépite franco-italienne du nucléaire Newcleo met le cap sur Wall Street à la recherche de financements",
+   "source": "Le Figaro Economie",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://www.lefigaro.fr/societes/la-pepite-franco-italienne-du-nucleaire-newcleo-met-le-cap-sur-wall-street-a-la-recherche-de-financements-20260925",
+   "url_propre": "https://www.lefigaro.fr/societes/la-pepite-franco-italienne-du-nucleaire-newcleo-met-le-cap-sur-wall-street-a-la-recherche-de-financements-20260925",
+   "date_publication": "2026-09-25T18:05:37+00:00",
+   "vu_le": "2026-09-25T22:05:56.885267+00:00",
+   "resume": "Le SMR refroidi au plomb de Newcleo est conçu pour utiliser du combustible MOX, à base de plutonium et d’uranium appauvri. Newcleo DÉCRYPTAGE - Ce lauréat du programme France 2030 a traversé l’Atlantique pour boucler une nouvelle levée de fonds mais aussi accéder à un précieux stock de plutonium. La"
+  },
+  {
    "titre": "Carburants : l’énergéticien Eni plafonne les prix de l'essence et du gazole en Italie pour trente jours",
    "source": "Le Figaro Economie",
    "theme": "Bourse / Marchés",
@@ -35,6 +211,17 @@
    "date_publication": "2026-09-25T17:51:33+00:00",
    "vu_le": "2026-09-25T18:57:42.942133+00:00",
    "resume": "Carburants : l’énergéticien Eni plafonne les prix de l'essence et du gazole en Italie pour trente jours Le gouvernement italien a salué l’initiative du groupe dans un communiqué, y voyant «un geste louable en faveur de l’Italie, qui va dans le sens souhaité d’un apaisement de la flambée des prix des"
+  },
+  {
+   "titre": "Vietnam, Pakistan, Kenya… Face à la flambée des carburants, la colère se répand partout dans le monde",
+   "source": "Le Figaro Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lefigaro.fr/conjoncture/vietnam-pakistan-kenya-face-a-la-flambee-des-carburants-la-colere-se-repand-partout-dans-le-monde-20260925",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/vietnam-pakistan-kenya-face-a-la-flambee-des-carburants-la-colere-se-repand-partout-dans-le-monde-20260925",
+   "date_publication": "2026-09-25T17:51:02+00:00",
+   "vu_le": "2026-09-25T22:05:56.752739+00:00",
+   "resume": "Un manifestant à Alep brûle des pneus pour protester contre la hausse des prix du carburant en Syrie, le 13 septembre 2026. Mahmoud Hassano / REUTERS RÉCIT - Les gouvernements sont confrontés à un choix difficile pour aider leurs concitoyens et sauver leur économie : subventions, prix plafonnés, aid"
   },
   {
    "titre": "Microsoft Corporation : RBC à l'achat - Zonebourse Suisse",
@@ -48,6 +235,17 @@
    "resume": ""
   },
   {
+   "titre": "Forum Bourse GENFIT - 25/09/2026 19:44:31 - Sur i.n.v.e.s.t.i.n.g... il y a 12 heures - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUnQtRVhUa19OUlpqek5vbjY5bWJHNW51OUxNV2JlZGsyR1ZSX0tWLVZKUUdvVDJET2Z0aUM1Z0NaaFJQb2hIaWswMlhJclBzbDExd3BZQV91MVF0UTZnQ1RXeG0yc00zZEJuVjlXaGJRM0k?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUnQtRVhUa19OUlpqek5vbjY5bWJHNW51OUxNV2JlZGsyR1ZSX0tWLVZKUUdvVDJET2Z0aUM1Z0NaaFJQb2hIaWswMlhJclBzbDExd3BZQV91MVF0UTZnQ1RXeG0yc00zZEJuVjlXaGJRM0k?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T17:44:31+00:00",
+   "vu_le": "2026-09-25T22:05:58.521136+00:00",
+   "resume": ""
+  },
+  {
    "titre": "«C’est une pure merveille addictive» : des chips Brets arrivent en tête du classement d’un quotidien britannique",
    "source": "Le Figaro Economie",
    "theme": "Finance / Economie (général)",
@@ -57,6 +255,17 @@
    "date_publication": "2026-09-25T17:32:30+00:00",
    "vu_le": "2026-09-25T18:57:43.494669+00:00",
    "resume": "«C’est une pure merveille addictive» : des chips Brets arrivent en tête du classement d’un quotidien britannique Avec sa saveur «sauce pommes frites», la marque bretonne s’est hissée en tête d’un classement de 100 chips aux goûts les plus insolites. Passer la publicité Passer la publicité Une chips "
+  },
+  {
+   "titre": "Malgré les promesses gouvernementales, les impôts vont bien augmenter en 2027",
+   "source": "Le Figaro Economie",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://www.lefigaro.fr/conjoncture/malgre-les-promesses-gouvernementales-les-impots-vont-bien-augmenter-en-2027-20260925",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/malgre-les-promesses-gouvernementales-les-impots-vont-bien-augmenter-en-2027-20260925",
+   "date_publication": "2026-09-25T17:20:00+00:00",
+   "vu_le": "2026-09-25T22:05:56.783936+00:00",
+   "resume": "Le premier ministre français Sébastien Lecornu. Sarah Meyssonnier / REUTERS DÉCRYPTAGE - Dans son effort pour faire des économies sur les arrêts maladie, Bercy souhaite remettre de l’ordre à la fiscalité des indemnités journalières. Depuis des mois, le premier ministre le porte comme un étendard : l"
   },
   {
    "titre": "Levée du préavis de grève chez EasyJet France prévue début octobre",
@@ -1313,6 +1522,17 @@
    "resume": "TSMC, Nvidia, ASML, 2CRSI... : composé à plus de 50% de «technos», le portefeuille de Daniel, retraité alsacien, gagnerait à s’ouvrir à des actions comme Air Liquide TSMC, Nvidia, ASML, 2CRSI... : composé à plus de 50% de «technos», le portefeuille de Daniel, retraité alsacien, gagnerait à s’ouvrir "
   },
   {
+   "titre": "PODCAST : Culture IA : BFM Business en direct de Marseille pour l'AIM - 25/09 - bfmtv.com",
+   "source": "BFM Business",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVEFlaDlBX2dMbm5Dck8yeHlQN0RHTDhTTU5OekJWWnZFMm1nenNlWUM4dkIzQ3l3dnlHWVlsbmN1LUhnemo0ZktCREFoYnltNms2bjFpVmdHTV9GMWotUi1Rejdrd0ZqMmtzT0RWejhGU2txM0pMWmw1dk5RQy00WmFXQnJPMWI1cDR0c1RZNkJvbVk1SEI4RDhCZXltODJNNzA0dTRkTThKYkVvLVh4QmJyTFNOVzRpNjNhTWZDZkUzMU5KZUVsYzFDMVlCOGJBcG15aHUxcFZiTHZnTkd6YS1SNWhJZjdXc3c?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVEFlaDlBX2dMbm5Dck8yeHlQN0RHTDhTTU5OekJWWnZFMm1nenNlWUM4dkIzQ3l3dnlHWVlsbmN1LUhnemo0ZktCREFoYnltNms2bjFpVmdHTV9GMWotUi1Rejdrd0ZqMmtzT0RWejhGU2txM0pMWmw1dk5RQy00WmFXQnJPMWI1cDR0c1RZNkJvbVk1SEI4RDhCZXltODJNNzA0dTRkTThKYkVvLVh4QmJyTFNOVzRpNjNhTWZDZkUzMU5KZUVsYzFDMVlCOGJBcG15aHUxcFZiTHZnTkd6YS1SNWhJZjdXc3c?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-25T04:49:01+00:00",
+   "vu_le": "2026-09-25T22:05:59.480018+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Amodei prône le ralentissement : Trump et la Chine s’y opposent",
    "source": "Investing.com",
    "theme": "International",
@@ -1509,6 +1729,17 @@
    "date_publication": "2026-09-25T04:00:30+00:00",
    "vu_le": "2026-09-25T04:47:29.664169+00:00",
    "resume": "Wall Street boutiques balk at Saudi Arabia’s HQ rules Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 per month. Comple"
+  },
+  {
+   "titre": "Maga base recoils as Trump goes all-in on AI",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/e8a815e6-a105-42ea-938e-352b8c8d5c3b?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/e8a815e6-a105-42ea-938e-352b8c8d5c3b?syn-25a6b1a6=1",
+   "date_publication": "2026-09-25T04:00:30+00:00",
+   "vu_le": "2026-09-25T22:05:57.831334+00:00",
+   "resume": "Maga base recoils as Donald Trump goes all-in on AI Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Explore more offers. FT Edit Get 2 months free with an annual subscription at was $59.88 "
   },
   {
    "titre": "Quand des ETF amplifient les variations de la Bourse",
@@ -1742,61 +1973,6 @@
    "resume": ""
   },
   {
-   "titre": "L’économie US reprend au T3, alors que la hausse des taux menace cette dynamique",
-   "source": "Investing.com",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://fr.investing.com/analysis/leconomie-us-reprend-au-t3-alors-que-la-hausse-des-taux-menace-cette-dynamique-200457841",
-   "url_propre": "https://fr.investing.com/analysis/leconomie-us-reprend-au-t3-alors-que-la-hausse-des-taux-menace-cette-dynamique-200457841",
-   "date_publication": "",
-   "vu_le": "2026-09-24T21:44:19.531955+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Municipales: la victoire du RN à Montargis annulée par la justice - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObWJDVlIzX3RiVmI5RkRqc2FQRmpRTW11QVhBQVdRTnNFc2hTUUprd2JRNFIyWVpKbEIxNUhGWlFHeWYyM3FPVDh1Z24tUHdMLUZQam4tcW81R2NxZ0NTMEhsa1c4Xy0yTkZmaTl6RGNKeWJldkVqaHJYeE1YR3p6cG5tdVdoLTVZQzc3dWZsV2k5OFlBd0FiSjdlZ3BiMG9BdnlyT1ZhTVRCbm1VSUJoMzhMMVRGbGQxcTNZNzFCbldURzFTSjJNc3FRREQwSzl3QmNDdFpwZVVWMUtIamNFemJCTjdzVHJwcWhuYtIB8gFBVV95cUxNZGNvT3hjTUNXbTFqeFBjclJDN1UtYnlJajVsQlVLdUZiOVJjbXdsUmo2ZHA2OWRfQTQ1MFQ5OFpPVlh1aUphYWluZXBYZFFQUnlUTWpFSEg3V2FEd0NmOU5QaWtJTlAtdDB6T3dIYVZPcER4RDE4ekZwUEdiSllLVzhDaU1XVWRqbW04Y3Q2Sjg0ekRFQTZZYnp4STdPMDVVVWRPd0NFWlpvNHhEcy1INTFEOHB1X0E0U08yTUlFeFk3QU02OU15ekY5Z2Qtb2hzU1Q0THJIVFVDN29RVHBMQkJWTnd4cU1OMktjZnkwQzhmdw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObWJDVlIzX3RiVmI5RkRqc2FQRmpRTW11QVhBQVdRTnNFc2hTUUprd2JRNFIyWVpKbEIxNUhGWlFHeWYyM3FPVDh1Z24tUHdMLUZQam4tcW81R2NxZ0NTMEhsa1c4Xy0yTkZmaTl6RGNKeWJldkVqaHJYeE1YR3p6cG5tdVdoLTVZQzc3dWZsV2k5OFlBd0FiSjdlZ3BiMG9BdnlyT1ZhTVRCbm1VSUJoMzhMMVRGbGQxcTNZNzFCbldURzFTSjJNc3FRREQwSzl3QmNDdFpwZVVWMUtIamNFemJCTjdzVHJwcWhuYtIB8gFBVV95cUxNZGNvT3hjTUNXbTFqeFBjclJDN1UtYnlJajVsQlVLdUZiOVJjbXdsUmo2ZHA2OWRfQTQ1MFQ5OFpPVlh1aUphYWluZXBYZFFQUnlUTWpFSEg3V2FEd0NmOU5QaWtJTlAtdDB6T3dIYVZPcER4RDE4ekZwUEdiSllLVzhDaU1XVWRqbW04Y3Q2Sjg0ekRFQTZZYnp4STdPMDVVVWRPd0NFWlpvNHhEcy1INTFEOHB1X0E0U08yTUlFeFk3QU02OU15ekY5Z2Qtb2hzU1Q0THJIVFVDN29RVHBMQkJWTnd4cU1OMktjZnkwQzhmdw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T21:31:14+00:00",
-   "vu_le": "2026-09-24T21:44:20.874760+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "OpenAI breach of Australian government linked to wider AI hacking campaign",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
-   "date_publication": "2026-09-24T21:06:45+00:00",
-   "vu_le": "2026-09-24T21:44:20.754476+00:00",
-   "resume": "OpenAI breach of Australian government linked to wider AI hacking campaign Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then "
-  },
-  {
-   "titre": "Des préservatifs français donnés en masse à la Côte d'Ivoire ? - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQek50cWVMOHc4cjZncjdncmR1aklXUzFMcmpLeW9pemQxQmJ3cnFNZlA4UjFMRkRXTmhvd2Z2UmUwX2JBRTBoVWJNdHVDeWVwSzhtU1U2VHNIVGpwdFhEVEt0RHRidlFNZ01aUnB0a2F5NGhRQUs4c1NYbXVvZU9ad1UyMVZ4em1rNlNCeEtZMXJGSWlrejJoTVVmMUg1djhPd19OV0FkX1NPM3Jsd1p2MENDWUZheWRXYjVnQzhvbzllWmx2SncyRFBEeEtNUTJzZ0FTdNIB2gFBVV95cUxPWi1ub1ZGaU5JTnR4c2kzYzRPYWY0dW5SNGQ1VlJRb295aWJBWWdDS0p1T24yOXRUZnV4dmpHVzVPN0ctMXJEd3o4WHZVTGVaamxON2tPd19WTGpHS3kyMG96TnJCbzJRRHFvRnU2SkFGcUY3bFVsdWhPcDFtUFVHZWRhY1QtRlM2VVdBVzk3dnJWaVFHYWpVdVJ4S3hsWFpXeTRJT2J6cng5NXgxN1gxblA3QV9pWWZDWkJLblg2ZHYyVUxfd1JIMFdHNkkwbnpaM3lISlppaDlwQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQek50cWVMOHc4cjZncjdncmR1aklXUzFMcmpLeW9pemQxQmJ3cnFNZlA4UjFMRkRXTmhvd2Z2UmUwX2JBRTBoVWJNdHVDeWVwSzhtU1U2VHNIVGpwdFhEVEt0RHRidlFNZ01aUnB0a2F5NGhRQUs4c1NYbXVvZU9ad1UyMVZ4em1rNlNCeEtZMXJGSWlrejJoTVVmMUg1djhPd19OV0FkX1NPM3Jsd1p2MENDWUZheWRXYjVnQzhvbzllWmx2SncyRFBEeEtNUTJzZ0FTdNIB2gFBVV95cUxPWi1ub1ZGaU5JTnR4c2kzYzRPYWY0dW5SNGQ1VlJRb295aWJBWWdDS0p1T24yOXRUZnV4dmpHVzVPN0ctMXJEd3o4WHZVTGVaamxON2tPd19WTGpHS3kyMG96TnJCbzJRRHFvRnU2SkFGcUY3bFVsdWhPcDFtUFVHZWRhY1QtRlM2VVdBVzk3dnJWaVFHYWpVdVJ4S3hsWFpXeTRJT2J6cng5NXgxN1gxblA3QV9pWWZDWkJLblg2ZHYyVUxfd1JIMFdHNkkwbnpaM3lISlppaDlwQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T20:51:56+00:00",
-   "vu_le": "2026-09-24T21:44:19.778973+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Henkel AG & Co. KGaA : Jefferies maintient sa recommandation neutre - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWh2VF82U1l3ZjZUOUtwZkxlem1TZzVWTzdNLVZUWjZCNmZEUXN3U3N4alRxYWlzU3dFdXdFWWxJTjhENWpaYVlaTVlVVGxnb01Yam9xYlBpOGp1TlZnVlVfbEozNUU5djZMMkM3NllyQWFrTUdvTmhfOFVkeEN6cEI1SjdQbXd5WUg3UDRFMkh0ck5oa2lNRWR6X1YxNXVxREtvRGFLZkVmSVBnNG5RY2JKaDB3aGNkZlNaeXpPOA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWh2VF82U1l3ZjZUOUtwZkxlem1TZzVWTzdNLVZUWjZCNmZEUXN3U3N4alRxYWlzU3dFdXdFWWxJTjhENWpaYVlaTVlVVGxnb01Yam9xYlBpOGp1TlZnVlVfbEozNUU5djZMMkM3NllyQWFrTUdvTmhfOFVkeEN6cEI1SjdQbXd5WUg3UDRFMkh0ck5oa2lNRWR6X1YxNXVxREtvRGFLZkVmSVBnNG5RY2JKaDB3aGNkZlNaeXpPOA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T20:40:28+00:00",
-   "vu_le": "2026-09-24T21:44:21.744452+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Forum Bourse NANOBIOTIX - 24/09/2026 22:29:01 - Resultats S1....visibilité financiere 2029 - Boursorama",
    "source": "Boursorama",
    "theme": "Bourse / Marchés",
@@ -1805,28 +1981,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RbTZvWHh1Vno4aURYMDJ5N08xdjZibkl4V3NjLW12VzBtZGQ0QmVyNkxEMHZVQ2M2dXZ5SFUxUkZ1NXI1ZEdidmoxc0F0QXR6c2pXSVJUSUFvd2FlSk8zVHJXdTNaeVBpYXJMazUwQWpkMVU?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-09-24T20:29:01+00:00",
    "vu_le": "2026-09-25T00:02:24.786613+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Les autorités rebelles du Tigré disent être en \"guerre totale\" contre le gouvernement éthiopien - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPajMzMkQ0NkkzbVNYcnRNN0t2eVNkNExlSUxadlg4V1BnemJRTEk5UUlLTkxaT05yUG8xalRtMmR2ZFFWem5ldHBZeGE2T1pvTFc3aElTZk9LY19XaEFrNzJ5TDdkSVk0M09McmZfN3c1RzZjQTNPU0JsRGVxcUFUZG5mcWNhanJyZUpHNEx0VnVFcXBQTmswWjlmU01RZl9PMWhKY0pfR3NHUG9CN2tVYWJ1TUk5RTZqQ19zS3AwbkhJUm9kMXB5dUhnOG5BSnFjSDFCcmRsdS1ld0s3TG1XT21Zc2FSZE1yV19RNWlNZDF3VEVVNTFPTjh0Z3pvSXlo0gGGAkFVX3lxTE1vbEdkRmdvTHJXNzVzZU5TS0ZhdUZMWThxa2JtQlRSeGdGSnY4d2dzT2Q1M3d5R0pCRnY2Um1RX2VVbGhmYUY5bUZISnNQSE9fOU82OEtjMDFGbkFIZXBaS09Ba1BTbFYtM0toU0RLR3F6ZWllbGE2LTdaR0t5OFdzTFEyTENPODAtVFRZMFU1dldjZlBYU0ZVVU9jNjFic1lQbjNlRDBvcVFodEtQZ0s2d2NpOHEyNE9sWDZqUUtQamc1TmVVUFY0LVEzWHZhVXpxeTFqNU5FcEZob2dHSXVlRjRqd3VMTGpWSDZmd3kyZXktOHVaa2NmeHlSVVlxbXUyZjNnRGc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPajMzMkQ0NkkzbVNYcnRNN0t2eVNkNExlSUxadlg4V1BnemJRTEk5UUlLTkxaT05yUG8xalRtMmR2ZFFWem5ldHBZeGE2T1pvTFc3aElTZk9LY19XaEFrNzJ5TDdkSVk0M09McmZfN3c1RzZjQTNPU0JsRGVxcUFUZG5mcWNhanJyZUpHNEx0VnVFcXBQTmswWjlmU01RZl9PMWhKY0pfR3NHUG9CN2tVYWJ1TUk5RTZqQ19zS3AwbkhJUm9kMXB5dUhnOG5BSnFjSDFCcmRsdS1ld0s3TG1XT21Zc2FSZE1yV19RNWlNZDF3VEVVNTFPTjh0Z3pvSXlo0gGGAkFVX3lxTE1vbEdkRmdvTHJXNzVzZU5TS0ZhdUZMWThxa2JtQlRSeGdGSnY4d2dzT2Q1M3d5R0pCRnY2Um1RX2VVbGhmYUY5bUZISnNQSE9fOU82OEtjMDFGbkFIZXBaS09Ba1BTbFYtM0toU0RLR3F6ZWllbGE2LTdaR0t5OFdzTFEyTENPODAtVFRZMFU1dldjZlBYU0ZVVU9jNjFic1lQbjNlRDBvcVFodEtQZ0s2d2NpOHEyNE9sWDZqUUtQamc1TmVVUFY0LVEzWHZhVXpxeTFqNU5FcEZob2dHSXVlRjRqd3VMTGpWSDZmd3kyZXktOHVaa2NmeHlSVVlxbXUyZjNnRGc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T20:27:43+00:00",
-   "vu_le": "2026-09-24T21:44:19.996262+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "LVMH, Kering, Hermès… Quand l'empire du luxe vacille - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTE5DdEx4MkVpSDRCeld3cEdlNFlHQUhBQk52TEdaYWQyeGhPQy1CR21EZFpNTG1sOUpiVnloVUtFb1JBbE50MFM3dTZkbk5XanljLXVaUWdrMzRiSVpSc0h4aU5hR3R2QTZjWjhlNFpaSE5IR1ZNUnJGS19OemJOUlRscGF5VG4yOWIwUzRjRldIc2xpTzhmSnZ2MDQ5LVRWUl9HdzRwc0Mwa2xrQW1F?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTE5DdEx4MkVpSDRCeld3cEdlNFlHQUhBQk52TEdaYWQyeGhPQy1CR21EZFpNTG1sOUpiVnloVUtFb1JBbE50MFM3dTZkbk5XanljLXVaUWdrMzRiSVpSc0h4aU5hR3R2QTZjWjhlNFpaSE5IR1ZNUnJGS19OemJOUlRscGF5VG4yOWIwUzRjRldIc2xpTzhmSnZ2MDQ5LVRWUl9HdzRwc0Mwa2xrQW1F?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T20:23:04+00:00",
-   "vu_le": "2026-09-24T21:44:21.705689+00:00",
    "resume": ""
   },
   {
@@ -1863,39 +2017,6 @@
    "resume": ""
   },
   {
-   "titre": "Crise du carburant : Emmanuel Macron annonce l’envoi de « moyens militaires » en Arabie saoudite et n’écarte pas une baisse des taxes",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html",
-   "url_propre": "https://www.lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html",
-   "date_publication": "2026-09-24T20:06:30+00:00",
-   "vu_le": "2026-09-24T21:44:19.007699+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Des commissions jusqu’à 45 % en France : un rapport estime que la tarification « dynamique » d’Uber tire les revenus des chauffeurs vers le bas",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/economie/article/2026/09/24/des-commissions-jusqu-a-45-en-france-un-rapport-estime-que-la-tarification-dynamique-d-uber-tire-les-revenus-des-chauffeurs-vers-le-bas_6781581_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/09/24/des-commissions-jusqu-a-45-en-france-un-rapport-estime-que-la-tarification-dynamique-d-uber-tire-les-revenus-des-chauffeurs-vers-le-bas_6781581_3234.html",
-   "date_publication": "2026-09-24T20:00:06+00:00",
-   "vu_le": "2026-09-24T21:44:19.256499+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Nestlé SA annonce des changements au sein de sa direction - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDR6N2xYVkVRYmpzdXUtR2hPNUNXTXhYUldCN3dUSU00aE9sa0ZWdkZMQUxXSmlHZEFJTzFMZHNxMnhTd0RiaEt1WEZzaUhHUnpPVHY0N1R6dElUMXBJNnhrOWJaUWpwMkNycDRPWG10MjRlQUs4R0t1Wk1WMjBDeVcxVk1Cb3hMM1JvanM3c0xtVnpIVmswZjgwMTFUQ0ZKWHVfLTE5bG5taEhzcnN0dmdaNkl0Ni1i?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDR6N2xYVkVRYmpzdXUtR2hPNUNXTXhYUldCN3dUSU00aE9sa0ZWdkZMQUxXSmlHZEFJTzFMZHNxMnhTd0RiaEt1WEZzaUhHUnpPVHY0N1R6dElUMXBJNnhrOWJaUWpwMkNycDRPWG10MjRlQUs4R0t1Wk1WMjBDeVcxVk1Cb3hMM1JvanM3c0xtVnpIVmswZjgwMTFUQ0ZKWHVfLTE5bG5taEhzcnN0dmdaNkl0Ni1i?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T19:51:25+00:00",
-   "vu_le": "2026-09-24T21:44:21.698892+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Forum Bourse AMOEBA - 24/09/2026 21:49:36 - À votre avis - Boursorama",
    "source": "Boursorama",
    "theme": "Bourse / Marchés",
@@ -1904,72 +2025,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EaXl3Q2RpTFIzLUg3Nk1Yd0JLY3FrZTNSR3RBMlpoSEhJeWJGbmhsTC1Xa1lVV1g3LUUwSW5GY0x4aENyZ0ZuN0pnS1gzTHFTNWdFZVJTaHFodXUwUkg5T0hDYmVBM0RpbzE5eGJNaXVkbGs5?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-09-24T19:49:36+00:00",
    "vu_le": "2026-09-25T04:47:30.037960+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "«Il ne faut rien exclure» : Macron n’écarte pas une baisse des taxes sur le carburant si les prix continuaient à augmenter",
-   "source": "Le Figaro Economie",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.lefigaro.fr/conjoncture/il-ne-faut-rien-exclure-macron-n-ecarte-pas-une-baisse-des-taxes-sur-le-carburant-si-les-prix-continuaient-a-augmenter-20260924",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/il-ne-faut-rien-exclure-macron-n-ecarte-pas-une-baisse-des-taxes-sur-le-carburant-si-les-prix-continuaient-a-augmenter-20260924",
-   "date_publication": "2026-09-24T19:45:29+00:00",
-   "vu_le": "2026-09-24T21:44:19.356432+00:00",
-   "resume": "Si le président de la République «n’exclut rien», il juge que l’ajustement de la fiscalité sur les carburants ne serait «pas la décision la plus vertueuse» car celle-ci «[sert] à financer les dépenses de l’État». Emmanuel Macron a affirmé jeudi qu'il n'excluait pas de baisser les taxes sur les carbu"
-  },
-  {
-   "titre": "Pioneer founder says Exxon ‘set him up’ after $60bn takeover",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1",
-   "date_publication": "2026-09-24T19:27:10+00:00",
-   "vu_le": "2026-09-24T21:44:20.811309+00:00",
-   "resume": "Pioneer founder Scott Sheffield says Exxon ‘set him up’ after $60bn takeover Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial The"
-  },
-  {
-   "titre": "Abandon de la pensée critique, dépendance, pertes de compétences : l’IA va-t-elle tous nous rendre stupides ?",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/abandon-de-la-pensee-critique-dependance-pertes-de-competences-l-ia-va-t-elle-tous-nous-rendre-stupides-20260924",
-   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/abandon-de-la-pensee-critique-dependance-pertes-de-competences-l-ia-va-t-elle-tous-nous-rendre-stupides-20260924",
-   "date_publication": "2026-09-24T19:23:59+00:00",
-   "vu_le": "2026-09-24T21:44:18.815319+00:00",
-   "resume": "Un robot présenté lors de l’exposition «Qu’est-ce qu’être humain» à Tokyo, en 2022. PHILIP FONG / AFP ENQUÊTE - Le grand public a de plus en plus tendance à se reposer sur l’IA pour résoudre ses problèmes, quitte à ne plus vouloir chercher de solution par lui-même. Experts comme chercheurs tirent le"
-  },
-  {
-   "titre": "«Je ne le regrette pas» : Emmanuel Macron défend le «quoi qu’il en coûte», sur fond de flambée des carburants",
-   "source": "Le Figaro Economie",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://www.lefigaro.fr/conjoncture/je-ne-le-regrette-pas-emmanuel-macron-defend-le-quoi-qu-il-en-coute-sur-fond-de-flambee-des-carburants-20260924",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/je-ne-le-regrette-pas-emmanuel-macron-defend-le-quoi-qu-il-en-coute-sur-fond-de-flambee-des-carburants-20260924",
-   "date_publication": "2026-09-24T19:21:25+00:00",
-   "vu_le": "2026-09-24T21:44:19.517159+00:00",
-   "resume": "Alors que la situation budgétaire de la France l’empêche de dépenser autant que ses voisins pour contenir la flambée des prix à la pompe, le président de la République a défendu les dépenses engagées lors de ses deux mandats. Alors que la France dépense moins que ses voisins européens pour contenir "
-  },
-  {
-   "titre": "Le pétrole monte, faute d'avancées diplomatiques au Moyen-Orient - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXB2UVB6RXRBUkQ1Qk5nMU43anJNTUdZMW1jcXRWcmxfaVM4MTdTeVhseDZ6X2xxeFR3SGp1azZMUmMtNGlNcXpwTC1URXR6S0JVU0FWMmJONGtTcF9weDZ3TFI3ZEtYd3hIQVNxNVpCUnA5Szl5V29NRmJ6eE9pZWpXb3hjTEUwT3Q4T3NnVzRjYjNFZURPdFAtbVlpQ0NTekotbFFLMXpWcF9RQ1NFUDVpNEctNm05cTFhNS0wRzB5QQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXB2UVB6RXRBUkQ1Qk5nMU43anJNTUdZMW1jcXRWcmxfaVM4MTdTeVhseDZ6X2xxeFR3SGp1azZMUmMtNGlNcXpwTC1URXR6S0JVU0FWMmJONGtTcF9weDZ3TFI3ZEtYd3hIQVNxNVpCUnA5Szl5V29NRmJ6eE9pZWpXb3hjTEUwT3Q4T3NnVzRjYjNFZURPdFAtbVlpQ0NTekotbFFLMXpWcF9RQ1NFUDVpNEctNm05cTFhNS0wRzB5QQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T19:20:19+00:00",
-   "vu_le": "2026-09-24T21:44:21.466687+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "\"S’il faut aller plus loin, on ne laisserait pas les prix s’envoler\": Emmanuel Macron n'exclut pas une baisse des taxes sur les carburants, mais veut d'abord faire reculer les prix - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPc2swRGNsWTdQWV9pTTY3WDMtWG5abGxnSENzeWduU3VHbWFVYWhjQjNGeFZobFMyOFdXMU1EZjJPY203Tlh4TFV1YkNTd292NWJoTEx6RFh1MmVhYXVheXBJSFJwSjVFYmgtbGNESENLYjA1TFBkTUpCcEQyRkpXU1ctalQ5eVRrMXhQYnVHdWl4SjIwcl80Ylo3Y0cxWlNmeEM4eHF0TGM0V3RfT0NTNkdKbGhMRlR3VzAxSGx1U2VMVnUxNnZ6eGY2TDEzT2s2a0o1STZHUTdsYnpJcWtjZ21UaVBuenZLZkJXSEhmNFljSVMyY0hsWHRGYmVHZ1BWU01maVh0RkFYQmlsNjZnTXhzWXhBZ3JGbV9HZUZCX2FTOGV5LXFzSmZ5UmVvbFNCeHFzckRXNVl4V1plZ3JZSFR2elRrVzAxUWs2SDBpeEtWa0ZScHlaWDFxZ0NtSUd2M1k4RUdpSy1wUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPc2swRGNsWTdQWV9pTTY3WDMtWG5abGxnSENzeWduU3VHbWFVYWhjQjNGeFZobFMyOFdXMU1EZjJPY203Tlh4TFV1YkNTd292NWJoTEx6RFh1MmVhYXVheXBJSFJwSjVFYmgtbGNESENLYjA1TFBkTUpCcEQyRkpXU1ctalQ5eVRrMXhQYnVHdWl4SjIwcl80Ylo3Y0cxWlNmeEM4eHF0TGM0V3RfT0NTNkdKbGhMRlR3VzAxSGx1U2VMVnUxNnZ6eGY2TDEzT2s2a0o1STZHUTdsYnpJcWtjZ21UaVBuenZLZkJXSEhmNFljSVMyY0hsWHRGYmVHZ1BWU01maVh0RkFYQmlsNjZnTXhzWXhBZ3JGbV9HZUZCX2FTOGV5LXFzSmZ5UmVvbFNCeHFzckRXNVl4V1plZ3JZSFR2elRrVzAxUWs2SDBpeEtWa0ZScHlaWDFxZ0NtSUd2M1k4RUdpSy1wUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T19:08:47+00:00",
-   "vu_le": "2026-09-24T21:44:21.218244+00:00",
    "resume": ""
   },
   {
@@ -1984,50 +2039,6 @@
    "resume": ""
   },
   {
-   "titre": "Aux Etats-Unis, le coût des crédits immobiliers au plus haut depuis l'arrivée au pouvoir de Trump - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRTJqRC1GUFBPdHF3Q0Rrd21vSGlRTkthX1dMUWRWN0toRkhlMlNTZHl4UVNsRWFsRUtGQWl6eTRZOXB6Rld3SG1rZTlXcnBPM2FORGdubVRBRFhWaU9zbVk2UnNoMUh6TG1pM2kwaVVXcHRqcjQxd1JmN2J4RXk0RGFDenN6SDAwb1pXTlRMTGlDOXB6S2Y2RDVvTF9mWDRKd3JJekdOQmNFbExHZ25Xb3NTdEpuai1lWmFPem16NUttUDllcDVlSm84cG51d2JLRHFxLTdockZzcHpZYTZmb0V0dTN4aHZXN2t2Y1FidW90S1JnV3J5S0VpaWRYdU5lYTBSQlZ3NURCZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRTJqRC1GUFBPdHF3Q0Rrd21vSGlRTkthX1dMUWRWN0toRkhlMlNTZHl4UVNsRWFsRUtGQWl6eTRZOXB6Rld3SG1rZTlXcnBPM2FORGdubVRBRFhWaU9zbVk2UnNoMUh6TG1pM2kwaVVXcHRqcjQxd1JmN2J4RXk0RGFDenN6SDAwb1pXTlRMTGlDOXB6S2Y2RDVvTF9mWDRKd3JJekdOQmNFbExHZ25Xb3NTdEpuai1lWmFPem16NUttUDllcDVlSm84cG51d2JLRHFxLTdockZzcHpZYTZmb0V0dTN4aHZXN2t2Y1FidW90S1JnV3J5S0VpaWRYdU5lYTBSQlZ3NURCZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T18:56:22+00:00",
-   "vu_le": "2026-09-24T21:44:20.309248+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Sous pression de la concurrence chinoise, la définition du « Made in Europe » progresse",
-   "source": "Le Monde Economie",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.lemonde.fr/economie/article/2026/09/24/sous-pression-de-la-concurrence-chinoise-la-definition-du-made-in-europe-progresse_6781578_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/09/24/sous-pression-de-la-concurrence-chinoise-la-definition-du-made-in-europe-progresse_6781578_3234.html",
-   "date_publication": "2026-09-24T18:53:34+00:00",
-   "vu_le": "2026-09-24T21:44:19.469110+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Catering International Services : Rapport Semestriel Financier 2026 - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNms3Zlk5aV8wU0puajV4UWMxUFF0VjdwTTRkMXJ5LXk4N1JCMTh5NE0xY2U4YUlwSlFNUkNUMEh1TFMwelAtVThRVkV4QjZybDZERW41VC1IY2ZleVJscDJ4WjQzc1NsajhOVGFrbUNIZldQTy1Kc0E2OFBfaVRBNGU4V0hIb1pMNHNacnRvRDltdkMzNHF5UG5QTncwbElpOFBMSjIzcDFSeTA4TDd2Mjgxazk1RUVHbVE3b1ppYW5IbVU?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNms3Zlk5aV8wU0puajV4UWMxUFF0VjdwTTRkMXJ5LXk4N1JCMTh5NE0xY2U4YUlwSlFNUkNUMEh1TFMwelAtVThRVkV4QjZybDZERW41VC1IY2ZleVJscDJ4WjQzc1NsajhOVGFrbUNIZldQTy1Kc0E2OFBfaVRBNGU4V0hIb1pMNHNacnRvRDltdkMzNHF5UG5QTncwbElpOFBMSjIzcDFSeTA4TDd2Mjgxazk1RUVHbVE3b1ppYW5IbVU?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T18:50:07+00:00",
-   "vu_le": "2026-09-24T21:44:21.791272+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "«On atteint notre seuil de douleur» : dans le budget 2027, les grandes entreprises veulent en finir avec la surtaxe d’IS",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/conjoncture/on-atteint-notre-seuil-de-douleur-dans-le-budget-2027-les-grandes-entreprises-veulent-en-finir-avec-la-surtaxe-d-is-20260924",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/on-atteint-notre-seuil-de-douleur-dans-le-budget-2027-les-grandes-entreprises-veulent-en-finir-avec-la-surtaxe-d-is-20260924",
-   "date_publication": "2026-09-24T18:15:00+00:00",
-   "vu_le": "2026-09-24T21:44:19.466258+00:00",
-   "resume": "Bien que le premier ministre Sébastien Lecornu ait promis de préserver les moteurs de la croissance dans le budget 2027, les entreprises restent sur le qui-vive. Alors que le projet de loi de finances doit être présenté en Conseil des ministres le 1er octobre, les grandes sociétés s’inquiètent de sa"
-  },
-  {
    "titre": "Forum Bourse CROSSJECT - 24/09/2026 19:57:01 - Bah ? L'est où le communiqué des résultats semestriels - Boursorama",
    "source": "Boursorama",
    "theme": "Bourse / Marchés",
@@ -2039,70 +2050,15 @@
    "resume": ""
   },
   {
-   "titre": "The AI agent revolution has moved a big step closer",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
-   "date_publication": "2026-09-24T17:33:10+00:00",
-   "vu_le": "2026-09-24T21:44:20.159290+00:00",
-   "resume": "The AI agent revolution has moved a big step closer Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 per month. Complete"
-  },
-  {
-   "titre": "Forum Bourse GENFIT - 24/09/2026 19:31:38 - c’est peut-être bon signe que GENFITn’intervienne pas finalement. - Boursorama",
-   "source": "Boursorama",
+   "titre": "Le Slip Français en Bourse : les analystes de TP Icap Midcap se positionnent à l’achat et visent un potentiel de hausse de l’action de 81%",
+   "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
    "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZGlfRHA2YXlWbjVrQ0REemFJdzFrcXc0TXhON3lhZUQ2dElGY3haU3pRTXBZVF9PWDEwMWV6U1Z1VkJsVkxuNjVPUHNzWjN4X3lUQ2o5dk4xQTBkbjA2SnY3M01Vd3Fxcmd3NTQxRzVhbkU?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZGlfRHA2YXlWbjVrQ0REemFJdzFrcXc0TXhON3lhZUQ2dElGY3haU3pRTXBZVF9PWDEwMWV6U1Z1VkJsVkxuNjVPUHNzWjN4X3lUQ2o5dk4xQTBkbjA2SnY3M01Vd3Fxcmd3NTQxRzVhbkU?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T17:31:38+00:00",
-   "vu_le": "2026-09-24T21:44:20.760501+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse SOCIETE GENERALE - 24/09/2026 19:29:33 - Vous la voyez à combien à la mi octobre - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96UFhXWWJiZlRIR1VVVlgwZEFJbWx4aEYzazVFcnZJNW5ZU1ktNmZoVXJuaTFiMjhPaVRFVzE2UGF6WkFyamk4M0Y0TktyRTNOWEx4V3FIdzM2Z296WnNQdlMzQnJsdWVJZGk2UmVGN1Q4UQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE96UFhXWWJiZlRIR1VVVlgwZEFJbWx4aEYzazVFcnZJNW5ZU1ktNmZoVXJuaTFiMjhPaVRFVzE2UGF6WkFyamk4M0Y0TktyRTNOWEx4V3FIdzM2Z296WnNQdlMzQnJsdWVJZGk2UmVGN1Q4UQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T17:29:33+00:00",
-   "vu_le": "2026-09-24T21:44:20.426045+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse CAC 40 - 24/09/2026 19:22:13 - On attend le démenti de l'Iran - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HTUw0Y0pKM3VJYVlKcEtQeWc1MDFrdFFJSWMxLXRsbC1hMDVtNklQbzRaX09aYjFRa2xaaTlJZXRZYmZuemxneXFwWWphMGlLZ3B1Zk9jVzhLZFQ4SGljQmtJWXJzMm9wMk5jdGlXNFdJdw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HTUw0Y0pKM3VJYVlKcEtQeWc1MDFrdFFJSWMxLXRsbC1hMDVtNklQbzRaX09aYjFRa2xaaTlJZXRZYmZuemxneXFwWWphMGlLZ3B1Zk9jVzhLZFQ4SGljQmtJWXJzMm9wMk5jdGlXNFdJdw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T17:22:13+00:00",
-   "vu_le": "2026-09-24T21:44:20.211785+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse AMOEBA - 24/09/2026 19:16:27 - Et la seconde news - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMbGI3TU1oVS14a1E1b09nVUZqV1Iwa0R3aDV2aDZ1ck9xeEZsQS1tQloyT2hHMWJJTFh0LTJuOVI1WkFWUkF4c2UyVVU0NG4ta1BiSmQyeHZ5RVpiZElNa3ZkUkp0MXJrTEtEeXBxQnF0Mllp?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMbGI3TU1oVS14a1E1b09nVUZqV1Iwa0R3aDV2aDZ1ck9xeEZsQS1tQloyT2hHMWJJTFh0LTJuOVI1WkFWUkF4c2UyVVU0NG4ta1BiSmQyeHZ5RVpiZElNa3ZkUkp0MXJrTEtEeXBxQnF0Mllp?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T17:16:27+00:00",
-   "vu_le": "2026-09-24T21:44:20.769983+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "C'est son troisième marché en Europe: Renault annonce 600 millions d'euros d'investissement en Espagne d'ici à 2030 pour y produire 5 nouveaux modèles dont 2 électriques - BFM",
-   "source": "BFM Business",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOMXo4Y0IwanVPdlhxVTNyWGMwWVJzWmRvQjBSOU40UFZvWlRYZTZzbHgybDJJNzFpdHdRSWdoTUJ1a2FaVExTRWdQdTc2U0NlaE1qdDY4eWc1d3VhUWI2Z1FwaklnVlpZTjAweFltMW9UZXhrX0VLNFVWUklSZ2NqZENwZ0cwaHRidW1fUjFPdy00bFpjNGFXZEpYNVVpcV91NmxqRFBMUWZnQ09mcnA4amNhbVlPaUF2MVY0RlRCMzJraDlsUXpRbDVYeVJCOUhLdXo3ODlXUzdSbld6ZHJidDVkWC1URDRmbkUtTjFRak53dk1jOU9zQ1VYc2V1cERPNHBrVDM0eWJPX0RndnVPS0Q2Q1NPdU5GbUxmUW43bkJTN2s2OWloNnFidHozcjFkbWpKcnlxUXBUckNv?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOMXo4Y0IwanVPdlhxVTNyWGMwWVJzWmRvQjBSOU40UFZvWlRYZTZzbHgybDJJNzFpdHdRSWdoTUJ1a2FaVExTRWdQdTc2U0NlaE1qdDY4eWc1d3VhUWI2Z1FwaklnVlpZTjAweFltMW9UZXhrX0VLNFVWUklSZ2NqZENwZ0cwaHRidW1fUjFPdy00bFpjNGFXZEpYNVVpcV91NmxqRFBMUWZnQ09mcnA4amNhbVlPaUF2MVY0RlRCMzJraDlsUXpRbDVYeVJCOUhLdXo3ODlXUzdSbld6ZHJidDVkWC1URDRmbkUtTjFRak53dk1jOU9zQ1VYc2V1cERPNHBrVDM0eWJPX0RndnVPS0Q2Q1NPdU5GbUxmUW43bkJTN2s2OWloNnFidHozcjFkbWpKcnlxUXBUckNv?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T17:01:32+00:00",
-   "vu_le": "2026-09-24T21:44:21.235646+00:00",
-   "resume": ""
+   "url": "https://bourse.lefigaro.fr/actu-conseils/le-slip-francais-en-bourse-les-analystes-de-tp-icap-midcap-se-positionnent-a-l-achat-et-visent-un-potentiel-de-hausse-de-l-action-de-81-20260924",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/le-slip-francais-en-bourse-les-analystes-de-tp-icap-midcap-se-positionnent-a-l-achat-et-visent-un-potentiel-de-hausse-de-l-action-de-81-20260924",
+   "date_publication": "2026-09-24T17:29:50+00:00",
+   "vu_le": "2026-09-25T22:05:57.766169+00:00",
+   "resume": "Le Slip Français en Bourse : les analystes de TP Icap Midcap se positionnent à l’achat et visent un potentiel de hausse de l’action de 81% Depuis son entrée sur Euronext Growth Paris le 14 juillet dernier, la marque de sous-vêtements chérie par les Français dégringole en Bourse. Pourtant, le bureau "
   },
   {
    "titre": "Les marchés mondiaux plombés par le pétrole et les taux - Boursorama",
@@ -2116,36 +2072,25 @@
    "resume": ""
   },
   {
-   "titre": "Forum Bourse AMOEBA - 24/09/2026 18:41:58 - **je vais souscrire - Boursorama",
-   "source": "Boursorama",
+   "titre": "Crises ou pas, les Bourses portées par « les prévisions les plus optimistes pour les actions européennes depuis 2018 »",
+   "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
    "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ1NoN0hnV1RHTUhRa0xQRE1FSW1kZ0hURy1hMnFlWlYySVdVWW1xM0JXVW1LaS1IcmJMd3NGUlNvWXlSaVdTMG5kSlBPakF4NFlvMndXV1JtSzJmSWtuRGl3YVdSWHR5V2x5QWNNY0FMTkdj?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ1NoN0hnV1RHTUhRa0xQRE1FSW1kZ0hURy1hMnFlWlYySVdVWW1xM0JXVW1LaS1IcmJMd3NGUlNvWXlSaVdTMG5kSlBPakF4NFlvMndXV1JtSzJmSWtuRGl3YVdSWHR5V2x5QWNNY0FMTkdj?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T16:41:58+00:00",
-   "vu_le": "2026-09-24T21:44:20.650018+00:00",
-   "resume": ""
+   "url": "https://bourse.lefigaro.fr/actu-conseils/crises-ou-pas-les-bourses-portees-par-les-previsions-les-plus-optimistes-pour-les-actions-europeennes-depuis-2018-20260924",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/crises-ou-pas-les-bourses-portees-par-les-previsions-les-plus-optimistes-pour-les-actions-europeennes-depuis-2018-20260924",
+   "date_publication": "2026-09-24T14:14:46+00:00",
+   "vu_le": "2026-09-25T22:05:57.987142+00:00",
+   "resume": "En 2026, bien des indices boursiers ont atteint des records historiques dans le monde entier. Même en Europe : le DAX 40 allemand, le CAC 40 français, le FTSE Mib italien, l’AEX néerlandais, l’Ibex 35 espagnol ou encore le Bel 20 belge ont inscrit des sommets en août, tout comme l’Euro Stoxx 50 et l"
   },
   {
-   "titre": "Forum Bourse AMOEBA - 24/09/2026 18:38:34 - AK prévue par placement privé à 0.416 - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0MjZSSWJUN0stWEtPRjU0cE4yTldrUXRDYVBOalJTVmJJWnFzSnlEMHNLRnRTVnFQOTJSc1YtWm1mZ2ZpZEFIeHRCc2ZHMnBFR2lud09WUlU0amdKeFREOFloRGpPVDAzbndtVlNEbXdMZ09p?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0MjZSSWJUN0stWEtPRjU0cE4yTldrUXRDYVBOalJTVmJJWnFzSnlEMHNLRnRTVnFQOTJSc1YtWm1mZ2ZpZEFIeHRCc2ZHMnBFR2lud09WUlU0amdKeFREOFloRGpPVDAzbndtVlNEbXdMZ09p?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T16:38:34+00:00",
-   "vu_le": "2026-09-24T21:44:20.409547+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Rapport Semestriel 2026 - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkFOQjNSVkZOamhWaFRIWjhGTmpFeWRxNjhfVld6VUI5RlBCVy1VSzRnVjBsR3h5ZFljX3VjLWplX1VtUVY0b1A1UVJVRkpLSi14MkZQeEFmaU9DUGtyTUJiQnBrUnBsQ0twU1BFc0lMNGotazJMci0yVWNzZG15cTIyTl9uX3FIN1gw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkFOQjNSVkZOamhWaFRIWjhGTmpFeWRxNjhfVld6VUI5RlBCVy1VSzRnVjBsR3h5ZFljX3VjLWplX1VtUVY0b1A1UVJVRkpLSi14MkZQeEFmaU9DUGtyTUJiQnBrUnBsQ0twU1BFc0lMNGotazJMci0yVWNzZG15cTIyTl9uX3FIN1gw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-24T15:45:10+00:00",
-   "vu_le": "2026-09-24T21:44:21.567076+00:00",
+   "titre": "Jusqu'à 3,90 euros le litre? Pourquoi la menace de Trump de couper ses exportations de diesel pourrait provoquer un choc historique en Europe - bfmtv.com",
+   "source": "BFM Business",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVERsejBNVjFudHUzdm1fNE1QeUE4WjMyU0lpb3FfaXF2d1VaeHN6MDlhczJVbGVvTEpBZE5wYlR1YjRYMXRtQkdYYkkyT0x5MDlaTndUZjduWjRPVUFzcHB6NEJUc2hIQXR6a0FLZkF2ZzBUOHp0WEhpYmc4cWRBQ3BoeHdINHNnU3RlQnBBaGJXd2tTV3lZNzcycW9lMHFyMElvV1ZQY0tEX1NNSG5Ib2lSbk1hLTExR2dvZk9nQV9nSXdwS1l4a0RxZ0dXSVhtcDYxQ2ZYV2VMUFRTclgxM2Vkc0VlR1MzRElZZTU0dDFheExWdENnMHU4OVhQeHVvNlc5NS1qX050dGZaV2pibmRBVFViUWw2eHZ2OEhEdEdwUTdKS0thX2R3VTJfUTB4cVZ5bnh2cw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVERsejBNVjFudHUzdm1fNE1QeUE4WjMyU0lpb3FfaXF2d1VaeHN6MDlhczJVbGVvTEpBZE5wYlR1YjRYMXRtQkdYYkkyT0x5MDlaTndUZjduWjRPVUFzcHB6NEJUc2hIQXR6a0FLZkF2ZzBUOHp0WEhpYmc4cWRBQ3BoeHdINHNnU3RlQnBBaGJXd2tTV3lZNzcycW9lMHFyMElvV1ZQY0tEX1NNSG5Ib2lSbk1hLTExR2dvZk9nQV9nSXdwS1l4a0RxZ0dXSVhtcDYxQ2ZYV2VMUFRTclgxM2Vkc0VlR1MzRElZZTU0dDFheExWdENnMHU4OVhQeHVvNlc5NS1qX050dGZaV2pibmRBVFViUWw2eHZ2OEhEdEdwUTdKS0thX2R3VTJfUTB4cVZ5bnh2cw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-09-24T13:47:39+00:00",
+   "vu_le": "2026-09-25T22:05:59.330086+00:00",
    "resume": ""
   },
   {
@@ -2193,17 +2138,6 @@
    "resume": ""
   },
   {
-   "titre": "Republicans spend big to counter Trump’s sinking popularity",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/83beb007-8ef5-45e9-9edc-62eb5db46e40?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/83beb007-8ef5-45e9-9edc-62eb5db46e40?syn-25a6b1a6=1",
-   "date_publication": "2026-09-24T04:00:11+00:00",
-   "vu_le": "2026-09-24T21:44:20.057221+00:00",
-   "resume": "Republicans spend big to counter Donald Trump’s sinking popularity Save over 40% on Standard Digital was $540 now $299 for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Explore more offers. Trial Then $75 per "
-  },
-  {
    "titre": "PODCAST : Jean-Baptiste Huet, journaliste BFM Business – 23/09 - BFM",
    "source": "BFM Business",
    "theme": "Finance / Economie (général)",
@@ -2212,17 +2146,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjRMNEN6c09CdlctNkdSODRuV0VvTF9vT1l5LXJGSGFoSmQxNmVRN2xOTDlYcExZLXRkb2UwNHB2TWVTZlZNTHJnUTBVRE1qMDFZeWhteFpFZkZuTF91R0dNZjhyRi1zT3RVTGJ2dGhNbzQ1dUdiY2FPbVZKb1hIMnc0SU9IUGJzcXpLa202WklWOU5tb3VJSU96MXh6RElQN1RuOGpfQndkdXdhdTQtRUlaNjlkTGRVazdIQ0xxR0IwYUFQcWItaG93?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-09-23T19:40:57+00:00",
    "vu_le": "2026-09-25T04:47:30.436143+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Jean-Baptiste Huet (BFM Business) : La fusée Starship va tenter son premier vol en orbite - 23/09 - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0Y0MnZoODFTTlNQTDBkcmdwQk1UR042MkZ5M2tZamg1aERTaFhUbUFfSGNaeWlObHlNZllCNWZCZ3ROeDFqMUlxLURUbDFXN2pYUEY1TGpmV3YtN2RTQXRXa3B2SXRNdTd0NnV1WFoyN1I3aWJ0NkZ4bzg0M0g1cTFOS3ZwWi1Ha0pIdXF0U1I4c0NCWkpkRXV4MDBRSzF3cjBGdGNobFpwS3FqY1gwZWhNb1lTTnQ2MDloRnMyZGpqa09PS19mZFhkenZVcXJmdUVGVkREdDk0eUdmMXBwSUtMZHFUbGI2WjNmSVVfZkNHYkFQSjhTcldlSzU0WmFiNjRMRDdqVHRWQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0Y0MnZoODFTTlNQTDBkcmdwQk1UR042MkZ5M2tZamg1aERTaFhUbUFfSGNaeWlObHlNZllCNWZCZ3ROeDFqMUlxLURUbDFXN2pYUEY1TGpmV3YtN2RTQXRXa3B2SXRNdTd0NnV1WFoyN1I3aWJ0NkZ4bzg0M0g1cTFOS3ZwWi1Ha0pIdXF0U1I4c0NCWkpkRXV4MDBRSzF3cjBGdGNobFpwS3FqY1gwZWhNb1lTTnQ2MDloRnMyZGpqa09PS19mZFhkenZVcXJmdUVGVkREdDk0eUdmMXBwSUtMZHFUbGI2WjNmSVVfZkNHYkFQSjhTcldlSzU0WmFiNjRMRDdqVHRWQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-09-23T19:40:22+00:00",
-   "vu_le": "2026-09-24T21:44:21.331489+00:00",
    "resume": ""
   },
   {
@@ -2257,17 +2180,6 @@
    "date_publication": "2026-09-23T15:24:06+00:00",
    "vu_le": "2026-09-25T04:47:30.269582+00:00",
    "resume": ""
-  },
-  {
-   "titre": "Après son record, l’action du gestionnaire d’actifs Amundi peut encore prendre 20%, selon Bank of America",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/apres-son-record-l-action-du-gestionnaire-d-actifs-amundi-peut-encore-prendre-20-selon-bank-of-america-20260922",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/apres-son-record-l-action-du-gestionnaire-d-actifs-amundi-peut-encore-prendre-20-selon-bank-of-america-20260922",
-   "date_publication": "2026-09-22T05:05:00+00:00",
-   "vu_le": "2026-09-24T21:44:19.420832+00:00",
-   "resume": "Chaque semaine, Le Figaro Patrimoine et Bourse relaie des informations confidentielles repérées dans les notes d’analystes pour vous aider dans vos décisions d’investissement. Qui l’a remarqué ? Le 7 septembre à la Bourse de Paris, l’action Amundi a inscrit un record absolu non loin de 100 euros. Ce"
   },
   {
    "titre": "Les litiges boursiers opposant les épargnants à leurs courtiers sont-ils nombreux, et sur quoi portent-ils ?",
