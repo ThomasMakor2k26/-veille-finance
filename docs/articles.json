@@ -1,8 +1,129 @@
 {
- "genere_le": "2026-10-18T23:48:37.477698+00:00",
+ "genere_le": "2026-10-19T01:51:57.332899+00:00",
  "fenetre_heures": 24,
- "nb_articles": 123,
+ "nb_articles": 133,
  "articles": [
+  {
+   "titre": "Anthropic commits 5% of shares to ‘public benefit’ fund",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1",
+   "date_publication": "2026-10-19T01:31:01+00:00",
+   "vu_le": "2026-10-19T01:52:01.029853+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4cc24156a11a6c0"
+  },
+  {
+   "titre": "Ukraine-Frappe russe contre une station de métro de Kyiv, un mort - maire - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWm5LMlhvWGpxRE5kZnhCUWJnTFRmTkVDN3N1LWptNG16d3NCc185MFdRRHVQVXJBa18zaHZxYkNrckhnUUtQY19tQUJOcl9ucjF0STA0ajlUdm1BdzJHQ0RpN3RHcXpHSDgwZS1zVUE5d19fOTFPdUZqRFIyeFdPaDhHd0RlS1E3OE9UWTBnOEtBMUhUN1Q5WkIySXl1eXFFakVFcGtYaXRUYS1ETVRXZHpadlhRWllZQ3d5X0VrbFJBdlZWaGtQX0ZGd01wV0lfbkdFRG4wRl9wSkZ3ak5KOV9BSzJsdzBQeFVnNS11Rkt6VTVZ0gH6AUFVX3lxTE9PVjg5Z2F4NXgzYXJvQ1VqYzZEdGx3ZnRZU3FWajVuOUFfa2NRc3F5T3RrNlpLeDhheVZkNVBlcmxWM3RRZllLN1FZb0twWU8wR0lsX08yZDJEMXRTalJ5ZmxtbVNsTmFoeExaU2pnTHd0YnhmTk8yblA0V3poTFN4RDBoa2FOUFVjOUdnUlJuRzlVWWJvSjNHaGh0RndvZGh1TWI3a29UYzNZNC1odl92blp0UXAtUEZ2ZDhFQ0FFOUwyOFJwYmgzTTM0VjJ0dDFsY1RVenJhT3d5eFZldFNQa3AxcnRtamVEc3lsbjVpUWdCNDBpaGxkaHc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWm5LMlhvWGpxRE5kZnhCUWJnTFRmTkVDN3N1LWptNG16d3NCc185MFdRRHVQVXJBa18zaHZxYkNrckhnUUtQY19tQUJOcl9ucjF0STA0ajlUdm1BdzJHQ0RpN3RHcXpHSDgwZS1zVUE5d19fOTFPdUZqRFIyeFdPaDhHd0RlS1E3OE9UWTBnOEtBMUhUN1Q5WkIySXl1eXFFakVFcGtYaXRUYS1ETVRXZHpadlhRWllZQ3d5X0VrbFJBdlZWaGtQX0ZGd01wV0lfbkdFRG4wRl9wSkZ3ak5KOV9BSzJsdzBQeFVnNS11Rkt6VTVZ0gH6AUFVX3lxTE9PVjg5Z2F4NXgzYXJvQ1VqYzZEdGx3ZnRZU3FWajVuOUFfa2NRc3F5T3RrNlpLeDhheVZkNVBlcmxWM3RRZllLN1FZb0twWU8wR0lsX08yZDJEMXRTalJ5ZmxtbVNsTmFoeExaU2pnTHd0YnhmTk8yblA0V3poTFN4RDBoa2FOUFVjOUdnUlJuRzlVWWJvSjNHaGh0RndvZGh1TWI3a29UYzNZNC1odl92blp0UXAtUEZ2ZDhFQ0FFOUwyOFJwYmgzTTM0VjJ0dDFsY1RVenJhT3d5eFZldFNQa3AxcnRtamVEc3lsbjVpUWdCNDBpaGxkaHc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T01:21:05+00:00",
+   "vu_le": "2026-10-19T01:52:01.431624+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Renesas Electronics Corporation : Aletheia Capital maintient sa recommandation à l'achat - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTBBRlkyQ2hieHpBdHoyQXpPd1h4RElRdUozWkRJT0RpMEJqM3N6cDJNcW5NWHgtVjQtYkdVY05vX1BUd2p5a1ZQY1laVTUzRjFwcEhsek40aWJrbm1Qdzdub0RzVWVLYlYtRVg0SHBDMDZBLVBmTWptNGx5bm9PT1U2RWVKQnBVSU1fcTlZa3NQd0JmWjlVTXhVYXk0RU5lVkc0UVpmMEZKTmNwdkptcXk5RjMyZGVSNkhRaFF6OXp2TDdiODU3dDB5VEZYd2dSR1NXUXZzejRaVUI0QzEw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTBBRlkyQ2hieHpBdHoyQXpPd1h4RElRdUozWkRJT0RpMEJqM3N6cDJNcW5NWHgtVjQtYkdVY05vX1BUd2p5a1ZQY1laVTUzRjFwcEhsek40aWJrbm1Qdzdub0RzVWVLYlYtRVg0SHBDMDZBLVBmTWptNGx5bm9PT1U2RWVKQnBVSU1fcTlZa3NQd0JmWjlVTXhVYXk0RU5lVkc0UVpmMEZKTmNwdkptcXk5RjMyZGVSNkhRaFF6OXp2TDdiODU3dDB5VEZYd2dSR1NXUXZzejRaVUI0QzEw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T01:01:08+00:00",
+   "vu_le": "2026-10-19T01:52:02.114168+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Lenovo Group Limited : Morgan Stanley favorable sur le dossier - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHNQOVJRYjNkbXR2a1JqYWpXOGNxeHY5TlBoY2ZtUVNVZDJkRHpLYTBwMzNBUXJEdnd1SGo5c3NsMFllUTgwUVFVRndGQ3U2V240YW1LcTY3SkZhWEVrUDQ5VVRPenVMT0d6MkRaNnZQeE9vcEpJQjEwdEZidDFYX25mR2VjNk0xZHEzckxGWm1SbDh1MnAtZUFkM0pIQ3JBNzlHWmtqQTQ3NXJZSi1SS2dLR0toaDlrSGY5Vg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHNQOVJRYjNkbXR2a1JqYWpXOGNxeHY5TlBoY2ZtUVNVZDJkRHpLYTBwMzNBUXJEdnd1SGo5c3NsMFllUTgwUVFVRndGQ3U2V240YW1LcTY3SkZhWEVrUDQ5VVRPenVMT0d6MkRaNnZQeE9vcEpJQjEwdEZidDFYX25mR2VjNk0xZHEzckxGWm1SbDh1MnAtZUFkM0pIQ3JBNzlHWmtqQTQ3NXJZSi1SS2dLR0toaDlrSGY5Vg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T01:00:53+00:00",
+   "vu_le": "2026-10-19T01:52:02.050297+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Korea Zinc Company, Ltd. : Hanwha persiste à l'achat - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRpQjNTMnl2ZEJqeXVNTG1mTlBEazYwSGE0Z2ttb000eEYyd3IxSDd5cW94a2pxUXNIMVhsUE5UOHhRVEV6azNIQU9pTE1EekJfZ3BxRGRhQW1sRTNXTTlYWEpSelZPWDM2TEh1UXNBNC1fUWlPTHVDNlIzeEJKazZ5alpoLTFXVUxmRTFKWW5YYk9KcmRtX0hIS1BVclhsZlgxWU5TT0FPY1d6?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRpQjNTMnl2ZEJqeXVNTG1mTlBEazYwSGE0Z2ttb000eEYyd3IxSDd5cW94a2pxUXNIMVhsUE5UOHhRVEV6azNIQU9pTE1EekJfZ3BxRGRhQW1sRTNXTTlYWEpSelZPWDM2TEh1UXNBNC1fUWlPTHVDNlIzeEJKazZ5alpoLTFXVUxmRTFKWW5YYk9KcmRtX0hIS1BVclhsZlgxWU5TT0FPY1d6?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T01:00:45+00:00",
+   "vu_le": "2026-10-19T01:52:02.257920+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Flight from Israel diverted after ‘threat’",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
+   "url_propre": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
+   "date_publication": "2026-10-19T00:55:37+00:00",
+   "vu_le": "2026-10-19T01:52:01.042958+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4cc24159f71c500"
+  },
+  {
+   "titre": "Canada-Un feu de prairie sur une base militaire en Alberta tue 4 personnes - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQkxibC1seDFFWlplanJZQjRBYm9zMEpQbEtZMk5VSzA4WXZIWXU5OGFDSUduN1dZcWp4UjJVMUl6OUxoOFYyVXlwTlBWMlRjU1NmVWZLR0tkYWpyYVNPSUpzS1BjaERMOXFKWWgzbTBjUXpLU1dBQWdBT1Zlc2FCclFBa05pNXVidEd0d2lYczh0QVNMTVk0aG9WZFVFaldvWDVyeC1uUDhIZ3QzV180cmJoZ1N0aExFeXVGZFZPSUwxLTlsNG00S3RNZkJSRTlNSlJkVGtJZGxYQ0tPaTg3WmdXMjM4dEFfbHh0Q1F3VXE4ZDBNX2pRU0N30gH_AUFVX3lxTFBqVjRSTGdQU1Z5T0N1cWJYckJqRVotUFk4S2djZ0xOQTkweWF3MlVFaWduRGxMMExnV1c3R2NPdVRTV3FxeUZwd05wY0l4Yy12SjNQTnVKbnFJM0ZETUw0NVNPTUlFUkNheUR3NzhmY3ZXSXdNVllxdk9XOFpZZklxVzFGck9ic3I1Z2l0SG9VYlRMTlNBbVFrSTdkUG1tdTF4aTU4MkpjSXI2OEJDT2FTNWFPdm11d2FaVTlSUk41Y1c5LVBHeF82VV9QSkFpSk5PMmM1QVJoYUpjU1dOVGE0aXk5R05CSWExMkdBWEhPbFE2Zi0xal9TNmVFbEkzVQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQkxibC1seDFFWlplanJZQjRBYm9zMEpQbEtZMk5VSzA4WXZIWXU5OGFDSUduN1dZcWp4UjJVMUl6OUxoOFYyVXlwTlBWMlRjU1NmVWZLR0tkYWpyYVNPSUpzS1BjaERMOXFKWWgzbTBjUXpLU1dBQWdBT1Zlc2FCclFBa05pNXVidEd0d2lYczh0QVNMTVk0aG9WZFVFaldvWDVyeC1uUDhIZ3QzV180cmJoZ1N0aExFeXVGZFZPSUwxLTlsNG00S3RNZkJSRTlNSlJkVGtJZGxYQ0tPaTg3WmdXMjM4dEFfbHh0Q1F3VXE4ZDBNX2pRU0N30gH_AUFVX3lxTFBqVjRSTGdQU1Z5T0N1cWJYckJqRVotUFk4S2djZ0xOQTkweWF3MlVFaWduRGxMMExnV1c3R2NPdVRTV3FxeUZwd05wY0l4Yy12SjNQTnVKbnFJM0ZETUw0NVNPTUlFUkNheUR3NzhmY3ZXSXdNVllxdk9XOFpZZklxVzFGck9ic3I1Z2l0SG9VYlRMTlNBbVFrSTdkUG1tdTF4aTU4MkpjSXI2OEJDT2FTNWFPdm11d2FaVTlSUk41Y1c5LVBHeF82VV9QSkFpSk5PMmM1QVJoYUpjU1dOVGE0aXk5R05CSWExMkdBWEhPbFE2Zi0xal9TNmVFbEkzVQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T00:45:49+00:00",
+   "vu_le": "2026-10-19T01:52:01.622031+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "La Rosa Holdings Corp. remplacera son symbole boursier LRHC par SRTM - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJIbWtQNWtqN0JVTDZkRE1nazZsSzQzWHNsSmZxRlVwcVc5SVJTY0lPTnRTNEZ2NnRQWkI5OWNqa2gwZEdKa0podlRoU01JdWQyUEx6SmxnRjdwM1pFM0VwNG5BbmpQTnJiM0hBcWVJSXlwTEdNQThUX2tRRVF0NXJYbC1DRzdVU1d5VUs3dF9US0E4OS1PLXNEOVc2NG1HaW93a3Z2SXVkX1pJRVEycFhZUFF2cUloLWpZcXdKVmtUdGlEblVr?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnJIbWtQNWtqN0JVTDZkRE1nazZsSzQzWHNsSmZxRlVwcVc5SVJTY0lPTnRTNEZ2NnRQWkI5OWNqa2gwZEdKa0podlRoU01JdWQyUEx6SmxnRjdwM1pFM0VwNG5BbmpQTnJiM0hBcWVJSXlwTEdNQThUX2tRRVF0NXJYbC1DRzdVU1d5VUs3dF9US0E4OS1PLXNEOVc2NG1HaW93a3Z2SXVkX1pJRVEycFhZUFF2cUloLWpZcXdKVmtUdGlEblVr?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T00:36:13+00:00",
+   "vu_le": "2026-10-19T01:52:02.266391+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Les marchés indonésiens, déjà fragiles, vacillent après l’avertissement de MSCI - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3YxbGFIdVpGcGJmQWVNalN4alVzX3pEUUp4WkRvRnhZaUtKcGhvRFg5bXJjYjBPbHlKQW9KeUtkRWxzdnJlTDJubnlWSWM4NXlCR3N3ellLeER5X3Yyd09iSlRCVXdveWV0eWt0OUZoWnhESE90d1pEdDhnWTlQRHlrQW4xQVlodzZCX0wyMXNSZ215WUxxYVI4dU5jZmMtZndYa3dsTTBWUWZReE1qTzl3am84MGdLaDl4RmFaeWJQZmt3QUxNSm1laFdTcnI3ODhjOQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3YxbGFIdVpGcGJmQWVNalN4alVzX3pEUUp4WkRvRnhZaUtKcGhvRFg5bXJjYjBPbHlKQW9KeUtkRWxzdnJlTDJubnlWSWM4NXlCR3N3ellLeER5X3Yyd09iSlRCVXdveWV0eWt0OUZoWnhESE90d1pEdDhnWTlQRHlrQW4xQVlodzZCX0wyMXNSZ215WUxxYVI4dU5jZmMtZndYa3dsTTBWUWZReE1qTzl3am84MGdLaDl4RmFaeWJQZmt3QUxNSm1laFdTcnI3ODhjOQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T00:30:20+00:00",
+   "vu_le": "2026-10-19T01:52:02.296845+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "CXMT prévoit de renouer avec les bénéfices sur neuf mois - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUI4NnlmOV9SMjlyVlNWVDMwSG4yNjlVSUUycTlldTVfN21aSGRRbmdoWVNTdjZTNERnQUtxcnhUU0tkeFF3TTV1TDVFOE80aTFLNmp1YXNZLTZUbFRMWFdKemtsT2N2RWxySThNVy1XR2JqY1dzZ2dKcWdNZzNZMU43SUNIelU4REIySTFSRmh6UE9rU045VnctMmRuV3J2cFBGRXl4VThSeFlSVGJhWEtfejlZbzQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUI4NnlmOV9SMjlyVlNWVDMwSG4yNjlVSUUycTlldTVfN21aSGRRbmdoWVNTdjZTNERnQUtxcnhUU0tkeFF3TTV1TDVFOE80aTFLNmp1YXNZLTZUbFRMWFdKemtsT2N2RWxySThNVy1XR2JqY1dzZ2dKcWdNZzNZMU43SUNIelU4REIySTFSRmh6UE9rU045VnctMmRuV3J2cFBGRXl4VThSeFlSVGJhWEtfejlZbzQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T00:25:11+00:00",
+   "vu_le": "2026-10-19T01:52:02.055841+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Trump adoube Netanyahu avant des législatives décisives en Israël - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUVvZ1REUVVUVnhtX2F0YnVXU2FheG5IdWhpUzBGNFV5YWV6bkJXMGJRYm44YnpDejBjNHhuTnZzbnNVcERTbWEtX0RnbU1BYkpHU2N0NU5VNTlFNTJ2MnRQR25obVozNUJacE1CWVp6S1dpMG8tdWppRmM0UFV0US14T3VQYzNMT3NaMnQ5UDBOS0o5TjNBU0J4U3pxMEx4Slo3d2tWZUtvUDRXZVh6SVpSZ1NhT0hydzhvb2ZpcGVXcjEwaEFaZGJDOHdvVlozb3hkNTN6NWdkbGF3OGU5YUFReDdoNWxnUHB3LUtR0gHzAUFVX3lxTE9JTXI4bUlBcnZyMmM2eXNvNkdFN3Y1WHF3OWFDeGM3aTR1cmZoUGVHeDVpMWozYVJqcnBFQ21HaFZvRVJMaGNzaFJXa2NGZGZVZWJ1REVhX3Z1LWlXYVZWdVdVZHFyMGRwQkpkamdQa2FOY05reUZ3OVpFRzJuRU5jNWtEdWhqaWRhRWlsd29TQ25JZGJzNWduMU1WRXd1OWdMc2dNOFpFOW5TNWM3WC1Tamh3QTdoNFlwYlBxcFpBREI3b1ZNaHFGM0tJTFd5R2RkdXBONEg2LTh5RzNkdnNnbnZxZTVDdlhlQXNMaGZwMEhubw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUVvZ1REUVVUVnhtX2F0YnVXU2FheG5IdWhpUzBGNFV5YWV6bkJXMGJRYm44YnpDejBjNHhuTnZzbnNVcERTbWEtX0RnbU1BYkpHU2N0NU5VNTlFNTJ2MnRQR25obVozNUJacE1CWVp6S1dpMG8tdWppRmM0UFV0US14T3VQYzNMT3NaMnQ5UDBOS0o5TjNBU0J4U3pxMEx4Slo3d2tWZUtvUDRXZVh6SVpSZ1NhT0hydzhvb2ZpcGVXcjEwaEFaZGJDOHdvVlozb3hkNTN6NWdkbGF3OGU5YUFReDdoNWxnUHB3LUtR0gHzAUFVX3lxTE9JTXI4bUlBcnZyMmM2eXNvNkdFN3Y1WHF3OWFDeGM3aTR1cmZoUGVHeDVpMWozYVJqcnBFQ21HaFZvRVJMaGNzaFJXa2NGZGZVZWJ1REVhX3Z1LWlXYVZWdVdVZHFyMGRwQkpkamdQa2FOY05reUZ3OVpFRzJuRU5jNWtEdWhqaWRhRWlsd29TQ25JZGJzNWduMU1WRXd1OWdMc2dNOFpFOW5TNWM3WC1Tamh3QTdoNFlwYlBxcFpBREI3b1ZNaHFGM0tJTFd5R2RkdXBONEg2LTh5RzNkdnNnbnZxZTVDdlhlQXNMaGZwMEhubw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-18T23:55:33+00:00",
+   "vu_le": "2026-10-19T01:52:01.501955+00:00",
+   "resume": ""
+  },
   {
    "titre": "La hausse de l’IPC ravive les craintes d’une inflation tenace et d’une hausse des taux de la Fed",
    "source": "Investing.com",
@@ -222,6 +343,17 @@
    "date_publication": "2026-10-18T18:35:08+00:00",
    "vu_le": "2026-10-18T19:38:57.470739+00:00",
    "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "Macron dit vouloir punir les \"casseurs\" et écouter les manifestants - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2cwdllqNXgydF9XSnp2bVRrUldUZXFjMU9pRnQ4Z3JieTRrcHF0YTc4eEVnRGFpdUZ1Y0JMaDczLXBvTFNzVDBXZkpPM0FEbVZzbm9OajQyVFNIY29hMWF1dGZPc0NERkFXczB1WlBWREl1Mnp5UHBYZ29CQVNNV0kwLVE3WW14bTA2cnZ3Y2dHdkdZcmtIdnV3WGpncG9aLV96alBnSkxWOFpuMjMzZ3JHTGZwMlAzLTNjT19kSQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2cwdllqNXgydF9XSnp2bVRrUldUZXFjMU9pRnQ4Z3JieTRrcHF0YTc4eEVnRGFpdUZ1Y0JMaDczLXBvTFNzVDBXZkpPM0FEbVZzbm9OajQyVFNIY29hMWF1dGZPc0NERkFXczB1WlBWREl1Mnp5UHBYZ29CQVNNV0kwLVE3WW14bTA2cnZ3Y2dHdkdZcmtIdnV3WGpncG9aLV96alBnSkxWOFpuMjMzZ3JHTGZwMlAzLTNjT19kSQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-18T18:17:23+00:00",
+   "vu_le": "2026-10-19T01:52:02.448404+00:00",
+   "resume": ""
   },
   {
    "titre": "Forum Bourse RENAULT - 18/10/2026 19:45:23 - BYD: dysfonctionnement du chauffage - Boursorama",
@@ -1016,17 +1148,6 @@
    "resume": ""
   },
   {
-   "titre": "Cisjordanie: des colons attaquent un convoi diplomatique européen et frappent un maire français - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUxCUHlxb0dwcXpGbmdrYTdkMkEtTFVTcnAtdGRVaThwZHpaRHZTWmFuYmx3ZGhGcFJRM0hfb2c1Vnd6Z0xEWjlhWmtNdU9TV212SktRZjlDdWFFbllRR0ItY2pWSXB3blY4ZktKdE02dmFxX1lrR2QyVEkwVXNHTWRMVnROZGpWOENSZ0ZFRGRUUGhSNkZ6N1ZXbzdxOGFQWDlOWkNFeTRxeWI0T2J4MFNWdU1JVmNiWjIwUTUxVDNtTno2WUNDMzNKM3hqZm90NnVNb08tci1JQ3B6bVRPM2k1QWNKeGh1cFo4MnJBaTktVjh6SFQxWVNqQkhyZWJyVFp1M3pnSWZwR3FFYkRvX1RoWFHSAZoCQVVfeXFMUGVlOTJpNE9veWw4RjZrRUdqdS12VWNsd1U3TUVZWGZodXdUel8wVzlTYWFNc1dGMGhWbzJvNVR6emJBbG8zUGRUNFNPT3FxMHJmY1Nha05UUjhhbllQcmZUaWRnQXM0dVBSU1g1Wk9WTlhsT3oyV2luY3IyRjRFVXZkX0RWT0ZxdUxtWG5Hc3lneTFfN2FFSVBBLWg3NkdhWGtvcnN1d2tvRndGMGxsVjM1Sm5XZXVkTW9ZZ1dtdldWSnJWQ1FTUmVYcHBlUGxIeGdBNnBjMkRpSExnOEJ4amxQUndiM0hTdEFpa3VzTHBEaFdnOTQweDNDQWQtcDRRNE1FaW45dEpTWktBSHZ6c2N0Y1dvUUFHcTFn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUxCUHlxb0dwcXpGbmdrYTdkMkEtTFVTcnAtdGRVaThwZHpaRHZTWmFuYmx3ZGhGcFJRM0hfb2c1Vnd6Z0xEWjlhWmtNdU9TV212SktRZjlDdWFFbllRR0ItY2pWSXB3blY4ZktKdE02dmFxX1lrR2QyVEkwVXNHTWRMVnROZGpWOENSZ0ZFRGRUUGhSNkZ6N1ZXbzdxOGFQWDlOWkNFeTRxeWI0T2J4MFNWdU1JVmNiWjIwUTUxVDNtTno2WUNDMzNKM3hqZm90NnVNb08tci1JQ3B6bVRPM2k1QWNKeGh1cFo4MnJBaTktVjh6SFQxWVNqQkhyZWJyVFp1M3pnSWZwR3FFYkRvX1RoWFHSAZoCQVVfeXFMUGVlOTJpNE9veWw4RjZrRUdqdS12VWNsd1U3TUVZWGZodXdUel8wVzlTYWFNc1dGMGhWbzJvNVR6emJBbG8zUGRUNFNPT3FxMHJmY1Nha05UUjhhbllQcmZUaWRnQXM0dVBSU1g1Wk9WTlhsT3oyV2luY3IyRjRFVXZkX0RWT0ZxdUxtWG5Hc3lneTFfN2FFSVBBLWg3NkdhWGtvcnN1d2tvRndGMGxsVjM1Sm5XZXVkTW9ZZ1dtdldWSnJWQ1FTUmVYcHBlUGxIeGdBNnBjMkRpSExnOEJ4amxQUndiM0hTdEFpa3VzTHBEaFdnOTQweDNDQWQtcDRRNE1FaW45dEpTWktBSHZ6c2N0Y1dvUUFHcTFn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-17T23:59:06+00:00",
-   "vu_le": "2026-10-18T01:27:37.619624+00:00",
-   "resume": ""
-  },
-  {
    "titre": "\"Du jamais vu\" : dans le centre de Paris, des scènes de pillage hors de contrôle - Boursorama",
    "source": "Boursorama",
    "theme": "Finance / Economie (général)",
@@ -1057,17 +1178,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQazRkUnA0VXp3YkFnbDRoNFZ0RnZIQUUyOFdjMGpVTWxFWDVCVVV3eU9KdkNIaU15RzFxeVdRMHBqYXJFMC14WHpIaUZoUzRXVV9NXzdKblJhb0pBa0l2RnRTZ1VIczg5UGd0TjZQLTNVS1RQU3pEZ0pNaGRWdDMwS25VaDVkdzB5YUhiaXh4Mk1kQWk3WDVYWjFWNlkwbDFId2FZTk5qSlR1Q2dsNk1mSnFpSmxsS1ZXSFp6dF92T25RcS05NGd3aGp6UFJnakFvNFNuZUpXajl5SVlkaGE3bHR0eHd6eDYyRS1JWGhHU0RTSWs5WnAtb2w1YUrSAYICQVVfeXFMTWNYZjlnSzBiRURLZXFjS3JWR0VITzlZRE0wZ0F6ZTJLdWlmYkdTSHoxZ2FzeERXaFp0dXNCenJMWmhiUm44anJZOTY4Vi1MM3VnNDJDdEtYSnY5X3lBQjloQ3dqeGlncDJlVm9LcjYwTVV2djBSNy1qNjN6NjV4THZkVXNlNk8xbGlMejcteHNrd21VaVM5UGM0aXl6RTZ4el9VemM1enY4MmRLMkluUHNpS3Y4LTU3TElZdnVUSTRWbHdmZTdJZ0JhSWFpNEFmSUJCZ3BVdGRONVZ3Z1F4WHhjSmdKQ0ZDM01FZVdPTVZTckhPOVc0UU96Wk1rTnN2Y3Fn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-17T22:24:00+00:00",
    "vu_le": "2026-10-18T11:34:25.974989+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Journée de mobilisation contre la \"vie chère\" : les derniers développements - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTFZncWZlVS14YU9USlBpdnIzeU1WVmVtU0czM2h3V21XWlBrX3ZZQ3ZCemY3c2tFT2NxQWRwdmw0VTUxcFJFdnNfbTM2MVlnWUxIZGl0VkVrSWRmMnZyYnQ1ZkxhVFBsVF9iVlRQWUxqUFZjektUeURGTzJvajc4TEM5NS1MQWVCQVdOb2FTTzBha2ctSFo1d2NfbUpGeUxGZ29mYllQTEt0OW93ZFBZeU1KNG9STzJFRG1UbGpaMGZiaHNPelpjOW1iTThIX3dnem5uSHZTVTExMlJqdGdxV0ZhQ3dhc2ZWeHZSMnIwUWphMmJ1SFHSAfsBQVVfeXFMTmRqY3VjZW9UblM3Y2VDTWNsb1N3SnBDeG5jVV82dms0UzZDY2FWb0VvTFMtVmJ2RFUySWNiVm1nM1dKcmhJMFhrOXViUVIzM0R3X01NU013OEMzNWYwRktITFNBbTRlU0p0YlQ1eGF6eEhOY2NZQWhwX0hXczFYSzlNb3pVU2YzMHA0ZmRqMHk1dF9HNmllOWs0Ri1xUUk5R0NraXZNTlBLMDdadlFCUHFXd2pvbllOY3lmSkhqQUxZbU92X1h6MFFqdUF4dHdzeVVNN3oxWFlid21TTkd4WmN1UVp2WHJXajJVbjhPdG9sZEhYTWJHWE03Slk?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTFZncWZlVS14YU9USlBpdnIzeU1WVmVtU0czM2h3V21XWlBrX3ZZQ3ZCemY3c2tFT2NxQWRwdmw0VTUxcFJFdnNfbTM2MVlnWUxIZGl0VkVrSWRmMnZyYnQ1ZkxhVFBsVF9iVlRQWUxqUFZjektUeURGTzJvajc4TEM5NS1MQWVCQVdOb2FTTzBha2ctSFo1d2NfbUpGeUxGZ29mYllQTEt0OW93ZFBZeU1KNG9STzJFRG1UbGpaMGZiaHNPelpjOW1iTThIX3dnem5uSHZTVTExMlJqdGdxV0ZhQ3dhc2ZWeHZSMnIwUWphMmJ1SFHSAfsBQVVfeXFMTmRqY3VjZW9UblM3Y2VDTWNsb1N3SnBDeG5jVV82dms0UzZDY2FWb0VvTFMtVmJ2RFUySWNiVm1nM1dKcmhJMFhrOXViUVIzM0R3X01NU013OEMzNWYwRktITFNBbTRlU0p0YlQ1eGF6eEhOY2NZQWhwX0hXczFYSzlNb3pVU2YzMHA0ZmRqMHk1dF9HNmllOWs0Ri1xUUk5R0NraXZNTlBLMDdadlFCUHFXd2pvbllOY3lmSkhqQUxZbU92X1h6MFFqdUF4dHdzeVVNN3oxWFlid21TTkd4WmN1UVp2WHJXajJVbjhPdG9sZEhYTWJHWE03Slk?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-17T21:15:00+00:00",
-   "vu_le": "2026-10-18T01:27:37.280694+00:00",
    "resume": ""
   },
   {
@@ -1192,17 +1302,6 @@
    "resume": ""
   },
   {
-   "titre": "Corporate donations flood US attorneys-general election races",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
-   "date_publication": "2026-10-17T10:00:02+00:00",
-   "vu_le": "2026-10-18T01:27:37.151801+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4c3c2f81b63acc6"
-  },
-  {
    "titre": "«À chaque fois que je vais à Paris, j’achète dix plaquettes» : le succès éclatant du beurre Bordier auprès des touristes américains",
    "source": "Le Figaro Economie",
    "theme": "Finance / Economie (général)",
@@ -1300,6 +1399,17 @@
    "date_publication": "2026-10-16T06:55:55+00:00",
    "vu_le": "2026-10-18T17:35:09.941631+00:00",
    "resume": "En 2026, les choses changent au profit des entreprises ! JHVEPhoto - Sophie Animes - Robert - stock.adobe.com - Le Figaro Connaissez-vous la notion de «taux sans risque» ? Dans le monde de l’investissement obligataire, elle désigne le rendement qu’un investisseur peut attendre d’un actif dont le ris"
+  },
+  {
+   "titre": "Que faire d’ASML, Campari, Generali, Metso, Moncler, Richemont ou Roche ? Le Figaro Bourse passe en revue ses conseils sur 31 actions européennes et américaines",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/que-faire-d-asml-campari-generali-metso-moncler-richemont-ou-roche-le-figaro-bourse-passe-en-revue-ses-conseils-sur-31-actions-europeennes-et-americaines-20261015",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/que-faire-d-asml-campari-generali-metso-moncler-richemont-ou-roche-le-figaro-bourse-passe-en-revue-ses-conseils-sur-31-actions-europeennes-et-americaines-20261015",
+   "date_publication": "2026-10-15T15:52:43+00:00",
+   "vu_le": "2026-10-19T01:52:01.213659+00:00",
+   "resume": "Que faire d’ASML, Campari, Generali, Metso, Moncler, Richemont ou Roche ? Le Figaro Bourse passe en revue ses conseils sur 31 actions européennes et américaines Que faire d’ASML, Campari, Generali, Metso, Moncler, Richemont ou Roche ? Le Figaro Bourse passe en revue ses conseils sur 31 actions europ"
   },
   {
    "titre": "Et si après 2 mois de déprime, le CAC 40 trouvait enfin la force de rebondir? L’un de nos scénarios techniques plaide pour la reprise",
