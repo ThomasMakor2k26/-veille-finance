@@ -1,8 +1,140 @@
 {
- "genere_le": "2026-10-22T18:49:42.620622+00:00",
+ "genere_le": "2026-10-22T21:57:00.384564+00:00",
  "fenetre_heures": 24,
- "nb_articles": 210,
+ "nb_articles": 203,
  "articles": [
+  {
+   "titre": "La hausse de l’IPC ravive les craintes d’une inflation tenace et d’une hausse des taux de la Fed",
+   "source": "Investing.com",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://fr.investing.com/analysis/la-hausse-de-lipc-ravive-les-craintes-dune-inflation-tenace-et-dune-hausse-des-taux-de-la-fed-200458097",
+   "url_propre": "https://fr.investing.com/analysis/la-hausse-de-lipc-ravive-les-craintes-dune-inflation-tenace-et-dune-hausse-des-taux-de-la-fed-200458097",
+   "date_publication": "",
+   "vu_le": "2026-10-22T21:57:04.761406+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "L’accélération de l’inflation aux États-Unis stimule les paris sur une hausse de taux",
+   "source": "Investing.com",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://fr.investing.com/analysis/lacceleration-de-linflation-aux-etatsunis-stimule-les-paris-sur-une-hausse-de-taux-200458096",
+   "url_propre": "https://fr.investing.com/analysis/lacceleration-de-linflation-aux-etatsunis-stimule-les-paris-sur-une-hausse-de-taux-200458096",
+   "date_publication": "",
+   "vu_le": "2026-10-22T21:57:04.739822+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "IA : la machine à crédit commence à s’enrayer",
+   "source": "Investing.com",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://fr.investing.com/analysis/ia--la-machine-a-credit-commence-a-senrayer-200458111",
+   "url_propre": "https://fr.investing.com/analysis/ia--la-machine-a-credit-commence-a-senrayer-200458111",
+   "date_publication": "",
+   "vu_le": "2026-10-22T21:57:04.721094+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Moderna shares sink after leaked cancer data missed expectations",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
+   "date_publication": "2026-10-22T21:37:25+00:00",
+   "vu_le": "2026-10-22T21:57:04.781888+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4ebc17079e4ad02"
+  },
+  {
+   "titre": "L'Oréal : JP Morgan confirme sa recommandation neutre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1dhLXZPNlNCTG9FUmFvUlVJZWFhcWJZRTFoZ19SWEZtYWExdFZyZ083R2U2SjVsRnhCZXA1elduOFpTanpjVTlrYmhpRnQwektJbzRLUDA3aXZobGJvZ0w4M0VKZHRycDdNUmVGQWFzLThFc2w5SVhYaXJWWDdGdDcyXzN5OUk5M24ySm00aFBqbE85U2EzLWJjOFNIWDlIS1lYd1l1bkRGR3VyNzRNNA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1dhLXZPNlNCTG9FUmFvUlVJZWFhcWJZRTFoZ19SWEZtYWExdFZyZ083R2U2SjVsRnhCZXA1elduOFpTanpjVTlrYmhpRnQwektJbzRLUDA3aXZobGJvZ0w4M0VKZHRycDdNUmVGQWFzLThFc2w5SVhYaXJWWDdGdDcyXzN5OUk5M24ySm00aFBqbE85U2EzLWJjOFNIWDlIS1lYd1l1bkRGR3VyNzRNNA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T21:28:32+00:00",
+   "vu_le": "2026-10-22T21:57:06.262668+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Donald Trump a-t-il vraiment salué dans le vide, révélant une démence sénile ? - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONzVrVmh5cjJyRVYwZy1WUzAyLXFPUHhOakk3OHQ0ODdIdGNrTllOd0tBa1M4T3JQR3kyWmZxSzdoOHpNWVI1azVaRVB3QTRBYmJCNWlQN29laUI5TVg4aEk1bkZwNzdfRTFobm5KUk9nTmhTdzRrb2c5ZTlvUElFSE9pa1lCZzF0Q3E4TXRUT2F3YUMzV19VOTRqVEYyc2JzSTlfYjZ0OXQ3c0xLVVl3YjdUT3VnVFg1OFdsbEFaX3VLdVZMaFpfU2tEc2pzcEdCWTJPSGJwalJUZW1XRGpvZ1pLMGdxcTBZ0gHuAUFVX3lxTFAxMUdiRVlHZ3Y4S1M3a19Ta2lIRjNPQkp0djRrbnZaNU1XQ0tFZGZ2b2Y1UDJYZVFJM3R4MXMxUW5fRzZ4Tmdja0pzYzBVMHE3b2JuVGVCRklSLWk2ZWpNMC1Bby1XYnFMdUZzbnFaaDIxOUVPUHFjOE1tcjBhRDNCdkpmTlFYbFZZNk1QOEt1bWUyb2Q1NEtxdEtYRGw2aHJzXzVFMks0ZlNoOVRoVHhPbXAzMmxEUjdCMHpYRmJVZHc5bGFzdkpVOWxscnVGMXBtODVFZ0k4NFlORmF0dndUYmtzQUtQTFdhZ0R4TlE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONzVrVmh5cjJyRVYwZy1WUzAyLXFPUHhOakk3OHQ0ODdIdGNrTllOd0tBa1M4T3JQR3kyWmZxSzdoOHpNWVI1azVaRVB3QTRBYmJCNWlQN29laUI5TVg4aEk1bkZwNzdfRTFobm5KUk9nTmhTdzRrb2c5ZTlvUElFSE9pa1lCZzF0Q3E4TXRUT2F3YUMzV19VOTRqVEYyc2JzSTlfYjZ0OXQ3c0xLVVl3YjdUT3VnVFg1OFdsbEFaX3VLdVZMaFpfU2tEc2pzcEdCWTJPSGJwalJUZW1XRGpvZ1pLMGdxcTBZ0gHuAUFVX3lxTFAxMUdiRVlHZ3Y4S1M3a19Ta2lIRjNPQkp0djRrbnZaNU1XQ0tFZGZ2b2Y1UDJYZVFJM3R4MXMxUW5fRzZ4Tmdja0pzYzBVMHE3b2JuVGVCRklSLWk2ZWpNMC1Bby1XYnFMdUZzbnFaaDIxOUVPUHFjOE1tcjBhRDNCdkpmTlFYbFZZNk1QOEt1bWUyb2Q1NEtxdEtYRGw2aHJzXzVFMks0ZlNoOVRoVHhPbXAzMmxEUjdCMHpYRmJVZHc5bGFzdkpVOWxscnVGMXBtODVFZ0k4NFlORmF0dndUYmtzQUtQTFdhZ0R4TlE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T21:13:19+00:00",
+   "vu_le": "2026-10-22T21:57:05.138213+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "\"Je ne vote que pour Bibi\" : la foi intacte des partisans de Netanyahu - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU01hUUM2aDRxX2U4WW05Yi1nei1RanJBNW9idE85LTZiMmVOR0dkMzEzYl9yeE0zdV8zeVJEYUtOV0RqZmhzWFhyODBjaGR6ZlRlMkoySmNlY2VUSC11dWNOUlB2dm9YQ2oxVlZQY0NoaWthUWk1Um5MT3ZiZ0M1aU5yNUFFcTRmcDdhM0tpcjFpUEtacEFtSDBsZ0d5dTBtUDdja1J0TGRHVTFUb055WWVrajVpREV2R0MtamVBSURId2FoV2xvRmRNQnRKU1VhVnNLS05iTkcyM3MxV3JYOGxmRHJrUWhoWE9KOWFyMNIB9AFBVV95cUxQdjM4R25Uckw0NWhlejJBeWNaWWxfRFJ2ZV83YndmMEVRNW81RkExR3NsMjRqdWpBSVRnaHBIVFBwUEV1dm5jSHBWQkdsTFBrN1ZlSUtMZ2lpSWlFRHZOV0NKS1h0bWFnN1RGdlZlSktJenFXZjBSQW9XQzN4WDQtX252bGMzbVBJa09fb0dfNU5XZU9fN0JobDdGbXFPV2I2OW0wNDBrQWszQUZQM0FBWHNOV0txSmFvMTNBZWcwbVBkdzBoRU1uNGUwSEMzUjFFYW1CczhZd0Z4Wm1vTGh5VjBFNndya1EzXzllQU15RE1UUTNQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU01hUUM2aDRxX2U4WW05Yi1nei1RanJBNW9idE85LTZiMmVOR0dkMzEzYl9yeE0zdV8zeVJEYUtOV0RqZmhzWFhyODBjaGR6ZlRlMkoySmNlY2VUSC11dWNOUlB2dm9YQ2oxVlZQY0NoaWthUWk1Um5MT3ZiZ0M1aU5yNUFFcTRmcDdhM0tpcjFpUEtacEFtSDBsZ0d5dTBtUDdja1J0TGRHVTFUb055WWVrajVpREV2R0MtamVBSURId2FoV2xvRmRNQnRKU1VhVnNLS05iTkcyM3MxV3JYOGxmRHJrUWhoWE9KOWFyMNIB9AFBVV95cUxQdjM4R25Uckw0NWhlejJBeWNaWWxfRFJ2ZV83YndmMEVRNW81RkExR3NsMjRqdWpBSVRnaHBIVFBwUEV1dm5jSHBWQkdsTFBrN1ZlSUtMZ2lpSWlFRHZOV0NKS1h0bWFnN1RGdlZlSktJenFXZjBSQW9XQzN4WDQtX252bGMzbVBJa09fb0dfNU5XZU9fN0JobDdGbXFPV2I2OW0wNDBrQWszQUZQM0FBWHNOV0txSmFvMTNBZWcwbVBkdzBoRU1uNGUwSEMzUjFFYW1CczhZd0Z4Wm1vTGh5VjBFNndya1EzXzllQU15RE1UUTNQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T21:09:08+00:00",
+   "vu_le": "2026-10-22T21:57:05.578754+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Forum Bourse SARTORIUS STED BIO - 22/10/2026 23:05:32 - Survalorisation délirante... un PER de... 50 - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02NnNwVXIyZlpOaEgtWGNCRkw3eHpBeERvbDZOd2Z2VkpuMXR4MDR4UlNJNnJEbmFncFlIa3A2cDA3STdyZ09obXc2UlZoUEZXV20zZVREWnlhX2tBY2lJVm1Fcl9Dcm1GcVBLMFVfR1lMUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE02NnNwVXIyZlpOaEgtWGNCRkw3eHpBeERvbDZOd2Z2VkpuMXR4MDR4UlNJNnJEbmFncFlIa3A2cDA3STdyZ09obXc2UlZoUEZXV20zZVREWnlhX2tBY2lJVm1Fcl9Dcm1GcVBLMFVfR1lMUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T21:05:32+00:00",
+   "vu_le": "2026-10-22T21:57:05.314419+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Airfares will not return to pre-Iran war levels, American Airlines warns",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
+   "date_publication": "2026-10-22T20:08:50+00:00",
+   "vu_le": "2026-10-22T21:57:04.699401+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4ebc16efdff29c6"
+  },
+  {
+   "titre": "L'Oréal : Jefferies conserve son opinion neutre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXJ3V1kzTUgwUjRJVW1HcWRWcjB4YUZOY3c3MFZ0YUNBS2dCRW5kcGtWcm9OZUcxaVM5Vzc4WV9ZdE8xc0duVzd2VnVsMV9JajF3WVVDMmtGcmllZHA4RGhjRkY0eGV2STQ3UmxzaUVfSTdtemhpd0poY0RaSVdoU3h5bXlGRE9vLTZfa3gyUW1YNnoyc3BNX1dicllQTUlXU29nYU1KYjA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXJ3V1kzTUgwUjRJVW1HcWRWcjB4YUZOY3c3MFZ0YUNBS2dCRW5kcGtWcm9OZUcxaVM5Vzc4WV9ZdE8xc0duVzd2VnVsMV9JajF3WVVDMmtGcmllZHA4RGhjRkY0eGV2STQ3UmxzaUVfSTdtemhpd0poY0RaSVdoU3h5bXlGRE9vLTZfa3gyUW1YNnoyc3BNX1dicllQTUlXU29nYU1KYjA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T19:36:47+00:00",
+   "vu_le": "2026-10-22T21:57:06.374427+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "VINCI : JP Morgan est neutre sur le titre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHEwUWhBSzIxemhqTjRaXzBDeDJ6VUJEVUZWV0VtaVNQdTBFd3ZGNTdwb1VubERuMFdFT2duT292WXktWjJXTnFrRElIR1Y5UlNBdnBBVWwya0tFWkFkcXJhZTloSm5nVHVIZElDLUJJYllWN1FOMG1NMjk3VGVuVlJSTGFocWMwX2t5ZS1yUjd1R0hBWWcwSW9hMzRUN0Fo?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHEwUWhBSzIxemhqTjRaXzBDeDJ6VUJEVUZWV0VtaVNQdTBFd3ZGNTdwb1VubERuMFdFT2duT292WXktWjJXTnFrRElIR1Y5UlNBdnBBVWwya0tFWkFkcXJhZTloSm5nVHVIZElDLUJJYllWN1FOMG1NMjk3VGVuVlJSTGFocWMwX2t5ZS1yUjd1R0hBWWcwSW9hMzRUN0Fo?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T19:35:52+00:00",
+   "vu_le": "2026-10-22T21:57:06.355150+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "VINCI : RBC toujours à l'achat - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2s3cWptdV92cTFlZTNtUDg1MFJJQXVOREMxUlprN09hSVNXMmVQdGpPY2ZScU9saS03Qi1Ud1U1ZjBTTURXMUtWb0lJbE84QnhuTFhmaGZXR05YeGJnbjhuX0xKMDhiQjVtbEkxVElReExXUjd0NW8xOTJBb0V5RlN1dzdSdVJIMXlKMU5uSWkyUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2s3cWptdV92cTFlZTNtUDg1MFJJQXVOREMxUlprN09hSVNXMmVQdGpPY2ZScU9saS03Qi1Ud1U1ZjBTTURXMUtWb0lJbE84QnhuTFhmaGZXR05YeGJnbjhuX0xKMDhiQjVtbEkxVElReExXUjd0NW8xOTJBb0V5RlN1dzdSdVJIMXlKMU5uSWkyUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T19:35:26+00:00",
+   "vu_le": "2026-10-22T21:57:06.336441+00:00",
+   "resume": ""
+  },
   {
    "titre": "Le retour des pressions inflationnistes aux États-Unis",
    "source": "Investing.com",
@@ -13,6 +145,17 @@
    "date_publication": "",
    "vu_le": "2026-10-22T18:49:48.391374+00:00",
    "resume": ""
+  },
+  {
+   "titre": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
+   "date_publication": "2026-10-22T18:36:29+00:00",
+   "vu_le": "2026-10-22T21:57:04.655842+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4ebc16ececa02c8"
   },
   {
    "titre": "Un tableau de Monet vendu 50 millions d’euros à Paris, record pour des enchères d’art en France",
@@ -103,6 +246,17 @@
    "resume": "La banque britannique Barclays va supprimer 5 000 emplois, soit 5 % de ses effectifs dans le cadre de son adoption de l’intelligence artificielle (IA) qui lui permet de gagner en efficacité. François BOUCHON / Le Figaro Le groupe britannique Barclays annoncé ce jeudi la suppression de 5 000 emplois,"
   },
   {
+   "titre": "Forum Bourse BIOPHYTIS - 22/10/2026 19:30:48 - C'est donc administratif - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zc091LWx3RGdTQWo0eWFhV1dxX0lWMXVibGZoc2VxeTZhd3FsUExHY3Z3TkJ2azVDNTVvWms0X2w3ODdtcGl3U2xKTG01Ujk0SzhEbUUweWZUYUFmZ1p0VEplMkFkcVlXSzdhMFBEbzRvMDdK?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zc091LWx3RGdTQWo0eWFhV1dxX0lWMXVibGZoc2VxeTZhd3FsUExHY3Z3TkJ2azVDNTVvWms0X2w3ODdtcGl3U2xKTG01Ujk0SzhEbUUweWZUYUFmZ1p0VEplMkFkcVlXSzdhMFBEbzRvMDdK?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T17:30:48+00:00",
+   "vu_le": "2026-10-22T21:57:05.336532+00:00",
+   "resume": ""
+  },
+  {
    "titre": "US to fund speculative fusion venture backed by investors with ties to Trump",
    "source": "Financial Times",
    "theme": "Entreprises",
@@ -112,6 +266,17 @@
    "date_publication": "2026-10-22T17:20:01+00:00",
    "vu_le": "2026-10-22T18:49:48.381470+00:00",
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4eaaf1cde65a425"
+  },
+  {
+   "titre": "Forum Bourse SOITEC - 22/10/2026 19:19:12 - un gap comblé... - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMVpUTHNJMWhZN09hOTZta3JZZEhORHZmaE90SlBvMzBpRHp4UGpfX1VJamNzM3RYSlVQNmlCb2tnNTR2U05KM3pIRnhZZEYydnBRcmkzdHRCTXJzX3hGV0hSbHdIUHNiQzlxTVZsblBzZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMVpUTHNJMWhZN09hOTZta3JZZEhORHZmaE90SlBvMzBpRHp4UGpfX1VJamNzM3RYSlVQNmlCb2tnNTR2U05KM3pIRnhZZEYydnBRcmkzdHRCTXJzX3hGV0hSbHdIUHNiQzlxTVZsblBzZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T17:19:12+00:00",
+   "vu_le": "2026-10-22T21:57:05.561540+00:00",
+   "resume": ""
   },
   {
    "titre": "« Révolution » ou « dépossession » ? Dans les studios français de jeu vidéo, le déploiement de l’IA fait grincer des dents",
@@ -155,6 +320,17 @@
    "url_propre": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNakVKdExTWHl1Nmctb1kxak43OW1iUERIY3RUT092SU5PSVRUMGMtTm83dGNzMFB6SDNManN0MXp4WEJ5YUhiZFNOVzUzaXROWTF3WHc5c2drbkM0U09LYVIxb2tHdF9fYTdNajFFQmF5Qm9paXdXYkYzX1VnVG1wcklXblpiNWN0UU5XalBfQTJ5TTg1ZHJpQzAwSkFrcklOUXhvX3JucldMN3VBTWQxa2VGanZaMmIycWdaVVZ2enhGeXpLbFZ5OXAtNjQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-22T16:52:15+00:00",
    "vu_le": "2026-10-22T18:49:50.659187+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Forum Bourse AMOEBA - 22/10/2026 18:50:34 - Quel cata cette valeur et c’est un euphémisme - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01bF94RUFxQTdkNmplX20weHdaVXVkSmU3S0RVRmdPYmF5Mk5Zd0x0Z1VVVDhDMVZuMTRPNm1rc3Z0UkJKcGJudU9UVzQ0NUctMUh4WEFSUTA0R1R0UzUtdDZGb2otZ2QxWnN2TU54V00xNm9v?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01bF94RUFxQTdkNmplX20weHdaVXVkSmU3S0RVRmdPYmF5Mk5Zd0x0Z1VVVDhDMVZuMTRPNm1rc3Z0UkJKcGJudU9UVzQ0NUctMUh4WEFSUTA0R1R0UzUtdDZGb2otZ2QxWnN2TU54V00xNm9v?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T16:50:34+00:00",
+   "vu_le": "2026-10-22T21:57:05.536197+00:00",
    "resume": ""
   },
   {
@@ -862,6 +1038,17 @@
    "resume": ""
   },
   {
+   "titre": "5ad810a3d2d1e017d6c24a99e8c3c7af.pdf - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlR5TUVaRTF0bkIzOTBpb0JNUktkdFpsYUIwWVNpTzBVeXJ4ZXRuN2lFVmdqaEk0VDZNWTBXeDcxdGlBTzFKU0QtVlBHcUVYMnlVelhUZG9Oel83bFY0ZDNmVjdPQjMzaDRvSGV2bFZDeWdxM1NOTlhyODFOMC1xbkNsQkhhM0Qydl9zbFJzc1ZBd1RRYUt4c0lfRGg4MDJBMFJsaVZ4U3ZPWUdiS2IxQXRQRFdaX2gtdjNFeE5CWDhaR0xMeFRMNEMzVkZVRmFfelJ5NWx5cEJzd0FYdHZXQjhJd2ZoVklmMnd2VFA2WQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlR5TUVaRTF0bkIzOTBpb0JNUktkdFpsYUIwWVNpTzBVeXJ4ZXRuN2lFVmdqaEk0VDZNWTBXeDcxdGlBTzFKU0QtVlBHcUVYMnlVelhUZG9Oel83bFY0ZDNmVjdPQjMzaDRvSGV2bFZDeWdxM1NOTlhyODFOMC1xbkNsQkhhM0Qydl9zbFJzc1ZBd1RRYUt4c0lfRGg4MDJBMFJsaVZ4U3ZPWUdiS2IxQXRQRFdaX2gtdjNFeE5CWDhaR0xMeFRMNEMzVkZVRmFfelJ5NWx5cEJzd0FYdHZXQjhJd2ZoVklmMnd2VFA2WQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T09:40:35+00:00",
+   "vu_le": "2026-10-22T21:57:05.466520+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Le marché immobilier est en perte de vitesse, mais son impact sur le cycle économique reste limité",
    "source": "Investing.com",
    "theme": "Finance / Economie (général)",
@@ -1236,6 +1423,17 @@
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e7874dbcb03d1c"
   },
   {
+   "titre": "Bourse : Hermès et FDJ prennent une gifle, spéculation sur Verisure - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHp0ZlN2OHZOUWVFQU4wYmRIVVAyN1hmVGNxVDMwd1Q5R2ZGVnhYdWNsMmZkR3hvdWNleGpvMzU2eXNjazZ3bEloZ0JNOFpHdjVLek5WTU1jcl92MldyOFhjMllpbUdXU084NFBmMlJjMjd3VUVwaF8yOExfeVVHODFoMTNEekVCaHJiNU5CdUc2MFNIdURWUnRLdEF0R2dkWC13TzJSdDNtQVJhWnR5Y3VpcUpDWFY0M1Zkc0VfM3Ftb0E?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHp0ZlN2OHZOUWVFQU4wYmRIVVAyN1hmVGNxVDMwd1Q5R2ZGVnhYdWNsMmZkR3hvdWNleGpvMzU2eXNjazZ3bEloZ0JNOFpHdjVLek5WTU1jcl92MldyOFhjMllpbUdXU084NFBmMlJjMjd3VUVwaF8yOExfeVVHODFoMTNEekVCaHJiNU5CdUc2MFNIdURWUnRLdEF0R2dkWC13TzJSdDNtQVJhWnR5Y3VpcUpDWFY0M1Zkc0VfM3Ftb0E?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T07:05:43+00:00",
+   "vu_le": "2026-10-22T21:57:06.120121+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Pour les syndicats, la réponse de Matignon n’est « pas à la hauteur », la CGT appelle à « généraliser la grève » du 5 novembre",
    "source": "Le Monde Economie",
    "theme": "Finance / Economie (général)",
@@ -1289,6 +1487,17 @@
    "date_publication": "2026-10-22T06:04:32+00:00",
    "vu_le": "2026-10-22T09:38:20.470041+00:00",
    "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "Le tiède et le froid - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSjI4SnZuTlVDSkdfWW5aUU1NTUNUZ0NWY3JTNWs0X214YkJkaV9GQ2hDLVFqVER5dnM0bGhxOEJSVV9XRWs2NUozM3p0QmpGNHlNeTFVUmZWWWM3dzdhNGpqandZZ1VaQm9FN3BPa3VpQnNVY0pyRzkyN0s3Y29OcjdYWFhhUDhu?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSjI4SnZuTlVDSkdfWW5aUU1NTUNUZ0NWY3JTNWs0X214YkJkaV9GQ2hDLVFqVER5dnM0bGhxOEJSVV9XRWs2NUozM3p0QmpGNHlNeTFVUmZWWWM3dzdhNGpqandZZ1VaQm9FN3BPa3VpQnNVY0pyRzkyN0s3Y29OcjdYWFhhUDhu?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-22T05:46:30+00:00",
+   "vu_le": "2026-10-22T21:57:06.148410+00:00",
+   "resume": ""
   },
   {
    "titre": "Le Livret A boudé par les Français en septembre (Caisse des dépôts) - Boursorama",
@@ -1742,17 +1951,6 @@
    "resume": ""
   },
   {
-   "titre": "\"Il a sali sa fonction\" : inéligibilité requise contre le député LFI Sébastien Delogu - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaW10NnhVQm1RZWtlMHVtYmZPb3dSTF9fbXY1ZGVrdGdvNEMyNXJLV2Y0ZlZKSEhMR0d6YUlnM1l0MTZueE9DNktocDNEeTVBWmFjNEpTZ2t3NUdlMl84Tlk5NmFYaVdPWnNfRHIwNjJybjFhTUxCcFc3UjN0SGIxMEgzUzBpUnVxcGxrMWlMVHIxOURxZm44bHh1VEh3cWxIWnpuS3lta3FXMFR0MmJXNy0wSGNJZVBrOWRZOHBHTmNVcjMzSGJ6aXBVeVpTaUYwX1ZMQWNXakVlYy1BdDdnRjNfMndWUVVLcG1lN01HaWtMT09ENjN3cE05R3B1cHRoQ0Vr0gGIAkFVX3lxTE5OVjhic05VenJKeEp2NWFQSWNaSFNDY2xxanFQVUpyeExfYXlLQ0dwM3dDbGRnMjZ5TkJ2eVRIZThSWHhzeFN1WnpSakhMTHp4NURXOVVwSlRJZ084OGlfeGZNSjU0RUNLZzNSeFdrbE1FUlE1NnExNWNURFJoaHN6MWRQVmR6dENNR29Uc3hOTF9EcndfTEhvUVcybkd5Tk9mNVpXeXJSTWFpTktDV05pYzJtZFcyTE5CRlA0QkloVmUzd0gxS2p3M3psbG5QVFE1cS1UUUc5ZFp3eGo2QlRENjh6b3JPb1NTcEZiQ2ZWNjNFMExZRmoyaERiQmdQeFRCZ3ZhWHBRQw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaW10NnhVQm1RZWtlMHVtYmZPb3dSTF9fbXY1ZGVrdGdvNEMyNXJLV2Y0ZlZKSEhMR0d6YUlnM1l0MTZueE9DNktocDNEeTVBWmFjNEpTZ2t3NUdlMl84Tlk5NmFYaVdPWnNfRHIwNjJybjFhTUxCcFc3UjN0SGIxMEgzUzBpUnVxcGxrMWlMVHIxOURxZm44bHh1VEh3cWxIWnpuS3lta3FXMFR0MmJXNy0wSGNJZVBrOWRZOHBHTmNVcjMzSGJ6aXBVeVpTaUYwX1ZMQWNXakVlYy1BdDdnRjNfMndWUVVLcG1lN01HaWtMT09ENjN3cE05R3B1cHRoQ0Vr0gGIAkFVX3lxTE5OVjhic05VenJKeEp2NWFQSWNaSFNDY2xxanFQVUpyeExfYXlLQ0dwM3dDbGRnMjZ5TkJ2eVRIZThSWHhzeFN1WnpSakhMTHp4NURXOVVwSlRJZ084OGlfeGZNSjU0RUNLZzNSeFdrbE1FUlE1NnExNWNURFJoaHN6MWRQVmR6dENNR29Uc3hOTF9EcndfTEhvUVcybkd5Tk9mNVpXeXJSTWFpTktDV05pYzJtZFcyTE5CRlA0QkloVmUzd0gxS2p3M3psbG5QVFE1cS1UUUc5ZFp3eGo2QlRENjh6b3JPb1NTcEZiQ2ZWNjNFMExZRmoyaERiQmdQeFRCZ3ZhWHBRQw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T21:23:24+00:00",
-   "vu_le": "2026-10-21T21:31:33.304691+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Ukraine: la diplomatie est relancée, Trump se réjouit, Moscou temporise - Boursorama",
    "source": "Boursorama",
    "theme": "Finance / Economie (général)",
@@ -1761,50 +1959,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0EwMVByNGF0YW5uYzJQMHRfUW9BajYwRVFLbWRmV3NLbnZzZl9KVEt2TzRlUzI3d0dwc1BtdW80T1JFdlREOE9hN1NJZGU0Ti1MaTk5WE1iWjAwLU5udDN2SnAyQzc2bl9idzFueGpDclJyTEwteTdmcm9CUU1SX3p0blNQNG9ZQnFCQjd2OC12cWdyR0ZIbFlMZ3Z2Uk5sM29vQllNSlVwUGtpeU1MMXR6ZFZRd19SRTZ2Rlp2enlvV2tuU1dBWjFMcFZ1QzJJamVQYUxiQkt6emlQelVZ0gHkAUFVX3lxTE5Qd1lPTlQwQUxOYWxnY1FPejBGdlZ2YjZwb2wtZHlhRllGMllsMmN6QWN6Q3hFVHhRTGJTbHdnblY4ZENyYXo3SjRJVzhhSjVyWGVaS0lVd05XNWxzb3hGbDFMUGNVNWVZYTk3eGhBNnJ6alowdHVpd0h4OGlwZGxaU09DdHQ5NVZrd3FZWFVKWVcwYkZIM0VYX0ZRYm0wZDVkY3c3SXZMc2RBZjBIa0pQRk9aWDFYZm1JT3FqSXlqYU9HSG1VVnhQQlFBYnJrVXdUWVA5TENoNFZGUE9fZHFOM3JGRw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-21T21:21:00+00:00",
    "vu_le": "2026-10-22T00:09:03.888841+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T20:58:21+00:00",
-   "vu_le": "2026-10-21T21:31:31.785693+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea3483d585e"
-  },
-  {
-   "titre": "Meta : chiffre d'affaires supérieur aux attentes au 3eT, bénéfice amputé par 10 milliards de frais judiciaires - Boursorama",
-   "source": "Boursorama",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPb09PSWstSTFPMFpESTRWYzdTSGMzeUFDUDMtenVsYlZ5TkVkTk93RnFzWTBYdGtWdFluRmU0Yjg5ZU9qTE5YaXNBN3hHNEZPREl6SXJJTkVrYmlXdE1NUl91anRCQm1Hd3BWOVVZQldMMVlxVGRPVHlRZVBZMzBpLUltS3diSXVvY0t0SFNZWUtsU1U1WWQ0cl9IQzlaVzM2eDl0OWd2bHhqNGVVRXpYUEJLOXlHVmp5MmZsdkNjMTRiZGFqN04xcVppUHZTUzBGMWREQ1NLMnNRckYxY2tYZVp4Q2xhWmdZbTFTWFNhVUlZZmNFaDlyOVRTTlNXeXRhclBrOFdtbm05WUxCUlBrSGpZa2RNSDUzMUVnOVgtT09PYU5BZEHSAasCQVVfeXFMUEw4c3NDSG5XOWxJZmF0aTBHWHFDbnk3M2F5VkVmcUJCenNqSS1YTEZucjZ1NF9ZVWZ1S2lfRENoZEtUaEdieUJhT2dPZExzcVRqMDVzVVRxMTFKRmNiZFd3S3c2LVRQRnZRWGpYeU1EdGQxYk9VWDY1ZkxhN3lWRUR4d2tMcUVrb0Y2b29qSUY3MWQ2c25tRkFyWHMyNzhBRFphdnNVbFZSZ1d3UE55UDd4QXAxSGFwRE9HbF9vVTNJV0w4RGZFVVY3eTNvYlA3UWkyZFRXOHA3WmkxVzdkRl9DWUJkNHJRNExXdnNpUHo5X3RYNy0yeHc1WTRsVDRkbjNpRzhMc3JiZWhVM0l5bGUwTElOWFp2R1FQSTBWTXF5Zk9USGdFUzM5UFk?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPb09PSWstSTFPMFpESTRWYzdTSGMzeUFDUDMtenVsYlZ5TkVkTk93RnFzWTBYdGtWdFluRmU0Yjg5ZU9qTE5YaXNBN3hHNEZPREl6SXJJTkVrYmlXdE1NUl91anRCQm1Hd3BWOVVZQldMMVlxVGRPVHlRZVBZMzBpLUltS3diSXVvY0t0SFNZWUtsU1U1WWQ0cl9IQzlaVzM2eDl0OWd2bHhqNGVVRXpYUEJLOXlHVmp5MmZsdkNjMTRiZGFqN04xcVppUHZTUzBGMWREQ1NLMnNRckYxY2tYZVp4Q2xhWmdZbTFTWFNhVUlZZmNFaDlyOVRTTlNXeXRhclBrOFdtbm05WUxCUlBrSGpZa2RNSDUzMUVnOVgtT09PYU5BZEHSAasCQVVfeXFMUEw4c3NDSG5XOWxJZmF0aTBHWHFDbnk3M2F5VkVmcUJCenNqSS1YTEZucjZ1NF9ZVWZ1S2lfRENoZEtUaEdieUJhT2dPZExzcVRqMDVzVVRxMTFKRmNiZFd3S3c2LVRQRnZRWGpYeU1EdGQxYk9VWDY1ZkxhN3lWRUR4d2tMcUVrb0Y2b29qSUY3MWQ2c25tRkFyWHMyNzhBRFphdnNVbFZSZ1d3UE55UDd4QXAxSGFwRE9HbF9vVTNJV0w4RGZFVVY3eTNvYlA3UWkyZFRXOHA3WmkxVzdkRl9DWUJkNHJRNExXdnNpUHo5X3RYNy0yeHc1WTRsVDRkbjNpRzhMc3JiZWhVM0l5bGUwTElOWFp2R1FQSTBWTXF5Zk9USGdFUzM5UFk?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T20:55:16+00:00",
-   "vu_le": "2026-10-21T21:31:33.249061+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Déraillement d’un train à Eséka : 10 ans après la catastrophe, le Cameroun se souvient - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTFNHdlNmSTA4X2cwMTNOVE9Sby14eHR3MEFhZ0laYWJjelVSUWtPcjRxZFA0ZmRuNUJhWkhoVlFNc2U3S2M5X2Y4ZFBGclNBdm4wT2s1bmg2ZkNLZXVmcEg4cU02NHJ3S0Z4cmtYa3lBZEhWSFg4aE5nVW52NEZQWkUtTElESGlpMXpaWlRoLXdwbVRlRHNmZVRpbFNlWkZXRkdWMF9UU041YkVXUUhwNE5BeUZmdkxydThuWWdUNU5pbktQZzNRbGhrV090akt5UVdCT1lBN3NBY3BHdjU3WWM1R0I5LTEtU0ZJNTJnRWw3bWPSAfgBQVVfeXFMTXh3dFlneF9MM1IyTXpXOFRtNVRucTJfRVVaVEY1a0ZoRTg1VFVZNDM5bVFZTmV1TmllMlR2QTJCT3ZPS2RwSnA2engxR2JLT2ljQXhkQWt3b2FWWkdOS0dsaXpYeDRuM2NOV0UwSmxTcTNRUWhkdGJNcjJJMEdzVFRtOXdFbEFIOXFYcDhzRm5SUFNZeW00NmhJalBDRXZjOHZWSVRoMXpUN0VrbG9RbEoxSmxSMURWanh1R2JIRGVlaWREV0c5NmtzNF95QVpuQXZNbnh4VXlZMGNERkVjM1B4NDFlSkxXZVV6bVVuN1R1bW1zNW1sc3E?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTFNHdlNmSTA4X2cwMTNOVE9Sby14eHR3MEFhZ0laYWJjelVSUWtPcjRxZFA0ZmRuNUJhWkhoVlFNc2U3S2M5X2Y4ZFBGclNBdm4wT2s1bmg2ZkNLZXVmcEg4cU02NHJ3S0Z4cmtYa3lBZEhWSFg4aE5nVW52NEZQWkUtTElESGlpMXpaWlRoLXdwbVRlRHNmZVRpbFNlWkZXRkdWMF9UU041YkVXUUhwNE5BeUZmdkxydThuWWdUNU5pbktQZzNRbGhrV090akt5UVdCT1lBN3NBY3BHdjU3WWM1R0I5LTEtU0ZJNTJnRWw3bWPSAfgBQVVfeXFMTXh3dFlneF9MM1IyTXpXOFRtNVRucTJfRVVaVEY1a0ZoRTg1VFVZNDM5bVFZTmV1TmllMlR2QTJCT3ZPS2RwSnA2engxR2JLT2ljQXhkQWt3b2FWWkdOS0dsaXpYeDRuM2NOV0UwSmxTcTNRUWhkdGJNcjJJMEdzVFRtOXdFbEFIOXFYcDhzRm5SUFNZeW00NmhJalBDRXZjOHZWSVRoMXpUN0VrbG9RbEoxSmxSMURWanh1R2JIRGVlaWREV0c5NmtzNF95QVpuQXZNbnh4VXlZMGNERkVjM1B4NDFlSkxXZVV6bVVuN1R1bW1zNW1sc3E?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T20:53:05+00:00",
-   "vu_le": "2026-10-21T21:31:32.492608+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "flatexDEGIRO SE : Jefferies maintient sa recommandation neutre - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0ZaQnlkdU5GRmFMbENyNUNMd2Z3TTE0dEd2c3VqWGVmVWU2WTlva3RmNkdKODB1UkZuRzZEZEVpeTFGVUlKczR5SENSLXRyLVMxMXo3ZzRoUnJaS2tMTkNwWFNxNTF5U1JrbkkzZENkNVhlUFZ5aGJCTExBSlQzQkEzcTJvamtwRUd6RVRBSkp6R2lQU3RLY3puci1naHZCcGZpbmxjM2cxVC1DcEFwOGlLZGZsT2NwWHJVd0Jn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0ZaQnlkdU5GRmFMbENyNUNMd2Z3TTE0dEd2c3VqWGVmVWU2WTlva3RmNkdKODB1UkZuRzZEZEVpeTFGVUlKczR5SENSLXRyLVMxMXo3ZzRoUnJaS2tMTkNwWFNxNTF5U1JrbkkzZENkNVhlUFZ5aGJCTExBSlQzQkEzcTJvamtwRUd6RVRBSkp6R2lQU3RLY3puci1naHZCcGZpbmxjM2cxVC1DcEFwOGlLZGZsT2NwWHJVd0Jn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T20:48:27+00:00",
-   "vu_le": "2026-10-21T21:31:35.576919+00:00",
    "resume": ""
   },
   {
@@ -1819,28 +1973,6 @@
    "resume": ""
   },
   {
-   "titre": "Ébola gagne du terrain : au Nigeria, le \"choc\" après l'annonce d'un premier cas de souche Bundibugyo - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQWNNQWpPLTVGejl1ZzhqNU01X0lXRUdUQ2F0dXUtTFMzYWs4RjBWR0p0NFNsVjZGTkVNYnFYQXNIakpmd3huckROVHZtamloRTYyQ3RxbW1WcGo5TjdwOEVOWGkweDRKZndnVkk2YWRWdkszM0FjVDdlX2lENl9IVVlTSWhTTUNkeDRGZGZXeVQwTjZVUXpORUxycFFOc2ZDQU1Sbk41RmNSODJVX3F5ZXZ1VU9kbjc4SjNoeGxaS0hVOHV2U3dRRVhQWEN0N3hpamktOThnUm45MUowV1FsV1NNcmpkTTV3Z2g4N3paeTFybkNzdk5jam9taXI5djNLaEZz0gGIAkFVX3lxTE9kREZqX2huaXZjUldtaXpEMVZ2cmVNZ20yOE1pczg2Q2FUc0xFYS1wWDZoTWJrUFptSktiUVNlWGJIQ0JBUm9WUWdXUVVyZ25hNUpDTFFuRDNiUlc0ZkM4X1p1NXlNYVJBZERjZXBXbnVNNmlMaUlZZzJ1TWlkaF9jYXYta1VmTjZrVGdTZERJRmkxLVIwVXlrajFzeFBhaEZSSEhndExiaW5sX3FHcVhWMU1fWXFxWTdtXzlJUTRocy1SN1ZacVpWZEZiSEFzUlBWaWh3MzNfV2FnUS1lNHc5SlIxZEJLTFNZbDQtMDVUTlFQQzFFeGh2bUVWR0Jmblg5QjdhWUJaNA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQWNNQWpPLTVGejl1ZzhqNU01X0lXRUdUQ2F0dXUtTFMzYWs4RjBWR0p0NFNsVjZGTkVNYnFYQXNIakpmd3huckROVHZtamloRTYyQ3RxbW1WcGo5TjdwOEVOWGkweDRKZndnVkk2YWRWdkszM0FjVDdlX2lENl9IVVlTSWhTTUNkeDRGZGZXeVQwTjZVUXpORUxycFFOc2ZDQU1Sbk41RmNSODJVX3F5ZXZ1VU9kbjc4SjNoeGxaS0hVOHV2U3dRRVhQWEN0N3hpamktOThnUm45MUowV1FsV1NNcmpkTTV3Z2g4N3paeTFybkNzdk5jam9taXI5djNLaEZz0gGIAkFVX3lxTE9kREZqX2huaXZjUldtaXpEMVZ2cmVNZ20yOE1pczg2Q2FUc0xFYS1wWDZoTWJrUFptSktiUVNlWGJIQ0JBUm9WUWdXUVVyZ25hNUpDTFFuRDNiUlc0ZkM4X1p1NXlNYVJBZERjZXBXbnVNNmlMaUlZZzJ1TWlkaF9jYXYta1VmTjZrVGdTZERJRmkxLVIwVXlrajFzeFBhaEZSSEhndExiaW5sX3FHcVhWMU1fWXFxWTdtXzlJUTRocy1SN1ZacVpWZEZiSEFzUlBWaWh3MzNfV2FnUS1lNHc5SlIxZEJLTFNZbDQtMDVUTlFQQzFFeGh2bUVWR0Jmblg5QjdhWUJaNA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T20:45:33+00:00",
-   "vu_le": "2026-10-21T21:31:32.309468+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Tesla’s profits slip on weaker vehicle sales",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T20:44:43+00:00",
-   "vu_le": "2026-10-21T21:31:31.644735+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea26f0b5e27"
-  },
-  {
    "titre": "Forum Bourse CAC 40 - 21/10/2026 22:44:23 - Le marché schizophréne qui vit grâce à la dette - Boursorama",
    "source": "Boursorama",
    "theme": "Bourse / Marchés",
@@ -1850,17 +1982,6 @@
    "date_publication": "2026-10-21T20:44:23+00:00",
    "vu_le": "2026-10-22T00:09:04.036511+00:00",
    "resume": ""
-  },
-  {
-   "titre": "Meta to create new non-voting share class to enable AI fundraising",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T20:27:39+00:00",
-   "vu_le": "2026-10-21T21:31:31.663361+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea26ff3a31e"
   },
   {
    "titre": "Republicans head into midterms with huge spending advantage",
@@ -1874,28 +1995,6 @@
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e4456549f7fc74"
   },
   {
-   "titre": "Orange annonce le rétablissement de son réseau mobile",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/pixels/article/2026/10/21/orange-annonce-le-retablissement-de-son-reseau-mobile_6798249_4408997.html",
-   "url_propre": "https://www.lemonde.fr/pixels/article/2026/10/21/orange-annonce-le-retablissement-de-son-reseau-mobile_6798249_4408997.html",
-   "date_publication": "2026-10-21T20:22:27+00:00",
-   "vu_le": "2026-10-21T21:31:31.285285+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Qu’est-ce que PHP, ce langage informatique qui a fait vaciller une partie de l’Internet mondial ?",
-   "source": "Le Figaro Economie",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/qu-est-ce-que-php-ce-langage-informatique-qui-a-fait-vaciller-une-partie-d-internet-20261021",
-   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/qu-est-ce-que-php-ce-langage-informatique-qui-a-fait-vaciller-une-partie-d-internet-20261021",
-   "date_publication": "2026-10-21T20:22:16+00:00",
-   "vu_le": "2026-10-21T21:31:31.528567+00:00",
-   "resume": "Gratuit et relativement simple à apprendre, il s’est imposé comme le langage de programmation par défaut pour de très nombreux sites. Annegret Hilse / REUTERS Deux failles critiques découvertes dans l’un des rouages essentiels du web ont conduit de nombreux services à se mettre hors ligne. C’est l’u"
-  },
-  {
    "titre": "Gouvernements paniqués, cyberattaques massives en préparation, implication d’OpenAI… Le jour où Internet a été débranché en urgence à cause du PHP",
    "source": "Le Figaro Economie",
    "theme": "Finance / Economie (général)",
@@ -1905,28 +2004,6 @@
    "date_publication": "2026-10-21T20:22:14+00:00",
    "vu_le": "2026-10-22T04:39:54.818676+00:00",
    "resume": "RÉCIT - Deux vulnérabilités critiques qui viennent d’être découvertes mettent en péril 70% du web mondial. Des milliers de sites à travers le monde ont dû être temporairement désactivés dans l’attente d’un correctif. Des millions de données personnelles potentiellement exposées, des ministères franç"
-  },
-  {
-   "titre": "« Ce serait la crise quasi immédiate » : ce que les milieux économiques pensent du programme de Jean-Luc Mélenchon",
-   "source": "Le Figaro Economie",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://www.lefigaro.fr/conjoncture/ce-serait-la-crise-quasi-immediate-ce-que-les-milieux-economiques-pensent-du-programme-de-jean-luc-melenchon-20261021",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/ce-serait-la-crise-quasi-immediate-ce-que-les-milieux-economiques-pensent-du-programme-de-jean-luc-melenchon-20261021",
-   "date_publication": "2026-10-21T20:11:51+00:00",
-   "vu_le": "2026-10-21T21:31:30.869278+00:00",
-   "resume": "Jean-Luc Mélenchon, leader du parti d’opposition d’extrême gauche La France insoumise (LFI) et candidat à l’élection présidentielle française de 2027, assiste à une conférence de presse pour présenter le budget alternatif du parti pour 2027, à Paris, France, le 14 octobre 2026. Abdul Saboor / REUTER"
-  },
-  {
-   "titre": "GM aims to leapfrog rivals with new generation of autonomous cars",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T20:10:13+00:00",
-   "vu_le": "2026-10-21T21:31:31.829547+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea39b6eafef"
   },
   {
    "titre": "Encadrement des loyers : le Sénat vote la prolongation du dispositif pendant deux ans",
@@ -1951,17 +2028,6 @@
    "resume": "Les députés approuvent l’interdiction de l'hexane dans l'alimentation à partir de 2027 Contre l’avis du gouvernement, les députés ont voté de justesse en faveur de l’interdiction de ce solvant, suspecté d’être un perturbateur endocrinien. Passer la publicité Passer la publicité Les députés ont voté "
   },
   {
-   "titre": "Des ETF gérés avec profit par l’IA, Richemont nouveau champion du luxe, un «hôtelier de l’extrême» marseillais qui en a sous le pied, fin de partie pour la Bourse de Paris ? Consultez La lettre des placements du 21 octobre",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/expertise/des-etf-geres-avec-profit-par-l-ia-richemont-nouveau-champion-du-luxe-un-hotelier-de-l-extreme-marseillais-qui-en-a-sous-le-pied-fin-de-partie-pour-la-bourse-de-paris-consultez-la-lettre-des-placements-du-21-octobre-20261021",
-   "url_propre": "https://bourse.lefigaro.fr/expertise/des-etf-geres-avec-profit-par-l-ia-richemont-nouveau-champion-du-luxe-un-hotelier-de-l-extreme-marseillais-qui-en-a-sous-le-pied-fin-de-partie-pour-la-bourse-de-paris-consultez-la-lettre-des-placements-du-21-octobre-20261021",
-   "date_publication": "2026-10-21T19:36:02+00:00",
-   "vu_le": "2026-10-21T21:31:32.530122+00:00",
-   "resume": "Des ETF gérés avec profit par l’IA, Richemont nouveau champion du luxe, un «hôtelier de l’extrême» marseillais qui en a sous le pied, fin de partie pour la Bourse de Paris ? Consultez La lettre des placements du 21 octobre Des ETF gérés avec profit par l’IA, Richemont nouveau champion du luxe, un «h"
-  },
-  {
    "titre": "États-Unis : Meta condamné à une amende de 25 milliards de dollars dans l’affaire Cambridge Analytica",
    "source": "Le Figaro Economie",
    "theme": "Bourse / Marchés",
@@ -1973,28 +2039,6 @@
    "resume": "États-Unis : Meta condamné à une amende de 25 milliards de dollars dans l’affaire Cambridge Analytica La maison mère de Facebook est condamné par un juge du Nouveau-Mexique pour avoir trompé les habitants de cet État américain sur l’utilisation de leurs données personnelles. Passer la publicité Pass"
   },
   {
-   "titre": "Forum Bourse OSE Immuotherapeutics - 21/10/2026 21:18:37 - Combi ted presse italienne - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyaklheGU3RkhCVWNFY2pseFpLaUw2c1lqUTVtbmJuNzJrZVBLY0VBX2M5Sjc1TE13S3M4X2NpSFN1Qm5ETXRFMDd5a21ZRVdiU1pRblpNa05QRHpLd3VaVF9pcHdtY2x5VmFSd0dRdlFtQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyaklheGU3RkhCVWNFY2pseFpLaUw2c1lqUTVtbmJuNzJrZVBLY0VBX2M5Sjc1TE13S3M4X2NpSFN1Qm5ETXRFMDd5a21ZRVdiU1pRblpNa05QRHpLd3VaVF9pcHdtY2x5VmFSd0dRdlFtQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T19:18:37+00:00",
-   "vu_le": "2026-10-21T21:31:32.580435+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "CVC envisagerait de racheter Verisure pour le retirer de la Bourse - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRndNak5lSGZSQ3doaVRaUl9uZVpieDlGbFlCR3U1QnBCLWlaV0VHQU1ScVozLV8wclV5VklWWFhzVmZ1ZmhZV3BnOWdaR2xYYkRYejhWMlZDTHpmSFhOYXdIaFFXQ0pXWGoxTkhGRi1YeWhoOF8zMmgta1RkYTc3TmpXWHdxTzRDck42bTl3OFlzOWh6eml4YzhKOGgwd1YxR01UTGRWNEc5SWlJNURzaVN6RV9CMjh6d2Z5dGRsaWhyMWtW?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRndNak5lSGZSQ3doaVRaUl9uZVpieDlGbFlCR3U1QnBCLWlaV0VHQU1ScVozLV8wclV5VklWWFhzVmZ1ZmhZV3BnOWdaR2xYYkRYejhWMlZDTHpmSFhOYXdIaFFXQ0pXWGoxTkhGRi1YeWhoOF8zMmgta1RkYTc3TmpXWHdxTzRDck42bTl3OFlzOWh6eml4YzhKOGgwd1YxR01UTGRWNEc5SWlJNURzaVN6RV9CMjh6d2Z5dGRsaWhyMWtW?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T19:12:15+00:00",
-   "vu_le": "2026-10-21T21:31:35.001993+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Orange : Rétablissement du réseau mobile d’Orange France - Zonebourse",
    "source": "ZoneBourse",
    "theme": "Bourse / Marchés",
@@ -2003,50 +2047,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVNONHZnVjZoSlRBRkRQRTlUNkRKVk1IOHJMMXhfR00xa0dsbnZKdUkyamIzNDdRM2xFU3hPdVRXN3ZDMFdZc0xwQ1lHSDJoSk1WQjVVbk1qaDhpRmNNTnlpRFFPYVo0T2dVcnJkbFNKZVpYbTJSTkNsVDJhOFFuZHJIQVlIaFhqWFFrUWU4RUkwTGpaa0JzMWRfclVOd25DMHdNLXUxc2FQdUdORDVvc2txU1JhMVE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-21T19:07:04+00:00",
    "vu_le": "2026-10-22T04:39:56.112439+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "ABB Ltd : DZ Bank favorable sur le dossier - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDN2VlVfLXd3TW9mUE5ZcWE1bXByM0lrMnJtZHg3Z1hlWUxJaEtZUnhxUFVLNGRBRFV3dlZvb291NjN5Sk5jdU4tR2MyOTNBaHVfMnVEU1YtVlRJeGI0T21FZ0RnV1doVG1LM1pBRjZiYTA4UTJIaE14WjBvRXM0NHU4WFg3bEFNZVFTSFRDZ2F1WllIU2JmX1BiNGRGaGpCNUE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDN2VlVfLXd3TW9mUE5ZcWE1bXByM0lrMnJtZHg3Z1hlWUxJaEtZUnhxUFVLNGRBRFV3dlZvb291NjN5Sk5jdU4tR2MyOTNBaHVfMnVEU1YtVlRJeGI0T21FZ0RnV1doVG1LM1pBRjZiYTA4UTJIaE14WjBvRXM0NHU4WFg3bEFNZVFTSFRDZ2F1WllIU2JmX1BiNGRGaGpCNUE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T18:48:27+00:00",
-   "vu_le": "2026-10-21T21:31:35.043297+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T18:46:59+00:00",
-   "vu_le": "2026-10-21T21:31:31.406770+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea0eeda163f"
-  },
-  {
-   "titre": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T18:46:43+00:00",
-   "vu_le": "2026-10-21T21:31:31.535992+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea19d404adb"
-  },
-  {
-   "titre": "Forum Bourse NANOBIOTIX - 21/10/2026 20:43:42 - Où en est la VAD - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRRk1NQTlqMVotaUswVm04YVVfdVMza3dFNG5PMXFkbTR3bDZ6QzFFR1NnSjRmclBoUEVBU1djTVRpTlZRdUJ6NGVBYms1SWhfMHg3eWxiOXc2bm9FWEYxMDNkaTZWZlNWbHg5NFVrTGF4ek0?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRRk1NQTlqMVotaUswVm04YVVfdVMza3dFNG5PMXFkbTR3bDZ6QzFFR1NnSjRmclBoUEVBU1djTVRpTlZRdUJ6NGVBYms1SWhfMHg3eWxiOXc2bm9FWEYxMDNkaTZWZlNWbHg5NFVrTGF4ek0?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T18:43:42+00:00",
-   "vu_le": "2026-10-21T21:31:32.787238+00:00",
    "resume": ""
   },
   {
@@ -2061,83 +2061,6 @@
    "resume": ""
   },
   {
-   "titre": "Quatre usines de Stellantis à l’arrêt, l’inquiétude monte pour 2027",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/economie/article/2026/10/21/quatre-usines-de-stellantis-a-l-arret-l-inquietude-monte-pour-2027_6798303_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/10/21/quatre-usines-de-stellantis-a-l-arret-l-inquietude-monte-pour-2027_6798303_3234.html",
-   "date_publication": "2026-10-21T18:00:04+00:00",
-   "vu_le": "2026-10-21T21:31:31.738615+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "La France s’endette à plus de 5 % pour la première fois depuis 2002",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/conjoncture/la-france-s-endette-a-plus-de-5-pour-la-premiere-fois-depuis-2002-20261021",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/la-france-s-endette-a-plus-de-5-pour-la-premiere-fois-depuis-2002-20261021",
-   "date_publication": "2026-10-21T17:46:05+00:00",
-   "vu_le": "2026-10-21T21:31:30.723305+00:00",
-   "resume": "La France emprunte à 5 % sur dix ans, du jamais vu depuis 2002. Stephanie Lecocq / REUTERS Les violences du week-end des 17 et 18 octobre ont renforcé les doutes des investisseurs sur la capacité du gouvernement à faire voter le budget, à redresser les finances publiques et à réduire les déficits. C"
-  },
-  {
-   "titre": "Comment la raffinerie de TotalEnergies à Feyzin a augmenté sa production de carburants pour le marché français",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/societes/comment-la-raffinerie-de-totalenergies-a-feyzin-a-augmente-sa-production-de-carburants-pour-le-marche-francais-20261021",
-   "url_propre": "https://www.lefigaro.fr/societes/comment-la-raffinerie-de-totalenergies-a-feyzin-a-augmente-sa-production-de-carburants-pour-le-marche-francais-20261021",
-   "date_publication": "2026-10-21T17:32:03+00:00",
-   "vu_le": "2026-10-21T21:31:31.047966+00:00",
-   "resume": "Vue des installations de la raffinerie de TotalEnergies, à Feyzin, dans le Rhône. E.Bembaron / Le Figaro REPORTAGE - Chaque année, 5 millions de tonnes de pétrole brut entrent dans l’installation de TotalEnergies, près de Lyon, pour fournir au marché français 10 % de sa consommation d’essence, de ga"
-  },
-  {
-   "titre": "À Paris, le Medef réclame l’ouverture des commerces le dimanche pour «compenser les pertes» du 17 octobre",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/conso/a-paris-le-medef-reclame-l-ouverture-des-commerces-le-dimanche-pour-compenser-les-pertes-du-17-octobre-20261021",
-   "url_propre": "https://www.lefigaro.fr/conso/a-paris-le-medef-reclame-l-ouverture-des-commerces-le-dimanche-pour-compenser-les-pertes-du-17-octobre-20261021",
-   "date_publication": "2026-10-21T17:30:02+00:00",
-   "vu_le": "2026-10-21T21:31:31.723759+00:00",
-   "resume": "Le chef d’entreprise rappelle que la possibilité pour les commerces d’ouvrir le dimanche avait été étendue à l’ensemble de Paris, pendant les JO. Thomas SAMSON / Amélie BARON / AFP «Il est important que l’activité économique puisse reprendre le plus vite possible», estime le président du Medef Paris"
-  },
-  {
-   "titre": "Taxe sur les billets d’avion : la France paie-t-elle le prix de ses choix fiscaux dans l’aérien ?",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/conjoncture/taxe-sur-les-billets-d-avion-la-france-paie-t-elle-le-prix-de-ses-choix-fiscaux-dans-l-aerien-20261021",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/taxe-sur-les-billets-d-avion-la-france-paie-t-elle-le-prix-de-ses-choix-fiscaux-dans-l-aerien-20261021",
-   "date_publication": "2026-10-21T17:20:54+00:00",
-   "vu_le": "2026-10-21T21:31:31.332038+00:00",
-   "resume": "Dans son rapport sur l’application des mesures fiscales publié en septembre, le rapporteur général du budget, Philippe Juvin (LR), attribue le décrochage du trafic « sans aucun doute » à l’alourdissement de la fiscalité et en dénonce les « conséquences néfastes ». Markus Mainka / ADOBE STOCK DÉCRYPT"
-  },
-  {
-   "titre": "Mobilisations : quand des militants musulmans appellent à «arracher» les pancartes «Bismillah c’est les ténèbres» des manifestants",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/actualite-france/mobilisations-quand-des-militants-musulmans-appellent-a-arracher-les-pancartes-bismillah-c-est-les-tenebres-des-manifestants-20261021",
-   "url_propre": "https://www.lefigaro.fr/actualite-france/mobilisations-quand-des-militants-musulmans-appellent-a-arracher-les-pancartes-bismillah-c-est-les-tenebres-des-manifestants-20261021",
-   "date_publication": "2026-10-21T17:13:34+00:00",
-   "vu_le": "2026-10-21T21:31:30.923724+00:00",
-   "resume": "Dans la foule de manifestants, les pancartes «Bismillah c’est les ténèbres» sont légions. Yves Herman / REUTERS RÉCIT - Des militants musulmans dénoncent l’utilisation du mot «bismillah» en manifestation. Au moins l’un d’entre eux est passé à l’acte. Un signe marquant de l’«extrémisme», selon une is"
-  },
-  {
-   "titre": "Vivek Ramaswamy’s campaign engulfed by controversy over attack ad",
-   "source": "Financial Times",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
-   "date_publication": "2026-10-21T17:09:38+00:00",
-   "vu_le": "2026-10-21T21:31:31.751569+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4e35ea329c2446c"
-  },
-  {
    "titre": "Pourquoi le Chili produit moins de cuivre alors que la demande mondiale explose ? - Boursorama",
    "source": "Boursorama",
    "theme": "Finance / Economie (général)",
@@ -2146,17 +2069,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcjlPcW5SQ2NORDlSdlR5aGlxX29XMEFJeGRNNDlYeGJGemZ0WXRPS25ZVVJOR0Z1TXhvb3dnOFVVZ1Q2cktQdF93MFptelY1VEM1NHM0WjZJVkFsQTYyeHdLeW1VSldYcUpFZ3RPazZGT2xsbGotM2lFQXl5UGlQSUYwYmZhRGFrbkNwYzhjTGVsZGZKa2ZLMVJQc2Noa3dQZm1kSl9sUktQLTRqT051ZFlLUDZVdWZLQ0VrbDZTcmEyWnh4N2dNWU9yckhpTTV5ckxnRkNVbXN3TjNYT3BtRDNyeHdqWGRCSHlDU1dvcHlXZUtncFlOc2ZBZEhIZUsy0gGGAkFVX3lxTFAwc0hCNlV1ZkVJdnRLTGhsX1FlU0VPQnJGRy02WjFMcnJrSWFNS2hNSTRjazQya3JkbmZwZjhqSWlmb01leTNvLXBWbXZoZ2FEdjNIc3JGekNFQl83N01aNXd3bjY5UVBZTFRoLWc3V1JQQlIycUx1T05ITFBJMGxnYWRTX01DQ3VCWVF1NEJNaGJ0N1daaW96WVRjTEFRaUEyaEdTNnB3QWNzMEF4a2ZtaHd1di1QWXBZOGh4Q2RMVTlCNG5zSnRra3NYU211V2JCYUZhRkZVYVBsRzI2aWhTeXFHc3ZCeUdqYVVPSDMyRGNNRmNrNDRYMUdvVERnRUtXcDlvZmc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-21T16:59:27+00:00",
    "vu_le": "2026-10-22T00:09:03.942710+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse AMOEBA - 21/10/2026 18:09:57 - Sur X - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KaHVpZE5pdTdpcXY4eHd1YlZ4bjhFNlZ1clBVUzhkd05vWGxRQ091TjNWZ1hOTUNXVXZNdU5EaFdia2pDeHFOdll6RmwyeXZxMHNuMjhFVUhLMU5MLXpFSW1OREdybkdNQmZ2NmNnS2RnOVpH?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KaHVpZE5pdTdpcXY4eHd1YlZ4bjhFNlZ1clBVUzhkd05vWGxRQ091TjNWZ1hOTUNXVXZNdU5EaFdia2pDeHFOdll6RmwyeXZxMHNuMjhFVUhLMU5MLXpFSW1OREdybkdNQmZ2NmNnS2RnOVpH?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T16:09:57+00:00",
-   "vu_le": "2026-10-21T21:31:32.801673+00:00",
    "resume": ""
   },
   {
@@ -2169,17 +2081,6 @@
    "date_publication": "2026-10-21T15:42:48+00:00",
    "vu_le": "2026-10-22T00:09:04.798306+00:00",
    "resume": ""
-  },
-  {
-   "titre": "Failles critiques dans le langage informatique PHP : une partie du Web mondial paralysée",
-   "source": "Le Figaro Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://video.lefigaro.fr/figaro/conjoncture/failles-critiques-dans-le-langage-informatique-php-une-partie-du-web-mondial-paralysee-20261021",
-   "url_propre": "https://video.lefigaro.fr/figaro/conjoncture/failles-critiques-dans-le-langage-informatique-php-une-partie-du-web-mondial-paralysee-20261021",
-   "date_publication": "2026-10-21T14:59:53+00:00",
-   "vu_le": "2026-10-21T21:31:31.085178+00:00",
-   "resume": "Failles critiques dans le langage informatique PHP : une partie du Web mondial paralysée Plusieurs sites gouvernementaux européens ont été mis hors ligne ce mercredi 21 octobre par mesure de sécurité. Cela fait suite à une annonce des développeurs du langage de programmation PHP, utilisé dans l’arch"
   },
   {
    "titre": "\"On sort d'une sécheresse, il serait souhaitable que la grande distribution en tienne compte\": le ministre de l'Industrie défend les usines de l'agroalimentaire mais n'exclut pas une nouvelle hausse des prix dans les supermarchés - BFM",
@@ -2212,28 +2113,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNV2ZrZnpNU0xRZXlQM3BpMXh2RUY1TFFqcGpmTmZPeDBxRTZobWJuN2ZqNGs0RVdENkQ0MGV3ZG1aZU1oUVVscV9UOXZqcS10SVVfNUxZSGtYU2hKdnhzVTlQNnZjYkF6UHZZd2l3VWZ2TUZ3THIzcS1Cd1AzNDhTdEZOVFN3MF9EU2Y3Vnl3cnpJU1hCZWhiM2s5ZmtEcmRvTkQtZGdyaWlTTGliUW8wbFg3WlIxSFE3cU9Xd1A2QnBtMnpZODhyMVZ5VWVZZng2OXc1UUxPU2dxSXc1amotaGxfMG5XTW5ETFZXS2VRWTdfZ21udzNIV2ZYRW0ydmlkamJxX0Zn0gGLAkFVX3lxTE5XMDN0QmcwZW1NakNDV29fc3RmbmFia0VDUHpxMm8wS2Q2TGJ5SzREa2MyMXVWZElNdUgyNnVVczNlMFlkUVZiT3FHTnIxVWE0bUNQaXVxaDlnMTBPQzRqWTZtMkZBV0tuOS0yU3FIa2pkWE5ZQ2ZsS2YycVpuTl9jamFfRzJCSEpsYmZTRXdWN3R6T19lSnYzOXdSZHp6NncweUo4RThIYm1oTkJpN0Zla2RMT0dBOFA0cTgxbkJtOVJzbHFlOTV5S3Bjb0J2Ylk3WVRuOTkyUGdCMjJjRWszcENiRHpWM0Z5NXZmdEtvQmZxY3d6bjd0V2MzQkRDVk02RWtuLVNBMjVSVQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-21T12:09:00+00:00",
    "vu_le": "2026-10-22T04:39:55.377669+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "À peine deux semaines après l'annonce de Donald Trump, Moscou indique que la première cargaison de diesel russe vers les Etats-Unis partira jeudi - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNczVMQzZ6RFRQeDljYVFWaERsU2xHVEZvTE9mNUtkNlpXeENvRE9rdjVUQXlJTHVwek44VGY1NjBKeFZGWThfcTZyeWh4M21BMDhfaW01T2I3RmZDZnkzSE9HLTdiSzdPd3FTU1Q2VWJkZ2FXdjFRck1lMXlaX2x0bEJxVGxwZ01QTEVfaklZS0tBX2dFQ0RPVEVJMzdvYnNNMjZfYXk0WGdheUl5bmxmQ1hueWhNT09TQ2lveVFCOWZtd1FDNi1zUERodEVzeVlUS1NjbEYwYWxEZlA0VThnN2dFaFhVQzVCNU9YdlZ2dDBmVkpyemJHUjRKcmxRU1AwVGJTa3l4dWE1dTZ3a3hkaFU4TzJUUkZvVVItdFg1UmFHQ0I5Vzl2UGRadXhtaVczWHBVSWFDLXgyUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNczVMQzZ6RFRQeDljYVFWaERsU2xHVEZvTE9mNUtkNlpXeENvRE9rdjVUQXlJTHVwek44VGY1NjBKeFZGWThfcTZyeWh4M21BMDhfaW01T2I3RmZDZnkzSE9HLTdiSzdPd3FTU1Q2VWJkZ2FXdjFRck1lMXlaX2x0bEJxVGxwZ01QTEVfaklZS0tBX2dFQ0RPVEVJMzdvYnNNMjZfYXk0WGdheUl5bmxmQ1hueWhNT09TQ2lveVFCOWZtd1FDNi1zUERodEVzeVlUS1NjbEYwYWxEZlA0VThnN2dFaFhVQzVCNU9YdlZ2dDBmVkpyemJHUjRKcmxRU1AwVGJTa3l4dWE1dTZ3a3hkaFU4TzJUUkZvVVItdFg1UmFHQ0I5Vzl2UGRadXhtaVczWHBVSWFDLXgyUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T09:45:57+00:00",
-   "vu_le": "2026-10-21T21:31:33.874490+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "SpaceX et Super Micro en pompiers de la tech - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnNvbk9Na3FwX2FPVlZGMFZrVEtlMFRwTm5tVW5XX1YyNGZuRTZvRDJFazEyQVoxaWd5bnp1ckNMVEFLUXllbWFDOUVyUF9mVDEyN3ZlSHFhNHp5YktWTWRzV0ZqT3RlVFhfRUVabGw3eUU1eFNBVUNTVWxMVEpnc1NBanl3U0g2VmIxZVJ0SUtIQWcydFhWMEkyeWoteG9jZmRsQXZRN3g?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnNvbk9Na3FwX2FPVlZGMFZrVEtlMFRwTm5tVW5XX1YyNGZuRTZvRDJFazEyQVoxaWd5bnp1ckNMVEFLUXllbWFDOUVyUF9mVDEyN3ZlSHFhNHp5YktWTWRzV0ZqT3RlVFhfRUVabGw3eUU1eFNBVUNTVWxMVEpnc1NBanl3U0g2VmIxZVJ0SUtIQWcydFhWMEkyeWoteG9jZmRsQXZRN3g?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-21T05:45:52+00:00",
-   "vu_le": "2026-10-21T21:31:34.537439+00:00",
    "resume": ""
   },
   {
@@ -2281,15 +2160,59 @@
    "resume": ""
   },
   {
-   "titre": "Malgré 8,7 milliards d'euros de recettes supplémentaires, le déficit de la Sécu se creuse encore à 21,8 milliards d'euros: la Cour des compte alerte sur la bombe à retardement de la dette - BFM",
+   "titre": "\"Est-ce que cela vaut cet argent-là?\": le français OVHcloud prépare sa propre IA \"très en avance sur son temps\" et son patron s'attaque aux milliards de l'autre français Mistral - BFM",
    "source": "BFM Business",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNMFNxaWd3Q25HOFVmcHdJSHhfT1Fjb1FnR2czejA1X1NFYW5NRVBHaTZ0bkRpUTZOZFFkTDNnM1p6YWE2X2YtUVNjcVhSLTRDV2xxaklyZ3JqUXNOZnh5MzBJWkU3U1N1UFQxQjJZd0dvVDlVSWRDS3l0LVVqZF9CUU9qelFPcnl6c2N2WDVacUtMZDJRVVRyOFE5SHRZMkZNaUlhYkhzMFdEUmpRQW16SXc3dkl6aUsyRmtuSTNVbnVocXFiQVdxUDhLODcydUVzYWM5UDVMN3dUdWtMc2dNbkV6LVJ4QXVyVm1sbDNUZFlzdHBBc1IwNFZvSklZbnQwZlk3M2ZNcTZnRlNod2NuejZOQ3dOTkI4aWVyS0hmR1JvYWhsY2J5bkRiem9hZnE5ZXRQZjdqNjVIZ0ozRGo4RUVqUks4UFVUSnhYX2VjaGNLOGNlV19McUtDRE9tdjRuSzZXRl9HZ19TbDE0ZzFIWUI4OEhibjVtMU5XNTBsQ0szLWdpcVVuSmxTVHhiM1hJ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMikANBVV95cUxNMFNxaWd3Q25HOFVmcHdJSHhfT1Fjb1FnR2czejA1X1NFYW5NRVBHaTZ0bkRpUTZOZFFkTDNnM1p6YWE2X2YtUVNjcVhSLTRDV2xxaklyZ3JqUXNOZnh5MzBJWkU3U1N1UFQxQjJZd0dvVDlVSWRDS3l0LVVqZF9CUU9qelFPcnl6c2N2WDVacUtMZDJRVVRyOFE5SHRZMkZNaUlhYkhzMFdEUmpRQW16SXc3dkl6aUsyRmtuSTNVbnVocXFiQVdxUDhLODcydUVzYWM5UDVMN3dUdWtMc2dNbkV6LVJ4QXVyVm1sbDNUZFlzdHBBc1IwNFZvSklZbnQwZlk3M2ZNcTZnRlNod2NuejZOQ3dOTkI4aWVyS0hmR1JvYWhsY2J5bkRiem9hZnE5ZXRQZjdqNjVIZ0ozRGo4RUVqUks4UFVUSnhYX2VjaGNLOGNlV19McUtDRE9tdjRuSzZXRl9HZ19TbDE0ZzFIWUI4OEhibjVtMU5XNTBsQ0szLWdpcVVuSmxTVHhiM1hJ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-20T12:46:50+00:00",
-   "vu_le": "2026-10-21T21:31:34.337088+00:00",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZ09HVE9BM2UwUWJzMG1CTXlSNFg3WTczVm0zSE1BaWdZS2F4VU41MG55LUZINGhubmNVZy0zem1sTnN6VzFTeU5iTksxVzc1c1g4LWNXY1FxWFJKaUJmc3pOcnFKeUlKUHp1bzNGaWhLSjNuenlvbHo3Zk9BU2JyT2lKaEd5cWJPYmRvUVlaVy1Fc0l0bFZZa3MtNlE3UThOWnJOTjhfODBJMU5PTDhmQ0dMWkZHcWw0QU5oT0xkY1BVaGxBbjJfWnkzRFBhbGpSM3ZNWkNnVU95V2NpQXdzTE02SDF5N21hSGdlbG5wVE0ySW1lTkVkTzZRZ0l0Q016QVR5a3RBSjc0TVM1QV9MRHlaSUhHcFhsb3FuenotenRMeEJaZ1M0MnZyX2lwZEFUaUNzd2gyN1NDTHZ6M0VGM1VZdFNFUjQ1cUxiVjNuZVZZMXJZeGNJUXFpUUdhcExVSlRncjJB?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZ09HVE9BM2UwUWJzMG1CTXlSNFg3WTczVm0zSE1BaWdZS2F4VU41MG55LUZINGhubmNVZy0zem1sTnN6VzFTeU5iTksxVzc1c1g4LWNXY1FxWFJKaUJmc3pOcnFKeUlKUHp1bzNGaWhLSjNuenlvbHo3Zk9BU2JyT2lKaEd5cWJPYmRvUVlaVy1Fc0l0bFZZa3MtNlE3UThOWnJOTjhfODBJMU5PTDhmQ0dMWkZHcWw0QU5oT0xkY1BVaGxBbjJfWnkzRFBhbGpSM3ZNWkNnVU95V2NpQXdzTE02SDF5N21hSGdlbG5wVE0ySW1lTkVkTzZRZ0l0Q016QVR5a3RBSjc0TVM1QV9MRHlaSUhHcFhsb3FuenotenRMeEJaZ1M0MnZyX2lwZEFUaUNzd2gyN1NDTHZ6M0VGM1VZdFNFUjQ1cUxiVjNuZVZZMXJZeGNJUXFpUUdhcExVSlRncjJB?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-20T06:30:57+00:00",
+   "vu_le": "2026-10-22T21:57:06.034049+00:00",
    "resume": ""
+  },
+  {
+   "titre": "L’action de ce spécialiste français de la cybersécurité pourrait prendre 30%, selon les analystes de TP Icap Midcap",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/l-action-de-ce-specialiste-francais-de-la-cybersecurite-pourrait-prendre-30-selon-les-analystes-de-tp-icap-midcap-20261020",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/l-action-de-ce-specialiste-francais-de-la-cybersecurite-pourrait-prendre-30-selon-les-analystes-de-tp-icap-midcap-20261020",
+   "date_publication": "2026-10-20T05:03:00+00:00",
+   "vu_le": "2026-10-22T21:57:05.013521+00:00",
+   "resume": "La sécurité numérique est devenue un enjeu majeur pour les entreprises comme pour les États. GRUNGR - stock.adobe.com - Le Figaro Chaque semaine, Le Figaro Patrimoine et Bourse relaie des informations confidentielles repérées dans les notes d’analystes pour vous aider dans vos décisions d’investisse"
+  },
+  {
+   "titre": "La législation française sur les titres-restaurants va-t-elle changer la donne pour Edenred ?",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/la-legislation-francaise-sur-les-titres-restaurants-va-t-elle-changer-la-donne-pour-edenred-20261020",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/la-legislation-francaise-sur-les-titres-restaurants-va-t-elle-changer-la-donne-pour-edenred-20261020",
+   "date_publication": "2026-10-20T05:03:00+00:00",
+   "vu_le": "2026-10-22T21:57:05.174806+00:00",
+   "resume": "L’un des principaux risque pour les émetteurs de titres-restaurants comme Edenred est le changement de cadre réglementaire. Celui qui s’annonce en France ne devrait pas être trop pénalisant. Edenred - Le Figaro Vie des entreprises, fonctionnement du marché, droit boursier... La rédaction du Figaro P"
+  },
+  {
+   "titre": "INFO BFMTV. Bercy réunit ce lundi soir plusieurs plateformes dont Vinted, Leboncoin et eBay pour empêcher la revente de produits pillés lors du week-end - BFM",
+   "source": "BFM Business",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZDNYb3I3VnV6d3Q2WGNlc2tnSjZxZkZpa0Ywem9zVHRSU0xVdER2N0ZkQ2I2ZUhEZ1Vfb2REQ3dIeVB6OXFkTEJHSTV6bXAxSzItMVBzQV84M2x4OFZaV2FaMmdURWZZWldRaXhoOTNfbm10YmFRTE9EOVdGd0w3WUlyXzcyYWdrLU5iN1pqa3dGYmJtak5JX1VoS1hGRWZVX1JZNzhGd2pVYlNIeUxPQ3hJZU9xVnFnWGhRVHBiYU9vSXJ0bG1wemxCeWQzd2N3aklzNldWR1dqVm1iejY4SDJrejdfLUdfZDdzZnNQaVRJUHpraU9zYWtGMS1oOFZfNFZ4RnVFVnZPLUVCU3dnN1UwWW1aUnAxNTlyQlRneHlhRVByam5iSGRn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZDNYb3I3VnV6d3Q2WGNlc2tnSjZxZkZpa0Ywem9zVHRSU0xVdER2N0ZkQ2I2ZUhEZ1Vfb2REQ3dIeVB6OXFkTEJHSTV6bXAxSzItMVBzQV84M2x4OFZaV2FaMmdURWZZWldRaXhoOTNfbm10YmFRTE9EOVdGd0w3WUlyXzcyYWdrLU5iN1pqa3dGYmJtak5JX1VoS1hGRWZVX1JZNzhGd2pVYlNIeUxPQ3hJZU9xVnFnWGhRVHBiYU9vSXJ0bG1wemxCeWQzd2N3aklzNldWR1dqVm1iejY4SDJrejdfLUdfZDdzZnNQaVRJUHpraU9zYWtGMS1oOFZfNFZ4RnVFVnZPLUVCU3dnN1UwWW1aUnAxNTlyQlRneHlhRVByam5iSGRn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-19T12:24:52+00:00",
+   "vu_le": "2026-10-22T21:57:06.007589+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Malgré la menace Starlink, les analystes de Berenberg estiment que l’action Orange pourrait grimper de près de 40%",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/malgre-la-menace-starlink-les-analystes-de-berenberg-estiment-que-l-action-orange-pourrait-grimper-de-pres-de-40-20261019",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/malgre-la-menace-starlink-les-analystes-de-berenberg-estiment-que-l-action-orange-pourrait-grimper-de-pres-de-40-20261019",
+   "date_publication": "2026-10-19T05:01:00+00:00",
+   "vu_le": "2026-10-22T21:57:05.080347+00:00",
+   "resume": "L’opérateur télécoms satellitaire Starlink, l’une des filiales du groupe SpaceX d’Elon Musk, constitue-t-il vraiment un concurrent pour les acteurs terrestres du secteur ? KHUKI - stock.adobe.com - Le Figaro Chaque semaine, Le Figaro Patrimoine et Bourse relaie des informations confidentielles repér"
   },
   {
    "titre": "J’ai remarqué qu’il existe maintenant un étrange indice, le CAC 40 CHF. D’où vient-il ? À quoi peut-il bien servir ?",
