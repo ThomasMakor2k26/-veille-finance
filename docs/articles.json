@@ -1,7 +1,7 @@
 {
- "genere_le": "2026-10-24T21:33:50.173559+00:00",
+ "genere_le": "2026-10-24T23:39:54.118008+00:00",
  "fenetre_heures": 24,
- "nb_articles": 128,
+ "nb_articles": 115,
  "articles": [
   {
    "titre": "IPC plus élevé que prévu : une hausse des taux est-elle de nouveau à l’ordre du jour ?",
@@ -12,6 +12,17 @@
    "url_propre": "https://fr.investing.com/analysis/ipc-plus-eleve-que-prevu--une-hausse-des-taux-estelle-de-nouveau-a-lordre-du-jour--200458110",
    "date_publication": "",
    "vu_le": "2026-10-24T21:33:53.621910+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Transcript : Moderna, Inc. - Special Call - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFFWTlBJbHprU3MxYWU4WlotNVpTR0xUbTZmZ25HOVowd1lJRXg3ZWU0ZzFrSnI3RTZyZk5SUWFsTzdYZi1oTTc4cFNnVVJQUi1lbTMyWktWM3h6WTFBeWRGM2xjRHlPdjNHWE5mLUdRRk1ZUmNYWmFOSHFhc28wSk5UQXQ0X3h4d1F0NFE1MDNCZTVzbXY5M0FnOFg4VDgtTTR5NG5QdklQaTd1bWxjQlFUR25RMWs?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFFWTlBJbHprU3MxYWU4WlotNVpTR0xUbTZmZ25HOVowd1lJRXg3ZWU0ZzFrSnI3RTZyZk5SUWFsTzdYZi1oTTc4cFNnVVJQUi1lbTMyWktWM3h6WTFBeWRGM2xjRHlPdjNHWE5mLUdRRk1ZUmNYWmFOSHFhc28wSk5UQXQ0X3h4d1F0NFE1MDNCZTVzbXY5M0FnOFg4VDgtTTR5NG5QdklQaTd1bWxjQlFUR25RMWs?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-24T20:50:20+00:00",
+   "vu_le": "2026-10-24T23:39:59.843100+00:00",
    "resume": ""
   },
   {
@@ -89,6 +100,28 @@
    "url_propre": "https://fr.investing.com/analysis/la-course-a-larmement-dans-lia-pourrait-se-repercuter-sur-votre-compte-courant-200458182",
    "date_publication": "",
    "vu_le": "2026-10-24T16:49:31.538562+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Wipro India nomme Kuldeep Sehrawat directeur et responsable du marketing - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlRrWjlQYVVNYld0OTdseXF0QnczSm0xMk9jeFJEZVFyUnFJWTBhUFhXUVp1WmNYN29EUEtvX0g1RzFSXzFCN01FVTBhV0hJSnlJX3VIbTQ2UW1BYzhCeWVZeUlnc3ZWeVkzQnp0YXE5bVpkUnlQNTNFU2pDS2ZxRFJrSUF4bHM0bmYzQlZEdS05T251QmlDTGFqWHdiR2tyQ3FQS1F0SE5RWVdDdzhucG1qSEx6NDVkSy10Uk1nZWRVVW1vRi1ieUlmTzBLQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlRrWjlQYVVNYld0OTdseXF0QnczSm0xMk9jeFJEZVFyUnFJWTBhUFhXUVp1WmNYN29EUEtvX0g1RzFSXzFCN01FVTBhV0hJSnlJX3VIbTQ2UW1BYzhCeWVZeUlnc3ZWeVkzQnp0YXE5bVpkUnlQNTNFU2pDS2ZxRFJrSUF4bHM0bmYzQlZEdS05T251QmlDTGFqWHdiR2tyQ3FQS1F0SE5RWVdDdzhucG1qSEx6NDVkSy10Uk1nZWRVVW1vRi1ieUlmTzBLQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-24T16:20:28+00:00",
+   "vu_le": "2026-10-24T23:39:59.850168+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Environ 1.200 Palestiniens déplacés à Hébron par une opération militaire israélienne - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQml5eEZ3V2cwSmkyc3hNempkc2F0WnNfb3ZLYjE3cE1lZ0gwM295ZWRqYVROZkFDWXRzSndWV1NFUEI4UTVwdXVMYVdFY2FBb0lxZjhINl9HSzJ2SkUtdmJqQnM0d3lhOHZLdnRDa19aUUkxZWtuVTVHVHdrY2NMWFdmQVNxVkN4dFpPelR0d2NtY3BuS0RUeTRPSVZoaHVSSFUyU0owSWw3RzdIRHZ5ZWpkVng5bHVvVUFmVzV1TDJld0Y1bXloLTFNMEpjVm5kZ3BQVF9qLTVnSWdx?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQml5eEZ3V2cwSmkyc3hNempkc2F0WnNfb3ZLYjE3cE1lZ0gwM295ZWRqYVROZkFDWXRzSndWV1NFUEI4UTVwdXVMYVdFY2FBb0lxZjhINl9HSzJ2SkUtdmJqQnM0d3lhOHZLdnRDa19aUUkxZWtuVTVHVHdrY2NMWFdmQVNxVkN4dFpPelR0d2NtY3BuS0RUeTRPSVZoaHVSSFUyU0owSWw3RzdIRHZ5ZWpkVng5bHVvVUFmVzV1TDJld0Y1bXloLTFNMEpjVm5kZ3BQVF9qLTVnSWdx?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-24T16:12:12+00:00",
+   "vu_le": "2026-10-24T23:40:00.108687+00:00",
    "resume": ""
   },
   {
@@ -453,6 +486,17 @@
    "date_publication": "2026-10-24T09:00:01+00:00",
    "vu_le": "2026-10-24T09:22:56.093543+00:00",
    "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "- Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObVZCZEkwRmVvMEtuejUyS1BpckUwTGthMnM0TUNXNklDcDB1bVk1Ums2Q0hNSHVsRm1Ndm1pQWs0YWphYUphcThkSGpuTXFhVkhVUkhMQzFDaXplWHVscWtaY1g0SFpDUTlHZXBmSDk2M3Y2bDRtSHdBSmw0Y25vNUg0ZnNlU1QtMzBDUlRfTEFrdUwxR3VXRlBLZjdEVmZwbE50M0pQS0d4YkJzbnYxZmhpM3I4QlZOQU1sRWRzZDJsT2NZZlBkZEEwQ0tXdjcydEVoaDJR?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObVZCZEkwRmVvMEtuejUyS1BpckUwTGthMnM0TUNXNklDcDB1bVk1Ums2Q0hNSHVsRm1Ndm1pQWs0YWphYUphcThkSGpuTXFhVkhVUkhMQzFDaXplWHVscWtaY1g0SFpDUTlHZXBmSDk2M3Y2bDRtSHdBSmw0Y25vNUg0ZnNlU1QtMzBDUlRfTEFrdUwxR3VXRlBLZjdEVmZwbE50M0pQS0d4YkJzbnYxZmhpM3I4QlZOQU1sRWRzZDJsT2NZZlBkZEEwQ0tXdjcydEVoaDJR?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-24T08:57:49+00:00",
+   "vu_le": "2026-10-24T23:39:59.095162+00:00",
+   "resume": ""
   },
   {
    "titre": "Forum Bourse TOTALENERGIES - 24/10/2026 10:57:32 - Le charlatan. - Boursorama",
@@ -829,17 +873,6 @@
    "resume": ""
   },
   {
-   "titre": "Le retour des pressions inflationnistes aux États-Unis",
-   "source": "Investing.com",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://fr.investing.com/analysis/le-retour-des-pressions-inflationnistes-aux-etatsunis-200458147",
-   "url_propre": "https://fr.investing.com/analysis/le-retour-des-pressions-inflationnistes-aux-etatsunis-200458147",
-   "date_publication": "",
-   "vu_le": "2026-10-23T22:03:29.362630+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Moody’s maintient la note de la France : Lecornu salue un signal qui «déjoue les pronostics déclinistes»",
    "source": "Le Figaro Economie",
    "theme": "Bourse / Marchés",
@@ -849,17 +882,6 @@
    "date_publication": "2026-10-23T21:39:38+00:00",
    "vu_le": "2026-10-24T09:22:55.404674+00:00",
    "resume": "Alors qu’une dégradation était attendue, Moody’s a maintenu vendredi la note française à Aa3, avec une perspective négative. Sébastien Lecornu y voit un signal en faveur de son projet de budget pour 2027. Le maintien surprise par l'agence Moody's de la note souveraine de la France «déjoue les pronos"
-  },
-  {
-   "titre": "L’agence Moody’s maintient la note souveraine de la France à Aa3, mais y assortit une perspective négative",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
-   "date_publication": "2026-10-23T21:22:46+00:00",
-   "vu_le": "2026-10-23T22:03:29.286266+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
   },
   {
    "titre": "«Il y a depuis longtemps de la friction entre les enfants de Pierre Bellon» : les rivalités familiales fragilisent la gouvernance de Sodexo",
@@ -884,94 +906,6 @@
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4f66876e9bad700"
   },
   {
-   "titre": "France: Moody's maintient la note souveraine à Aa3 avec perspective négative - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1NJSVhsYU4yTFNMdncwN0oyc1FwamxHYS1YOGR0YjAzODUtMmFwRm53NlRULTJFUmFPTENDUnVZV2lKcl9WSU5kZjNXdFJmU2xZZzRzWGpfYWdRN1gyZFRpVF9QbkwtdUZSWkJyYzNFaWlOUVJJSGJ5OXBQSTF2bXBzdHZ1ZXdLNnMyYmpITHdJSTljdG9jcXRWSzR1OWk2SEhEWXhoZWk1TEtTamkzd2dlWjVYZjJMVjZvMU1UTFZ6TkxSb2ZrWXY0TUJ5Umdv?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1NJSVhsYU4yTFNMdncwN0oyc1FwamxHYS1YOGR0YjAzODUtMmFwRm53NlRULTJFUmFPTENDUnVZV2lKcl9WSU5kZjNXdFJmU2xZZzRzWGpfYWdRN1gyZFRpVF9QbkwtdUZSWkJyYzNFaWlOUVJJSGJ5OXBQSTF2bXBzdHZ1ZXdLNnMyYmpITHdJSTljdG9jcXRWSzR1OWk2SEhEWXhoZWk1TEtTamkzd2dlWjVYZjJMVjZvMU1UTFZ6TkxSb2ZrWXY0TUJ5Umdv?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T21:04:16+00:00",
-   "vu_le": "2026-10-23T22:03:31.029465+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Moody's annonce maintenir la note de la France avec perspective négative - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWZJeXFxUW5PblNpRGtCam1BcGVTQklPNVFfbzdRNHcwZG94b1VmeWc5dGF2WjlncnVRamtuVXlnazZjX21zci1HQlljaUJHalZYQTRka3VyRWpzN3VRSXliVXh1aE00dGpTdjctLVlkTHNoTENJTjRUcnUzVVZhYkstSEE4QmJaN3Vpc1BweGFNZEdzMlF4dUdWUEUzbWQzSXRLa3UxSlFpc1R6azNBb3JWMzliSlBJUkY2dHJOck1pMzc0eFFZVGJxWkVaSmhNZmNBUi1xbXppTTRlYkhRaTBFRVZ3RldUZWYyV202ako?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWZJeXFxUW5PblNpRGtCam1BcGVTQklPNVFfbzdRNHcwZG94b1VmeWc5dGF2WjlncnVRamtuVXlnazZjX21zci1HQlljaUJHalZYQTRka3VyRWpzN3VRSXliVXh1aE00dGpTdjctLVlkTHNoTENJTjRUcnUzVVZhYkstSEE4QmJaN3Vpc1BweGFNZEdzMlF4dUdWUEUzbWQzSXRLa3UxSlFpc1R6azNBb3JWMzliSlBJUkY2dHJOck1pMzc0eFFZVGJxWkVaSmhNZmNBUi1xbXppTTRlYkhRaTBFRVZ3RldUZWYyV202ako?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T21:04:01+00:00",
-   "vu_le": "2026-10-23T22:03:30.177177+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "La dette française sous Sarkozy, Hollande et Macron : récit de quinze ans de dérapage incontrôlé",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
-   "url_propre": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
-   "date_publication": "2026-10-23T21:02:09+00:00",
-   "vu_le": "2026-10-23T22:03:29.541580+00:00",
-   "resume": "Nicolas Sarkozy, François Hollande et Emmanuel Macron. Le Figaro RÉCIT - Depuis qu’elle a perdu sa note « triple A » en janvier 2012, la France n’a jamais redressé la barre de ses comptes publics. Elle s’est enfoncée par paliers et se retrouve aujourd’hui plongée dans une crise financière inédite. C"
-  },
-  {
-   "titre": "Xi gathers China’s top cadres with focus on discipline",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
-   "date_publication": "2026-10-23T21:00:09+00:00",
-   "vu_le": "2026-10-23T22:03:29.203146+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4f408320c016037"
-  },
-  {
-   "titre": "Cheniere Partners annonce des distributions trimestrielles, payables le 13 novembre 2026 - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT1lOSnIxZllaY2JIWmNOTFBaN1g5MUktZFVLc3NJcVhIMUtCR1BxemRkVUxneThTMjZkb1RWTGdHSVdlZkI4SWVxZTVqYlNtazBYWHFiMmVHU3E5aTItZnQ4RGRNd2NRYi02U3ZER0FwdHlFZVVTUXQzNDI1c2wwY0c0V1ZkR29WTjNYV090Yy1EWlRfRkgxdWxCY2J4RG14eGdBN2s1Q19vckZlTkMxNXlacXBKRWNYN2YwNTIwQ19mWkl6anBLQThnT0dqT1duMU4wRnZNenpDcEJJQXJWQw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT1lOSnIxZllaY2JIWmNOTFBaN1g5MUktZFVLc3NJcVhIMUtCR1BxemRkVUxneThTMjZkb1RWTGdHSVdlZkI4SWVxZTVqYlNtazBYWHFiMmVHU3E5aTItZnQ4RGRNd2NRYi02U3ZER0FwdHlFZVVTUXQzNDI1c2wwY0c0V1ZkR29WTjNYV090Yy1EWlRfRkgxdWxCY2J4RG14eGdBN2s1Q19vckZlTkMxNXlacXBKRWNYN2YwNTIwQ19mWkl6anBLQThnT0dqT1duMU4wRnZNenpDcEJJQXJWQw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T20:55:22+00:00",
-   "vu_le": "2026-10-23T22:03:31.059120+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Gabriel Dia à AKAA : l'art, les tabous et l'homosexualité au Sénégal - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkFDSS0tVjBucFN5OWpPUlIxTmdLc3cxSDFTUEo4d3lKUGpxdDVvWTdnNUp2WkRnaHdYNGR6Vk16SHdmNXo1VWpHbXdrQnRKa3ZveW1vUDZLSkVkbVpQY2EtVmUxdHl3TktPeXpWMnZmYUZhXzRKaUNpaXVFdUlHUHNuTVYxS3ZVRkNRSE5BWE9IZjVqOVJodU8tOVBsRmxSWXBuSWdHWFd4bGZEcGEwV0ljX1UzcWNPNFo4RTNmRHpYZjFMWGdQRG13MnZDUHl5WjVqVVMzN1JfdmfSAeABQVVfeXFMTndtMnRMSmt5YlliMkpKei1ILUpGREJaSklVVk90RG05TE1RZVExcXhxU3R5TVFXQUZMaGdTaldlQzFDcUc5Z1NVTktOU1VLVUVOSllyOG1McDJpNGNVLUQ4SXlhZW40UkxRZXBTNUVTMHZvd1EzVXlMYXlZMkZPU3BWUk5KM1JmdldzZnMxZ0ZZUHlQbk4yc2daQmNSWFpBZENRSGRVWDBVZzZYZVhKTzV4UzhnT3I4aG1ETXVnb2taNVZ6NzZlN1puQUNLOTdGZU1CUmFkLWkxSFFfSFA5U2s?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkFDSS0tVjBucFN5OWpPUlIxTmdLc3cxSDFTUEo4d3lKUGpxdDVvWTdnNUp2WkRnaHdYNGR6Vk16SHdmNXo1VWpHbXdrQnRKa3ZveW1vUDZLSkVkbVpQY2EtVmUxdHl3TktPeXpWMnZmYUZhXzRKaUNpaXVFdUlHUHNuTVYxS3ZVRkNRSE5BWE9IZjVqOVJodU8tOVBsRmxSWXBuSWdHWFd4bGZEcGEwV0ljX1UzcWNPNFo4RTNmRHpYZjFMWGdQRG13MnZDUHl5WjVqVVMzN1JfdmfSAeABQVVfeXFMTndtMnRMSmt5YlliMkpKei1ILUpGREJaSklVVk90RG05TE1RZVExcXhxU3R5TVFXQUZMaGdTaldlQzFDcUc5Z1NVTktOU1VLVUVOSllyOG1McDJpNGNVLUQ4SXlhZW40UkxRZXBTNUVTMHZvd1EzVXlMYXlZMkZPU3BWUk5KM1JmdldzZnMxZ0ZZUHlQbk4yc2daQmNSWFpBZENRSGRVWDBVZzZYZVhKTzV4UzhnT3I4aG1ETXVnb2taNVZ6NzZlN1puQUNLOTdGZU1CUmFkLWkxSFFfSFA5U2s?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T20:41:48+00:00",
-   "vu_le": "2026-10-23T22:03:29.895256+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Gabon: Ali Bongo revient en politique et revendique la tête du PDG - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTB3NU01dUlhMnNkaURWUHFFbGdKcVR0TmVGNHpISTgyLXhGbldGZnZ6eWlON2VqN1RIMTh4QzFiOEFKczRnNjB3THZtS3p6NlFhc3FnNGdXa0Q4c2tJTlI0Y1A2MVJXWmtSQ1g5UXctMmtyM0d2bTBuUzNUV2JES1FYLVI2TllZLUozeWpZM0xRS29pUFUyTTFnSFdNcEtMQzRGVW1oVU53SmpWbUs5UFJULTZDal94QnAtYkdiQ2xKaE9sRXBQTTdPT1JEbkk4VVZTV1k2VG9mcU3SAeABQVVfeXFMTjRIV2V6YUdyaEI1RmcwVFJIOG9ZVEQ4UndVdS1scF85RHVUbVZ5MnZ2MjNocERQdWFNYmoyYXZIUnczRkxDelFNUFlCdmJaVXF0NTY4WHc1bEo4RTdzOXlvNnpnbkRBRFk2ajNpeW9FSWJXU0hwZWZRYURyX3ZFSXhHcUVnb1NxSUZiR0VVeGtlNk1Yczl4cWQ4N3V0emFaTUhXaEZkcnJzM0ZhWGN1Q0hmVmtwdlltbnN4RUx6aW1wMmxBVTI0X0VLZXd5cXJwUWtZNHMwSlo2OW0wcFNTZFI?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTB3NU01dUlhMnNkaURWUHFFbGdKcVR0TmVGNHpISTgyLXhGbldGZnZ6eWlON2VqN1RIMTh4QzFiOEFKczRnNjB3THZtS3p6NlFhc3FnNGdXa0Q4c2tJTlI0Y1A2MVJXWmtSQ1g5UXctMmtyM0d2bTBuUzNUV2JES1FYLVI2TllZLUozeWpZM0xRS29pUFUyTTFnSFdNcEtMQzRGVW1oVU53SmpWbUs5UFJULTZDal94QnAtYkdiQ2xKaE9sRXBQTTdPT1JEbkk4VVZTV1k2VG9mcU3SAeABQVVfeXFMTjRIV2V6YUdyaEI1RmcwVFJIOG9ZVEQ4UndVdS1scF85RHVUbVZ5MnZ2MjNocERQdWFNYmoyYXZIUnczRkxDelFNUFlCdmJaVXF0NTY4WHc1bEo4RTdzOXlvNnpnbkRBRFk2ajNpeW9FSWJXU0hwZWZRYURyX3ZFSXhHcUVnb1NxSUZiR0VVeGtlNk1Yczl4cWQ4N3V0emFaTUhXaEZkcnJzM0ZhWGN1Q0hmVmtwdlltbnN4RUx6aW1wMmxBVTI0X0VLZXd5cXJwUWtZNHMwSlo2OW0wcFNTZFI?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T20:38:22+00:00",
-   "vu_le": "2026-10-23T22:03:29.941562+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Instacart envisagerait une vente et discuterait avec Uber et DoorDash - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVExrZThkOTN0SnUzSUVGa25rckR5VEpFU1ZBVHhSWll5SThUZXNZZU0tOFpFTUJybFJGWHBZYWhHb2tHTlN2YmtvR0dMeDZmUDhiR0pVSWlQZUtLNWpZbWZDQ3F3ZmRkM2xyT1Y1dGx2b0pBMmwzS2xKbDF4TXIxSjBYRzBEZXBTOUxfQUd5b0hxWEVUZ1F4Vi1FcnRlUFlFZ0RfMWJ6S18wTE16Y1Z0cVhDUUNQYWgtWGV1VHRFNDQ4SXVRVnh4WA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVExrZThkOTN0SnUzSUVGa25rckR5VEpFU1ZBVHhSWll5SThUZXNZZU0tOFpFTUJybFJGWHBZYWhHb2tHTlN2YmtvR0dMeDZmUDhiR0pVSWlQZUtLNWpZbWZDQ3F3ZmRkM2xyT1Y1dGx2b0pBMmwzS2xKbDF4TXIxSjBYRzBEZXBTOUxfQUd5b0hxWEVUZ1F4Vi1FcnRlUFlFZ0RfMWJ6S18wTE16Y1Z0cVhDUUNQYWgtWGV1VHRFNDQ4SXVRVnh4WA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T20:34:15+00:00",
-   "vu_le": "2026-10-23T22:03:30.903513+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Nu Holdings Ltd. annonce des changements au sein de sa direction - Zonebourse",
    "source": "ZoneBourse",
    "theme": "Bourse / Marchés",
@@ -980,28 +914,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjhLUV8xa2xzeVduTTdpcFpjdGtNRHdGSHQ3eEZQZVFJUGp0ckxDamc4RVNHM2l1X2pvSjNJSlo2WEpRYkhkQktVWDFDQUhJTzJ4alAtR3lGMUJHZE80dTZ2U1FMbjA4Tllza1VNcXpUVThDQkZhLTdoZWRRWWFRVjlnT0xkSjJVT0xWdUNYbnpib2RlZVhuaUw3MnBuRGJld29vNXFFdXR0SXF6YmRQSUlVMkliQjV0NS03T3VUN3h3QQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-23T20:34:00+00:00",
    "vu_le": "2026-10-24T04:58:45.463376+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Trump to cut Canadian tariffs after pressure from Republicans",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-   "date_publication": "2026-10-23T20:21:55+00:00",
-   "vu_le": "2026-10-23T22:03:29.454354+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4f40833cc6ceb30"
-  },
-  {
-   "titre": "Novartis AG : RBC toujours neutre sur le dossier - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTBmUHNpVl9Lcnl2NE9Xd3IyY1ZOd2VkeXJDM2Z3Y183WnpzZXJ1Rmc0SkltWmlLZFJMbGVFdHhRNS14aGhaeUh0Tllna3ktOS1TNHZNTzU0VkxaMjdMZEI4SThaaFp5TW03Ti1kLUxUSXpLYUsxT0FybkNGWUJoVDlkMldpbXE0WU9ZNEx6R2pSLVlqMElpVlNHQllYQXVfMHNIbHA2VHlIUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTBmUHNpVl9Lcnl2NE9Xd3IyY1ZOd2VkeXJDM2Z3Y183WnpzZXJ1Rmc0SkltWmlLZFJMbGVFdHhRNS14aGhaeUh0Tllna3ktOS1TNHZNTzU0VkxaMjdMZEI4SThaaFp5TW03Ti1kLUxUSXpLYUsxT0FybkNGWUJoVDlkMldpbXE0WU9ZNEx6R2pSLVlqMElpVlNHQllYQXVfMHNIbHA2VHlIUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T19:26:28+00:00",
-   "vu_le": "2026-10-23T22:03:30.971672+00:00",
    "resume": ""
   },
   {
@@ -1014,17 +926,6 @@
    "date_publication": "2026-10-23T19:14:52+00:00",
    "vu_le": "2026-10-24T04:58:43.922908+00:00",
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4f66877ced524c8"
-  },
-  {
-   "titre": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
-   "date_publication": "2026-10-23T18:49:48+00:00",
-   "vu_le": "2026-10-23T22:03:29.458759+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4f408345fafdf0a"
   },
   {
    "titre": "Un surcoût moyen de \"550 euros par salarié\" qui pourrait \"compromettre les augmentations\": le patronat demande au gouvernement de \"renoncer\" aux mesures \"augmentant massivement\" le coût du travail - BFM",
@@ -1115,17 +1016,6 @@
    "resume": "« Le même État, qui nous appelle (…) à revaloriser les salaires dans le privé, s’apprête à renchérir le coût du travail », s’est agacé Patrick Martin,le président du Medef. Benoit Tessier / REUTERS DÉCRYPTAGE - Dans l’espoir d’apaiser la colère de la rue, le gouvernement songe à revaloriser dès le 1"
   },
   {
-   "titre": "L'Europe finit dans le rouge, la France attend le verdict de Moody's - Boursorama",
-   "source": "Boursorama",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS3dIZjRWRllNamdBQndaSU1RNnFkWkZXTGROeC15TEdteXhDblpzSC1mV1NPOEh4ZS1tb3JlX0l4ejhYenlZOWU0TUZuT0gxWFJnNGxXWGszNmlNRzdtRWhzcXlHdERTX1dpcE8waDQwYlRmWUFKdm1IN0tSaG9aYkxKc2NRTklZZ1psLXowd0U0TER1V25hOFRqb2xkVXhTYkN1bWhyOThzdXE2UXl4V0lZZWlMLXVXQlMzSnBhUS13M2s5cGx1dWgxa1R3TkxSckhTUkhBMkVuaXVzWkHSAeMBQVVfeXFMT0ZCbTBhX3BlUnNraU04U0phUTAwVHA1Z3JZR3FrWEF6czRGUzJBQzk0VExSYkVGVXRUX3JwOFk1QVdpdVN0OTZWMEozWjFDTjlENUJxUGtXcWUtcWo4bUI5Sm9NNmdRd3dxVGxJeFNNRDVGYWNEY1NrY1h2bXZicjJPOUxGYTltaHBONTlhZ3Nac2pRWkUwRUFzOHJrSlI4ZFRUbWdvckNYYlA0cUJPUTdYT2dqdGlFVWlrUjJPbDMtQXI3OHFkY1RGR0d0QkIzU3c0aVhxTFcwQTBaQVAtMGN6Znc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS3dIZjRWRllNamdBQndaSU1RNnFkWkZXTGROeC15TEdteXhDblpzSC1mV1NPOEh4ZS1tb3JlX0l4ejhYenlZOWU0TUZuT0gxWFJnNGxXWGszNmlNRzdtRWhzcXlHdERTX1dpcE8waDQwYlRmWUFKdm1IN0tSaG9aYkxKc2NRTklZZ1psLXowd0U0TER1V25hOFRqb2xkVXhTYkN1bWhyOThzdXE2UXl4V0lZZWlMLXVXQlMzSnBhUS13M2s5cGx1dWgxa1R3TkxSckhTUkhBMkVuaXVzWkHSAeMBQVVfeXFMT0ZCbTBhX3BlUnNraU04U0phUTAwVHA1Z3JZR3FrWEF6czRGUzJBQzk0VExSYkVGVXRUX3JwOFk1QVdpdVN0OTZWMEozWjFDTjlENUJxUGtXcWUtcWo4bUI5Sm9NNmdRd3dxVGxJeFNNRDVGYWNEY1NrY1h2bXZicjJPOUxGYTltaHBONTlhZ3Nac2pRWkUwRUFzOHJrSlI4ZFRUbWdvckNYYlA0cUJPUTdYT2dqdGlFVWlrUjJPbDMtQXI3OHFkY1RGR0d0QkIzU3c0aVhxTFcwQTBaQVAtMGN6Znc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T16:28:58+00:00",
-   "vu_le": "2026-10-23T22:03:29.649036+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Budget de la « Sécu » : les députés sabordent le projet de loi à l’Assemblée nationale",
    "source": "Le Monde Economie",
    "theme": "Finance / Economie (général)",
@@ -1178,17 +1068,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQjdnZG9meWFBWGwxWkthTVpwZkhNaldGcU00SEZFVFlLY2EwcEpOVENwNjVzbHNMUUZhT19SX1ozZWlxQTMtdlBqVGVLTnF5WEMybEVSQ1hPcUhoQ1V0NzB0OWdZSVJjUWxLYWV6WlhUc3ZmZk1PRmdwZUhPbTNSSmRmYjVnYnhoOVVSQWozdEtVTk0zYzdMLTFBenV0RTdaVW05MWlLbXBBUnY3TG9iMmszUnJSTng2NzYtS0Mzb0JHZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-23T14:36:00+00:00",
    "vu_le": "2026-10-24T09:22:57.475252+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Le Bric-à-brac de Zonebourse : pétrole, spread et dépense dans l'IA - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUtHQXNXOHNKRng1bEZxajhfTGtvbnJhUFNWOHQ5SktyT3BfdTFoakhWVlU2Z2JCMTFpS0hzbHhVemN0TnloLU42bWpSbXlxRThEb1NhTjRhdl9ybzA3LTk4V21IU0NXdmJ0N1B5dzhVQ3kwUHpPMS1EMDl4dlRjdmVJUnJBa25fYmQ2aElyeUY1X3RjMVVfTFFjbkVjVU9aenEtSG50M1lQUmFMRG9qR2dVM0RWLXNGSlZkZWdOOXVBcEE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUtHQXNXOHNKRng1bEZxajhfTGtvbnJhUFNWOHQ5SktyT3BfdTFoakhWVlU2Z2JCMTFpS0hzbHhVemN0TnloLU42bWpSbXlxRThEb1NhTjRhdl9ybzA3LTk4V21IU0NXdmJ0N1B5dzhVQ3kwUHpPMS1EMDl4dlRjdmVJUnJBa25fYmQ2aElyeUY1X3RjMVVfTFFjbkVjVU9aenEtSG50M1lQUmFMRG9qR2dVM0RWLXNGSlZkZWdOOXVBcEE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T14:33:47+00:00",
-   "vu_le": "2026-10-23T22:03:31.089666+00:00",
    "resume": ""
   },
   {
@@ -1302,17 +1181,6 @@
    "resume": ""
   },
   {
-   "titre": "Transports en Île-de-France : le trafic de plusieurs lignes de train interrompu ce vendredi en raison de la tempête Austen",
-   "source": "Le Figaro Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lefigaro.fr/conjoncture/transports-en-ile-de-france-le-trafic-de-plusieurs-lignes-de-train-interrompu-ce-vendredi-en-raison-de-la-tempete-austen-20261022",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/transports-en-ile-de-france-le-trafic-de-plusieurs-lignes-de-train-interrompu-ce-vendredi-en-raison-de-la-tempete-austen-20261022",
-   "date_publication": "2026-10-23T06:26:24+00:00",
-   "vu_le": "2026-10-23T22:03:29.352228+00:00",
-   "resume": "Transports en Île-de-France : le trafic de plusieurs lignes de train interrompu ce vendredi en raison de la tempête Austen Des perturbations sont à prévoir sur le réseau francilien, alors que de fortes rafales de vent sont attendues ce vendredi 23 octobre sur une partie de l’Île-de-France. Passer la"
-  },
-  {
    "titre": "Instabilité politique, budget introuvable, déficit colossal, grogne sociale : faut-il fuir la Bourse de Paris ?",
    "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
@@ -1322,17 +1190,6 @@
    "date_publication": "2026-10-23T05:00:00+00:00",
    "vu_le": "2026-10-24T16:49:31.759267+00:00",
    "resume": "Voilà plus de deux ans que l’instabilité politique française et les risques financiers qui en découlent pèsent sur la Bourse de Paris. Faut-il pour autant la déserter ? JFBRUNEAU - stock.adobe.com - Le Figaro Depuis la dissolution manquée de 2024, le risque politique pèse sur les actions françaises."
-  },
-  {
-   "titre": "Au-delà d’une chute de 40% de sa valeur en Bourse, Hermès doit affronter la récente surabondance des sacs Birkin sur le marché secondaire",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/au-dela-d-une-chute-de-40-de-sa-valeur-en-bourse-hermes-doit-affronter-la-recente-surabondance-des-sacs-birkin-sur-le-marche-secondaire-20261022",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/au-dela-d-une-chute-de-40-de-sa-valeur-en-bourse-hermes-doit-affronter-la-recente-surabondance-des-sacs-birkin-sur-le-marche-secondaire-20261022",
-   "date_publication": "2026-10-22T17:06:54+00:00",
-   "vu_le": "2026-10-23T22:03:29.429014+00:00",
-   "resume": "Au-delà d’une chute de 40% de sa valeur en Bourse, Hermès doit affronter la récente surabondance des sacs Birkin sur le marché secondaire La croissance du groupe Hermès ralentit, pénalisée par la faiblesse de la demande chinoise. En parallèle, l’abondance de ses sacs emblématiques sur le marché seco"
   },
   {
    "titre": "Wall Street recule, s'inquiète des centaines de milliards nécessaires pour développer l'IA - Boursorama",
