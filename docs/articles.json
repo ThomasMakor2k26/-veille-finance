@@ -1,8 +1,129 @@
 {
- "genere_le": "2026-10-25T19:08:11.704358+00:00",
+ "genere_le": "2026-10-25T21:43:58.361234+00:00",
  "fenetre_heures": 24,
- "nb_articles": 108,
+ "nb_articles": 112,
  "articles": [
+  {
+   "titre": "Le marché immobilier est en perte de vitesse, mais son impact sur le cycle économique reste limité",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/le-marche-immobilier-est-en-perte-de-vitesse-mais-son-impact-sur-le-cycle-economique-reste-limite-200458170",
+   "url_propre": "https://fr.investing.com/analysis/le-marche-immobilier-est-en-perte-de-vitesse-mais-son-impact-sur-le-cycle-economique-reste-limite-200458170",
+   "date_publication": "",
+   "vu_le": "2026-10-25T21:44:02.476118+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "La course à l’armement dans l’IA pourrait se répercuter sur votre compte courant",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/la-course-a-larmement-dans-lia-pourrait-se-repercuter-sur-votre-compte-courant-200458182",
+   "url_propre": "https://fr.investing.com/analysis/la-course-a-larmement-dans-lia-pourrait-se-repercuter-sur-votre-compte-courant-200458182",
+   "date_publication": "",
+   "vu_le": "2026-10-25T21:44:02.419911+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+   "date_publication": "2026-10-25T21:19:56+00:00",
+   "vu_le": "2026-10-25T21:44:02.635041+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a50466771d569307"
+  },
+  {
+   "titre": "En Serbie, le nationaliste Aleksandar Vucic reconnaît sa défaite aux législatives - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSDNsbm53amlHUlNpRWVLdXBWbmdva1FKemRSdlByTGRhTFJ2WGk5akRYVnhaTDZlU0dIM3RPVHpBVmZaRkRQeTdDTFA3ZTFhTEs0MkhnRmpoc205bDdTNmhnYWhJemhBeThXZUlZem9RMTVsYjZBUjJnX1ByMW5ZZ1R0dzh1cGRrQlFYUDRZZTdycnNPODJ6dlRtSU5UWlVLc3hkdmJOZ3Jpdk96QmcwdHh0aV9uVTJHV0N4eWgyX2YtV3FFTVJaVjJ2YTh3TFAzTzhDSjVBOXZvc2FHX1lvMF9OUG1CUmRIbEJ5TEc5VnlJbmlTUl9xZ3lra29icUdVSXfSAYcCQVVfeXFMT3NFd1NiVE5nc29STktoSHFZM0FESVdoSm9wRncwUEd1aHlzWThBcDRfejBVcDNyeVRkYkFzX0xUZmNLVWUwZzdLS1NJc2VBVHdKM3NYRDFoZkFQSW1GeEdJU0g4clRIeWpYZksyd0hQQnpCeTAzRnRhb1BRN0dGMEFndHJYUk9CVkx4TUUtSlI5NlNNMDRvSDVzSFFkUjFmMXFuUUdUMXcyWWJRWUNyYXlveGFPYTA0Vnp5VnVkLTk1ZENEa2xxWlhPeFRyT2lLblFxSU02cVN3MzBiVVBMamJIYm13eS1RSHVsaEhWamFtRHdyWEZub1d5ZU1wZnpNamtyaHVjS00?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSDNsbm53amlHUlNpRWVLdXBWbmdva1FKemRSdlByTGRhTFJ2WGk5akRYVnhaTDZlU0dIM3RPVHpBVmZaRkRQeTdDTFA3ZTFhTEs0MkhnRmpoc205bDdTNmhnYWhJemhBeThXZUlZem9RMTVsYjZBUjJnX1ByMW5ZZ1R0dzh1cGRrQlFYUDRZZTdycnNPODJ6dlRtSU5UWlVLc3hkdmJOZ3Jpdk96QmcwdHh0aV9uVTJHV0N4eWgyX2YtV3FFTVJaVjJ2YTh3TFAzTzhDSjVBOXZvc2FHX1lvMF9OUG1CUmRIbEJ5TEc5VnlJbmlTUl9xZ3lra29icUdVSXfSAYcCQVVfeXFMT3NFd1NiVE5nc29STktoSHFZM0FESVdoSm9wRncwUEd1aHlzWThBcDRfejBVcDNyeVRkYkFzX0xUZmNLVWUwZzdLS1NJc2VBVHdKM3NYRDFoZkFQSW1GeEdJU0g4clRIeWpYZksyd0hQQnpCeTAzRnRhb1BRN0dGMEFndHJYUk9CVkx4TUUtSlI5NlNNMDRvSDVzSFFkUjFmMXFuUUdUMXcyWWJRWUNyYXlveGFPYTA0Vnp5VnVkLTk1ZENEa2xxWlhPeFRyT2lLblFxSU02cVN3MzBiVVBMamJIYm13eS1RSHVsaEhWamFtRHdyWEZub1d5ZU1wZnpNamtyaHVjS00?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T21:15:18+00:00",
+   "vu_le": "2026-10-25T21:44:03.063923+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "La société de conseil en vote par procuration Glass Lewis soutient Bergeron dans la bataille pour le contrôle - Boursorama",
+   "source": "Boursorama",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQb2dSZXZNSFdWR0o3X2Z2ODY2aUM4cUlJQl9tTEttcGdYY0xNck9uU2I1dUJmdHdfRkgwUWcwYWdiMGtjaHBfRHF4STI4ellnblVSQU8zdmNJckhLX01ES0t3OWtvb3lnQmt0dVBkOThoQ3ZaMTBPR3Z5UVR0WHpJSEx5T1NIdVFZeF8zV3hfUHZlbWxGY2tZbUNlUDE1UjRMMHUwWEdXUXJjeTlVa195QXJ0ZXJwQ1hoYlpUOXRiR3VzcW4yQWcxc2RjRDF3WS1HLVhBUUlXUWdNdXh2ZWVRY2RNUXJoRnpYQmowVHprLW1Sc2VTbXhtUUdYbVF4SFZKRngzSjhtd213ZmtISkN0ckpxWXNfNUFoa2JpVzJzYk43eDlXZUpYadIBrgJBVV95cUxOQldocURsXy1LbjJpX2pkRk9SMG5YbnlNT1hPMFJpdkpsaXhXZW1MZW9oNG00V1ZoWnlkV00yeHNWc1JPRTJGMXUzcEY2MUFJU1l2UnVjQVlKX1I1SG9KU2JXYlM0dWhINFZGbGc3WFczczNrOGpsSno4dWJNZ092ZDhCU1hOWGtJbWU5RnJocEViQk5MN2NrVFhIbWlwcGc0c0xLNU9iNHVZem9FN2dhdE9QbWt3eDFod0pMRm9KdGo1cXFvWFRXZ0dFcGJXN01hRk5yU0w5Wl9WNFd3aW16d000dUdwTkNzN1loNVNsaHhDNi1Udy15V0hRcUx4QlRQZmxKcnpfWXF3dGZheWVTVktMZW5QbnRwQ3lkaExiZ21pYXhfanR6TkcwYjBRQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQb2dSZXZNSFdWR0o3X2Z2ODY2aUM4cUlJQl9tTEttcGdYY0xNck9uU2I1dUJmdHdfRkgwUWcwYWdiMGtjaHBfRHF4STI4ellnblVSQU8zdmNJckhLX01ES0t3OWtvb3lnQmt0dVBkOThoQ3ZaMTBPR3Z5UVR0WHpJSEx5T1NIdVFZeF8zV3hfUHZlbWxGY2tZbUNlUDE1UjRMMHUwWEdXUXJjeTlVa195QXJ0ZXJwQ1hoYlpUOXRiR3VzcW4yQWcxc2RjRDF3WS1HLVhBUUlXUWdNdXh2ZWVRY2RNUXJoRnpYQmowVHprLW1Sc2VTbXhtUUdYbVF4SFZKRngzSjhtd213ZmtISkN0ckpxWXNfNUFoa2JpVzJzYk43eDlXZUpYadIBrgJBVV95cUxOQldocURsXy1LbjJpX2pkRk9SMG5YbnlNT1hPMFJpdkpsaXhXZW1MZW9oNG00V1ZoWnlkV00yeHNWc1JPRTJGMXUzcEY2MUFJU1l2UnVjQVlKX1I1SG9KU2JXYlM0dWhINFZGbGc3WFczczNrOGpsSno4dWJNZ092ZDhCU1hOWGtJbWU5RnJocEViQk5MN2NrVFhIbWlwcGc0c0xLNU9iNHVZem9FN2dhdE9QbWt3eDFod0pMRm9KdGo1cXFvWFRXZ0dFcGJXN01hRk5yU0w5Wl9WNFd3aW16d000dUdwTkNzN1loNVNsaHhDNi1Udy15V0hRcUx4QlRQZmxKcnpfWXF3dGZheWVTVktMZW5QbnRwQ3lkaExiZ21pYXhfanR6TkcwYjBRQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T21:08:26+00:00",
+   "vu_le": "2026-10-25T21:44:03.303969+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Les Brésiliens aux urnes pour un second tour serré entre Lula et Bolsonaro - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNWxucnNOSDZwRnhkSFVjMi11ck96c0Q0QWkwUC1qMVhCSV9SaXdmMks1eEJoVEt2UDY3ZEtNNFQyWTl2RXdNLVVpODdic0JZRS1NQnFXcldrM0tzUlhuWDlOa3VVLXYxS05XR3F3dkk2UlpOeGd0enpUeTNUNjJrZm5wOFlaZDNKXzl2Qy1oa1FYZjBNU1BjVTM1SHBLQmd1S0pHXy1DX3VaNFNsMjlSMWNqRnZteTlONmIzanh4bkhFUnJzVGM0NlQwUTJFeFgtaUJpeGxkd3dnU1JkdWZ1d1JMSnRwYnpxU1ozZktFRHVYY2xjR0VYSkRn0gH_AUFVX3lxTE5SLVVUOENxQUFKU3JDcWlHSWJNMVktS2otdUtUUThPZDRnXzh1c1hpSTFPX1NOTlpFZURVOU42eW9zWVBDY1I5aDZqVHdZcFVxNUZfaC1oOFVlM3NJSkdRaEdsWGMxS3JSSlpOczBlTGxkNE5BbTZCaDJHczFYdks1TVNfam5SaURmcjlYWHhoYVl6NUUtbVJuUDZTZVA3LXU4YUNBQlNPUF9XdlREYm9kbzVYdlFEdjJjQS1Jb1AtSzZWUU0xaS1HQXlzdzZoQVlfc2Y3X1F6VFo1MTg5N3MzNzh3Ynd0Z3RoSTdoMGM4UWJrd2s2Qm52YmVmZEF2Yw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNWxucnNOSDZwRnhkSFVjMi11ck96c0Q0QWkwUC1qMVhCSV9SaXdmMks1eEJoVEt2UDY3ZEtNNFQyWTl2RXdNLVVpODdic0JZRS1NQnFXcldrM0tzUlhuWDlOa3VVLXYxS05XR3F3dkk2UlpOeGd0enpUeTNUNjJrZm5wOFlaZDNKXzl2Qy1oa1FYZjBNU1BjVTM1SHBLQmd1S0pHXy1DX3VaNFNsMjlSMWNqRnZteTlONmIzanh4bkhFUnJzVGM0NlQwUTJFeFgtaUJpeGxkd3dnU1JkdWZ1d1JMSnRwYnpxU1ozZktFRHVYY2xjR0VYSkRn0gH_AUFVX3lxTE5SLVVUOENxQUFKU3JDcWlHSWJNMVktS2otdUtUUThPZDRnXzh1c1hpSTFPX1NOTlpFZURVOU42eW9zWVBDY1I5aDZqVHdZcFVxNUZfaC1oOFVlM3NJSkdRaEdsWGMxS3JSSlpOczBlTGxkNE5BbTZCaDJHczFYdks1TVNfam5SaURmcjlYWHhoYVl6NUUtbVJuUDZTZVA3LXU4YUNBQlNPUF9XdlREYm9kbzVYdlFEdjJjQS1Jb1AtSzZWUU0xaS1HQXlzdzZoQVlfc2Y3X1F6VFo1MTg5N3MzNzh3Ynd0Z3RoSTdoMGM4UWJrd2s2Qm52YmVmZEF2Yw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T20:29:52+00:00",
+   "vu_le": "2026-10-25T21:44:03.172164+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Pengo Bossio Wangi, la vie volée d'un espoir du MMA - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQmp2QWFMMTdEYTRsMERXdmpuYVhqSnNoeWl0SXpHcEVCb1d4M0tWMlJ1MkZiY3p4Ty1kNThqcVZXTk9lTzdBcEFkSWVQRFhseUdPMGQ0VFVFdWNPTXNaNzFJa0ZMcjVkaEhmbU04U1FHT0lGZG54bUItTW42Q3NOS21oa0RQdVZ0NXFzeW1MMjFuYlFyOVFxSk00Ylg3cTdDZ1BaUC1vZW1BS0k1YzN4c1Zkc1RMY2dNNGpvalNpSVRYa2hCYkUtVzZPUXcwMGNJUHdtbUtweG5XQdIB3wFBVV95cUxNYldudWFnbWloazBWTl9UVnQ4MmNvSVNBY3B0cEJBSzRqc2lSMzJfNFU5eHozTU5yZ0JQYU1aaXNxckRIYkp3SmhsU1VmbHV4b3dsMEJQWkJEdUttLWNqWVRDU0NtRUEyM0tHM1FTTU1RY2RYV2RNaEVlOWxPMUg3bndkZldRTm12SF9kT1NzZ1l4ZzNVdW5mYlJmeUlMNFJVTHYtZXN5dFdSTHA5ekxyNU9VS2ZYOExsNVM4b09YbkhMZzlhOG9zRWRzUVdqR2d5ajZYLXBpZjZqY0liR0Uw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQmp2QWFMMTdEYTRsMERXdmpuYVhqSnNoeWl0SXpHcEVCb1d4M0tWMlJ1MkZiY3p4Ty1kNThqcVZXTk9lTzdBcEFkSWVQRFhseUdPMGQ0VFVFdWNPTXNaNzFJa0ZMcjVkaEhmbU04U1FHT0lGZG54bUItTW42Q3NOS21oa0RQdVZ0NXFzeW1MMjFuYlFyOVFxSk00Ylg3cTdDZ1BaUC1vZW1BS0k1YzN4c1Zkc1RMY2dNNGpvalNpSVRYa2hCYkUtVzZPUXcwMGNJUHdtbUtweG5XQdIB3wFBVV95cUxNYldudWFnbWloazBWTl9UVnQ4MmNvSVNBY3B0cEJBSzRqc2lSMzJfNFU5eHozTU5yZ0JQYU1aaXNxckRIYkp3SmhsU1VmbHV4b3dsMEJQWkJEdUttLWNqWVRDU0NtRUEyM0tHM1FTTU1RY2RYV2RNaEVlOWxPMUg3bndkZldRTm12SF9kT1NzZ1l4ZzNVdW5mYlJmeUlMNFJVTHYtZXN5dFdSTHA5ekxyNU9VS2ZYOExsNVM4b09YbkhMZzlhOG9zRWRzUVdqR2d5ajZYLXBpZjZqY0liR0Uw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T20:19:59+00:00",
+   "vu_le": "2026-10-25T21:44:03.282548+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Roche: divarasib réduit la mortalité dans le cancer du poumon - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVo1XzJ6cXRhSW1iVC1JRXFvaXBCU0FaS3VaeEhyYnE5ajQwZjhjWkNqMXRLaGdDaERqUFVvSC0zanFYel9FVGd1RmxMeFFfYmEwaHRmaWpIQXhTQ3ZxdlZJb3g5ajR2UEV0OXZxVmU0bEEzdmcwUDFYLUVxbUtVT0d5YTh5ZHJMRWc1cFdnQ3JtOWdDb2JUYWU2RXp5bVI0U0dUZDUtNGhabUdaLWprcTFTWDN1Z09sUWNZMg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVo1XzJ6cXRhSW1iVC1JRXFvaXBCU0FaS3VaeEhyYnE5ajQwZjhjWkNqMXRLaGdDaERqUFVvSC0zanFYel9FVGd1RmxMeFFfYmEwaHRmaWpIQXhTQ3ZxdlZJb3g5ajR2UEV0OXZxVmU0bEEzdmcwUDFYLUVxbUtVT0d5YTh5ZHJMRWc1cFdnQ3JtOWdDb2JUYWU2RXp5bVI0U0dUZDUtNGhabUdaLWprcTFTWDN1Z09sUWNZMg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T20:09:17+00:00",
+   "vu_le": "2026-10-25T21:44:03.753362+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Aleksandar Vucic concède la défaite aux élections législatives en Serbie - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdHFaTi1RYTVKS2hNVE1oUGc3Z3pFNEE0RjljREhBYnAxT3NibkZVRmdZUTJnYWVuQzNHMzNNQmNRWDFxLVV4b09pQm9ONDZ1YkpSNkMtSHE3QUhpanBvTnBhMkhBQWVIZnpkZ0QzU0dMbFhRaWQxb1NhYUd3SGJPb2hpSUp4Snpmak05Wmg5QmNBMUoyQ09qcEpuOEw1T0Rxc2FsSVFSWEhMTVFmRHVVcFRaOTdOREJvODhpVmFud0xfeWUxVVVuSmZ5enhkNURROEw1U0dUck5hdFZtT3U5cWtNSkNLTkNNSk5TTUc0QzlDRUVUenhV0gH8AUFVX3lxTE1lNV8wLWthMGZNMHljeURneEY0MFhXYVhNZDRTOWxrNzFfTGJVeHdPNUNxaDBERUtuSlJoOGJMLVVDNnY4MWpLZmJjc0RpNnJUd1FvcmJ6UDNUZnZ2UzF4RklqaHliZkRIZWpiQmJSZWczLTBvNXBRRWhqS2VQZmo5dmZBNGMxMV83RjhwYS1hNkNwamJaYW53STFha0VsQ3Y4VDlOcmlyT3RRb0s0QUVOQzZGcWtTX2hGTFZNOWhpeHlyQmNQZ1pwR1RnczFkYS1KQlBVVTAyWHdEclM3NnJuWFBBSDNRVXdZVjR1WmNYdXotRUpTNF9uQk92bg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdHFaTi1RYTVKS2hNVE1oUGc3Z3pFNEE0RjljREhBYnAxT3NibkZVRmdZUTJnYWVuQzNHMzNNQmNRWDFxLVV4b09pQm9ONDZ1YkpSNkMtSHE3QUhpanBvTnBhMkhBQWVIZnpkZ0QzU0dMbFhRaWQxb1NhYUd3SGJPb2hpSUp4Snpmak05Wmg5QmNBMUoyQ09qcEpuOEw1T0Rxc2FsSVFSWEhMTVFmRHVVcFRaOTdOREJvODhpVmFud0xfeWUxVVVuSmZ5enhkNURROEw1U0dUck5hdFZtT3U5cWtNSkNLTkNNSk5TTUc0QzlDRUVUenhV0gH8AUFVX3lxTE1lNV8wLWthMGZNMHljeURneEY0MFhXYVhNZDRTOWxrNzFfTGJVeHdPNUNxaDBERUtuSlJoOGJMLVVDNnY4MWpLZmJjc0RpNnJUd1FvcmJ6UDNUZnZ2UzF4RklqaHliZkRIZWpiQmJSZWczLTBvNXBRRWhqS2VQZmo5dmZBNGMxMV83RjhwYS1hNkNwamJaYW53STFha0VsQ3Y4VDlOcmlyT3RRb0s0QUVOQzZGcWtTX2hGTFZNOWhpeHlyQmNQZ1pwR1RnczFkYS1KQlBVVTAyWHdEclM3NnJuWFBBSDNRVXdZVjR1WmNYdXotRUpTNF9uQk92bg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T19:45:00+00:00",
+   "vu_le": "2026-10-25T21:44:03.066722+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Elections législatives en Serbie, l'opposition espère renverser Vucic - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVgtZnBvTEEtNHYtcHZWX3FhVkZlRjIyOTlIN1ZBRWFTRlFjWUd0eEEtanVOQnloQnVVbGt3RHRmNEp3cnhpdlcwUl93Ulo0VmpUZGVaTU8yR0xwSVJ0a0xKRDNmUW5JZjJqdWxQNDNxVElPbHo3dmFwVnRZWGtucXBOSEZlOHlZUHhfMktoZGZ5eHYwYVNrbnZuN0RyUXlRZnBuekgyUGtxOTlDTGZNTlpKLWFPeUNtTjFFTFlscE9kXzR5OHdz?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVgtZnBvTEEtNHYtcHZWX3FhVkZlRjIyOTlIN1ZBRWFTRlFjWUd0eEEtanVOQnloQnVVbGt3RHRmNEp3cnhpdlcwUl93Ulo0VmpUZGVaTU8yR0xwSVJ0a0xKRDNmUW5JZjJqdWxQNDNxVElPbHo3dmFwVnRZWGtucXBOSEZlOHlZUHhfMktoZGZ5eHYwYVNrbnZuN0RyUXlRZnBuekgyUGtxOTlDTGZNTlpKLWFPeUNtTjFFTFlscE9kXzR5OHdz?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T19:08:35+00:00",
+   "vu_le": "2026-10-25T21:44:03.840437+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Elections législatives en Serbie, l'opposition espère renverser Vucic - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWo3Qno3eGV3SG9KVHR6Y1BaQUM5TkdvSnViTHE4OWlmVkZmeVVDRFRsRDcxV2YtVGVERUhmWS02Wm5GNUJJd3kxN2ZpZzN5b3JQV3EzTVBDTVptY0lnNHpVNGZydG9ESVk2VmNGNGpnUjNpYVFraXdTMU9oNXg2azVwem9kNERsbkNnMGVOXzdUcmlISV9SZV9RRnh0SDhIdEYtY3g2TXlLT3JsRDl6Vy16ZlZzMVJCWlVXcmNkb2NMTTBodFNyUA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWo3Qno3eGV3SG9KVHR6Y1BaQUM5TkdvSnViTHE4OWlmVkZmeVVDRFRsRDcxV2YtVGVERUhmWS02Wm5GNUJJd3kxN2ZpZzN5b3JQV3EzTVBDTVptY0lnNHpVNGZydG9ESVk2VmNGNGpnUjNpYVFraXdTMU9oNXg2azVwem9kNERsbkNnMGVOXzdUcmlISV9SZV9RRnh0SDhIdEYtY3g2TXlLT3JsRDl6Vy16ZlZzMVJCWlVXcmNkb2NMTTBodFNyUA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T19:08:35+00:00",
+   "vu_le": "2026-10-25T21:44:03.988185+00:00",
+   "resume": ""
+  },
   {
    "titre": "La dette publique est désormais la principale menace pour le patrimoine des investisseurs",
    "source": "Investing.com",
@@ -125,6 +246,17 @@
    "resume": ""
   },
   {
+   "titre": "Forum Bourse NANOBIOTIX - 25/10/2026 17:14:06 - Qui dit quoi pour demain - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DY3NIRHJGS0JTWDc3WDhvcjZFQ3VqSnI2ZF9PczNwTW01a1pCVXNVdU54MFBNeFUyUEVBZ1g3YW5RYTN5amNsU1VmT2tTcEdYV25CVy1lUDRUNTVEOTRJeVdUU3c1ZlZmbjljRWJVZGdwV0U?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DY3NIRHJGS0JTWDc3WDhvcjZFQ3VqSnI2ZF9PczNwTW01a1pCVXNVdU54MFBNeFUyUEVBZ1g3YW5RYTN5amNsU1VmT2tTcEdYV25CVy1lUDRUNTVEOTRJeVdUU3c1ZlZmbjljRWJVZGdwV0U?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T16:14:06+00:00",
+   "vu_le": "2026-10-25T21:44:02.927781+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Marco Rubio still owes Europe answers about America’s intentions",
    "source": "Financial Times",
    "theme": "International",
@@ -144,6 +276,28 @@
    "url_propre": "https://news.google.com/rss/articles/CBMingFBVV95cUxONURlc0VTOG9YUXVRbEVXWEtoODQ4aVl4ZjVER1gzN29KdFZDMXRub3lSd1dRUnIzbnBmbmhzLXBlVjRVMlRNTmU0YUpmcUNVV2dBUU9aR2dQanhjUFhPODRuVTRRXzR5dGFDM19adThUVFFXSWNRN0VvcWNkNDhEZDlueC1OYThWUVZTdmJlSnA5MlNFSEhQSl9HUVhNQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-25T16:00:04+00:00",
    "vu_le": "2026-10-25T19:08:17.089826+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "- Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcEVhQXFRYnNJa0F5dzg4d01KZWhQZEk1UjAxeG95aEhtLUpzT19HVjRGV2NhYjF5dDNYU2c2UUJXNTlpd3AtSVZMT19RcHNlcEZWY0VGWHc1UERkbHhFX04wSm9nZ0R5QkxRTzF1VnZ6clU1OFJGaFcxLTBhbjZCZDRwWTg0clAxUTRnSVNZOWNwYXA2MWNSb3FSNE9NaEVJUW8wQ3FOeExXTG41NGhFNnRPU1E3Nllaal9ESzV0eTRxbllNUHdkek5qeUFLa0c2VXdHLXd2NVVFT2E2VEZWalVxUlRVRHpWTGVLei1hYURVNXE1bUdicVJ6Zw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcEVhQXFRYnNJa0F5dzg4d01KZWhQZEk1UjAxeG95aEhtLUpzT19HVjRGV2NhYjF5dDNYU2c2UUJXNTlpd3AtSVZMT19RcHNlcEZWY0VGWHc1UERkbHhFX04wSm9nZ0R5QkxRTzF1VnZ6clU1OFJGaFcxLTBhbjZCZDRwWTg0clAxUTRnSVNZOWNwYXA2MWNSb3FSNE9NaEVJUW8wQ3FOeExXTG41NGhFNnRPU1E3Nllaal9ESzV0eTRxbllNUHdkek5qeUFLa0c2VXdHLXd2NVVFT2E2VEZWalVxUlRVRHpWTGVLei1hYURVNXE1bUdicVJ6Zw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T15:22:30+00:00",
+   "vu_le": "2026-10-25T21:44:02.761756+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Après la France, ALO part à la conquête de la Chine: la marque américaine ne veut pas se contenter d'y ouvrir 8 boutiques et arrive à grand renfort de studios de pilates, smoothies et jardins méditatifs - BFM",
+   "source": "BFM Business",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYzV3ZW15NlhHN0wwQkJBdnVVYmRvWVYtRjN3TmJTMW43SEFHUXM2ZGc5WFVhMy1fOUp6aHZtLVRmZGdZV2NCeUQ3YWVpWXJMb3R1enFmRlZORWJLRXR6akJIck8wM2N1VVRYczhGWVpPU0xqRml3VzhCWWs1LW9ySzRiSzBBbXRyMEY3SlVQS1lJNzVhV1F2RTJ0Sko0REw3cnZoLVBmbE9YNm96MDhOV3RPb0F6cGdoV1kwam9oXy0zcWhmejVwTjJZdkF1T0ZXaWdCWDZkOXFFbTdYaVF0OW1BQXhSWWZ0d2RDTDhvYWQ0aDAzcjZLR0lKNkFHWFNLcFRGSkJkSHJsaUN5Nzk1amdwbDl5THZhLXN5bEt2ZUpWSHV1VWxVZmNrU3Rwa0hoV1ZyanV1YzJzY2o2NmlhV1A0OUxPZzhJbEJPbi1zdnB0Mmt1akNaaVNMNDE3ZXVfRnNqUEdCX1dFSmlE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYzV3ZW15NlhHN0wwQkJBdnVVYmRvWVYtRjN3TmJTMW43SEFHUXM2ZGc5WFVhMy1fOUp6aHZtLVRmZGdZV2NCeUQ3YWVpWXJMb3R1enFmRlZORWJLRXR6akJIck8wM2N1VVRYczhGWVpPU0xqRml3VzhCWWs1LW9ySzRiSzBBbXRyMEY3SlVQS1lJNzVhV1F2RTJ0Sko0REw3cnZoLVBmbE9YNm96MDhOV3RPb0F6cGdoV1kwam9oXy0zcWhmejVwTjJZdkF1T0ZXaWdCWDZkOXFFbTdYaVF0OW1BQXhSWWZ0d2RDTDhvYWQ0aDAzcjZLR0lKNkFHWFNLcFRGSkJkSHJsaUN5Nzk1amdwbDl5THZhLXN5bEt2ZUpWSHV1VWxVZmNrU3Rwa0hoV1ZyanV1YzJzY2o2NmlhV1A0OUxPZzhJbEJPbi1zdnB0Mmt1akNaaVNMNDE3ZXVfRnNqUEdCX1dFSmlE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T15:00:16+00:00",
+   "vu_le": "2026-10-25T21:44:03.529770+00:00",
    "resume": ""
   },
   {
@@ -387,6 +541,17 @@
    "date_publication": "2026-10-25T10:33:28+00:00",
    "vu_le": "2026-10-25T12:11:49.378388+00:00",
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5012041482ca212"
+  },
+  {
+   "titre": "- Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMy1iUy1OMXc3Vm12dHV6bE80N1pxaUFJZ0lpYjJPRG0yWUtFWmt5UjZrbmRWWHJUR1VHbTdPVDA4TUEwbkFiY2kzUXVXRjVxVFlMTERXY3pMN09fWW9teW1ZbDdpY08wNzFqdXFJTGNRWlJfV1E4YkgwX2ZFOTdxck9iYWhpazhxRERBTmhIZ3ktRHl0UDZGanlBVWdMSm13cVFJUW0zLU43WjVWbFk3bWotZnA1dEVrMk1uejZSWlFFbTUwOHlYd2ptM1A0UVRVRWJrT3hxbWhUcmoyZW0za1luWk1WZnpHeFh5M2t0SEZ2bEc5Wm12a3ZxeEU1Ri1hd2dwd0RkZnNtZ25vb1pZ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMy1iUy1OMXc3Vm12dHV6bE80N1pxaUFJZ0lpYjJPRG0yWUtFWmt5UjZrbmRWWHJUR1VHbTdPVDA4TUEwbkFiY2kzUXVXRjVxVFlMTERXY3pMN09fWW9teW1ZbDdpY08wNzFqdXFJTGNRWlJfV1E4YkgwX2ZFOTdxck9iYWhpazhxRERBTmhIZ3ktRHl0UDZGanlBVWdMSm13cVFJUW0zLU43WjVWbFk3bWotZnA1dEVrMk1uejZSWlFFbTUwOHlYd2ptM1A0UVRVRWJrT3hxbWhUcmoyZW0za1luWk1WZnpHeFh5M2t0SEZ2bEc5Wm12a3ZxeEU1Ri1hd2dwd0RkZnNtZ25vb1pZ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-10-25T10:23:54+00:00",
+   "vu_le": "2026-10-25T21:44:03.069474+00:00",
+   "resume": ""
   },
   {
    "titre": "\"Poutine n'a pas peur d'Eurofighter ou du Rafale mais du F-35\": malgré les craintes de dépendance, l'avion furtif américain domine toujours largement ses concurrents en Europe - BFM",
@@ -829,17 +994,6 @@
    "resume": ""
   },
   {
-   "titre": "IPC plus élevé que prévu : une hausse des taux est-elle de nouveau à l’ordre du jour ?",
-   "source": "Investing.com",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://fr.investing.com/analysis/ipc-plus-eleve-que-prevu--une-hausse-des-taux-estelle-de-nouveau-a-lordre-du-jour--200458110",
-   "url_propre": "https://fr.investing.com/analysis/ipc-plus-eleve-que-prevu--une-hausse-des-taux-estelle-de-nouveau-a-lordre-du-jour--200458110",
-   "date_publication": "",
-   "vu_le": "2026-10-24T21:33:53.621910+00:00",
-   "resume": ""
-  },
-  {
    "titre": "CAC 40 : Assurance Vie : etes vous un mauvais citoyen ? je m'explique + vos avis merci - Boursorama",
    "source": "Boursorama",
    "theme": "Bourse / Marchés",
@@ -860,39 +1014,6 @@
    "date_publication": "2026-10-24T20:50:20+00:00",
    "vu_le": "2026-10-24T23:39:59.843100+00:00",
    "resume": ""
-  },
-  {
-   "titre": "WhatsApp en Afrique : piratages et arnaques se multiplient - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXhMWVZyU0dXXy0ya2c0dGxlbk5DZG1LYm02RVVxS1Z6d00xTS13ZDhpbHFiX0d5WWpzQ1c4cGtoRGYwOHBfU0lrY2RaUTlDV195NE9NaUtQNldIRG9zMG94b3BhVGhlaXhFVFg2ak95WFFER0JrVXB2UkdPQURqVVdJNUFpUXZFbnpBTVU1aXBMMjVHbGQtQV9IcHVJd0o3QTdpNVQ4NEZQN1BaeUpBRHJQZlFIUHF3aVpTb1BBWVRpME1BR3NxeGZGdkZGYXPSAdQBQVVfeXFMT0hRQXJQQ3FZYllwbTdUOUpZXy1Pc3BkbjZfNjJlSGc0RHROclM1MVk5U1RzQ3gwMGphclNxd0d6R3VJbFRfR19aSnU3QnU3b21EOTVNMlpPcEs3Q2pfM1pPaXdTMHp5T2s3TjFnS19NcGtqWjkzX3pMcVdUdVEwT3hJa2RzYWxPWmtNOEtIbjhJZ3Z4QUJfUGJXT2wxUllJZnBabERHeWZ6WjFyNTRJYTBXd01SSVB2RTBfcVBaTDJXc3RVX1VlUkFsUGFFTGZ6aS14c2s?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXhMWVZyU0dXXy0ya2c0dGxlbk5DZG1LYm02RVVxS1Z6d00xTS13ZDhpbHFiX0d5WWpzQ1c4cGtoRGYwOHBfU0lrY2RaUTlDV195NE9NaUtQNldIRG9zMG94b3BhVGhlaXhFVFg2ak95WFFER0JrVXB2UkdPQURqVVdJNUFpUXZFbnpBTVU1aXBMMjVHbGQtQV9IcHVJd0o3QTdpNVQ4NEZQN1BaeUpBRHJQZlFIUHF3aVpTb1BBWVRpME1BR3NxeGZGdkZGYXPSAdQBQVVfeXFMT0hRQXJQQ3FZYllwbTdUOUpZXy1Pc3BkbjZfNjJlSGc0RHROclM1MVk5U1RzQ3gwMGphclNxd0d6R3VJbFRfR19aSnU3QnU3b21EOTVNMlpPcEs3Q2pfM1pPaXdTMHp5T2s3TjFnS19NcGtqWjkzX3pMcVdUdVEwT3hJa2RzYWxPWmtNOEtIbjhJZ3Z4QUJfUGJXT2wxUllJZnBabERHeWZ6WjFyNTRJYTBXd01SSVB2RTBfcVBaTDJXc3RVX1VlUkFsUGFFTGZ6aS14c2s?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-24T20:21:43+00:00",
-   "vu_le": "2026-10-24T21:33:54.193496+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Crise sociale : une mobilisation toujours forte dans un contexte tendu - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNczdya2RpMy1FYjFVRU5keWdrdmlZNFpRTS1LV2RDSlVGQ3B3SEdZMGR3MG5LSW9PRUE4Yk50VXh1R3N2d1A4WWpsOXNxbnVUZXBjZFRDcDFvU1pxUEg5Mldkb0ZDdVpsY1dfYUxlb2toWFhWcE15SEJ4Z21QWUlBek5pTThEeElxQm9NaVl5VDR1TkxGVFdteFNyMTNLSHUtbmswMHBCUXl4RFE5eVVsb2JrTlJkNDd2UnlCR2hpVGhOeV9mSEpDb1Ezdk5BWWdxSnJfelZDY3NQQ21EaWVabEhMYWxPV01EUGptWVIyR3A5QdIB9wFBVV95cUxOdG5lRzRMSXBtalVlOUZ4eUppakZEbFlYanNsczdMdTVFRmtaaW55YXVHdGdpMmh0UE9GY3J3T2M0RmdwejIzSTI2NDVpZWJNQVY2eFl4ejRaRUU3dDNTOEdCR1lLczFtWW1YYzJuZl9RNERlVTFMdXBMeWhKVlA4NTR1Zm16NmRRa0RhZ1MtUjVpeXBITE1wUGZkY0Ztemh4S3dmSWxIeUlhWDlJRS1SMnFvdHgxeGY0U3hvZHZqWjlUSllLcFpfTmZ1VzVKSVBaTDA2YXBuSlZRaDVNOVRfMUZCeVJ3c0ZiZFZFUkpKTGNPOExEZFQ0?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNczdya2RpMy1FYjFVRU5keWdrdmlZNFpRTS1LV2RDSlVGQ3B3SEdZMGR3MG5LSW9PRUE4Yk50VXh1R3N2d1A4WWpsOXNxbnVUZXBjZFRDcDFvU1pxUEg5Mldkb0ZDdVpsY1dfYUxlb2toWFhWcE15SEJ4Z21QWUlBek5pTThEeElxQm9NaVl5VDR1TkxGVFdteFNyMTNLSHUtbmswMHBCUXl4RFE5eVVsb2JrTlJkNDd2UnlCR2hpVGhOeV9mSEpDb1Ezdk5BWWdxSnJfelZDY3NQQ21EaWVabEhMYWxPV01EUGptWVIyR3A5QdIB9wFBVV95cUxOdG5lRzRMSXBtalVlOUZ4eUppakZEbFlYanNsczdMdTVFRmtaaW55YXVHdGdpMmh0UE9GY3J3T2M0RmdwejIzSTI2NDVpZWJNQVY2eFl4ejRaRUU3dDNTOEdCR1lLczFtWW1YYzJuZl9RNERlVTFMdXBMeWhKVlA4NTR1Zm16NmRRa0RhZ1MtUjVpeXBITE1wUGZkY0Ztemh4S3dmSWxIeUlhWDlJRS1SMnFvdHgxeGY0U3hvZHZqWjlUSllLcFpfTmZ1VzVKSVBaTDA2YXBuSlZRaDVNOVRfMUZCeVJ3c0ZiZFZFUkpKTGNPOExEZFQ0?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-24T20:19:00+00:00",
-   "vu_le": "2026-10-24T21:33:54.355241+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-   "source": "Financial Times",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-   "date_publication": "2026-10-24T19:19:48+00:00",
-   "vu_le": "2026-10-24T21:33:53.806843+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4fc1a3a0a46c6f7"
   },
   {
    "titre": "Paris : tensions en fin de cortège, des gaz lacrymogènes utilisés - Boursorama",
@@ -925,17 +1046,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQml5eEZ3V2cwSmkyc3hNempkc2F0WnNfb3ZLYjE3cE1lZ0gwM295ZWRqYVROZkFDWXRzSndWV1NFUEI4UTVwdXVMYVdFY2FBb0lxZjhINl9HSzJ2SkUtdmJqQnM0d3lhOHZLdnRDa19aUUkxZWtuVTVHVHdrY2NMWFdmQVNxVkN4dFpPelR0d2NtY3BuS0RUeTRPSVZoaHVSSFUyU0owSWw3RzdIRHZ5ZWpkVng5bHVvVUFmVzV1TDJld0Y1bXloLTFNMEpjVm5kZ3BQVF9qLTVnSWdx?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-10-24T16:12:12+00:00",
    "vu_le": "2026-10-24T23:40:00.108687+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Attaque dans les Yvelines: rassemblement à Trappes en hommage à la victime Pengo Bossio Wangi - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUmZoMW1SQWpVVkdiR05VbnJVdGhGdEJkMFBPc0g3a1l0Qk10VWMtRTNaejYtaFZ0cjFuekZDbkE5YzFUTHhXQW9mX29CRk5EQVBqUVN5Q0NQNTJuMkxsTjYwYjl3Q29VUWFXeEJNM1RBNVBOSGt0VS1GLV9FbE9DYXQ2bmZ1SXVPQklBaUVsSEFoaTZOdWtZaTExMDRVMEZiZS1KTnlfOTRCWWhtdFZ3VV9zaVUyc0hYZ2pwNDAtZ0hqN3R0dXZvZ3B1cmkzTk9rdWxFc0ZUT3owWm5heXpILWxJZS04dFJWZ1cxdFJaWExiQ3Fpc0NVUEJkdTFfY3PSAYQCQVVfeXFMT1NZRExRMjV1Z2dfaWk0NEpCbnZnQ3RORmVFVVB0Ml9GNTJhc0ltTnlLaC1EendnejJ2NmNkZnRnR3FuUjB5TTR0QW9maFhmQUszbl8xWkl6SU04eWJwMllKVXhWdFlKN3d1ekNwRGZkcTMxWHF2ZkNBT05PdExTVjQxMWx1b1N5cUZhcWxaOGhzaE0tWWxjM3REV2luTDBnR3Izem84WE9TXzhrc2tNbWpXa0tXNC15WEZNaTZrQjR5Nm5MUjV0VjBCSkx2UkFlNzJDZXZfbDIzR3VpS3NUVmVrSGs2ZEFwa3JmSUlLVk1fd1huMDlsZjBzWWIta0pzcWM4U1Q?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUmZoMW1SQWpVVkdiR05VbnJVdGhGdEJkMFBPc0g3a1l0Qk10VWMtRTNaejYtaFZ0cjFuekZDbkE5YzFUTHhXQW9mX29CRk5EQVBqUVN5Q0NQNTJuMkxsTjYwYjl3Q29VUWFXeEJNM1RBNVBOSGt0VS1GLV9FbE9DYXQ2bmZ1SXVPQklBaUVsSEFoaTZOdWtZaTExMDRVMEZiZS1KTnlfOTRCWWhtdFZ3VV9zaVUyc0hYZ2pwNDAtZ0hqN3R0dXZvZ3B1cmkzTk9rdWxFc0ZUT3owWm5heXpILWxJZS04dFJWZ1cxdFJaWExiQ3Fpc0NVUEJkdTFfY3PSAYQCQVVfeXFMT1NZRExRMjV1Z2dfaWk0NEpCbnZnQ3RORmVFVVB0Ml9GNTJhc0ltTnlLaC1EendnejJ2NmNkZnRnR3FuUjB5TTR0QW9maFhmQUszbl8xWkl6SU04eWJwMllKVXhWdFlKN3d1ekNwRGZkcTMxWHF2ZkNBT05PdExTVjQxMWx1b1N5cUZhcWxaOGhzaE0tWWxjM3REV2luTDBnR3Izem84WE9TXzhrc2tNbWpXa0tXNC15WEZNaTZrQjR5Nm5MUjV0VjBCSkx2UkFlNzJDZXZfbDIzR3VpS3NUVmVrSGs2ZEFwa3JmSUlLVk1fd1huMDlsZjBzWWIta0pzcWM4U1Q?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-24T14:11:11+00:00",
-   "vu_le": "2026-10-24T21:33:54.340821+00:00",
    "resume": ""
   },
   {
@@ -1005,17 +1115,6 @@
    "resume": ""
   },
   {
-   "titre": "Poutine ressuscite un monstre de la Guerre froide, les Américains veulent amener leur B-52 à 100 ans... Pourquoi les grandes puissances misent encore sur leurs bombardiers du siècle dernier - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQUGRTaHVTOXE5NENPVGNhOEF4c0JRY2xyWl9UVjlJaXlPcUlLN2h4WE15QXIzRWNRU3pRejgzUFlCcmpLRk9INzZuUUEzb1BCM1VUOHdrT2N0VXZOcmlVQXZBVHNEMG5RbUtWTTg0c29sSEN2cVdKbGk0RUtpdTVVS1NDRzU3ZmxlZ1JEVkhkY0NiS0hjVDc2YU16YnZqajBNR0V0N245NFYtYm5RX1BDZ3VvQmF4U09VTmhBVF9DSjZnZXdqQzluMm1tMGhYd2xieWduSjRjN0RoMGc2eFBYVmNrZVlPS3Y4SlpMOC1ubmcya0lNeHEzRFY1aXBfbzFDRDNUQ0V1VS1HWmpTd2M0MnRDUmEtcHkzVGVPRWN3Z3dJT28tV25WdkZjYmNVNG1kc1h1aWhLRXZkdHhCMVVJeHk3a2c3dVZKQklHREp6REdCX01jRUtGM2lMdUg4S2xLdEdBTU01SXcweFRTcF81WFUtZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQUGRTaHVTOXE5NENPVGNhOEF4c0JRY2xyWl9UVjlJaXlPcUlLN2h4WE15QXIzRWNRU3pRejgzUFlCcmpLRk9INzZuUUEzb1BCM1VUOHdrT2N0VXZOcmlVQXZBVHNEMG5RbUtWTTg0c29sSEN2cVdKbGk0RUtpdTVVS1NDRzU3ZmxlZ1JEVkhkY0NiS0hjVDc2YU16YnZqajBNR0V0N245NFYtYm5RX1BDZ3VvQmF4U09VTmhBVF9DSjZnZXdqQzluMm1tMGhYd2xieWduSjRjN0RoMGc2eFBYVmNrZVlPS3Y4SlpMOC1ubmcya0lNeHEzRFY1aXBfbzFDRDNUQ0V1VS1HWmpTd2M0MnRDUmEtcHkzVGVPRWN3Z3dJT28tV25WdkZjYmNVNG1kc1h1aWhLRXZkdHhCMVVJeHk3a2c3dVZKQklHREp6REdCX01jRUtGM2lMdUg4S2xLdEdBTU01SXcweFRTcF81WFUtZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-24T04:59:00+00:00",
-   "vu_le": "2026-10-24T21:33:54.726794+00:00",
-   "resume": ""
-  },
-  {
    "titre": "L’agence Moody’s maintient la note souveraine de la France à AA3, mais y assortit une perspective négative",
    "source": "Le Monde Economie",
    "theme": "Finance / Economie (général)",
@@ -1038,28 +1137,6 @@
    "resume": ""
   },
   {
-   "titre": "Budget de la « Sécu » : les députés sabordent le projet de loi à l’Assemblée nationale",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
-   "url_propre": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
-   "date_publication": "2026-10-23T16:21:16+00:00",
-   "vu_le": "2026-10-24T21:33:53.812348+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Agenda Zonebourse des résultats de sociétés : semaine du 26 au 30 octobre 2026 - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2dWdmZnbHJSVzBqX2lVUDAtSEdiWDRIanB0azNBc09rZUhmRGZxR0Iya25HeHdpamt4ay1MWXViVkh4NkoxNzNtT1FSdjNSQWp3RTVmbzBSVnRRb0JJaUtFVFVPOG9WeldFUDAwWnVJR2Y2bnRWb0o0anl6cGMzVm04Y2QzYnhFalZsYTVaZnF4Y1hPVnQ0cVFnelduM3Rvbng4SHo2UUtZaTdZVXg5aWdhWUdwRVJJTlpRZEt4bzBINTRSeTFlZE9qRGNFdDk2am5r?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2dWdmZnbHJSVzBqX2lVUDAtSEdiWDRIanB0azNBc09rZUhmRGZxR0Iya25HeHdpamt4ay1MWXViVkh4NkoxNzNtT1FSdjNSQWp3RTVmbzBSVnRRb0JJaUtFVFVPOG9WeldFUDAwWnVJR2Y2bnRWb0o0anl6cGMzVm04Y2QzYnhFalZsYTVaZnF4Y1hPVnQ0cVFnelduM3Rvbng4SHo2UUtZaTdZVXg5aWdhWUdwRVJJTlpRZEt4bzBINTRSeTFlZE9qRGNFdDk2am5r?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T15:55:55+00:00",
-   "vu_le": "2026-10-24T21:33:54.849492+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Agenda Zonebourse des résultats de sociétés : semaine du 26 au 30 octobre 2026 - Zonebourse Suisse",
    "source": "ZoneBourse",
    "theme": "Bourse / Marchés",
@@ -1071,50 +1148,6 @@
    "resume": ""
   },
   {
-   "titre": "Agenda Economique Zonebourse : un numéro de duettistes pour la Fed et la BCE - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdWc2ZlRyY2tmbHBDNGhieEV5c0h0Rk9sVUZxRjYzMzR2YjIzcmI2ZGdZQ1pKSlpzOU9KMlhYbkM1RFphaG44d2Nicm1xb3BBRzdIWVB3SVVYWWFBMHNzck45S0Y1UVI3djJhaU02cFI1ODUzTnNvXy1obnhnYmszTWlFQVJDODhzZ1U0X2FjLXJnWW9ZQnZhNk92cF83anJyaWNSbWk5MllPMjlkdlExYXc0bWpsWU1RbkYxWldiSzBDLXhqa09CTHFEX0g5NHc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdWc2ZlRyY2tmbHBDNGhieEV5c0h0Rk9sVUZxRjYzMzR2YjIzcmI2ZGdZQ1pKSlpzOU9KMlhYbkM1RFphaG44d2Nicm1xb3BBRzdIWVB3SVVYWWFBMHNzck45S0Y1UVI3djJhaU02cFI1ODUzTnNvXy1obnhnYmszTWlFQVJDODhzZ1U0X2FjLXJnWW9ZQnZhNk92cF83anJyaWNSbWk5MllPMjlkdlExYXc0bWpsWU1RbkYxWldiSzBDLXhqa09CTHFEX0g5NHc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T15:44:18+00:00",
-   "vu_le": "2026-10-24T21:33:54.957832+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "\"Je suis atterré\", \"le cynisme dépasse la décence\": alors que Carrefour, Leclerc et leurs concurrents menacent de boycotter une réunion à Bercy, les agriculteurs et industriels leur tombent dessus - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPYndCenhJVlhWMUFLMGtWSXZSb3BxUkh5SXdSUUxXNVo4YU5IUXFCRkxqcFFKOHk4NUswcjJib3JWVnY2YWdCOEk2Rm1rSkdFYm51SmNUTzlydVBweXVCYVBHRGNYMkJabjZfcEh2WW5XUUxBSExicHp1NVJnRnVLNGZEY2R3dXFWNlU3QzBUb0JBd3hEZkh3aDMyMVBEZTN5TzRTNnNrSEI5V1NvUm9SLU1CVkRwcGFEaDV5QjVmOC14T25VNWZ6cXZ6dTMwSUxUNzlkZFh1ZkY5ZC1seldtZHNJdjhrWk1uZXNrd0FxV0Rmbnp6eWRFMVNvZWdYcHlKOTlKY1NrZGJiTDhVNHk0d0pZNlRodXQwT19XWXVsUm9pallqeldOQjNTRUtROGJBejNLeXRZUVpwYkVxMnRTOG4xT1czVmFkaGhNU2lPejMza094UUV1a2VwQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPYndCenhJVlhWMUFLMGtWSXZSb3BxUkh5SXdSUUxXNVo4YU5IUXFCRkxqcFFKOHk4NUswcjJib3JWVnY2YWdCOEk2Rm1rSkdFYm51SmNUTzlydVBweXVCYVBHRGNYMkJabjZfcEh2WW5XUUxBSExicHp1NVJnRnVLNGZEY2R3dXFWNlU3QzBUb0JBd3hEZkh3aDMyMVBEZTN5TzRTNnNrSEI5V1NvUm9SLU1CVkRwcGFEaDV5QjVmOC14T25VNWZ6cXZ6dTMwSUxUNzlkZFh1ZkY5ZC1seldtZHNJdjhrWk1uZXNrd0FxV0Rmbnp6eWRFMVNvZWdYcHlKOTlKY1NrZGJiTDhVNHk0d0pZNlRodXQwT19XWXVsUm9pallqeldOQjNTRUtROGJBejNLeXRZUVpwYkVxMnRTOG4xT1czVmFkaGhNU2lPejMza094UUV1a2VwQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T15:04:37+00:00",
-   "vu_le": "2026-10-24T21:33:54.797511+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Wall Street programmée en ordre dispersé - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEJsak1rckZYd1lGMFoycTlmZ3pMMUExQmFpd0JHclFnSXVPWmNmTjlrdlVMZlFOSllzT2NhNVRPc09jVXVnVTBZRmpWYTlRQ0VRQTdENDJlQ1JCNm1nXzdueFdBVjBrSDRLdjFFM1BGeDlibzdZb0d2RGZCT0Fpd0hyemdDM3RIbnN4eEk3eFBtMDJOUGRBRnZ4QTMwY0ltd2c?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEJsak1rckZYd1lGMFoycTlmZ3pMMUExQmFpd0JHclFnSXVPWmNmTjlrdlVMZlFOSllzT2NhNVRPc09jVXVnVTBZRmpWYTlRQ0VRQTdENDJlQ1JCNm1nXzdueFdBVjBrSDRLdjFFM1BGeDlibzdZb0d2RGZCT0Fpd0hyemdDM3RIbnN4eEk3eFBtMDJOUGRBRnZ4QTMwY0ltd2c?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-10-23T12:19:25+00:00",
-   "vu_le": "2026-10-24T21:33:54.905575+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Ces 3 raisons pour lesquelles les Chinois boudent désormais les produits de luxe, selon les analystes de HSBC",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/ces-3-raisons-pour-lesquelles-les-chinois-boudent-desormais-les-produits-de-luxe-selon-les-analystes-de-hsbc-20261022",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/ces-3-raisons-pour-lesquelles-les-chinois-boudent-desormais-les-produits-de-luxe-selon-les-analystes-de-hsbc-20261022",
-   "date_publication": "2026-10-23T07:16:05+00:00",
-   "vu_le": "2026-10-24T21:33:54.067132+00:00",
-   "resume": "Voilà trois ans que les investisseurs attendent, en vain jusqu’à présent, que l’important marché chinois se redresse. Où en est-on aujourd’hui ? pixarno - stock.adobe.com - Le Figaro Chaque semaine, Le Figaro Patrimoine et Bourse relaie des informations confidentielles repérées dans les notes d’anal"
-  },
-  {
    "titre": "L'Ukraine lui a commandé 16 avions Gripen, l'Europe se réarme... Le suédois Saab triple ses commandes et engrange les milliards - BFM",
    "source": "BFM Business",
    "theme": "International",
@@ -1124,6 +1157,17 @@
    "date_publication": "2026-10-23T06:53:26+00:00",
    "vu_le": "2026-10-25T06:52:24.923850+00:00",
    "resume": ""
+  },
+  {
+   "titre": "Instabilité politique, budget introuvable, déficit colossal, grogne sociale : faut-il fuir la Bourse de Paris ?",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/instabilite-politique-budget-introuvable-deficit-colossal-grogne-sociale-faut-il-fuir-la-bourse-de-paris-20261023",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/instabilite-politique-budget-introuvable-deficit-colossal-grogne-sociale-faut-il-fuir-la-bourse-de-paris-20261023",
+   "date_publication": "2026-10-23T05:00:00+00:00",
+   "vu_le": "2026-10-25T21:44:03.054852+00:00",
+   "resume": "Voilà plus de deux ans que l’instabilité politique française et les risques financiers qui en découlent pèsent sur la Bourse de Paris. Faut-il pour autant la déserter ? JFBRUNEAU - stock.adobe.com - Le Figaro Depuis la dissolution manquée de 2024, le risque politique pèse sur les actions françaises."
   },
   {
    "titre": "Au-delà d’une chute de 40% de sa valeur en Bourse, Hermès doit affronter la récente surabondance des sacs Birkin sur le marché secondaire",
