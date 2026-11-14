@@ -1,8 +1,74 @@
 {
- "genere_le": "2026-11-14T16:00:14.655699+00:00",
+ "genere_le": "2026-11-14T20:36:17.522973+00:00",
  "fenetre_heures": 24,
- "nb_articles": 178,
+ "nb_articles": 132,
  "articles": [
+  {
+   "titre": "Le secteur technologique représente désormais les deux tiers du déficit commercial américain",
+   "source": "Investing.com",
+   "theme": "Macroéconomie",
+   "couleur": "A9D18E",
+   "url": "https://fr.investing.com/analysis/le-secteur-technologique-represente-desormais-les-deux-tiers-du-deficit-commercial-americain-200458334",
+   "url_propre": "https://fr.investing.com/analysis/le-secteur-technologique-represente-desormais-les-deux-tiers-du-deficit-commercial-americain-200458334",
+   "date_publication": "",
+   "vu_le": "2026-11-14T20:37:35.084016+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Ce que la victoire des démocrates aux élections de mi-mandat signifie pour les marchés",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/ce-que-la-victoire-des-democrates-aux-elections-de-mimandat-signifie-pour-les-marches-200458329",
+   "url_propre": "https://fr.investing.com/analysis/ce-que-la-victoire-des-democrates-aux-elections-de-mimandat-signifie-pour-les-marches-200458329",
+   "date_publication": "",
+   "vu_le": "2026-11-14T20:37:35.073541+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "La liquidité se resserre : restez vigilants, mais ne cédez pas à la panique",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/la-liquidite-se-resserre--restez-vigilants-mais-ne-cedez-pas-a-la-panique-200458381",
+   "url_propre": "https://fr.investing.com/analysis/la-liquidite-se-resserre--restez-vigilants-mais-ne-cedez-pas-a-la-panique-200458381",
+   "date_publication": "",
+   "vu_le": "2026-11-14T20:37:35.062511+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Les élections de mi-mandat tournent au bleu : que va-t-il se passer désormais sur les marchés ?",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/les-elections-de-mimandat-tournent-au-bleu--que-vatil-se-passer-desormais-sur-les-marches--200458377",
+   "url_propre": "https://fr.investing.com/analysis/les-elections-de-mimandat-tournent-au-bleu--que-vatil-se-passer-desormais-sur-les-marches--200458377",
+   "date_publication": "",
+   "vu_le": "2026-11-14T20:37:35.050550+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "États-Unis : plus de 16.000 vols annulés en deux jours après une panne géante des communications aériennes",
+   "source": "Le Figaro Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
+   "url_propre": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114",
+   "date_publication": "2026-11-14T16:44:29+00:00",
+   "vu_le": "2026-11-14T20:37:35.602035+00:00",
+   "resume": "Le trafic aérien revient progressivement à la normale, mais les compagnies doivent encore réorganiser leurs programmes de vols et repositionner leurs avions et leurs équipages, a prévenu le ministre américain des Transports, Sean Duffy. Plus de 16.000 vols sont annulés vendredi et samedi aux États-U"
+  },
+  {
+   "titre": "Lunettes connectées : « Où est donc l’Europe, qui aime tant se présenter comme la championne mondiale de la protection de la vie privée ? »",
+   "source": "Le Monde Economie",
+   "theme": "International",
+   "couleur": "F4B183",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/14/lunettes-connectees-ou-est-donc-l-europe-qui-aime-tant-se-presenter-comme-la-championne-mondiale-de-la-protection-de-la-vie-privee_6810448_3232.html",
+   "url_propre": "https://www.lemonde.fr/idees/article/2026/11/14/lunettes-connectees-ou-est-donc-l-europe-qui-aime-tant-se-presenter-comme-la-championne-mondiale-de-la-protection-de-la-vie-privee_6810448_3232.html",
+   "date_publication": "2026-11-14T16:00:18+00:00",
+   "vu_le": "2026-11-14T20:37:35.455409+00:00",
+   "resume": "Les opticiens vendent désormais, en les présentant comme les derniers gadgets à la mode, des lunettes connectées munies de caméras et de microphones. Des lunettes à l’apparence ordinaires, mais équipées de systèmes informatiques embarqués évolués capables d’enregistrer et d’analyser leur environneme"
+  },
   {
    "titre": "Suspension des vols aux Etats-Unis : des annulations et des retards de vols persistent samedi",
    "source": "Le Monde Economie",
@@ -35,6 +101,17 @@
    "date_publication": "2026-11-14T15:03:16+00:00",
    "vu_le": "2026-11-14T16:00:20.510512+00:00",
    "resume": ""
+  },
+  {
+   "titre": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
+   "source": "Le Figaro Economie",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://www.lefigaro.fr/secteur/high-tech/en-italie-meta-condamnee-a-805-millions-d-euros-d-amende-pour-avoir-accede-aux-photos-de-ses-utilisateurs-sans-leur-consentement-20261114",
+   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/en-italie-meta-condamnee-a-805-millions-d-euros-d-amende-pour-avoir-accede-aux-photos-de-ses-utilisateurs-sans-leur-consentement-20261114",
+   "date_publication": "2026-11-14T14:54:01+00:00",
+   "vu_le": "2026-11-14T20:37:35.041606+00:00",
+   "resume": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement L’autorité italienne de protection des données personnelles reproche à la maison mère de Facebook d’avoir accédé aux métadonnées des utilisateurs de son application Andro"
   },
   {
    "titre": "Musk estime que Nvidia perdrait des contrats « critiques » sans Jensen Huang - Zonebourse Suisse",
@@ -288,6 +365,17 @@
    "date_publication": "2026-11-14T10:26:59+00:00",
    "vu_le": "2026-11-14T16:00:19.780250+00:00",
    "resume": ""
+  },
+  {
+   "titre": "Acheter des actions Anthropic (Claude) avant son introduction en Bourse : avec quel courtier, à quel prix et jusqu’à quand?",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/acheter-des-actions-anthropic-claude-avant-son-introduction-en-bourse-avec-quel-courtier-a-quel-prix-et-jusqu-a-quand-20261113",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/acheter-des-actions-anthropic-claude-avant-son-introduction-en-bourse-avec-quel-courtier-a-quel-prix-et-jusqu-a-quand-20261113",
+   "date_publication": "2026-11-14T09:59:37+00:00",
+   "vu_le": "2026-11-14T20:37:35.242241+00:00",
+   "resume": "L’introduction en Bourse d’Anthropic est attendue jeudi 20 novembre au Nasdaq à New York. sauloangelo - stock.adobe.com Le concepteur de l’intelligence artificielle (IA) Claude espère lever plus de 64 milliards de dollars. Voici comment participer à cette introduction en Bourse depuis la France. Il "
   },
   {
    "titre": "Des milliers d’annulations, «du vieux matériel» en cause… Ce que l’on sait de la suspension des vols aux États-Unis après la reprise du trafic",
@@ -1181,28 +1269,6 @@
    "resume": "« La journée a été compliquée. La panne a touché à peu près tout ce que nous faisons, nous avons pris du retard et une partie du travail va glisser à lundi », résume Rayan (les personnes citées par leur seul prénom ont souhaité rester anonymes), consultant en communication à Paris. Invitations à déj"
   },
   {
-   "titre": "La bonne santé du marché de l’emploi US renforce les chances d’une hausse des taux",
-   "source": "Investing.com",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://fr.investing.com/analysis/la-bonne-sante-du-marche-de-lemploi-us-renforce-les-chances-dune-hausse-des-taux-200458361",
-   "url_propre": "https://fr.investing.com/analysis/la-bonne-sante-du-marche-de-lemploi-us-renforce-les-chances-dune-hausse-des-taux-200458361",
-   "date_publication": "",
-   "vu_le": "2026-11-13T17:38:19.515486+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Or sous 4000$ : Alerte ou signal d’achat pour ces 9 actions minières ?",
-   "source": "Investing.com",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://fr.investing.com/analysis/or-sous-4000--alerte-ou-signal-dachat-pour-ces-9-actions-minieres--200458415",
-   "url_propre": "https://fr.investing.com/analysis/or-sous-4000--alerte-ou-signal-dachat-pour-ces-9-actions-minieres--200458415",
-   "date_publication": "",
-   "vu_le": "2026-11-13T17:38:19.504285+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Après BMW et Volkswagen, au tour de Mercedes : la descente aux enfers sans fin de l’automobile allemande",
    "source": "Le Figaro Economie",
    "theme": "Entreprises",
@@ -1212,6 +1278,17 @@
    "date_publication": "2026-11-13T17:35:00+00:00",
    "vu_le": "2026-11-13T22:51:47.906481+00:00",
    "resume": "En 1926, à Stuttgart, la fusion des sociétés des inventeurs Carl Benz et Gottlieb Daimler donnait naissance à Mercedes-Benz. Un siècle plus tard, la firme mythique est à son tour rattrapée par la crise des constructeurs allemands. L’étoile de Mercedes-Benz pâlit, et avec elle, tout le modèle industr"
+  },
+  {
+   "titre": "Monsieur Lecornu, c’est le plafond du PEA qu’il faut relever, pas celui du Livret A !",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/monsieur-lecornu-c-est-le-plafond-du-pea-qu-il-faut-relever-pas-celui-du-livret-a-20261113",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/monsieur-lecornu-c-est-le-plafond-du-pea-qu-il-faut-relever-pas-celui-du-livret-a-20261113",
+   "date_publication": "2026-11-13T17:30:55+00:00",
+   "vu_le": "2026-11-14T20:37:35.289553+00:00",
+   "resume": "Le Livret A est déjà le produit financier le plus répandu dans le patrimoine des Français. C’est aussi un placement de court terme. Faut-il vraiment lui faire davantage de place ? Sarah Meyssonnier / Reuters - Le Figaro L’épargne des Français fait déjà la part belle aux placements de court terme et/"
   },
   {
    "titre": "Les mutuelles coûtent de plus en plus cher aux retraités: le Sénat veut créer une complémentaire santé à moins de 2 euros par jour pour les plus de 70 ans - BFM",
@@ -1236,39 +1313,6 @@
    "resume": ""
   },
   {
-   "titre": "US Treasuries set for worst week since Trump’s ‘liberation day’",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T17:13:57+00:00",
-   "vu_le": "2026-11-13T17:38:19.641680+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca7fc298bdb"
-  },
-  {
-   "titre": "Un homme «brisé» et «anéanti» : les dernières heures de Jensen Huang à la tête de Nvidia",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/un-homme-brise-et-aneanti-les-dernieres-heures-de-jensen-huang-a-la-tete-de-nvidia-20261113",
-   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/un-homme-brise-et-aneanti-les-dernieres-heures-de-jensen-huang-a-la-tete-de-nvidia-20261113",
-   "date_publication": "2026-11-13T17:10:09+00:00",
-   "vu_le": "2026-11-13T17:38:17.387736+00:00",
-   "resume": "Selon des personnes qui lui ont récemment parlé, Jensen Huang se livrerait aujourd’hui à une sévère autocritique, allant jusqu’à se qualifier lui-même de «m***». Evelyn Hockstein / REUTERS RÉCIT - Après s’être évertué à nier les allégations d’infidélité à son encontre et à se battre pour conserver s"
-  },
-  {
-   "titre": "Marine Le Pen se dit prête à rencontrer Zelensky à Bruxelles - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3kwelRHQVdySnNVbi1EVHNiVW5pdDB1RGdTSmxkYnZjU29IX3FNZG5pRDdsV1BnUmFDbEhJS0tkQkc3QnVrMkJJWlpFZXp6elhHUGJubG1QTEJLbXNJeDh0SGQ3Wmt5RUpKMmVQZVVuY2pxeDVXQUpheFZHeHBxSktVS2tyT3dQMGhTNGlOaE5pbGpWRjZNNmdybldEVnEtS2tObF9SNEt0XzgxQUp4UlBJb0JiTVR2c0xaN3pkdFAwY3V2eVFWUEJUS2hYd3BDb2k3QtIB2gFBVV95cUxPclVwcnREUThyWHhjR1dyUWJEQ0JiT1FFMUstaHQ0UDdfZ2VGd2NTVlpKWmIxQVRNMmlaUGVlRzBJQUdUaHZmSVBRUTdMckRiLTlfQmRESTBUU09vX0hnQlFKanJiTzRsa2tkelRXV1hEQUZvNUYxcWNLQmRHQTVIb0NQUHVUVmtZTXlSMTlHLWpBSXhROTlEUENxdWxaUlZwWlpJQ3NIVllGc3FnYlVFS0NhRndZVGY1enp3OUtWLVN4T1BJanBra2MteUtlQnJzY1lUMHlWcDBGUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3kwelRHQVdySnNVbi1EVHNiVW5pdDB1RGdTSmxkYnZjU29IX3FNZG5pRDdsV1BnUmFDbEhJS0tkQkc3QnVrMkJJWlpFZXp6elhHUGJubG1QTEJLbXNJeDh0SGQ3Wmt5RUpKMmVQZVVuY2pxeDVXQUpheFZHeHBxSktVS2tyT3dQMGhTNGlOaE5pbGpWRjZNNmdybldEVnEtS2tObF9SNEt0XzgxQUp4UlBJb0JiTVR2c0xaN3pkdFAwY3V2eVFWUEJUS2hYd3BDb2k3QtIB2gFBVV95cUxPclVwcnREUThyWHhjR1dyUWJEQ0JiT1FFMUstaHQ0UDdfZ2VGd2NTVlpKWmIxQVRNMmlaUGVlRzBJQUdUaHZmSVBRUTdMckRiLTlfQmRESTBUU09vX0hnQlFKanJiTzRsa2tkelRXV1hEQUZvNUYxcWNLQmRHQTVIb0NQUHVUVmtZTXlSMTlHLWpBSXhROTlEUENxdWxaUlZwWlpJQ3NIVllGc3FnYlVFS0NhRndZVGY1enp3OUtWLVN4T1BJanBra2MteUtlQnJzY1lUMHlWcDBGUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T17:09:59+00:00",
-   "vu_le": "2026-11-13T17:38:20.092149+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Scott Colom: the Democrat who conquered the reddest of red states",
    "source": "Financial Times",
    "theme": "Finance / Economie (général)",
@@ -1280,292 +1324,6 @@
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5a157da3c12dfd2"
   },
   {
-   "titre": "BMW prépare son virage électrique américain avec une nouvelle usine - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXQxRnFQYmpHRjhyUW9oNUZVb0Eyd2VVNGJwMjVheEtUTDExbXhoMWx1cWtNeThEd1Q3VFJJUURkNXFRbVNvb3I5VXFDMHFyRUEtaFRhaG9YdVBlVnZQcmxhWFc4MEszc3FlOUlEUWhOOFBoQWMyOXg0Q0Vyb2txUXpVOEhPUEd6YjdELVNwd0JIZDg2RnhMb1BFMmx6M2N0Q1R0Q2tqZkV3eDUtZWhDNU9vUDc2VW5vN0V2aThvbTJWZzNlckE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXQxRnFQYmpHRjhyUW9oNUZVb0Eyd2VVNGJwMjVheEtUTDExbXhoMWx1cWtNeThEd1Q3VFJJUURkNXFRbVNvb3I5VXFDMHFyRUEtaFRhaG9YdVBlVnZQcmxhWFc4MEszc3FlOUlEUWhOOFBoQWMyOXg0Q0Vyb2txUXpVOEhPUEd6YjdELVNwd0JIZDg2RnhMb1BFMmx6M2N0Q1R0Q2tqZkV3eDUtZWhDNU9vUDc2VW5vN0V2aThvbTJWZzNlckE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T17:08:18+00:00",
-   "vu_le": "2026-11-13T17:38:21.470335+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T17:06:01+00:00",
-   "vu_le": "2026-11-13T17:38:19.485518+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca71b04ad44"
-  },
-  {
-   "titre": "Les effets de la hausse du smic sur le marché du travail suscitent des interrogations",
-   "source": "Le Monde Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lemonde.fr/politique/article/2026/11/13/les-effets-de-la-hausse-du-smic-sur-le-marche-du-travail-suscitent-des-interrogations_6809363_823448.html",
-   "url_propre": "https://www.lemonde.fr/politique/article/2026/11/13/les-effets-de-la-hausse-du-smic-sur-le-marche-du-travail-suscitent-des-interrogations_6809363_823448.html",
-   "date_publication": "2026-11-13T17:04:31+00:00",
-   "vu_le": "2026-11-13T17:38:18.629967+00:00",
-   "resume": "Améliorer le pouvoir d’achat sans fragiliser l’emploi. C’est l’équation à laquelle le gouvernement a tenté de répondre, lundi 9 novembre, en annonçant une hausse du smic de 1,6 % le 1er décembre. Le salaire minimum mensuel net à temps plein atteindra 1 502 euros, contre 1 477,93 euros actuellement. "
-  },
-  {
-   "titre": "Telefónica, S.A. : DZ Bank pas convaincu - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEpfbE1pbHpMLW94US15WGtQMWRqZUZHenRNdXQ3anBGX21qU2trQ1QwU1ZCUVo3ZzkxR3N4UDNjWjJBMWxBbEFwOTdMZzZtZDB6TjBsdEhRNDZ2N2lMNXdwbThuOXdzdEEzNzlHNnVRT3N4enFwVGgyR3FPUlM0WTg1alFNaTRCVElwZjBVaEZWbWxGOGl4Z09UVFQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEpfbE1pbHpMLW94US15WGtQMWRqZUZHenRNdXQ3anBGX21qU2trQ1QwU1ZCUVo3ZzkxR3N4UDNjWjJBMWxBbEFwOTdMZzZtZDB6TjBsdEhRNDZ2N2lMNXdwbThuOXdzdEEzNzlHNnVRT3N4enFwVGgyR3FPUlM0WTg1alFNaTRCVElwZjBVaEZWbWxGOGl4Z09UVFQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T17:03:28+00:00",
-   "vu_le": "2026-11-13T17:38:21.324816+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "«Plus proche de l’incident CrowdStrike que d’une cyberattaque» : quelles sont les pistes expliquant la panne d’Outlook ?",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/plus-proche-de-l-incident-crowdstrike-que-d-une-cyberattaque-quelles-sont-les-pistes-expliquant-la-panne-d-outlook-20261113",
-   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/plus-proche-de-l-incident-crowdstrike-que-d-une-cyberattaque-quelles-sont-les-pistes-expliquant-la-panne-d-outlook-20261113",
-   "date_publication": "2026-11-13T17:03:13+00:00",
-   "vu_le": "2026-11-13T17:38:17.128879+00:00",
-   "resume": "«C’est comme si l’on avait modifié le réglage des feux rouges, la circulation se retrouve complètement congestionnée», explique l’experte Hélène Brisset. Tada Images / ADOBE STOCK Depuis ce jeudi, des millions de salariés dans le monde ont éprouvé des difficultés pour faire fonctionner leur messager"
-  },
-  {
-   "titre": "Comment Google tente de rendre plus acceptable son projet de data center à Châteauroux",
-   "source": "Le Figaro Economie",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://www.lefigaro.fr/societes/comment-google-tente-de-rendre-plus-acceptable-son-projet-de-data-center-a-chateauroux-20261113",
-   "url_propre": "https://www.lefigaro.fr/societes/comment-google-tente-de-rendre-plus-acceptable-son-projet-de-data-center-a-chateauroux-20261113",
-   "date_publication": "2026-11-13T17:00:00+00:00",
-   "vu_le": "2026-11-13T17:38:17.532988+00:00",
-   "resume": "Des lignes haute tension, ici, à Dunkerque E.Bembaron DÉCRYPTAGE - Entre récupération de chaleur et soutien au développement de bornes de recharge, le géant américain explore toutes les solutions pour séduire les riverains de ce centre de données gigantesque. Comment concilier des points de vue a pr"
-  },
-  {
-   "titre": "AI believers hold the line after Nvidia ructions",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T16:55:39+00:00",
-   "vu_le": "2026-11-13T17:38:19.487838+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca70c11ce50"
-  },
-  {
-   "titre": "Arm boss Rene Haas approached in Nvidia CEO search",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T16:53:17+00:00",
-   "vu_le": "2026-11-13T17:38:19.226859+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca5ecbd7543"
-  },
-  {
-   "titre": "Les Bourses européennes terminent sans élan - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnhBTjVKWk96a2todFlOYWNVb1hBZGpTTFVqV2FqdXBOVVFmMHdyS2RNTTZVM016d25kRlJMUHBQaTJ0UTZDb3Q5NWZJMk56VWZFSzl2Q0ljSThkYTBwTjludERjUHA3Y0V5TXp5MnRWbHhVS2hDNUhSRWIxNnNETjE2TlNHc2FSWllKSHNRMGQtczJsQWd2RzJRaEtlbEdjNTZCeERn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnhBTjVKWk96a2todFlOYWNVb1hBZGpTTFVqV2FqdXBOVVFmMHdyS2RNTTZVM016d25kRlJMUHBQaTJ0UTZDb3Q5NWZJMk56VWZFSzl2Q0ljSThkYTBwTjludERjUHA3Y0V5TXp5MnRWbHhVS2hDNUhSRWIxNnNETjE2TlNHc2FSWllKSHNRMGQtczJsQWd2RzJRaEtlbEdjNTZCeERn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:52:29+00:00",
-   "vu_le": "2026-11-13T17:38:21.651687+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Le Maroc se positionne en potentiel fournisseur d’uranium de la France",
-   "source": "Le Monde Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lemonde.fr/afrique/article/2026/11/13/le-maroc-se-positionne-en-potentiel-fournisseur-d-uranium-de-la-france_6809357_3212.html",
-   "url_propre": "https://www.lemonde.fr/afrique/article/2026/11/13/le-maroc-se-positionne-en-potentiel-fournisseur-d-uranium-de-la-france_6809357_3212.html",
-   "date_publication": "2026-11-13T16:30:04+00:00",
-   "vu_le": "2026-11-13T17:38:18.681924+00:00",
-   "resume": "Les centrales nucléaires françaises seront-elles, un jour, alimentées avec de l’uranium marocain ? Le royaume, qui détient d’importantes réserves de phosphates, envisage ce scénario. La société OCP (anciennement Office chérifien des phosphates), propriété de l’Etat marocain, est en discussion avec l"
-  },
-  {
-   "titre": "«On a échangé nos adresses Yahoo!» : entre système D et repos forcé, comment la panne d’Outlook a pimenté un vendredi de novembre dans les open spaces",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/vie-professionnelle/on-a-du-echanger-nos-adresses-yahoo-face-a-la-panne-d-outlook-certains-salaries-stressent-d-autres-s-en-amusent-20261113",
-   "url_propre": "https://www.lefigaro.fr/vie-professionnelle/on-a-du-echanger-nos-adresses-yahoo-face-a-la-panne-d-outlook-certains-salaries-stressent-d-autres-s-en-amusent-20261113",
-   "date_publication": "2026-11-13T16:29:26+00:00",
-   "vu_le": "2026-11-13T17:38:18.040320+00:00",
-   "resume": "Que faire quand les outils de communication les plus communément utilisés tombent en rade ? (Photo d’illustration - Série The Office) NBC Universal Urgences contrariées, retour au téléphone… L’indisponibilité de la célèbre messagerie a révélé la dépendance des entreprises à leurs outils numériques. "
-  },
-  {
-   "titre": "Saint-Gobain : Jefferies à l'achat - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3RvMlhGb0tBc1BZczFVLTU4ak5xNWlRS2VkYzBuQXF0MWNXc0dockF5NTRzUW5RLVQ0V1locVJlNExuZkE3VWQzekhSa2huN0wwdERKVEZBRmFvZnN1eV9Pd2pWQ3JwN2ZYeE95aXhRVkNIeklWQUUtTkUwM3BxRVFFWmQxWFYzcnREMFY1RUtpR1pyUWZV?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3RvMlhGb0tBc1BZczFVLTU4ak5xNWlRS2VkYzBuQXF0MWNXc0dockF5NTRzUW5RLVQ0V1locVJlNExuZkE3VWQzekhSa2huN0wwdERKVEZBRmFvZnN1eV9Pd2pWQ3JwN2ZYeE95aXhRVkNIeklWQUUtTkUwM3BxRVFFWmQxWFYzcnREMFY1RUtpR1pyUWZV?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:21:27+00:00",
-   "vu_le": "2026-11-13T17:38:21.343188+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Northrop Grumman franchit une étape avec son bombardier B-21 - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFdaaXdPWEJybWdWaWxRQkw4LUREcGlMM0ZGLTVicHBnTkdwSWNpRjdCcXNGeWFRTmg5UEszS0RLdmwzZ2QxUFdPcFZCTXprb2h5WmdORTFyaXdhTEtNd3VlSG9SZzZWbjFYOWZjdFlCUkNzdWJ3QlNlUVhZcDVWUXFma2duemFFRFMySHdXb014RDRZSzRaWVB6TkFxOS1lcjFaNUM3cW5mU2kwNDJSbFozdDJtaHUyY21Qbg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFdaaXdPWEJybWdWaWxRQkw4LUREcGlMM0ZGLTVicHBnTkdwSWNpRjdCcXNGeWFRTmg5UEszS0RLdmwzZ2QxUFdPcFZCTXprb2h5WmdORTFyaXdhTEtNd3VlSG9SZzZWbjFYOWZjdFlCUkNzdWJ3QlNlUVhZcDVWUXFma2duemFFRFMySHdXb014RDRZSzRaWVB6TkFxOS1lcjFaNUM3cW5mU2kwNDJSbFozdDJtaHUyY21Qbg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:21:21+00:00",
-   "vu_le": "2026-11-13T17:38:21.397136+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse AIR LIQUIDE - 13/11/2026 17:20:06 - Prix de revient fiscal unitaire AL - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nQVl5cVAxdzQ1UFBRRmh4dV9NQVBnMnBCSXVtRmlKQUhOTlZjeURyRmFzTUY5YXRGTXpHaFBYZHRaaHVHWUQzX3EzNndUeXJhQWNUMTVCLTRnMHptZ002Q0RxZlFzajdNbENtMG43TUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nQVl5cVAxdzQ1UFBRRmh4dV9NQVBnMnBCSXVtRmlKQUhOTlZjeURyRmFzTUY5YXRGTXpHaFBYZHRaaHVHWUQzX3EzNndUeXJhQWNUMTVCLTRnMHptZ002Q0RxZlFzajdNbENtMG43TUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:20:06+00:00",
-   "vu_le": "2026-11-13T17:38:20.370645+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Boxe : Imane Khelif va faire ses débuts professionnels à Paris - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVRnYmtrTjBsMXB3MEh4cW11NUdxZ09jWG5MSmV5eXljR0VyeUlWRXpkbjBBVlNIUFUtbXRyN0NSd3J0NGRlSWFpUUxUa0FyUmVXaXhZUE4waTdLUFd4LXJrZjluTldMWGI5ajNwSTVEOXV0NkdUVjZSQ1YyZkRuNjZ5NHRMVG1kU3BPaTlWREU4eDZsQnpOc3pkMERTMGJTYTgybUxvLTJEQmNmRXlmNWRSbkJ5ZFQ0bjkxcG1aMGJWQ2ZaSTdXajJoaW1fdE1SaWJwNNIB2gFBVV95cUxOMXBTRUFKOFVkMHctcmpzNG14OC1OeFdvQWItRjVpNnZnRWt1ejRYRWluLVN5cURFaGpnR3Rrb1cwakRvRlhFTUg0TkhfQnJMQ3dmekt4MlRkLWk5UEtRTWk1cUU4c2VRUk4zMVhWSm1SWDh2Z0hkdkVndEE1VGpYUmdUd1c2MHhMZTFSeWtUMWlrNEhKRjlMdmI3cEdHakRNcUQ4bzZWM2NGaFhyUktNQ2Z2aUpaNzQxOEhYbEJXUl8zYU11ckZsYXNNNjNzY2szVHlJWFVMLXhRdw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVRnYmtrTjBsMXB3MEh4cW11NUdxZ09jWG5MSmV5eXljR0VyeUlWRXpkbjBBVlNIUFUtbXRyN0NSd3J0NGRlSWFpUUxUa0FyUmVXaXhZUE4waTdLUFd4LXJrZjluTldMWGI5ajNwSTVEOXV0NkdUVjZSQ1YyZkRuNjZ5NHRMVG1kU3BPaTlWREU4eDZsQnpOc3pkMERTMGJTYTgybUxvLTJEQmNmRXlmNWRSbkJ5ZFQ0bjkxcG1aMGJWQ2ZaSTdXajJoaW1fdE1SaWJwNNIB2gFBVV95cUxOMXBTRUFKOFVkMHctcmpzNG14OC1OeFdvQWItRjVpNnZnRWt1ejRYRWluLVN5cURFaGpnR3Rrb1cwakRvRlhFTUg0TkhfQnJMQ3dmekt4MlRkLWk5UEtRTWk1cUU4c2VRUk4zMVhWSm1SWDh2Z0hkdkVndEE1VGpYUmdUd1c2MHhMZTFSeWtUMWlrNEhKRjlMdmI3cEdHakRNcUQ4bzZWM2NGaFhyUktNQ2Z2aUpaNzQxOEhYbEJXUl8zYU11ckZsYXNNNjNzY2szVHlJWFVMLXhRdw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:19:56+00:00",
-   "vu_le": "2026-11-13T17:38:20.313133+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "En Guadeloupe, le fléau des armes à feu - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjNXSWJEMWRCMGlUZzRXNHJQbVpieDZYdWRBT09zbnpzbkozRFNmVXFHdWs2c1VCX2NYQVhfRXZ1QWtTN2RmUk82Vkh5MnpNOFNkVG9uWndBN3E1anhJSXMySjlvVnBjZ05mRFFfUGpvM0k4WlE2SkhhZm92bDBINHNqaTlkQk5JRFl6NkprWG5OeWVicU5oQTVSQWcxbDNadWloNVJ1MWNya2JrMDJzQjQxeXY3cW_SAbwBQVVfeXFMTzhWZXNOX0ZJZGNnZ2haZHdCcnZVMkNoWTJvR1hRZUtsajRwUXlkZGYxZnhRWjhUMHJTcUhBbG1HeGpMWkcxTmdYMlNwaEs5V0JSaEdkUzA1dE5pMmhsNmxhTmNLODhoVDg1b2tjd3NZNDF3RWx1NlhUbmctcXBfb05pSktuLXVtS2NzRjBzUkhrWnVJRU03dzliRWlzM0lKbGRBOWpUZTduVG52Y0FXTFBBai0xMmdBWmMwTEc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjNXSWJEMWRCMGlUZzRXNHJQbVpieDZYdWRBT09zbnpzbkozRFNmVXFHdWs2c1VCX2NYQVhfRXZ1QWtTN2RmUk82Vkh5MnpNOFNkVG9uWndBN3E1anhJSXMySjlvVnBjZ05mRFFfUGpvM0k4WlE2SkhhZm92bDBINHNqaTlkQk5JRFl6NkprWG5OeWVicU5oQTVSQWcxbDNadWloNVJ1MWNya2JrMDJzQjQxeXY3cW_SAbwBQVVfeXFMTzhWZXNOX0ZJZGNnZ2haZHdCcnZVMkNoWTJvR1hRZUtsajRwUXlkZGYxZnhRWjhUMHJTcUhBbG1HeGpMWkcxTmdYMlNwaEs5V0JSaEdkUzA1dE5pMmhsNmxhTmNLODhoVDg1b2tjd3NZNDF3RWx1NlhUbmctcXBfb05pSktuLXVtS2NzRjBzUkhrWnVJRU03dzliRWlzM0lKbGRBOWpUZTduVG52Y0FXTFBBai0xMmdBWmMwTEc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:18:37+00:00",
-   "vu_le": "2026-11-13T17:38:20.097559+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Salon Made in France: Marine Le Pen huée lors de son passage - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWFWcndvYWk2TXlqRkNweER0UnVwVkRTeGF1OUtFbEZYblpRLWNIVThWRThXcktrLWtweWUxMTNwWENxTjA1S21FelJUQUhxMWV6ZVRISDRwOF9FeG5aS0pHUndfcU1Iel84OEJ1Y2hBYjR1OVZ2SlJ0MmF6YkcwbG40UERfSWRoNVVpXzI3R1hLV1hSVjFmWVB4Q1Q5dTd3d3d0eVc1M2VOREkwcHdOV19VaVJfUGFWVUROT1RtdU1xRHlHVG9rUW9BdXh0eVduUEpj0gHYAUFVX3lxTE5mb2wwQ084dEZWYnZzbUtNQ3QwWThnZi1zVVExTjdKbENCTGtnejlQSnNLejVoTklPTzJtUzgxVlkzckVGQWZaclVLMnVwOERjV2RhZWtmYlBlQ0M3TVNjX01YYnlONlpOMHRkQ3kwdmU1Vmpiam1wbTVlYkFTaDVJSmtMWWx5eHFiV21jcVV1UklVd1htR0lCM1lMMG1CMDZILXZjOVZvYnFQS3kyWTVOQWEza2FBY3FUcXJXVGRTeV85N2dXRTNKN0JVT19tYzk4Z241eUo1Yg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWFWcndvYWk2TXlqRkNweER0UnVwVkRTeGF1OUtFbEZYblpRLWNIVThWRThXcktrLWtweWUxMTNwWENxTjA1S21FelJUQUhxMWV6ZVRISDRwOF9FeG5aS0pHUndfcU1Iel84OEJ1Y2hBYjR1OVZ2SlJ0MmF6YkcwbG40UERfSWRoNVVpXzI3R1hLV1hSVjFmWVB4Q1Q5dTd3d3d0eVc1M2VOREkwcHdOV19VaVJfUGFWVUROT1RtdU1xRHlHVG9rUW9BdXh0eVduUEpj0gHYAUFVX3lxTE5mb2wwQ084dEZWYnZzbUtNQ3QwWThnZi1zVVExTjdKbENCTGtnejlQSnNLejVoTklPTzJtUzgxVlkzckVGQWZaclVLMnVwOERjV2RhZWtmYlBlQ0M3TVNjX01YYnlONlpOMHRkQ3kwdmU1Vmpiam1wbTVlYkFTaDVJSmtMWWx5eHFiV21jcVV1UklVd1htR0lCM1lMMG1CMDZILXZjOVZvYnFQS3kyWTVOQWEza2FBY3FUcXJXVGRTeV85N2dXRTNKN0JVT19tYzk4Z241eUo1Yg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:18:15+00:00",
-   "vu_le": "2026-11-13T17:38:20.303570+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "SNCF : pourquoi il n’y a aucun TGV proposé entre Paris et le Sud-Est pour les week-ends de Pâques et de la Pentecôte 2027",
-   "source": "Le Figaro Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lefigaro.fr/conjoncture/sncf-pourquoi-il-n-y-a-aucun-tgv-propose-entre-paris-et-le-sud-est-pour-les-week-ends-de-paques-et-de-la-pentecote-2027-20261113",
-   "url_propre": "https://www.lefigaro.fr/conjoncture/sncf-pourquoi-il-n-y-a-aucun-tgv-propose-entre-paris-et-le-sud-est-pour-les-week-ends-de-paques-et-de-la-pentecote-2027-20261113",
-   "date_publication": "2026-11-13T16:16:46+00:00",
-   "vu_le": "2026-11-13T17:38:17.495056+00:00",
-   "resume": "SNCF : pourquoi il n’y a aucun TGV proposé entre Paris et le Sud-Est pour les week-ends de Pâques et de la Pentecôte 2027 Alors que SNCF Voyageurs vient d’ouvrir les ventes pour les billets datés de janvier à juillet 2027, la compagnie ne propose aucun train entre Paris et Lyon, Marseille ou encore "
-  },
-  {
-   "titre": "« En matière de voiture électrique, des normes perçues comme contraignantes se sont révélées précieuses »",
-   "source": "Le Monde Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lemonde.fr/idees/article/2026/11/13/en-matiere-de-voiture-electrique-des-normes-percues-comme-contraignantes-se-sont-revelees-precieuses_6809351_3232.html",
-   "url_propre": "https://www.lemonde.fr/idees/article/2026/11/13/en-matiere-de-voiture-electrique-des-normes-percues-comme-contraignantes-se-sont-revelees-precieuses_6809351_3232.html",
-   "date_publication": "2026-11-13T16:15:07+00:00",
-   "vu_le": "2026-11-13T17:38:18.555217+00:00",
-   "resume": "Pendant six ans, les normes et la fiscalité favorables à la voiture électrique ont été accusées de forcer la main aux Français. Le choc pétrolier et l’été caniculaire de 2026 montrent au contraire qu’elles fonctionnent comme une police d’assurance, et que ceux qui les ont défendues avaient raison av"
-  },
-  {
-   "titre": "COMPAGNIE FINANCIERE RICHEMONT : Deutsche Bank toujours positif - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzMyTkxQRnhLR0VJWGp3WmRrZGNBZWdtLTBmQjg2NlVGTkhnSm9mUjE3QU8xRzRLNlJIYU9aYmNPNW93OFd4cEJ4RGhfdElfTEFXZ0cwY2JEVEhiQU4xWXF4WWxndXJ0eXRSSHROeHVMM2hicDdjbWdHenViYW5MZmRIVXkzOWhkZkJ3bm0tTUhuNm5qR0FGM0dfVmhPT3dqQmVuMWVrVXVxTGtBYWhTM09HVHR6dVRpeEZYb29B?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzMyTkxQRnhLR0VJWGp3WmRrZGNBZWdtLTBmQjg2NlVGTkhnSm9mUjE3QU8xRzRLNlJIYU9aYmNPNW93OFd4cEJ4RGhfdElfTEFXZ0cwY2JEVEhiQU4xWXF4WWxndXJ0eXRSSHROeHVMM2hicDdjbWdHenViYW5MZmRIVXkzOWhkZkJ3bm0tTUhuNm5qR0FGM0dfVmhPT3dqQmVuMWVrVXVxTGtBYWhTM09HVHR6dVRpeEZYb29B?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:14:23+00:00",
-   "vu_le": "2026-11-13T17:38:21.699053+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Panne chez Microsoft : le récit de 24 heures de pagaille dans les entreprises, les hôpitaux et les gouvernements du monde entier",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
-   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
-   "date_publication": "2026-11-13T16:14:11+00:00",
-   "vu_le": "2026-11-13T17:38:17.304976+00:00",
-   "resume": "Microsoft a semblé quelque peu démuni face à la panne mondiale qui a touché ses différents services, entre jeudi et vendredi. Bruna Casas / REUTERS Privés d’Outlook, Teams et Copilot, des millions d’utilisateurs ont dû revenir au téléphone ou aux démarches sur place entre jeudi et vendredi. Le géant"
-  },
-  {
-   "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-   "source": "Le Monde Economie",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html",
-   "url_propre": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html",
-   "date_publication": "2026-11-13T16:07:02+00:00",
-   "vu_le": "2026-11-13T17:38:18.932873+00:00",
-   "resume": "Le titulaire de votre abonnement a mis en pause son abonnement jusqu’au #suspension_date#.Vous n’avez plus accès à ses avantages.Votre abonnement est mis en pause jusqu’au #suspension_date#.Pour réactiver votre abonnement avant cette date, contactez notre service client. Cet article vous est offert "
-  },
-  {
-   "titre": "On Holding reprend des couleurs grâce au soutien de Berenberg - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnJmaVEyS3dMYXRfNTQ4dkdwRUJFM0xJUVQ5UF9sRjFUa1NieUdoZWJmRm1idmxmSVR5MjlNaDdsRjJhaEVBXzBIY0hZNHBMZmdRNlJBLVJMdVpzeV9qSmJWRzNHYUpDcFBCNGhNUmc5OUtEU2NBaG8zd1RaenF3R1U3b2VmZHNQd2ZYcGRkUjVmU2I4RkNIN18yMGJqZXZYMWlzQ1NaM3U5dU1oSmNLdXY2dEc3cWRaSkxKN2N3?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnJmaVEyS3dMYXRfNTQ4dkdwRUJFM0xJUVQ5UF9sRjFUa1NieUdoZWJmRm1idmxmSVR5MjlNaDdsRjJhaEVBXzBIY0hZNHBMZmdRNlJBLVJMdVpzeV9qSmJWRzNHYUpDcFBCNGhNUmc5OUtEU2NBaG8zd1RaenF3R1U3b2VmZHNQd2ZYcGRkUjVmU2I4RkNIN18yMGJqZXZYMWlzQ1NaM3U5dU1oSmNLdXY2dEc3cWRaSkxKN2N3?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:02:23+00:00",
-   "vu_le": "2026-11-13T17:38:21.768285+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Nvidia perd encore du terrain, Wedbush réduit sa cible - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVQ0OTIzSzFvc2RMOW0zTDIxdWp6QmVRcGVyY3F3c0xhU19DN3RJZXpkRGhmRUpWRC1YRmJZR0V4bk12ZkxhYnVpaG9GZW5ia2Y5TklZcXJ2dEpRbWtvY2VVY3FCUkoyYXZJM0l5ZEFsMDV1SFUzNEI3UFdxUUlhQ2NHRnFzNHc0THlQYWh4NzJ4bnBFc2pfU2gwZWZ0bnZqV1c2eXV3enNRT0h0SE85MUh2SQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVQ0OTIzSzFvc2RMOW0zTDIxdWp6QmVRcGVyY3F3c0xhU19DN3RJZXpkRGhmRUpWRC1YRmJZR0V4bk12ZkxhYnVpaG9GZW5ia2Y5TklZcXJ2dEpRbWtvY2VVY3FCUkoyYXZJM0l5ZEFsMDV1SFUzNEI3UFdxUUlhQ2NHRnFzNHc0THlQYWh4NzJ4bnBFc2pfU2gwZWZ0bnZqV1c2eXV3enNRT0h0SE85MUh2SQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T16:00:10+00:00",
-   "vu_le": "2026-11-13T17:38:21.636036+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Teleperformance : DeclarationPositionsCourtes - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1cwX1VGb05Fd1NKQ2xtSzA4ZHZZbnBuQmt6ZVZMQWpnRThhNlF2MEZ2Ym1OTVh3b1plN0pKNHc2dFR1cmpIQWliVFcyalVlSm5QMDFDV2tyQmo3RG9MbHNoSFVNNXZBSWY5LU8yMnVUSXdpVnhJY0NFYjBobHZfX1FORFJqNHgxT2xlT0loQnM1a0k1Wmswc2VzX2JBcWdEYkZYeXJn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1cwX1VGb05Fd1NKQ2xtSzA4ZHZZbnBuQmt6ZVZMQWpnRThhNlF2MEZ2Ym1OTVh3b1plN0pKNHc2dFR1cmpIQWliVFcyalVlSm5QMDFDV2tyQmo3RG9MbHNoSFVNNXZBSWY5LU8yMnVUSXdpVnhJY0NFYjBobHZfX1FORFJqNHgxT2xlT0loQnM1a0k1Wmswc2VzX2JBcWdEYkZYeXJn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T15:49:00+00:00",
-   "vu_le": "2026-11-13T17:38:21.630609+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-   "source": "Le Monde Economie",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-   "url_propre": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-   "date_publication": "2026-11-13T15:28:23+00:00",
-   "vu_le": "2026-11-13T17:38:19.337873+00:00",
-   "resume": "Le secrétaire au Trésor des Etats-Unis, Scott Bessent, s’est dit, vendredi 13 novembre, mécontent que des puces de dernière génération Nvidia aient pu fuiter vers la Chine et en a rejeté la responsabilité vers le ministère du commerce, dirigé par son collègue Howard Lutnick. « Le président Trump a c"
-  },
-  {
    "titre": "Les syndicats de fonctionnaires sortent remontés de Matignon, la CFDT rejoint l'appel à la grève le 17 novembr - Boursorama",
    "source": "Boursorama",
    "theme": "Finance / Economie (général)",
@@ -1574,50 +1332,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxON3pYSnp0c3ByaW1aaHlBbERIQmI2cENCT1psR0c1TkNFV0tHc0tBUzQ5NFl5cVVmdVdsZFFRenMyZmFUV1hBc2xxOS04S2ZlLWtXbDBUR1pNdWRicGRoTjZ2N3hmTTNXdEdlLVdzQ3NZRXcyazBxSWo1NnBFc2VYV1FiUzM5dWxzZjZHQi1ScVpfZWdyWEJiQVBKMXZKbG1oNjBKbEVHcFZuQkRWeUdpd3pTU1Jsa1ZmX2ZfWUpLTmctQW9rd2NDMkpPa2dKLThncnhFOGQxeTVOS0JERGh3a21QWkh6V1B2UGo5NEtqWTkyRWpwQmFvUE9oNXh0dms4a3V1WkxkTFBJdDdHajVjZExNN2lLcVZicWVGLTVKTWxOeDBPb09qU3FR0gGvAkFVX3lxTE9HdUdjMlNVOHhGc0RlZjRjSHVhc0l4Vmk2bEZnTUt0c21rSmNBYmR3bXJORkhLaWpPZkp5RExQRGpmT0JaR1NXZjJvZWo5elBiOXdCN0IyYUVaQlpTcmtLcHdvS3EwcE1nZ09fb1BVM1ZOTUplZjFWY0k1X1pvX3BhSmFGMHZDX1hEWXdmemVaRmdURGU1SEtLNU9vaXlRVmlZSDBCdndfd0NyeEQxVkMySnhNSVJZeDY5dndyaFZiYlF6WlNzTzRnVXI5UGhEQWljV1N3emdBMExBcVZlU0x6cGZVTnJaZjlfVHl4SElHVldXbUZOczhuY25BSG9mQW85cjdieFZvcjhEdXFDRlU5LW00dl8xTVhpSEk5UkV1UE5jXzRtcXhXNzQzV1dVdw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-11-13T15:19:00+00:00",
    "vu_le": "2026-11-14T16:00:19.541242+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Agenda Zonebourse des résultats de sociétés : semaine du 16 au 20 novembre 2026 - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGw3U0pONW9xcXRsaXYtVkMxMDJSeWFTTW9FbXZraEJUNW54Q1Exa29KZk15OFlWbVVLa2pCcjNWQ2VwVzNVUWszSTNvdVlRalRnNXZURWxpZjlObFRmY01sdWlIOHpvekZETWJaamlUU0cyc2UxRk5kVGJRdS1zNG1DRlNZMG1EcUhGQldQaHpweFVVNENoWkstR29jaEE0TjVwMGlDdkdNNGgweW8wcDBIMF9aZzhnZ3ZiYzAzaGtiMHBONkI5LWtIZDVwVVB0Z2l0aQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGw3U0pONW9xcXRsaXYtVkMxMDJSeWFTTW9FbXZraEJUNW54Q1Exa29KZk15OFlWbVVLa2pCcjNWQ2VwVzNVUWszSTNvdVlRalRnNXZURWxpZjlObFRmY01sdWlIOHpvekZETWJaamlUU0cyc2UxRk5kVGJRdS1zNG1DRlNZMG1EcUhGQldQaHpweFVVNENoWkstR29jaEE0TjVwMGlDdkdNNGgweW8wcDBIMF9aZzhnZ3ZiYzAzaGtiMHBONkI5LWtIZDVwVVB0Z2l0aQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T15:03:36+00:00",
-   "vu_le": "2026-11-13T17:38:21.177544+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
-   "date_publication": "2026-11-13T15:00:06+00:00",
-   "vu_le": "2026-11-13T17:38:19.153743+00:00",
-   "resume": "Creusées à même le granit, sous les fonds marins, au large de la côte sud de Singapour, les cavernes de Jurong forment une immense installation de stockage d’hydrocarbures pouvant accueillir jusqu’à 9 millions de barils. Dans ces cavités monumentales, hautes comme un immeuble de neuf étages, la cité"
-  },
-  {
-   "titre": "Immobilier : votre permis de construire est refusé, que devient votre dépôt de garantie ? - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzhhdE9xNm9mVFQxSjZOdTJrSEprUi12blBNUmtvVEh0UjNzWEZqblVrMXdBbTA3clVEbnFvNWNqUDlhcDZqU2x6cGZ2RXB1bHZHOThMTWREamZXRTFCQ0xHeDRzNkR2UkNvSUFRTUxmUzVlT3Z0SjBaWTI3aHdKZDlDMmxwdzZHdktoY1dSenk3X0VRZmdqaWFCSlJHc2RwTXFFRGZockRWVk1YR1FuRlZmWVBGYlhtRDh4SjFFUm9DRzhfcGxkMlVJRUZhTVVtNF8wMWJ1aGZhS0s5LWR1UDhGWWlSb3NsbDd4RXdqdk5Ma1hBa2dCQmxn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdzhhdE9xNm9mVFQxSjZOdTJrSEprUi12blBNUmtvVEh0UjNzWEZqblVrMXdBbTA3clVEbnFvNWNqUDlhcDZqU2x6cGZ2RXB1bHZHOThMTWREamZXRTFCQ0xHeDRzNkR2UkNvSUFRTUxmUzVlT3Z0SjBaWTI3aHdKZDlDMmxwdzZHdktoY1dSenk3X0VRZmdqaWFCSlJHc2RwTXFFRGZockRWVk1YR1FuRlZmWVBGYlhtRDh4SjFFUm9DRzhfcGxkMlVJRUZhTVVtNF8wMWJ1aGZhS0s5LWR1UDhGWWlSb3NsbDd4RXdqdk5Ma1hBa2dCQmxn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T14:57:16+00:00",
-   "vu_le": "2026-11-13T17:38:20.391665+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Panne mondiale de Microsoft : le rétablissement progresse, des services publics et entreprises encore perturbé - Boursorama",
-   "source": "Boursorama",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYkRhMTNFdFZRVXFrMVFVQ2IycWtLdFN0b3hjRDJ5a3hUS1JPejdEM0hKbXN1WVFwOU14ZWZ1MFN0a081dmh1ODhhM1ZYX1pBR29seHZEVm00UWZHSWRRTFR0d3d1ZUt3MWw3Q2U4Uy1LMzJmdjBkbUlmUXBJWnRPRl9TYUtuT2E5bVlGUG1tWXE3eTZ1YjZOcndwbkpuanllUURJa0pKeG1EMlNMRnA2czJENUlIMzRDSWtiNThxeC13X1pQUk03dzVtakNmeXdWOVJZQ1kwdVVvNVNiS3YyV3loYWxLSWs5a2YwMjFSaGtlVlZoeWU3QjI4VUNMbHIyOE16THBkVHlYd1FCQVdHWFFMYzXSAZoCQVVfeXFMTVpsX244SHNlWE9QWEFneUdZcmhUS3JEdEZIRTZ2eTM3N01kR0lKbUtfbThSYlJvX1Nfbi1XdV9Dc3djdENVeEZrMnpSZmozdWh3SjZHVWtrWUlBSG4wUE9HVU5tMzNhMW9XSGVlTDhXZDI3WGNGRFJmazkxNnZvclBDUnNFYVk2UDNoZXdKV1dwakdzeGlLZFlLaXBxS0NEdFdNSDYwWTRkc3VGWHVvdGdwN05rQ3YzRzIwUllPVzBfSWJWMVZQd0tVTTluMERPQzAtczAxNFRXRVZFMGg3UW1iWUU1Q1loc0lSNjN6VEVpT3ZZSGFwbmg1aGZkaU5CMlg3U0o4SjUzeldoNS1nMFJUT2VQS0ZNVmln?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYkRhMTNFdFZRVXFrMVFVQ2IycWtLdFN0b3hjRDJ5a3hUS1JPejdEM0hKbXN1WVFwOU14ZWZ1MFN0a081dmh1ODhhM1ZYX1pBR29seHZEVm00UWZHSWRRTFR0d3d1ZUt3MWw3Q2U4Uy1LMzJmdjBkbUlmUXBJWnRPRl9TYUtuT2E5bVlGUG1tWXE3eTZ1YjZOcndwbkpuanllUURJa0pKeG1EMlNMRnA2czJENUlIMzRDSWtiNThxeC13X1pQUk03dzVtakNmeXdWOVJZQ1kwdVVvNVNiS3YyV3loYWxLSWs5a2YwMjFSaGtlVlZoeWU3QjI4VUNMbHIyOE16THBkVHlYd1FCQVdHWFFMYzXSAZoCQVVfeXFMTVpsX244SHNlWE9QWEFneUdZcmhUS3JEdEZIRTZ2eTM3N01kR0lKbUtfbThSYlJvX1Nfbi1XdV9Dc3djdENVeEZrMnpSZmozdWh3SjZHVWtrWUlBSG4wUE9HVU5tMzNhMW9XSGVlTDhXZDI3WGNGRFJmazkxNnZvclBDUnNFYVk2UDNoZXdKV1dwakdzeGlLZFlLaXBxS0NEdFdNSDYwWTRkc3VGWHVvdGdwN05rQ3YzRzIwUllPVzBfSWJWMVZQd0tVTTluMERPQzAtczAxNFRXRVZFMGg3UW1iWUU1Q1loc0lSNjN6VEVpT3ZZSGFwbmg1aGZkaU5CMlg3U0o4SjUzeldoNS1nMFJUT2VQS0ZNVmln?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T14:21:00+00:00",
-   "vu_le": "2026-11-13T17:38:19.891343+00:00",
    "resume": ""
   },
   {
@@ -1643,127 +1357,6 @@
    "resume": ""
   },
   {
-   "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
-   "source": "Le Monde Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
-   "date_publication": "2026-11-13T13:30:11+00:00",
-   "vu_le": "2026-11-13T17:38:19.171696+00:00",
-   "resume": "Le président du comité central d’entreprise de Mercedes-Benz et le syndicat IG Metall ont vivement dénoncé, vendredi 13 novembre, les menaces de fermeture de plusieurs usines en Allemagne brandies par le constructeur automobile, confronté à une crise qui fragilise l’ensemble du secteur. « Nous rejet"
-  },
-  {
-   "titre": "Will Jensen Huang sell his $135bn of stock?",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T13:22:54+00:00",
-   "vu_le": "2026-11-13T17:38:19.482553+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca708b17acd"
-  },
-  {
-   "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
-   "source": "Le Monde Economie",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
-   "date_publication": "2026-11-13T13:12:17+00:00",
-   "vu_le": "2026-11-13T17:38:19.607540+00:00",
-   "resume": "L’offre mondiale de pétrole a encore progressé de 2,3 millions de barils par jour (mb/j) pour atteindre 105,4 mb/j en octobre, « portée par le niveau élevé des exportations du Golfe malgré la poursuite des attaques contre les infrastructures énergétiques et les pétroliers », déclare vendredi 13 nove"
-  },
-  {
-   "titre": "Sébastien Lecornu ouvre une discussion d’un mois avec les syndicats de fonctionnaires, notamment sur la revalorisation des « bas salaires »",
-   "source": "Le Monde Economie",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://www.lemonde.fr/politique/article/2026/11/13/mobilisations-sociales-sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats_6809324_823448.html",
-   "url_propre": "https://www.lemonde.fr/politique/article/2026/11/13/mobilisations-sociales-sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats_6809324_823448.html",
-   "date_publication": "2026-11-13T12:43:02+00:00",
-   "vu_le": "2026-11-13T17:38:19.257576+00:00",
-   "resume": "Sébastien Lecornu a annoncé vendredi 13 novembre, à l’issue d’une rencontre avec les syndicats de fonctionnaires, l’ouverture d’une discussion « rapide » d’un mois sur cinq chantiers, dont l’un portera sur des « mesures d’urgence de revalorisation des bas salaires ». Des annonces qui ne répondent pa"
-  },
-  {
-   "titre": "Jensen Huang’s years-long effort to get close to China",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T12:36:28+00:00",
-   "vu_le": "2026-11-13T17:38:19.353024+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca68f3cebf3"
-  },
-  {
-   "titre": "Moscow tells Europe to pick an envoy if it wants a seat at the table",
-   "source": "Financial Times",
-   "theme": "International",
-   "couleur": "F4B183",
-   "url": "https://www.ft.com/content/4c1f5051-94eb-4d20-b154-c45f4538a2a2?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/4c1f5051-94eb-4d20-b154-c45f4538a2a2?syn-25a6b1a6=1",
-   "date_publication": "2026-11-13T12:28:44+00:00",
-   "vu_le": "2026-11-13T17:38:19.644944+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca7fc09f017"
-  },
-  {
-   "titre": "Après sa réunion avec les syndicats, Sébastien Lecornu ouvre avec eux \"une discussion rapide d'un mois\" portant notamment sur une \"revalorisation des bas salaires\" des fonctionnaires - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxORlNMT0RIdkNwZ0FDYi13THRXYnpGcnZrVi1vUWo4MG82blFnNWVnLXZIVk4xXzJOODYtZTVJVHpwME1vNkRGd0ZoRTJhT0FFMTJ4QTRnbTM1ZERyMV9wWFl5b1Q0dEhEQTNMMGRfYTJzQ3FITVJ5TTYzNzFEM0xMcXl4d3l4eGZPUjJkbGdsR2lwNU9VUjd0cWdZenJFX0Z3dEl1Mk00bzR4OU4yREM3aEg3WS1COXFacWEyVXVTekNBdGdVSWJ0VnBuOGtubndkbUpYdHdHVFYyeXdvaUNsSk4wQmhnVXkyYWdRLVdHbkJ2a3hPNEtNLXJUdUp6czljTExBdW9jWVBaMmc0OEhEMVZRaEJSa1Y5NjB5Q3BLYURuM3dmcDFkVEZiaEEyRzJlTUdldGU2ZGoxZ0FlWjR5MkRVcjU1M2hrQTQwZTZHdUdGN1FZWnZfS3FZeE5JZUl5azRF?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxORlNMT0RIdkNwZ0FDYi13THRXYnpGcnZrVi1vUWo4MG82blFnNWVnLXZIVk4xXzJOODYtZTVJVHpwME1vNkRGd0ZoRTJhT0FFMTJ4QTRnbTM1ZERyMV9wWFl5b1Q0dEhEQTNMMGRfYTJzQ3FITVJ5TTYzNzFEM0xMcXl4d3l4eGZPUjJkbGdsR2lwNU9VUjd0cWdZenJFX0Z3dEl1Mk00bzR4OU4yREM3aEg3WS1COXFacWEyVXVTekNBdGdVSWJ0VnBuOGtubndkbUpYdHdHVFYyeXdvaUNsSk4wQmhnVXkyYWdRLVdHbkJ2a3hPNEtNLXJUdUp6czljTExBdW9jWVBaMmc0OEhEMVZRaEJSa1Y5NjB5Q3BLYURuM3dmcDFkVEZiaEEyRzJlTUdldGU2ZGoxZ0FlWjR5MkRVcjU1M2hrQTQwZTZHdUdGN1FZWnZfS3FZeE5JZUl5azRF?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T12:10:00+00:00",
-   "vu_le": "2026-11-13T17:38:20.726259+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Pour GTT, l’impact de la crise iranienne s’annonce temporaire et l’action du «roi des méthaniers» a encore du potentiel",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/expertise/pour-gtt-l-impact-de-la-crise-iranienne-s-annonce-temporaire-et-l-action-du-roi-des-methaniers-a-encore-du-potentiel-20261113",
-   "url_propre": "https://bourse.lefigaro.fr/expertise/pour-gtt-l-impact-de-la-crise-iranienne-s-annonce-temporaire-et-l-action-du-roi-des-methaniers-a-encore-du-potentiel-20261113",
-   "date_publication": "2026-11-13T12:07:38+00:00",
-   "vu_le": "2026-11-13T17:38:18.080274+00:00",
-   "resume": "Vue depuis le pont d’un méthanier dont les cuves utilisent la technologie à membranes NO96 de GTT. Dotés de réservoirs sphériques très caractéristiques, les navires utilisant la technologie concurrente Moss Maritime, filiale de l’italien Saipem, sont souvent représentés et nombre d’entre eux sont en"
-  },
-  {
-   "titre": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
-   "url_propre": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
-   "date_publication": "2026-11-13T11:29:14+00:00",
-   "vu_le": "2026-11-13T17:38:19.350354+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a59f8ca6599ece38"
-  },
-  {
-   "titre": "Outlook inaccessible, Teams à la peine: ce que l'on sait de la panne mondiale qui frappe Microsoft - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUlVZcWR0a1dLTC1sNlJVZ2tCbHVxeTdidkdxU1ZQUzktalFRdXZuV1FONm9rVGQwNmlOTVNzaVpMOEVwT2JDRVppbkJIcXhNWV9KX1M4cGxuNFF0eFFZcW5qZ3luNy1SYXptUnhZSnJaSkRPaG1tWm5RaDR0YzlaMWt3RS02YlV0RWxEeC00OFc5R0MzdkIzSWhDckEtQUdtZnR0Z0VkWUZEblVQUWRnUmdmRDI2UzJuM3Z5aDl6WlFIdnVnM1ZvNUk5bTZZeEVTLWZR?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUlVZcWR0a1dLTC1sNlJVZ2tCbHVxeTdidkdxU1ZQUzktalFRdXZuV1FONm9rVGQwNmlOTVNzaVpMOEVwT2JDRVppbkJIcXhNWV9KX1M4cGxuNFF0eFFZcW5qZ3luNy1SYXptUnhZSnJaSkRPaG1tWm5RaDR0YzlaMWt3RS02YlV0RWxEeC00OFc5R0MzdkIzSWhDckEtQUdtZnR0Z0VkWUZEblVQUWRnUmdmRDI2UzJuM3Z5aDl6WlFIdnVnM1ZvNUk5bTZZeEVTLWZR?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T11:27:44+00:00",
-   "vu_le": "2026-11-13T17:38:20.605937+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Panne d’Outlook : quelles solutions alternatives à la messagerie pouvez-vous utiliser ?",
-   "source": "Le Figaro Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lefigaro.fr/secteur/high-tech/panne-d-outlook-quelles-solutions-alternatives-a-la-messagerie-pouvez-vous-utiliser-20261113",
-   "url_propre": "https://www.lefigaro.fr/secteur/high-tech/panne-d-outlook-quelles-solutions-alternatives-a-la-messagerie-pouvez-vous-utiliser-20261113",
-   "date_publication": "2026-11-13T11:09:30+00:00",
-   "vu_le": "2026-11-13T17:38:17.337138+00:00",
-   "resume": "Panne d’Outlook : quelles solutions alternatives à la messagerie pouvez-vous utiliser ? La panne mondiale qui touche la messagerie électronique Outlook et les différents outils de Microsoft 365 génèrent de nombreux problèmes, notamment pour les travailleurs. Il existe des services qui permettent de "
-  },
-  {
    "titre": "Une première depuis le début de la guerre au Moyen-Orient: l'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année - BFM",
    "source": "BFM Business",
    "theme": "Finance / Economie (général)",
@@ -1772,61 +1365,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNMnBFSnR1ZDRWaENkaEl3cklCa1U4bjVoM3E0RFBnRUdsdjBsb2hIOGtPRFQwU2ViVmcyWmZqUS1LQU5uekhMNFdkM3piTTBIZ3Jlbk5sSUZJVWlXY0xHZXhhZ3hObWM5bFFIbWtheThWdTEwNk9PYUNnVmtuSURDSWtIZXdWOTBlVnFuSFRiMWxKU2ZPM0JqYkVqMkdfWGNOUjdJaGo0UzUyUnd0cG1rUjREVERqWW9JSmZuc3pkcnJrZ3gzM2tlQ3lzVng4TTNId1BfWDNyRFdLdGVjc29aQlROWldGbmZJTE9mZkxXbWF5eUtjWXppMm05TXU4VDhXdXdhM3hHUzI3bWZtRTFCTms5OElkSXlmaVYtZEozZ1Ewb0dXVExQMzd3ZVBKNi1ZODN5cVlkUmFhYzBFcHhrWEFVXzhfTy1tSFBzUWZTU24zTTdsU2N1TVFRRUJwTlBrQnc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-11-13T10:56:33+00:00",
    "vu_le": "2026-11-13T22:51:49.345168+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Informations, Actualités : Réserve fédérale (FED), page 99 - Boursorama",
-   "source": "Boursorama",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KUGNwblBnaWViSzhLSTBPQjNQdlYxbkF4RFVNNzhUU19JaUItQWx2Wnk1eDdnSlZNRFMxTnhwWFFaVEk2TURlSXFSMDgxOW5kS2xuZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KUGNwblBnaWViSzhLSTBPQjNQdlYxbkF4RFVNNzhUU19JaUItQWx2Wnk1eDdnSlZNRFMxTnhwWFFaVEk2TURlSXFSMDgxOW5kS2xuZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T10:56:27+00:00",
-   "vu_le": "2026-11-13T17:38:20.440012+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "L'Allemagne va emprunter 210 milliards d'euros en 2027, presque un record historique: Berlin ouvre les vannes de la dette, mais contrairement à la France, elle en a encore les moyens - BFM",
-   "source": "BFM Business",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOS3JjTDQzbTdlR3JZNzFPT1U2TEZLeTZtR3NERUlsVUpINmQwQklfZmtnQ3N2LXN2eDJhYmQ2V2xsUG5YengzRGR2dWd0XzRSWWhFVEFjNGV5UE5FVjNjMFRxVFJyMVpBcXIzalFVNV9YSXRGSHh5UVAyOGRwV0xYdFEzXzUxMUFuOGktWUZ0WmRsNWt5RGMxUFNYYmhKSHc4S1pWSU1jeExWWEdldjgydV9EUTJ5REItZGt5dGJDcjk3Um95TUpPaHQwV2s5TGhtcl9jZGxKd2JsUkJza3VFYzFqN0ZfYndlbVlFVVE5MFdvdmhUQ1B3dHRQeWliWF9YaTdsQkR6YVNTQU0wMjIwbmRWekpKUzVSdUtQRUJUQjM0MFh1aUhnek44ZHZFX3p1R2pLdHI1ZWpOUnoyZGx6NVQxenBWZTR0dUlGVHA0Q1JKQVZPN2paaVQ1bDBpQTc2SWc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOS3JjTDQzbTdlR3JZNzFPT1U2TEZLeTZtR3NERUlsVUpINmQwQklfZmtnQ3N2LXN2eDJhYmQ2V2xsUG5YengzRGR2dWd0XzRSWWhFVEFjNGV5UE5FVjNjMFRxVFJyMVpBcXIzalFVNV9YSXRGSHh5UVAyOGRwV0xYdFEzXzUxMUFuOGktWUZ0WmRsNWt5RGMxUFNYYmhKSHc4S1pWSU1jeExWWEdldjgydV9EUTJ5REItZGt5dGJDcjk3Um95TUpPaHQwV2s5TGhtcl9jZGxKd2JsUkJza3VFYzFqN0ZfYndlbVlFVVE5MFdvdmhUQ1B3dHRQeWliWF9YaTdsQkR6YVNTQU0wMjIwbmRWekpKUzVSdUtQRUJUQjM0MFh1aUhnek44ZHZFX3p1R2pLdHI1ZWpOUnoyZGx6NVQxenBWZTR0dUlGVHA0Q1JKQVZPN2paaVQ1bDBpQTc2SWc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T10:43:15+00:00",
-   "vu_le": "2026-11-13T17:38:20.714891+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
-   "source": "Le Monde Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
-   "url_propre": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
-   "date_publication": "2026-11-13T10:42:43+00:00",
-   "vu_le": "2026-11-13T17:38:19.701292+00:00",
-   "resume": "De nombreux utilisateurs d’outils de Microsoft, comme Outlook, Teams ou Copilot étaient toujours, vendredi 13 novembre à la mi-journée, affectés par une panne concernant ces services. L’entreprise, qui affirme qu’il ne s’agit pas d’une cyberattaque, semble avoir des difficultés à rétablir ses systèm"
-  },
-  {
-   "titre": "200 milliards d'euros d'avoirs russes sont gelés dans l'UE: pourquoi Euroclear, la société belge qui en détient la quasi-totalité, refuse toujours qu'ils servent à aider l'Ukraine - BFM",
-   "source": "BFM Business",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNQzEwamZmanZHN0JkZnNuaWo5a1ZqcVE2dVNpVVBua3pmZUhNUV9BMjVDSnpQVEEtS1FQcjVVeHI4SGwzWENEb011dGxBbl9qYnFnY0xjNDFHS3p6d0x3bEdLTFh6NEkyazVyQ3g2dzdCeElvb2pOUUJFVDZEdU5jNmZTWG9PZXlWcDVuRGFyLWw4YW1WU0ZCR1VtUjNEN3F0M0MyQ1FXU3FPSXgwYlVBQ29xblFIbWh6YjhIY0FNajZJRUFtQTRjYmdhWEN2RHJ3R0M1YkxzUTlrXzN5NkFJX2NrMi11bzlBMzR4eWRNejRkXzZ2dVpLd2R0RVFVcUJGOU1kRlB0TElTMGxfN1kyMTd0dm53UDlZZi10U055NjJNUGo5cVM0MHNNZS1LaWpvSGZKM01xV0JSdllySFBmd2RHVFoyQ0t5aHEtam1qVTBqUW9oWExQUC02a0ZTN2lUTjd5VUw3czlNOUZrUlY3djNnNy1wSTAz?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNQzEwamZmanZHN0JkZnNuaWo5a1ZqcVE2dVNpVVBua3pmZUhNUV9BMjVDSnpQVEEtS1FQcjVVeHI4SGwzWENEb011dGxBbl9qYnFnY0xjNDFHS3p6d0x3bEdLTFh6NEkyazVyQ3g2dzdCeElvb2pOUUJFVDZEdU5jNmZTWG9PZXlWcDVuRGFyLWw4YW1WU0ZCR1VtUjNEN3F0M0MyQ1FXU3FPSXgwYlVBQ29xblFIbWh6YjhIY0FNajZJRUFtQTRjYmdhWEN2RHJ3R0M1YkxzUTlrXzN5NkFJX2NrMi11bzlBMzR4eWRNejRkXzZ2dVpLd2R0RVFVcUJGOU1kRlB0TElTMGxfN1kyMTd0dm53UDlZZi10U055NjJNUGo5cVM0MHNNZS1LaWpvSGZKM01xV0JSdllySFBmd2RHVFoyQ0t5aHEtam1qVTBqUW9oWExQUC02a0ZTN2lUTjd5VUw3czlNOUZrUlY3djNnNy1wSTAz?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T10:38:32+00:00",
-   "vu_le": "2026-11-13T17:38:20.696862+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Au plus haut depuis près de 3 ans: l'Insee confirme que l'inflation a atteint 3,4% sur un an en octobre - BFM",
-   "source": "BFM Business",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUmRCbUtNSjZHZEM3R2xMNkRqamNsZTNZdmwxaFZ5U0hYVVVwNUoyLUJlNWc3U3k5R0lPdHU4M0N2ZmNXUGR6LWlhRjVWX0p1aFZLZk9uVGhZd29mdTJ1TWQ2MTUwTW9fR01IbFRIM0tPenNDNFhTUDJzNkJJQm03blVPaWtfRGNGdlNuWjNzamJFSk1FTHFpUVhzdDhNV1VBNDBHX0xfNzByYVVIbVVsNzhhSzBLZkRCdjZ4Z0VKUmZDU0g0blp5RUxselJmNUpxRmJ4cTJPZGVISnhvaE05cldobzRHX0dkLUtpdDBOZTdsOVp6RFRISjk1WTFVUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUmRCbUtNSjZHZEM3R2xMNkRqamNsZTNZdmwxaFZ5U0hYVVVwNUoyLUJlNWc3U3k5R0lPdHU4M0N2ZmNXUGR6LWlhRjVWX0p1aFZLZk9uVGhZd29mdTJ1TWQ2MTUwTW9fR01IbFRIM0tPenNDNFhTUDJzNkJJQm03blVPaWtfRGNGdlNuWjNzamJFSk1FTHFpUVhzdDhNV1VBNDBHX0xfNzByYVVIbVVsNzhhSzBLZkRCdjZ4Z0VKUmZDU0g0blp5RUxselJmNUpxRmJ4cTJPZGVISnhvaE05cldobzRHX0dkLUtpdDBOZTdsOVp6RFRISjk1WTFVUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T09:09:01+00:00",
-   "vu_le": "2026-11-13T17:38:21.288596+00:00",
    "resume": ""
   },
   {
@@ -1885,17 +1423,6 @@
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5a157db9fc08639"
   },
   {
-   "titre": "Les Européens présents aux prochaines négociations sur l'Ukraine, selon Kiev et Washington - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZkUxM29IVkU5MXJlSVhVQ3lEc1BtMUVSX2VzdVdaZHQ4SEswU0pBa3dNTUFMa2RZWjItdXNvUFlwNzdhT29zaEpGMUJiY3ZRZnZmOVFOQWNwMWpPT3VoZUU4elBNYnNJY2xsRHozUUdaUnk4azEwZzlDcW9EX1oyUTFBS3JQM0ZBYnhoT0RIUE9YVFBWbnlCeTZqNndGSGlLeGZkM2pMcnQ5MWtXMzNxOXR4NTdyQVhWTno4cFJCNnRQaDJzSHZnMlpXa0VEdkFrYk5CZlBmLTZRNXM0TXZCQmxDT2RDSjJLZEoxczczaHPSAZMCQVVfeXFMTW9jNDJzTFFjZVZ3MHZRWTZPdVpTTUxJNURveEZEd2g1WmdsekJuVm85UFRMOTR0U3o5WXdlRlBkaHlWcFY3aDhsSzB4SEJyVEFrcFZuanJWN09NdzdVcF95RDAtQ05COVhudGs1ZUlscHlhcER6YlQwUkNsdi1TUzVkMFlRc0FDX1hoUW5ibEVIcWF2UUxqa21OVG9ZeFg1cEdPYUJSV0xNOVFrWURjUWtUY3ZvVkJjSXl4anpINEVCdlhjRWNpOVpIQk54bHhoajhoMWhWSW1BN2Ridk1fLWFfSlFBd2FQYlZPbTZNdmlfMURueVhyWmxDaEl3a01hVHdqQ2lUOTBhYXJnN1d4b08wMEk?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZkUxM29IVkU5MXJlSVhVQ3lEc1BtMUVSX2VzdVdaZHQ4SEswU0pBa3dNTUFMa2RZWjItdXNvUFlwNzdhT29zaEpGMUJiY3ZRZnZmOVFOQWNwMWpPT3VoZUU4elBNYnNJY2xsRHozUUdaUnk4azEwZzlDcW9EX1oyUTFBS3JQM0ZBYnhoT0RIUE9YVFBWbnlCeTZqNndGSGlLeGZkM2pMcnQ5MWtXMzNxOXR4NTdyQVhWTno4cFJCNnRQaDJzSHZnMlpXa0VEdkFrYk5CZlBmLTZRNXM0TXZCQmxDT2RDSjJLZEoxczczaHPSAZMCQVVfeXFMTW9jNDJzTFFjZVZ3MHZRWTZPdVpTTUxJNURveEZEd2g1WmdsekJuVm85UFRMOTR0U3o5WXdlRlBkaHlWcFY3aDhsSzB4SEJyVEFrcFZuanJWN09NdzdVcF95RDAtQ05COVhudGs1ZUlscHlhcER6YlQwUkNsdi1TUzVkMFlRc0FDX1hoUW5ibEVIcWF2UUxqa21OVG9ZeFg1cEdPYUJSV0xNOVFrWURjUWtUY3ZvVkJjSXl4anpINEVCdlhjRWNpOVpIQk54bHhoajhoMWhWSW1BN2Ridk1fLWFfSlFBd2FQYlZPbTZNdmlfMURueVhyWmxDaEl3a01hVHdqQ2lUOTBhYXJnN1d4b08wMEk?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-13T02:30:00+00:00",
-   "vu_le": "2026-11-13T17:38:20.004939+00:00",
-   "resume": ""
-  },
-  {
    "titre": "Microsoft projette d’utiliser votre ordinateur pour alimenter ses centres de données et vous serez payé pour ça",
    "source": "Le Figaro Bourse",
    "theme": "Entreprises",
@@ -1927,39 +1454,6 @@
    "date_publication": "2026-11-11T07:54:53+00:00",
    "vu_le": "2026-11-14T09:30:09.051712+00:00",
    "resume": "Le CAC 40 a besoin de souffler mais il en garde sous le pied: quels seuils pour se positionner? Toutes les semaines, le Figaro Patrimoine et Bourse vous propose un regard technique sur le CAC 40: supports, résistances, stratégie et conseils. Passer la publicité Soutenue par la décrue du pétrole, la "
-  },
-  {
-   "titre": "Mettez les gaz sur l’action du champion des  cuves de méthaniers, un pari sur une techno française, Campari à surveiller… Consultez La lettre des placements",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/expertise/mettez-les-gaz-sur-l-action-du-champion-des-cuves-de-methaniers-un-pari-sur-une-techno-francaise-campari-a-surveiller-consultez-la-lettre-des-placements-20261110",
-   "url_propre": "https://bourse.lefigaro.fr/expertise/mettez-les-gaz-sur-l-action-du-champion-des-cuves-de-methaniers-un-pari-sur-une-techno-francaise-campari-a-surveiller-consultez-la-lettre-des-placements-20261110",
-   "date_publication": "2026-11-10T19:59:20+00:00",
-   "vu_le": "2026-11-13T17:38:17.897268+00:00",
-   "resume": "Mettez les gaz sur l’action du champion des cuves de méthaniers, un pari sur une techno française, Campari à surveiller… Consultez La lettre des placements Mettez les gaz sur l’action du champion des cuves de méthaniers, un pari sur une techno française, Campari à surveiller… Consultez La lettre des"
-  },
-  {
-   "titre": "Pourquoi l’action Pluxee, le petit Edenred, a-t-elle chuté après la publication de ses comptes annuels qui semblent de bonne qualité ?",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/pourquoi-l-action-pluxee-le-petit-edenred-a-t-elle-chute-apres-la-publication-de-ses-comptes-annuels-qui-semblent-de-bonne-qualite-20261110",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/pourquoi-l-action-pluxee-le-petit-edenred-a-t-elle-chute-apres-la-publication-de-ses-comptes-annuels-qui-semblent-de-bonne-qualite-20261110",
-   "date_publication": "2026-11-10T14:00:00+00:00",
-   "vu_le": "2026-11-13T17:38:19.039096+00:00",
-   "resume": "Acteur des titres prépayés pour les salariés, Pluxee pâtit des évolutions réglementaires pour le secteur, notamment au Brésil. Sodexo Pluxee - Le Figaro Vie des entreprises, fonctionnement du marché, droit boursier... La rédaction du Figaro Patrimoine et Bourse se saisit de vos questions et vous app"
-  },
-  {
-   "titre": "«Air Liquide nous paraît bien armé pour créer de la valeur dans la durée» : les analystes de Berenberg toujours plus optimistes sur l’action du champion français au sommet",
-   "source": "Le Figaro Bourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/air-liquide-nous-parait-bien-arme-pour-creer-de-la-valeur-dans-la-duree-les-analystes-de-berenberg-toujours-plus-optimistes-sur-l-action-du-champion-francais-au-sommet-20261109",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/air-liquide-nous-parait-bien-arme-pour-creer-de-la-valeur-dans-la-duree-les-analystes-de-berenberg-toujours-plus-optimistes-sur-l-action-du-champion-francais-au-sommet-20261109",
-   "date_publication": "2026-11-10T09:27:34+00:00",
-   "vu_le": "2026-11-13T17:38:18.775806+00:00",
-   "resume": "«Air Liquide nous paraît bien armé pour créer de la valeur dans la durée» : les analystes de Berenberg toujours plus optimistes sur l’action du champion français au sommet «Air Liquide nous paraît bien armé pour créer de la valeur dans la durée» : les analystes de Berenberg toujours plus optimistes "
   }
  ]
 }
