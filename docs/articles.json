@@ -1,8 +1,239 @@
 {
- "genere_le": "2026-11-17T20:59:58.760151+00:00",
+ "genere_le": "2026-11-18T02:49:53.668057+00:00",
  "fenetre_heures": 24,
- "nb_articles": 153,
+ "nb_articles": 180,
  "articles": [
+  {
+   "titre": "La ruée vers la sécurité est en train de créer sa propre bulle",
+   "source": "Investing.com",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://fr.investing.com/analysis/la-ruee-vers-la-securite-est-en-train-de-creer-sa-propre-bulle-200458410",
+   "url_propre": "https://fr.investing.com/analysis/la-ruee-vers-la-securite-est-en-train-de-creer-sa-propre-bulle-200458410",
+   "date_publication": "",
+   "vu_le": "2026-11-18T02:49:57.571062+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Les actions sud-coréennes progressent légèrement grâce aux résultats de Nvidia - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2J2STlyaDFlR2EwSUZhTlNzMzFHR0VTdlY1TzctUkF2emdLd19zNllKREhNYTE1Y3JHTTVIbnJySDlPNEdYXzlIM1RtTHd3dkZ3XzBWNUVXNmNxenhwOHlTY0REWi04MFRaYkIybVBFYlFJYVFvNjFIUVFMZlVyby00cEIyQnRkcEpYd2dFZEdsSnhDMnYwWlptOG1teEFGSmR6RVJUcEZ6V0RnUVY3ODg4Y1VjY25OV193dzZKWXFwVVYxSWhIMDBrX1VwY2ZRZ0thcQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2J2STlyaDFlR2EwSUZhTlNzMzFHR0VTdlY1TzctUkF2emdLd19zNllKREhNYTE1Y3JHTTVIbnJySDlPNEdYXzlIM1RtTHd3dkZ3XzBWNUVXNmNxenhwOHlTY0REWi04MFRaYkIybVBFYlFJYVFvNjFIUVFMZlVyby00cEIyQnRkcEpYd2dFZEdsSnhDMnYwWlptOG1teEFGSmR6RVJUcEZ6V0RnUVY3ODg4Y1VjY25OV193dzZKWXFwVVYxSWhIMDBrX1VwY2ZRZ0thcQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:38:17+00:00",
+   "vu_le": "2026-11-18T02:49:59.628490+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Les actions sud-coréennes progressent légèrement grâce aux résultats de Nvidia - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOUQ5TEJDV0NoeUppTnNIM1J2VUUxU2FEaDJ3d1FqZE9QSVc4eVBFcDdWZGh0aGdvbmg1cEkzWUJSOGJ1OHlrMmxtaXlzWGNON3BaV2Z3WlRWbkVfYjY2NWF2VWExLS15Sm1UREpJLTBvOV9sX2s5NXpIMC1RclczdDh2dTdrVHhVb3NvU3RzT2dKbl9OX0JxOE9GYnZFbWlXM3hNdVdWOEd4dFI2ZVN3VFA5UVFqTVFNOGIzYktJY1hjWHBoLUZWYzdMRlpFUHMzQzJuNk9OdHFqc3ZxdHFpam10aUFWQm9EYXhxcg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOUQ5TEJDV0NoeUppTnNIM1J2VUUxU2FEaDJ3d1FqZE9QSVc4eVBFcDdWZGh0aGdvbmg1cEkzWUJSOGJ1OHlrMmxtaXlzWGNON3BaV2Z3WlRWbkVfYjY2NWF2VWExLS15Sm1UREpJLTBvOV9sX2s5NXpIMC1RclczdDh2dTdrVHhVb3NvU3RzT2dKbl9OX0JxOE9GYnZFbWlXM3hNdVdWOEd4dFI2ZVN3VFA5UVFqTVFNOGIzYktJY1hjWHBoLUZWYzdMRlpFUHMzQzJuNk9OdHFqc3ZxdHFpam10aUFWQm9EYXhxcg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:38:04+00:00",
+   "vu_le": "2026-11-18T02:49:58.295824+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Nvidia renforce ses capacités de production en collaboration avec ses fournisseurs afin de répondre à la deman - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPN0JkdUxIcE1rekd3cVpGZnFIQ1JiTjQwWkZFU0dNLXJndGlNekpUVTVmYWM0SXROS0l5V2RyWS1VX3hMdnVHVEtHeVh6MWdKVXkzdEFIeG9yYlFEcV9ja29OVkFLVGozcnJPRFJpRktHSVhwVC1XSGxjUnFFODRUUGVBdUg1XzNlc2t2c3NLZFAzRENhd0g5QVNORmlsZjVyRWZIS0tZZHBUTEZZWVhSM19qX0Y1am4wUkx6WHlWMmhzVzh1WnhWNWZZWWNlcXlPWHFvekw0bDh0dHR2Y0NiM0I1eG16cWVnX1JBN3NjOGdURHFXRG82eS1sUDJ4TE95RGphaVpZOWFtaGdjZGNiV3ZHb3c5UHQzZVV0STlRODhYOGwwNFhsaURUVFFfQXPSAbQCQVVfeXFMTmdGSlFpcVNmZkU4VmFaMlhWRkxMUGE5eHV2bGIwMlF0SVV2TWZyNXNnTnc5WUI5UjdEVG1FMmNRT05zd0J0Z3NZd1F6YmFQZ1d5UUcyQTBtbUplUmg4bjFvQi1iamRNWlVqNkRyT3pXeS1PbG04RUZiREtOcUtWWEtQZWVneHpJcXB6VGNMSVAwaEtBNjFwOWNpV1Z5bzBIY2cxX2lsMXRVMTI5QUlDYjZqT0hPelRPeThWR0YxaGJoMl9IT2FVRzFkMUU4QXVtMmFLZ09Ob1FfSzNfZFIxQ1pIYmNpa09PMm9Nd043QzE4M3FoVTVqdWtpeUxsWGtHN3JHeGxyLVdxMzRHYWdFZ1ctcFpySkstUWZlOUlESmljYmVwb1pkM1ZnTFVwS2ZoZDVmZjE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPN0JkdUxIcE1rekd3cVpGZnFIQ1JiTjQwWkZFU0dNLXJndGlNekpUVTVmYWM0SXROS0l5V2RyWS1VX3hMdnVHVEtHeVh6MWdKVXkzdEFIeG9yYlFEcV9ja29OVkFLVGozcnJPRFJpRktHSVhwVC1XSGxjUnFFODRUUGVBdUg1XzNlc2t2c3NLZFAzRENhd0g5QVNORmlsZjVyRWZIS0tZZHBUTEZZWVhSM19qX0Y1am4wUkx6WHlWMmhzVzh1WnhWNWZZWWNlcXlPWHFvekw0bDh0dHR2Y0NiM0I1eG16cWVnX1JBN3NjOGdURHFXRG82eS1sUDJ4TE95RGphaVpZOWFtaGdjZGNiV3ZHb3c5UHQzZVV0STlRODhYOGwwNFhsaURUVFFfQXPSAbQCQVVfeXFMTmdGSlFpcVNmZkU4VmFaMlhWRkxMUGE5eHV2bGIwMlF0SVV2TWZyNXNnTnc5WUI5UjdEVG1FMmNRT05zd0J0Z3NZd1F6YmFQZ1d5UUcyQTBtbUplUmg4bjFvQi1iamRNWlVqNkRyT3pXeS1PbG04RUZiREtOcUtWWEtQZWVneHpJcXB6VGNMSVAwaEtBNjFwOWNpV1Z5bzBIY2cxX2lsMXRVMTI5QUlDYjZqT0hPelRPeThWR0YxaGJoMl9IT2FVRzFkMUU4QXVtMmFLZ09Ob1FfSzNfZFIxQ1pIYmNpa09PMm9Nd043QzE4M3FoVTVqdWtpeUxsWGtHN3JHeGxyLVdxMzRHYWdFZ1ctcFpySkstUWZlOUlESmljYmVwb1pkM1ZnTFVwS2ZoZDVmZjE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:23:47+00:00",
+   "vu_le": "2026-11-18T02:49:58.234319+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Hegseth doit se rendre mercredi en Colombie - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmhxeExZeVRFek5tNkV5ZWo4YktTd2FLY2hYTi1pbVBFNV9PSlpqRERwZ29hTktvS2x6b2NwanYwYmFXTEhXN1FHbUJLRzl5WkhkTzZwbUNYdFpWOFhaTy1HdXBRWjBLZ1hZSlFXWFhpX2VJX0I4WklOMmxMQWIxZjRFVGJFWW1xcFBSQ0F6OU9kNmgtaDNRd1Z6TFp2Q1dtcmJENXEtVlpneDg5MTBQUVUwQlNaSWxXUHNDZGhRNDE3UGFDWk1YZ1dJRU54bFo00gHWAUFVX3lxTE1FTWkwZkREbnR2SmlhRHJ6cVhGcXZjQi1KQ09mQmJnSzE3RXQyU2dFUUhHT0JOMjlCZktjNE9wZmZIMVdydXJBal9qNVNSd3lteEZ1amF1Y2lZb1duV2FKZUVYUk84WUVqNEM5bGNKOVFKcTZfSHI1MVB0VFNxdHdGZ0lZSTFQOHhSbDBYWGdQbWs2d0RkOVo1eXNXY3h2eU1seDZ0dHAxM0UwQkVKOTl6M1I5Qmx5clBXN01WWkgtUHNJRTltV3VtUnY4ZWktX29pX0FzbUE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmhxeExZeVRFek5tNkV5ZWo4YktTd2FLY2hYTi1pbVBFNV9PSlpqRERwZ29hTktvS2x6b2NwanYwYmFXTEhXN1FHbUJLRzl5WkhkTzZwbUNYdFpWOFhaTy1HdXBRWjBLZ1hZSlFXWFhpX2VJX0I4WklOMmxMQWIxZjRFVGJFWW1xcFBSQ0F6OU9kNmgtaDNRd1Z6TFp2Q1dtcmJENXEtVlpneDg5MTBQUVUwQlNaSWxXUHNDZGhRNDE3UGFDWk1YZ1dJRU54bFo00gHWAUFVX3lxTE1FTWkwZkREbnR2SmlhRHJ6cVhGcXZjQi1KQ09mQmJnSzE3RXQyU2dFUUhHT0JOMjlCZktjNE9wZmZIMVdydXJBal9qNVNSd3lteEZ1amF1Y2lZb1duV2FKZUVYUk84WUVqNEM5bGNKOVFKcTZfSHI1MVB0VFNxdHdGZ0lZSTFQOHhSbDBYWGdQbWs2d0RkOVo1eXNXY3h2eU1seDZ0dHAxM0UwQkVKOTl6M1I5Qmx5clBXN01WWkgtUHNJRTltV3VtUnY4ZWktX29pX0FzbUE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:22:46+00:00",
+   "vu_le": "2026-11-18T02:49:57.949450+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Le baht thaïlandais recule face au dollar américain mercredi - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2I1dW9PaVhjUktzY09hUTNKdWU3d213YkcyU2x0V1YzNDREQzJNVHpOU2NWVEFjUUZXVlRNdlptQXBGdEVoQWIwanZGSkhQYnZLSEF6N0JuU0ItVXZ3TzA5UHVlajJJVFJkb1pNSWwwbkVlTy1nUDVLTlFWRTR2OUNZV2g2YXZ3MmVMYVZnTzZ0VVduOWRXOF9mUVVRUXFKM0dzQXdtbWVWVWk4Q2dUVlJocW1GaUtRdFg5Zw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2I1dW9PaVhjUktzY09hUTNKdWU3d213YkcyU2x0V1YzNDREQzJNVHpOU2NWVEFjUUZXVlRNdlptQXBGdEVoQWIwanZGSkhQYnZLSEF6N0JuU0ItVXZ3TzA5UHVlajJJVFJkb1pNSWwwbkVlTy1nUDVLTlFWRTR2OUNZV2g2YXZ3MmVMYVZnTzZ0VVduOWRXOF9mUVVRUXFKM0dzQXdtbWVWVWk4Q2dUVlJocW1GaUtRdFg5Zw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:21:17+00:00",
+   "vu_le": "2026-11-18T02:49:59.448673+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "US cyber security agency warns over vulnerability in Oracle’s Java",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+   "date_publication": "2026-11-18T02:19:18+00:00",
+   "vu_le": "2026-11-18T02:49:57.619935+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5c3aa3698c95ed8"
+  },
+  {
+   "titre": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+   "date_publication": "2026-11-18T02:17:18+00:00",
+   "vu_le": "2026-11-18T02:49:57.552817+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5c3aa354da1efa4"
+  },
+  {
+   "titre": "Les cours du pétrole reculent, la hausse des stocks américains de brut atténuant les risques liés à l'offre - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZ29meUZ2Wm44YXFIdVNDU3NIOUl5TUltNVN4WUhTOXYxTUcyYUVab2lScmlGTmhSZVdqblpyQXktejdFV2ZGQU5ZTVNtYmxKNWtnY1NodzZvdFM5NzBPT0hmMXRUY1hSNE9lOUt0d3Y2TmpVSlVGUGtnQW1KbGlkNm1yMmlrSjNFZWc3SHM1VEREUnRXNkw3SGpESmx5b2IwTHhfd3lsakNIRU5OZDJWRGpZSkdUMFNjWW94SGV4aFNSa2oybzJMVE9RZThjemtIZkd3SzFzWmduUFNEMTYyWDNjX2tKN2hoOGZlVjBxOVBTMGk0SFRGQUlMQTZ2TDV0Tm40Z2VGb2pTWG1PNWY3dW1B0gGXAkFVX3lxTFBzQ0JnekpFUXdjaVlWQUhUVG1Gc295RzZ3blVLY21FYlRSZDZuQm5YYTRod2N3QlJjaWR1cXFHUFhUNWRETDlnLXc2ZlA0eUNiUlV3Z2F1U3ZLMjRRbmpyNDJkTzkwa011V3FNSVdJSnlSU3pPVDR5cjFGaHNGcTVLamtDOW5LcTZ2R2dQenhNYjFEbTJaZEpxRnZhTndRUTJwSVVwQkhwbWE3dVQyaHZ1OTBib0JSWVIzVENXRVVncFp6RG01UXVMU2JXMk5ZOW95bVBiTmRFc1RGQWlndVp4bnB6TWN0cEp1X1gwRVl6cFlCamlPOXhlSGFBTzN6eFh0RTV1aEVuX1VKaHVEazBRQTlwTUxZNA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZ29meUZ2Wm44YXFIdVNDU3NIOUl5TUltNVN4WUhTOXYxTUcyYUVab2lScmlGTmhSZVdqblpyQXktejdFV2ZGQU5ZTVNtYmxKNWtnY1NodzZvdFM5NzBPT0hmMXRUY1hSNE9lOUt0d3Y2TmpVSlVGUGtnQW1KbGlkNm1yMmlrSjNFZWc3SHM1VEREUnRXNkw3SGpESmx5b2IwTHhfd3lsakNIRU5OZDJWRGpZSkdUMFNjWW94SGV4aFNSa2oybzJMVE9RZThjemtIZkd3SzFzWmduUFNEMTYyWDNjX2tKN2hoOGZlVjBxOVBTMGk0SFRGQUlMQTZ2TDV0Tm40Z2VGb2pTWG1PNWY3dW1B0gGXAkFVX3lxTFBzQ0JnekpFUXdjaVlWQUhUVG1Gc295RzZ3blVLY21FYlRSZDZuQm5YYTRod2N3QlJjaWR1cXFHUFhUNWRETDlnLXc2ZlA0eUNiUlV3Z2F1U3ZLMjRRbmpyNDJkTzkwa011V3FNSVdJSnlSU3pPVDR5cjFGaHNGcTVLamtDOW5LcTZ2R2dQenhNYjFEbTJaZEpxRnZhTndRUTJwSVVwQkhwbWE3dVQyaHZ1OTBib0JSWVIzVENXRVVncFp6RG01UXVMU2JXMk5ZOW95bVBiTmRFc1RGQWlndVp4bnB6TWN0cEp1X1gwRVl6cFlCamlPOXhlSGFBTzN6eFh0RTV1aEVuX1VKaHVEazBRQTlwTUxZNA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:09:22+00:00",
+   "vu_le": "2026-11-18T02:49:58.474924+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Shionogi finalise l’acquisition d’IntraBio pour 2 milliards de dollars - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGNlOEtEZWw4V2l2QWtnSFJYc0FqR1JXUXJhQ3IwWm9JcUtRMHZnLTgwblZzNVBEeHgtRTdzNkQ2WE5wWm0zemhUeElFZGczSks5UXJUTlNoeFp3OTZzTUx2T3RVV1Rmcm1NeWxzb05pOVJiR25YYVZEdHNWR0JBdDJ0bEFnRkdYTmxFRkFxZGZMSjFjRXBNM21VUTdpNEE4cS1TYjBuUzFEek50NnotSkFvam80Nk1zWEROY3RqR0R0U3M2X1RZdExVbm8?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGNlOEtEZWw4V2l2QWtnSFJYc0FqR1JXUXJhQ3IwWm9JcUtRMHZnLTgwblZzNVBEeHgtRTdzNkQ2WE5wWm0zemhUeElFZGczSks5UXJUTlNoeFp3OTZzTUx2T3RVV1Rmcm1NeWxzb05pOVJiR25YYVZEdHNWR0JBdDJ0bEFnRkdYTmxFRkFxZGZMSjFjRXBNM21VUTdpNEE4cS1TYjBuUzFEek50NnotSkFvam80Nk1zWEROY3RqR0R0U3M2X1RZdExVbm8?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:08:20+00:00",
+   "vu_le": "2026-11-18T02:49:59.460070+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Russia’s Putin to address global CEOs in China",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+   "date_publication": "2026-11-18T02:02:42+00:00",
+   "vu_le": "2026-11-18T02:49:57.550400+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5c3aa354a90dab7"
+  },
+  {
+   "titre": "JX Advanced Metals Corporation : UBS est neutre sur le titre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1pOUWlrVDNYa2d3SzlmMEFMdVFJVm4wV0NVNHcxS1FnRGZHeFR2TFhiSzBJUVdNNERsMHZkWkVGQ080cTJ4QjhSay1sRHVlMzhENW5VdU9BWkZDVEEyN19PSHpfTkNManRISkhEa2JaQVRPWEJielVueUs3dkF3bENCNDk1NlhVTzFFb3d3RURpOXIzVDlSdHZBV05NMzdRVFVMY2xtN002RHA1MGdTVTFta1QtU1hrQmc?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1pOUWlrVDNYa2d3SzlmMEFMdVFJVm4wV0NVNHcxS1FnRGZHeFR2TFhiSzBJUVdNNERsMHZkWkVGQ080cTJ4QjhSay1sRHVlMzhENW5VdU9BWkZDVEEyN19PSHpfTkNManRISkhEa2JaQVRPWEJielVueUs3dkF3bENCNDk1NlhVTzFFb3d3RURpOXIzVDlSdHZBV05NMzdRVFVMY2xtN002RHA1MGdTVTFta1QtU1hrQmc?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:01:49+00:00",
+   "vu_le": "2026-11-18T02:49:59.154251+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Zijin Mining Group Company Limited : JPMorgan toujours positif - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXpvMWh0aUNoVVRfMFRXYUJnbDhpYmUwb05SeWdTMTVHQW42RldxUmdxNkI2M0Zhcjd6dFdNNmJtN3BFY3F4Wll4REJqenlTU09SZU8wRGgycWFIZkp1ZXh0aHRFdUJNbnNPTjZ3MERpc2tLUDhNR2dMUEZDbnNGLTRzbDNoX0hubkcxdkZlOUlJWDlkdkl4Q1pFMUxpWjhlVi1yRUhSOVI1Mmc0VXdPeDE1c19sa2ZWbXVVZA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXpvMWh0aUNoVVRfMFRXYUJnbDhpYmUwb05SeWdTMTVHQW42RldxUmdxNkI2M0Zhcjd6dFdNNmJtN3BFY3F4Wll4REJqenlTU09SZU8wRGgycWFIZkp1ZXh0aHRFdUJNbnNPTjZ3MERpc2tLUDhNR2dMUEZDbnNGLTRzbDNoX0hubkcxdkZlOUlJWDlkdkl4Q1pFMUxpWjhlVi1yRUhSOVI1Mmc0VXdPeDE1c19sa2ZWbXVVZA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:01:12+00:00",
+   "vu_le": "2026-11-18T02:49:59.360642+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Technology One Limited : Evans & Partners maintient son opinion neutre - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnRzWklyalo4ZzN6Y2FTeWVoME5LVnN6Y1JjX0hmMW5Ja0FvT3MwZHlsUXlIR0NQcU9TN25XbkZJOWE2b2pfQnZnaGI3c3hzZ2cxVVRNdXY4TkVGU3U0SDA4b3Q4dlZmc0pkck43cGFBSTFkS1g2WVlMd2U2UV9idWVpTXgyYmMxNDZ1T2VBN2hQRWpQYzV0Z1VCV3ZMRnlwWXZYUGdBaW1oUWUtc0pWdjdjTkk2LVRWb3FHdktTUFg1SlY1?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnRzWklyalo4ZzN6Y2FTeWVoME5LVnN6Y1JjX0hmMW5Ja0FvT3MwZHlsUXlIR0NQcU9TN25XbkZJOWE2b2pfQnZnaGI3c3hzZ2cxVVRNdXY4TkVGU3U0SDA4b3Q4dlZmc0pkck43cGFBSTFkS1g2WVlMd2U2UV9idWVpTXgyYmMxNDZ1T2VBN2hQRWpQYzV0Z1VCV3ZMRnlwWXZYUGdBaW1oUWUtc0pWdjdjTkk2LVRWb3FHdktTUFg1SlY1?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T02:01:04+00:00",
+   "vu_le": "2026-11-18T02:49:59.406949+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Rien n'indique que les pannes informatiques aux USA soient liées, dit Rubio - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNkpxTzFWY01ISG90SEhWejM3NHI3d3E0aHc4czVHSXR6YktUQnhQQ1hfN3NKMTlmZXRhbEpRbGg4RkoydHBWNFBza0JnUzh2cGlhdHB0TkNKNnM1T1BwemxyZlpVbjlwUDEyNGwybTRSck93TDZZZ3BNaGh0WUd5a2lBYmtwTERrU1BmaXM2OFJjNEdqOUJqNkZFemhUdkc5bzRWV0s5RG80M2hQeVRFMFJqbDJXazdqcF9pRURNQ2tRbldxNVhQdlc0UUFrUE8wRTFNS0h4ellmdHNWQ19kZ2hETmFyVFFoaEZ2b3lia1JWVy1jc2pfQ2Zn0gH_AUFVX3lxTFB0SHkxUlhUS0ZtcURlcVNiZURrZkhqOFdxX0ZfT2NPeGV4di1mSVl4dGlPZzFLYnRaeEFYMlpNSGRVTWxMRkE5bmstZ0JMWmxEZnlxUTB0LWxHR0Y5TExCQlhOU0ZydEUzRWVWR2l5d2pnemR1YlYtZHdDUHZkYlpuanFSRS1aWERSQUNHamVlSW43NTY5cktNVzRuMlN3dXVJeUszdVVmVWl4V1YycDdzdXpRaGkydkRpQmdoUm9HTmJ5R3hCRFVoelhXcUZqdDJCNjJ6OUsyUDZWQVRYc01fOWM1RjhmQWlhUGluT3R3SDBWQklpMGsxZk00ZFpOMA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNkpxTzFWY01ISG90SEhWejM3NHI3d3E0aHc4czVHSXR6YktUQnhQQ1hfN3NKMTlmZXRhbEpRbGg4RkoydHBWNFBza0JnUzh2cGlhdHB0TkNKNnM1T1BwemxyZlpVbjlwUDEyNGwybTRSck93TDZZZ3BNaGh0WUd5a2lBYmtwTERrU1BmaXM2OFJjNEdqOUJqNkZFemhUdkc5bzRWV0s5RG80M2hQeVRFMFJqbDJXazdqcF9pRURNQ2tRbldxNVhQdlc0UUFrUE8wRTFNS0h4ellmdHNWQ19kZ2hETmFyVFFoaEZ2b3lia1JWVy1jc2pfQ2Zn0gH_AUFVX3lxTFB0SHkxUlhUS0ZtcURlcVNiZURrZkhqOFdxX0ZfT2NPeGV4di1mSVl4dGlPZzFLYnRaeEFYMlpNSGRVTWxMRkE5bmstZ0JMWmxEZnlxUTB0LWxHR0Y5TExCQlhOU0ZydEUzRWVWR2l5d2pnemR1YlYtZHdDUHZkYlpuanFSRS1aWERSQUNHamVlSW43NTY5cktNVzRuMlN3dXVJeUszdVVmVWl4V1YycDdzdXpRaGkydkRpQmdoUm9HTmJ5R3hCRFVoelhXcUZqdDJCNjJ6OUsyUDZWQVRYc01fOWM1RjhmQWlhUGluT3R3SDBWQklpMGsxZk00ZFpOMA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T01:52:55+00:00",
+   "vu_le": "2026-11-18T02:49:58.155496+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Nvidia refuse de réembaucher Huang et le WSJ rapporte que la SEC mène une enquête sur le fabricant de puces - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNTFRbmlIYzZIRVIwWGhKd1d1dG44QVN0X2kxM191WmszdVpNdEJHOE5TSXJvZ24wcXdtbmROWGNySkRnczdyQ21BMklpRGFhVklqOUJzbVBoX3Jsekk2Ym1vUV9ZcXFULUxLd0l1MGlQN2J6Wnhya1N1bjdUU2U3T2FNRjg5N0lXNjdIRjhtbHU2MWJkTU4wanFubXh5dDJITVJxcUR5bm1IT0RQS0hNdm9jb0E4RDhFdjZleFJjSXI4T29jbWlaUVIzTk5RMkxmcmNET01kME5mRkpBX0VTQ0VQUGtHdHN4VTdoMlhvQ1B6VktkUk1Gc0s4SElTWXZ3RUllVGdnNkRya0ZsbHUwYnVvb9IBmAJBVV95cUxNaTRTZ2tnUlVJNlR6Nmx4R3RTYWE1ZkpkM1ZDVE5Sa2FhV0tZZ2p1UXZBQ3pwYmliOTYzdkxTWmVvblVUXy1Rby1TTHRaVW05OFp6ZmlhREJoejh3ODZUU3RPX3RaaHZ4TWhHLTc4WThUeTIzUnpFQlMyVDR1QVcwT3hSbFJReFFXcTdLTXJnZldNYXpVclcwWkdhMWxzdHNDSUlUUzdsQjdEdFY5bkxIZnBJbGpwd3lvb05SNTN4dllqS1FTYl8yeEtnVUJrTXA5UXkyN1otZVFwb2NXampOOHFyVS1NMGpwT1M3cG5IaEI4RkhqVXEzd3N1TENzM1lFc1F5MHgxRnBxNU52cDA5MDEwcGhjNFpX?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNTFRbmlIYzZIRVIwWGhKd1d1dG44QVN0X2kxM191WmszdVpNdEJHOE5TSXJvZ24wcXdtbmROWGNySkRnczdyQ21BMklpRGFhVklqOUJzbVBoX3Jsekk2Ym1vUV9ZcXFULUxLd0l1MGlQN2J6Wnhya1N1bjdUU2U3T2FNRjg5N0lXNjdIRjhtbHU2MWJkTU4wanFubXh5dDJITVJxcUR5bm1IT0RQS0hNdm9jb0E4RDhFdjZleFJjSXI4T29jbWlaUVIzTk5RMkxmcmNET01kME5mRkpBX0VTQ0VQUGtHdHN4VTdoMlhvQ1B6VktkUk1Gc0s4SElTWXZ3RUllVGdnNkRya0ZsbHUwYnVvb9IBmAJBVV95cUxNaTRTZ2tnUlVJNlR6Nmx4R3RTYWE1ZkpkM1ZDVE5Sa2FhV0tZZ2p1UXZBQ3pwYmliOTYzdkxTWmVvblVUXy1Rby1TTHRaVW05OFp6ZmlhREJoejh3ODZUU3RPX3RaaHZ4TWhHLTc4WThUeTIzUnpFQlMyVDR1QVcwT3hSbFJReFFXcTdLTXJnZldNYXpVclcwWkdhMWxzdHNDSUlUUzdsQjdEdFY5bkxIZnBJbGpwd3lvb05SNTN4dllqS1FTYl8yeEtnVUJrTXA5UXkyN1otZVFwb2NXampOOHFyVS1NMGpwT1M3cG5IaEI4RkhqVXEzd3N1TENzM1lFc1F5MHgxRnBxNU52cDA5MDEwcGhjNFpX?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T01:34:09+00:00",
+   "vu_le": "2026-11-18T02:49:58.277379+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "UE-Accord provisoire pour accélérer la délivrance des autorisations pour les projets dans les renouvelable - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNLWl1YWx3dHlnWnFvbWZDSDJFbzN5YmtfdHhySUdBTEVZWTJjamJRRmlXRmlNZ0lFVFA1dWVtRTRweHI0dmMtd0xLdVlVMk1CUng0YmtvSzVtOTdGcDhxOGpsOVpxRlBxRW4wM1BxNmYtXzlBUEdCMnVCYzJ6UENYZlJJaldzZjVRTjg1TVN3NG5HcHRxcVdiUGpuQ0ZsR1cyUXdsNUw5dU1YdENSV0J2UlI1c3BCcE5vMTNyUFpRb3FRRWYtZWRETmFTMnV0aDhUZ2hiaXpyYWtyUHZYY1FCX1JZbDV4cGhrQUV2cWNlUkZhWF9yRWpNTEgyaVdCSXctVVlLWEIxWFNRNGZTTl9yejFNVDBBdkdQWExKb3U4eHNFdmlS0gGqAkFVX3lxTE9HbjdRcHBFZEFaS0RWZWJ3SFJTME1jYUJvNm9PQndvVE5SUEVBTlc1TDFKbnlEMHpYRlo0ZlJiT2tuMEpQbkVjYTdOV0I3NVh3SmJUeXdaTWFHSC1rNGIxMk0yRktCVWYwMHlYa2gwTGIwWndJVmhLWThCcmsxdTh0cnpEQ1l4RWt1Yi04VUtpTmNMY2hlTWRmNkN4XzdWOFNoZnlwSWc1bFppdldhenFGMXI3ZWtZTVpDY2VWMUZwYmJpaV9XbzAxd1FtaktXaXA1UUx1S3E0Sm5BNjhkUGpCTHJ6NlBxQzZtVlZ1a3lWcmxrR2MwbzAzYl9UbFliN1lRamR6WXk4SEl5d1RCb0s1VG1YdnF4TTktQzlrTUdxTFRVcTR1d3hUOVE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNLWl1YWx3dHlnWnFvbWZDSDJFbzN5YmtfdHhySUdBTEVZWTJjamJRRmlXRmlNZ0lFVFA1dWVtRTRweHI0dmMtd0xLdVlVMk1CUng0YmtvSzVtOTdGcDhxOGpsOVpxRlBxRW4wM1BxNmYtXzlBUEdCMnVCYzJ6UENYZlJJaldzZjVRTjg1TVN3NG5HcHRxcVdiUGpuQ0ZsR1cyUXdsNUw5dU1YdENSV0J2UlI1c3BCcE5vMTNyUFpRb3FRRWYtZWRETmFTMnV0aDhUZ2hiaXpyYWtyUHZYY1FCX1JZbDV4cGhrQUV2cWNlUkZhWF9yRWpNTEgyaVdCSXctVVlLWEIxWFNRNGZTTl9yejFNVDBBdkdQWExKb3U4eHNFdmlS0gGqAkFVX3lxTE9HbjdRcHBFZEFaS0RWZWJ3SFJTME1jYUJvNm9PQndvVE5SUEVBTlc1TDFKbnlEMHpYRlo0ZlJiT2tuMEpQbkVjYTdOV0I3NVh3SmJUeXdaTWFHSC1rNGIxMk0yRktCVWYwMHlYa2gwTGIwWndJVmhLWThCcmsxdTh0cnpEQ1l4RWt1Yi04VUtpTmNMY2hlTWRmNkN4XzdWOFNoZnlwSWc1bFppdldhenFGMXI3ZWtZTVpDY2VWMUZwYmJpaV9XbzAxd1FtaktXaXA1UUx1S3E0Sm5BNjhkUGpCTHJ6NlBxQzZtVlZ1a3lWcmxrR2MwbzAzYl9UbFliN1lRamR6WXk4SEl5d1RCb0s1VG1YdnF4TTktQzlrTUdxTFRVcTR1d3hUOVE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T01:21:47+00:00",
+   "vu_le": "2026-11-18T02:49:58.001813+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Des pays du Golfe en alerte après les frappes américaines sur une île iranienne - Boursorama",
+   "source": "Boursorama",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN0g2eENubVZjRGVBd21aUk1zMWltT1J1ZFRHWmoxZzI2MFJOWnZBWFJRNW1JemZKWWlPRjlQTjNJbzVMX3ZBN3VROGRZNlRhRjhtbWZrMzFOQ2tCaUxXQV9sUjVEc2pKVnkyejVsQml2UU12ckg4Z2RGOWNLaElsbkEzQjdwQkNFMGVGLU56MFA2S0xqclFYMkFDN2ppV0xMLURROGVrM1NWTDEzYXFja2NkWG1UTDhEamo4QkJZbEtVTUhRTzdjbThabnk2dHlMemQ0M0lBZ0hJcHJRcjF1VmNIck5ycmFUWlpwRlJ4bTdrdHFuano0T3lUUWxoNkNR0gGGAkFVX3lxTE1fMGMxdF9hQ04zTHZCaVJiM0g1NGcxUjJfUXYyXzhGbkRBQm5fNnEwUWszYXZpZHQ3NUpwa0oyM0M0SHRSakExdlZPYXFHcmx4N2cydXVWU2lQYjBlS2NLeDBVdG1UeHpVZ3VFaFlUSHREaGcwT1lfX25GVGU1MWVFM2Z4aTZEVUtKQlJvUG5VMUJ2OEQ2OERyN2p2SUpJY3BhNjloU1BaczNLbXRQSUszWENzQndjLXFUZEZCcVNwWmU2c0dhNEVmNXFWRmhyaUJfbWp1dUZUZmlwaHFoQ2p4aldrRGltM0IwaHg5TnpTa05CYUNaMGppd1lpN2NNMUQ3SXl0YkE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN0g2eENubVZjRGVBd21aUk1zMWltT1J1ZFRHWmoxZzI2MFJOWnZBWFJRNW1JemZKWWlPRjlQTjNJbzVMX3ZBN3VROGRZNlRhRjhtbWZrMzFOQ2tCaUxXQV9sUjVEc2pKVnkyejVsQml2UU12ckg4Z2RGOWNLaElsbkEzQjdwQkNFMGVGLU56MFA2S0xqclFYMkFDN2ppV0xMLURROGVrM1NWTDEzYXFja2NkWG1UTDhEamo4QkJZbEtVTUhRTzdjbThabnk2dHlMemQ0M0lBZ0hJcHJRcjF1VmNIck5ycmFUWlpwRlJ4bTdrdHFuano0T3lUUWxoNkNR0gGGAkFVX3lxTE1fMGMxdF9hQ04zTHZCaVJiM0g1NGcxUjJfUXYyXzhGbkRBQm5fNnEwUWszYXZpZHQ3NUpwa0oyM0M0SHRSakExdlZPYXFHcmx4N2cydXVWU2lQYjBlS2NLeDBVdG1UeHpVZ3VFaFlUSHREaGcwT1lfX25GVGU1MWVFM2Z4aTZEVUtKQlJvUG5VMUJ2OEQ2OERyN2p2SUpJY3BhNjloU1BaczNLbXRQSUszWENzQndjLXFUZEZCcVNwWmU2c0dhNEVmNXFWRmhyaUJfbWp1dUZUZmlwaHFoQ2p4aldrRGltM0IwaHg5TnpTa05CYUNaMGppd1lpN2NNMUQ3SXl0YkE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T00:57:11+00:00",
+   "vu_le": "2026-11-18T02:49:58.186444+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+   "date_publication": "2026-11-18T00:45:45+00:00",
+   "vu_le": "2026-11-18T02:49:57.498504+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5c3aa352ba069d5"
+  },
+  {
+   "titre": "Ferrari vend moins de voitures. Et alors ? - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXE3MWt4V2NPMElpb2RVMkRZX3h6QjlmczdleWZkdGxtMGVqSERld19JQ3ZWRjVQQVYxNC1reWJCeU5wUkhqb2c1c2hnRkRtZG9KSlQ0WmhGV1hZSUVnaW1taC1LYlpMOXV2SlJmU3lOYkQ2TlpsdjRXckJrc2JYbjRNNE1wWG15NnkzYmM2VS02S3ZrZTBiMWJoZU91M2FIQ0E?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXE3MWt4V2NPMElpb2RVMkRZX3h6QjlmczdleWZkdGxtMGVqSERld19JQ3ZWRjVQQVYxNC1reWJCeU5wUkhqb2c1c2hnRkRtZG9KSlQ0WmhGV1hZSUVnaW1taC1LYlpMOXV2SlJmU3lOYkQ2TlpsdjRXckJrc2JYbjRNNE1wWG15NnkzYmM2VS02S3ZrZTBiMWJoZU91M2FIQ0E?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-18T00:13:32+00:00",
+   "vu_le": "2026-11-18T02:49:59.165578+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Estée Lauder Companies Inc. approuve la nomination d’administrateurs au conseil - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnktT3hweER2U1dHa1JOWk9EaEx1NjN6VGctRmE2WXMzNkg4Sk9LNjh3ZlotZEhtbmd6bF9KemM1ZTlIVUhEUjE3VHhMX05RTWVHV0VLN20yVHpSSGtyeWxTM1Q4N2l1UnMyZnpnNEdGVDNScnNOT00xQlVwLUhBdGFsZEU3bVNOSUZsT0NXQU9wZWtPQ1BXdDdOMllSOEthZXdaRjdwb2VNdF95cWswWFpkcHJBSmVqNEJkWmM1UGczUDNXSXlhSUNpamU3YjNRT2hOZGZn?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnktT3hweER2U1dHa1JOWk9EaEx1NjN6VGctRmE2WXMzNkg4Sk9LNjh3ZlotZEhtbmd6bF9KemM1ZTlIVUhEUjE3VHhMX05RTWVHV0VLN20yVHpSSGtyeWxTM1Q4N2l1UnMyZnpnNEdGVDNScnNOT00xQlVwLUhBdGFsZEU3bVNOSUZsT0NXQU9wZWtPQ1BXdDdOMllSOEthZXdaRjdwb2VNdF95cWswWFpkcHJBSmVqNEJkWmM1UGczUDNXSXlhSUNpamU3YjNRT2hOZGZn?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-17T21:35:00+00:00",
+   "vu_le": "2026-11-18T02:49:59.373130+00:00",
+   "resume": ""
+  },
   {
    "titre": "Or sous 4000$ : Alerte ou signal d’achat pour ces 9 actions minières ?",
    "source": "Investing.com",
@@ -156,6 +387,17 @@
    "date_publication": "2026-11-17T20:00:38+00:00",
    "vu_le": "2026-11-17T21:00:04.711266+00:00",
    "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a5c1a9b0ebfb81f9"
+  },
+  {
+   "titre": "Nouveaux réacteurs nucléaires EPR2: EDF sur le point de signer un contrat à 14 milliards d'euros avec Vinci, Bouygues et Eiffage - BFM",
+   "source": "BFM Business",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcjJMbi1hRUlBRXlyaG92X2pvbkVFSkZ6bER6WFRra1dndDBBSWNrNzRlTm9lUnVxVlJSalp1Rk1lbzBYNlY0dEZ5U3pHM0cycDZoQjgwQTJna3QyVDZzSGk2WjBhdkszN1BBeUZMSnVMM0lLcmRTNGtib0Z1RWdxQUpBTkpKVHNSRHQ4N1RPNWY2N2lFcnFRY05HMG1XRENvRUF5VjQxdHpWUkE4RS05YmxLeXNOeEFCLUhtbG52dEQ5YzRFNDFVTnYzNkxPRmZXZmJCRnZ0T1ZZODNNUXowdUVVeDNSSkJlazVTeUhKOHdzNDhiYXVSdHBVOGhla0pJWWZlOFhiMmtodw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcjJMbi1hRUlBRXlyaG92X2pvbkVFSkZ6bER6WFRra1dndDBBSWNrNzRlTm9lUnVxVlJSalp1Rk1lbzBYNlY0dEZ5U3pHM0cycDZoQjgwQTJna3QyVDZzSGk2WjBhdkszN1BBeUZMSnVMM0lLcmRTNGtib0Z1RWdxQUpBTkpKVHNSRHQ4N1RPNWY2N2lFcnFRY05HMG1XRENvRUF5VjQxdHpWUkE4RS05YmxLeXNOeEFCLUhtbG52dEQ5YzRFNDFVTnYzNkxPRmZXZmJCRnZ0T1ZZODNNUXowdUVVeDNSSkJlazVTeUhKOHdzNDhiYXVSdHBVOGhla0pJWWZlOFhiMmtodw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-17T19:34:04+00:00",
+   "vu_le": "2026-11-18T02:49:58.756769+00:00",
+   "resume": ""
   },
   {
    "titre": "Anthropic, l’incroyable revanche des sept «déserteurs» d’OpenAI",
@@ -312,6 +554,17 @@
    "resume": ""
   },
   {
+   "titre": "Heudebert, Pelletier, Cracotte et Grany: Mondelez veut céder ses marques et usines de biscottes et barres de céréales à un groupe basé au Royaume-Uni - BFM",
+   "source": "BFM Business",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQXlhRlVyWW5qLVE4QWlOTVN4NkhUbGwyMnIzV2VXdC1lcFNhTVdJQXZtMTBYaEFFX1FXc2pDcDJiNGY3dzMxWWIxR3poSzlFdmhsM3hBYnlIXzUwMUhHczdJSXpkR0YyUlhjYXdPam85Y3R1TWQzbkVZNmEyczYwdGc0c1BEenZRSTFjeEt3eGtRRzRpd0cwS0t5OTg2ZERIdHhkdGtybXVtMXJuTzhPTC1BYVRQOXVfRUNubEQtSWhKYU5aenpYWnFKdjRmUGtYcHh1YXo5ZEo5X1hKWXRDLUJISENYN2tnLUZrMWVocXlUcncxQ21vUFdxRkZuN3JZR3U2aVNlWTdOOERXWTFNU2xOQnhvdE5iNUVISmhMSERwSWxV?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQXlhRlVyWW5qLVE4QWlOTVN4NkhUbGwyMnIzV2VXdC1lcFNhTVdJQXZtMTBYaEFFX1FXc2pDcDJiNGY3dzMxWWIxR3poSzlFdmhsM3hBYnlIXzUwMUhHczdJSXpkR0YyUlhjYXdPam85Y3R1TWQzbkVZNmEyczYwdGc0c1BEenZRSTFjeEt3eGtRRzRpd0cwS0t5OTg2ZERIdHhkdGtybXVtMXJuTzhPTC1BYVRQOXVfRUNubEQtSWhKYU5aenpYWnFKdjRmUGtYcHh1YXo5ZEo5X1hKWXRDLUJISENYN2tnLUZrMWVocXlUcncxQ21vUFdxRkZuN3JZR3U2aVNlWTdOOERXWTFNU2xOQnhvdE5iNUVISmhMSERwSWxV?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-17T17:50:43+00:00",
+   "vu_le": "2026-11-18T02:49:58.821531+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Plus les entreprises sont grandes, moins elles comptent de dirigeantes, révèle l’Insee",
    "source": "Le Monde Economie",
    "theme": "Entreprises",
@@ -455,6 +708,17 @@
    "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
   },
   {
+   "titre": "Il l'insultait tous les jours dans les médias mais lui a laissé une lettre chaleureuse et s'imaginait jouer au Golf avec lui: dans ses mémoires, Biden raconte les deux visages de Trump - BFM",
+   "source": "BFM Business",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPVnF3VUhZdHczMW1Kanc2enJGSXh5RFF5VEpKc0ZsOVJUZnZLaU0zaV9qOFZPMGNOTDBDYXVDSi1DZW1DMEJiT0RZYjFackRpN195M2hmWGQ3M3ZWdEpiNU96d3FNRFhvYnhhWS14bjBTdWY5cmZTc1IzSGZuMWRXdWhnaWRfLUVrRnozN0NuOTUtOVJDZ01URVFkWUtPRVYtcHBrOFpmSHluYkNSN2ExSHctVTBicndQcjZQeDZJbFh2NnJNakhlZDhTcllUU1RGSW12SWhpc2hpX21NeXgtbExkeDZackhyRjNMaW5Tb1hqZEc2c3hscjlTa195aDViczlmMkVzbFJkOE1BMmFrd3d2RnBrSGtwSEM4a05LbC1fci1YckIzUGJnMWJCaWlDbWIzZWxxX1l3eTA4cm1rXzlGU2lkR0d5SWhkQng0NEF4U0xIRWRBalQxTWlndTdNa2NnRmc1Zw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPVnF3VUhZdHczMW1Kanc2enJGSXh5RFF5VEpKc0ZsOVJUZnZLaU0zaV9qOFZPMGNOTDBDYXVDSi1DZW1DMEJiT0RZYjFackRpN195M2hmWGQ3M3ZWdEpiNU96d3FNRFhvYnhhWS14bjBTdWY5cmZTc1IzSGZuMWRXdWhnaWRfLUVrRnozN0NuOTUtOVJDZ01URVFkWUtPRVYtcHBrOFpmSHluYkNSN2ExSHctVTBicndQcjZQeDZJbFh2NnJNakhlZDhTcllUU1RGSW12SWhpc2hpX21NeXgtbExkeDZackhyRjNMaW5Tb1hqZEc2c3hscjlTa195aDViczlmMkVzbFJkOE1BMmFrd3d2RnBrSGtwSEM4a05LbC1fci1YckIzUGJnMWJCaWlDbWIzZWxxX1l3eTA4cm1rXzlGU2lkR0d5SWhkQng0NEF4U0xIRWRBalQxTWlndTdNa2NnRmc1Zw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-17T16:03:06+00:00",
+   "vu_le": "2026-11-18T02:49:58.597824+00:00",
+   "resume": ""
+  },
+  {
    "titre": "La présidentielle de 2027 et ses enjeux :  l’immigration face à la réalité des chiffres",
    "source": "Le Monde Economie",
    "theme": "Finance / Economie (général)",
@@ -464,6 +728,17 @@
    "date_publication": "2026-11-17T16:00:07+00:00",
    "vu_le": "2026-11-17T21:00:04.641724+00:00",
    "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
+  },
+  {
+   "titre": "Wall Street recule avant la publication des résultats de Nvidia et l'introduction en bourse d'Anthropic - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMHM3ZFBsejJTd1hOMC03MHNkOExEZUFoZ3B1eWtKenJuVGc2ZGJ1cG53RmFJSEVseHN0WkFJczF4SEdxaXVVZUo4OGRkdlNLMEtoS2p6M2J4TW9MQVpfR3lwdmRkWE9pbTJFcVRrVmhoUW5ndm94WVQtWExzUVlvUEdyMU1NQjFKSXdOaFZBWGVWcUVfN0dHdU1mRkhIYWI0aEhPcUE1R1hIakhOVGRSbTNxMkl6Q3J2cktFcHU3eVJXelpidkU3d3JXYlQ4bUVsb0xuTFc2TEVCbXl6aXhmZVllWU5WMU1UUkZLdnFKYnBHeVhoUnVLY1hkdjdkMmw2d0FRZTlWVHRFTzA4eXfSAZMCQVVfeXFMT0N6aGZWa056NHlrTU5XcGhoTWc2d3lNME03VlJ5MEI1Ym5aRHRsMnNXdFpFaDNuRldaY0dXQ1psRDdCN3k4Y0FYQkhyOC1CVElCZXNGZEhVN1dJNWpJbUJDUmVMT3hRODZhTmhqZjMtQUNaWXJhaGtkNHQ3X2E1NGxWSG1XbkR4NThyOEpVWG8zOWd0azBrUEFyT2FGWmxuNUk5NTVyR202Y2tFNW51d1pWOXA3VUJGQ0EydWNIR19ESzNOWlJOVTNNVndrWUtKTVdVRTFjbGV5SHpxZ1cwZzZra2w2VVRqUFRITFI3SmhWblpMa2t1QnpwcWFzNjF0MDd0U0lNSE5CZlBWY0hLblFTRWs?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMHM3ZFBsejJTd1hOMC03MHNkOExEZUFoZ3B1eWtKenJuVGc2ZGJ1cG53RmFJSEVseHN0WkFJczF4SEdxaXVVZUo4OGRkdlNLMEtoS2p6M2J4TW9MQVpfR3lwdmRkWE9pbTJFcVRrVmhoUW5ndm94WVQtWExzUVlvUEdyMU1NQjFKSXdOaFZBWGVWcUVfN0dHdU1mRkhIYWI0aEhPcUE1R1hIakhOVGRSbTNxMkl6Q3J2cktFcHU3eVJXelpidkU3d3JXYlQ4bUVsb0xuTFc2TEVCbXl6aXhmZVllWU5WMU1UUkZLdnFKYnBHeVhoUnVLY1hkdjdkMmw2d0FRZTlWVHRFTzA4eXfSAZMCQVVfeXFMT0N6aGZWa056NHlrTU5XcGhoTWc2d3lNME03VlJ5MEI1Ym5aRHRsMnNXdFpFaDNuRldaY0dXQ1psRDdCN3k4Y0FYQkhyOC1CVElCZXNGZEhVN1dJNWpJbUJDUmVMT3hRODZhTmhqZjMtQUNaWXJhaGtkNHQ3X2E1NGxWSG1XbkR4NThyOEpVWG8zOWd0azBrUEFyT2FGWmxuNUk5NTVyR202Y2tFNW51d1pWOXA3VUJGQ0EydWNIR19ESzNOWlJOVTNNVndrWUtKTVdVRTFjbGV5SHpxZ1cwZzZra2w2VVRqUFRITFI3SmhWblpMa2t1QnpwcWFzNjF0MDd0U0lNSE5CZlBWY0hLblFTRWs?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-17T15:41:03+00:00",
+   "vu_le": "2026-11-18T02:49:57.925709+00:00",
+   "resume": ""
   },
   {
    "titre": "Forum Bourse SOITEC - 17/11/2026 16:34:16 - Nouveau test des 96 euros - Boursorama",
@@ -1643,6 +1918,17 @@
    "resume": "Plusieurs indices boursiers européens viennent de marquer des records historiques. Pourquoi ? ImageFlow - stock.adobe.com - Le Figaro Vie des entreprises, fonctionnement du marché, droit boursier... La rédaction du Figaro Patrimoine et Bourse se saisit de vos questions et vous apporte son expertise."
   },
   {
+   "titre": "Nvidia : le départ de Jensen Huang révèle d’inquiétantes failles de gouvernance chez le géant américain des puces électroniques",
+   "source": "Le Figaro Bourse",
+   "theme": "Entreprises",
+   "couleur": "9DC3E6",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/nvidia-le-depart-de-jensen-huang-revele-d-inquietantes-failles-de-gouvernance-chez-le-geant-americain-des-puces-electroniques-20261113",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/nvidia-le-depart-de-jensen-huang-revele-d-inquietantes-failles-de-gouvernance-chez-le-geant-americain-des-puces-electroniques-20261113",
+   "date_publication": "2026-11-13T18:12:55+00:00",
+   "vu_le": "2026-11-18T02:49:57.858293+00:00",
+   "resume": "Nvidia : le départ de Jensen Huang révèle d’inquiétantes failles de gouvernance chez le géant américain des puces électroniques Le départ brutal du patron de Nvidia Jensen Huang après les révélations sur ses relations extraconjugales met à l’épreuve la gouvernance du géant des puces. Passer la publi"
+  },
+  {
    "titre": "Monsieur Lecornu, c’est le plafond du PEA qu’il faut relever, pas celui du Livret A !",
    "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
@@ -1674,6 +1960,17 @@
    "date_publication": "2026-11-12T16:59:12+00:00",
    "vu_le": "2026-11-17T03:24:15.623384+00:00",
    "resume": "Microsoft projette d’utiliser votre ordinateur pour alimenter ses centres de données et vous serez payé pour ça Le groupe américain Microsoft a déposé un brevet qui permettrait l’utilisation de la puissance de calcul des PC des particuliers en échange d’une rétribution. Passer la publicité Passer la"
+  },
+  {
+   "titre": "La Bourse de Paris est-elle définitivement plombée par le risque politique ?",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/la-bourse-de-paris-est-elle-definitivement-plombee-par-le-risque-politique-20261112",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/la-bourse-de-paris-est-elle-definitivement-plombee-par-le-risque-politique-20261112",
+   "date_publication": "2026-11-12T15:38:59+00:00",
+   "vu_le": "2026-11-18T02:49:57.661167+00:00",
+   "resume": "«Il faut distinguer la place de cotation de la réalité économique des entreprises», rappelle Julie Arav, gérante chez DNCA Finance. Et selon Bloomberg, 84% du CA des entreprises du CAC 40 est réalisé hors de France. «Appliquer une prime de risque uniforme à l’ensemble de la cote parisienne est injus"
   },
   {
    "titre": "Le CAC 40 a besoin de souffler mais il en garde sous le pied: quels seuils pour se positionner?",
