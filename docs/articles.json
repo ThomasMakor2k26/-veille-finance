@@ -1,8 +1,107 @@
 {
- "genere_le": "2026-11-26T23:05:24.803029+00:00",
+ "genere_le": "2026-11-27T04:57:34.939686+00:00",
  "fenetre_heures": 24,
- "nb_articles": 147,
+ "nb_articles": 134,
  "articles": [
+  {
+   "titre": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/bc5d39a0-6610-481b-9138-5afdd22cf406?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/bc5d39a0-6610-481b-9138-5afdd22cf406?syn-25a6b1a6=1",
+   "date_publication": "2026-11-27T04:32:11+00:00",
+   "vu_le": "2026-11-27T04:57:38.722852+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60e8da09ce8a5a1"
+  },
+  {
+   "titre": "Tech stocks regain ground at end of volatile trading week",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+   "date_publication": "2026-11-27T04:31:57+00:00",
+   "vu_le": "2026-11-27T04:57:38.678688+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60e8da068c2dbca"
+  },
+  {
+   "titre": "Weichai Power Co., Ltd. : JPMorgan optimiste sur le dossier - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGF6b3A3ZjBvMlZFdldVZ0RtU3pJNmJEUXBaTDVPMDZoMU10Tnc1YlNfbmtfSnZxTENzSTVMendaOUpTN3kzeFhWeDZUcU55bXpoc19ia0ZKUDNJZllyUWUtMmhfbmZNNGQ1ckZpb3ExRldYLW9YM2VFNzJfSVREODQ2WU5ZR0dUcHpFZ1VoLXZwUWFQc0NBM0l0VlA3R1JjMXVYUGx6SzhGY3BYZ003cEFlZ0M?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGF6b3A3ZjBvMlZFdldVZ0RtU3pJNmJEUXBaTDVPMDZoMU10Tnc1YlNfbmtfSnZxTENzSTVMendaOUpTN3kzeFhWeDZUcU55bXpoc19ia0ZKUDNJZllyUWUtMmhfbmZNNGQ1ckZpb3ExRldYLW9YM2VFNzJfSVREODQ2WU5ZR0dUcHpFZ1VoLXZwUWFQc0NBM0l0VlA3R1JjMXVYUGx6SzhGY3BYZ003cEFlZ0M?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-27T04:01:52+00:00",
+   "vu_le": "2026-11-27T04:57:41.363931+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Forum Bourse CAC 40 - 27/11/2026 05:01:48 - Bon courage les bears vous allez avoir une fin d'année difficile - Boursorama",
+   "source": "Boursorama",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOYmNQWFdiRklSZXUtVTFtTGUtMUVnWlg0di1mRUNiVU9RdG1zMERfRDFBc1FGQVpkZHJ3RDJ5Qk9uODMtNlBxNjBoeDUtR0hEbk9PckdRVFZLenFPOU4xcDNScVlicm9KVTFRZ2dPV3BoZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOYmNQWFdiRklSZXUtVTFtTGUtMUVnWlg0di1mRUNiVU9RdG1zMERfRDFBc1FGQVpkZHJ3RDJ5Qk9uODMtNlBxNjBoeDUtR0hEbk9PckdRVFZLenFPOU4xcDNScVlicm9KVTFRZ2dPV3BoZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-27T04:01:48+00:00",
+   "vu_le": "2026-11-27T04:57:39.169444+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Singapore Technologies Engineering Ltd : UOB Kay Hian favorable sur le dossier - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzhZYmlIMnpOUmtEYXByeE0wLXlJVGlIRFN0STJlQ3hJaFd4RUFCUzl0WUhEV1lVejcyYUk0UXF5d1c4UTdUb0Jla0o2MTN6cjUzZHdic3JtbHZIbGpiMk85MHFsVkNWSDhid2Q4U2NPUkwxOEFqZXMyQ0VuQ0t5dFZ3eTFuSGIwWWVxalZYS2NuYkphLXdILWZNckVDMDlLTE5PSlR0SWpQZm5xVjZPT29McExRTVViMXVKRm5EekRZVXJhRXJydksxVmlBbnNsZ3c?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzhZYmlIMnpOUmtEYXByeE0wLXlJVGlIRFN0STJlQ3hJaFd4RUFCUzl0WUhEV1lVejcyYUk0UXF5d1c4UTdUb0Jla0o2MTN6cjUzZHdic3JtbHZIbGpiMk85MHFsVkNWSDhid2Q4U2NPUkwxOEFqZXMyQ0VuQ0t5dFZ3eTFuSGIwWWVxalZYS2NuYkphLXdILWZNckVDMDlLTE5PSlR0SWpQZm5xVjZPT29McExRTVViMXVKRm5EekRZVXJhRXJydksxVmlBbnNsZ3c?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-27T04:01:44+00:00",
+   "vu_le": "2026-11-27T04:57:41.488826+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Seatrium Limited : UOB Kay Hian neutre sur le dossier - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEc5Zm5lcS05MkZRVm1hT0tWWDVia0R5YWJwMFcwd0hFb1R4MHRnZkQ2al9JaHJmNGxIc1loX2JLX2dIR1NXT0kxRkUxSGZmS05nNEI0Nl9hc0NQRjl1UE9TTDV3dDUwazBoTVJqZ052U1llUVZ0bXotTkdFZjdfRjVxMFNIbHVnR2trd1ROdE81Wno5LTJpNnhHLWRlOEE3ZFktNTNOZE1TWERxYXJxUA?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEc5Zm5lcS05MkZRVm1hT0tWWDVia0R5YWJwMFcwd0hFb1R4MHRnZkQ2al9JaHJmNGxIc1loX2JLX2dIR1NXT0kxRkUxSGZmS05nNEI0Nl9hc0NQRjl1UE9TTDV3dDUwazBoTVJqZ052U1llUVZ0bXotTkdFZjdfRjVxMFNIbHVnR2trd1ROdE81Wno5LTJpNnhHLWRlOEE3ZFktNTNOZE1TWERxYXJxUA?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-27T04:01:37+00:00",
+   "vu_le": "2026-11-27T04:57:41.360033+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "Tower Limited : Jarden Securities favorable sur le dossier - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUNUdldzQURrbVNjTXFiTDlWdEZaaVFWTENyc0dOZ2NNSUpneVNrd0ZOMWlVNUNmQy0yRjhnSFNQTTM0S3liMUlQSF84THd0clNCWGlUbXRwNjU2LWUxZ3BfR19CSEtmcTI5Q3FDWENlQ1ZXcVB5Rkw1R0FDLUlNRXU2SmNPbEhjTVdoSUt3OTdDRWU1OE9IdmFkQ0NCVy14ZlNBMGcwa1FMa0dZVVlXd2g0UnFtME0?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUNUdldzQURrbVNjTXFiTDlWdEZaaVFWTENyc0dOZ2NNSUpneVNrd0ZOMWlVNUNmQy0yRjhnSFNQTTM0S3liMUlQSF84THd0clNCWGlUbXRwNjU2LWUxZ3BfR19CSEtmcTI5Q3FDWENlQ1ZXcVB5Rkw1R0FDLUlNRXU2SmNPbEhjTVdoSUt3OTdDRWU1OE9IdmFkQ0NCVy14ZlNBMGcwa1FMa0dZVVlXd2g0UnFtME0?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-27T04:01:25+00:00",
+   "vu_le": "2026-11-27T04:57:41.267230+00:00",
+   "resume": ""
+  },
+  {
+   "titre": "An exiled former leader faces execution at home. Why does she want to go back?",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1",
+   "date_publication": "2026-11-27T04:00:58+00:00",
+   "vu_le": "2026-11-27T04:57:38.589648+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60e8d9fdd52ef32"
+  },
+  {
+   "titre": "Lula names banker as Brazil finance minister in attempt to calm markets",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+   "date_publication": "2026-11-27T00:59:07+00:00",
+   "vu_le": "2026-11-27T04:57:38.771290+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60e8da0fea8db67"
+  },
   {
    "titre": "Les 3 valeurs à traquer",
    "source": "Investing.com",
@@ -334,6 +433,17 @@
    "resume": ""
   },
   {
+   "titre": "Le groupe Obiz signe un partenariat avec le MEDEF - Zonebourse Suisse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2JPVHhWN19RY3B1bTJIbDhqWGtVYXBrX1o1aUNRSlNIMUNoajNmWlZvcExKWm9ydndDdEtKeWtkNkg4Tm1GVDZtaFE4VUJlQjlZUlF5YkEza1BVUGxCTkxUcDd1SUJmZmtEM0JBakZpZVJoZEo3RmQwek9rUEUxQ0JhVVdZNmZSSExLOHpJS1dwUHFDT2g2cXRDbkpLb2FMZnNjd2NCbkNVZ29hM0E?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2JPVHhWN19RY3B1bTJIbDhqWGtVYXBrX1o1aUNRSlNIMUNoajNmWlZvcExKWm9ydndDdEtKeWtkNkg4Tm1GVDZtaFE4VUJlQjlZUlF5YkEza1BVUGxCTkxUcDd1SUJmZmtEM0JBakZpZVJoZEo3RmQwek9rUEUxQ0JhVVdZNmZSSExLOHpJS1dwUHFDT2g2cXRDbkpLb2FMZnNjd2NCbkNVZ29hM0E?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-26T17:18:13+00:00",
+   "vu_le": "2026-11-27T04:57:41.692431+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Sanofi : Bernstein à l'achat - Zonebourse Suisse",
    "source": "ZoneBourse",
    "theme": "Bourse / Marchés",
@@ -565,6 +675,17 @@
    "resume": ""
   },
   {
+   "titre": "Haffner Energy : Alimenter la nouvelle génération de data centers - Zonebourse",
+   "source": "ZoneBourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3VLRThuemRQYm1CUXB4eE0tdTVBZUdUV2tHQ2VoUzBZQkwtUUozRkQxVDdLUXdwbGlkTkg5MlZ3V2RsbE1VbmZLcjh2VmZxdGR1MzYxVWxfS3VkNWU4WVRIMEZLRThDQmpldnh1Ylo0T1JqWlJkSGRaUUdTcV9MaXN1TzhpT0E2VUV4VlVIYkNDY0VmdWxZeEE2NXMwQmdWdkVMb2NSNms0dVhNXzJzZVQ0OWdwSlRNS1JDWkNoQ01jQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
+   "url_propre": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3VLRThuemRQYm1CUXB4eE0tdTVBZUdUV2tHQ2VoUzBZQkwtUUozRkQxVDdLUXdwbGlkTkg5MlZ3V2RsbE1VbmZLcjh2VmZxdGR1MzYxVWxfS3VkNWU4WVRIMEZLRThDQmpldnh1Ylo0T1JqWlJkSGRaUUdTcV9MaXN1TzhpT0E2VUV4VlVIYkNDY0VmdWxZeEE2NXMwQmdWdkVMb2NSNms0dVhNXzJzZVQ0OWdwSlRNS1JDWkNoQ01jQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
+   "date_publication": "2026-11-26T14:15:07+00:00",
+   "vu_le": "2026-11-27T04:57:41.078395+00:00",
+   "resume": ""
+  },
+  {
    "titre": "Black Friday : comment repérer les bonnes affaires et se prémunir des nombreux pièges ?",
    "source": "Le Figaro Economie",
    "theme": "Bourse / Marchés",
@@ -750,6 +871,17 @@
    "date_publication": "2026-11-26T12:42:19+00:00",
    "vu_le": "2026-11-26T14:18:21.082072+00:00",
    "resume": ""
+  },
+  {
+   "titre": "Can AI replace economics PhDs?",
+   "source": "Financial Times",
+   "theme": "Finance / Economie (général)",
+   "couleur": "D9D9D9",
+   "url": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1",
+   "url_propre": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1",
+   "date_publication": "2026-11-26T12:30:06+00:00",
+   "vu_le": "2026-11-27T04:57:38.627540+00:00",
+   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60e8da00fda2b98"
   },
   {
    "titre": "Hannover Re : Barclays est négatif - Zonebourse Suisse",
@@ -1236,237 +1368,6 @@
    "resume": ""
   },
   {
-   "titre": "Un krach comme celui de 2008 est-il à craindre, alors que les risques liés à la dette et à la liquidité s’accumulent ?",
-   "source": "Investing.com",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://fr.investing.com/analysis/un-krach-comme-celui-de-2008-estil-a-craindre-alors-que-les-risques-lies-a-la-dette-et-a-la-liquidite-saccumulent--200458516",
-   "url_propre": "https://fr.investing.com/analysis/un-krach-comme-celui-de-2008-estil-a-craindre-alors-que-les-risques-lies-a-la-dette-et-a-la-liquidite-saccumulent--200458516",
-   "date_publication": "",
-   "vu_le": "2026-11-26T04:30:52.364102+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Les « faucons » de la Fed durcissent le ton alors que les craintes d’inflation s’intensifient",
-   "source": "Investing.com",
-   "theme": "Macroéconomie",
-   "couleur": "A9D18E",
-   "url": "https://fr.investing.com/analysis/les--faucons--de-la-fed-durcissent-le-ton-alors-que-les-craintes-dinflation-sintensifient-200458514",
-   "url_propre": "https://fr.investing.com/analysis/les--faucons--de-la-fed-durcissent-le-ton-alors-que-les-craintes-dinflation-sintensifient-200458514",
-   "date_publication": "",
-   "vu_le": "2026-11-26T04:30:52.340178+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Défense : faut-il encore acheter le secteur ?",
-   "source": "Investing.com",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://fr.investing.com/analysis/defense--fautil-encore-acheter-le-secteur--200458477",
-   "url_propre": "https://fr.investing.com/analysis/defense--fautil-encore-acheter-le-secteur--200458477",
-   "date_publication": "",
-   "vu_le": "2026-11-26T04:30:52.325458+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Après le krach éclair du SOX, ces 9 actions pourraient rebondir jusqu’à +154%",
-   "source": "Investing.com",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://fr.investing.com/analysis/apres-le-krach-eclair-du-sox-ces-9-actions-pourraient-rebondir-jusqua-154-200458589",
-   "url_propre": "https://fr.investing.com/analysis/apres-le-krach-eclair-du-sox-ces-9-actions-pourraient-rebondir-jusqua-154-200458589",
-   "date_publication": "",
-   "vu_le": "2026-11-26T04:30:52.310269+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "MARCHÉS ÉMERGENTS-Taïwan et la Corée du Sud tirent les marchés boursiers asiatiques à la hausse ; la roupie in - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNYUZJVm9ZYXo2cTZuaHNlUGkxby1HZnlTbWp0U3RzSTlTUUNWZGlCemhadlFtOU9uQ2FuWWVjM3BpZHpPcEZSRWhvQVJzcGxRQXc0RXVZRkpiNGh5dDNrUlJLOGo5ZFBRMGQwUWxWR1BKYnI0UWdQYlVUX1o5TFRWYm82Wk0zTW1MVTQ1bllNaDBsb19mZ0ZLbmJlYzJfbHhqNjNGc1N3S21IZTdJYXlhNnhrbFdtMU5FaFJkUGswa2t4WkJVZ3ZNX05DUGgzZlA2bWVKUWRTaUFKc2tmRmNUT1kzTnZHc2wyVjFYWmVmTEw4RDBfTDdVRWFGQmg4YTVJMVpOSVdLcTNZQjh3X1hUdl95OXpfU1g1WEpXajd1TGo1WllnUlI1YmZrbGdMaDlwVlhqNV94Z0ZDMTBwbXRzeVVtOFpsbVHSAcwCQVVfeXFMTXdxNlVVeERJalJmT0ViempkVzd4QW9HYXlxZFJqaGRuVUJ2SXhOTW1XU0JXd05oV0VNcllQV3ZCbTFZcTVlS3RTQ21pSUhvVG1HOXBwNHNWdjZkSEpvY3RreVM2VjJlSXJENERyREJrTWdGOFFBSDdOaGVaMzd5V0l0WmtMeVpVQ3hUSXZKdFVUaGprNTVuV2U4NldLMWl5NVRnOTlxbG55MVcyTG0tb25jOHR2RW8zSm5QdW1VcXlLZ2xzZkYtR1lDYXhlYkxESXdwVWM2Vzd4cy1sa1hEeEtnSndJc1k1UndVdWpqYzhTN1Q0SnJKWEUwVHlnUkJzV3cxbWFRYVRvaE12dTFSak94RWU1M2dXYXotNGpjWkdmV3lDN1N4Wk9JWEJlYW4tbDNjMkpTY2VsZm0zS0JWVVlZYUF6dDJPOHdnMnI?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNYUZJVm9ZYXo2cTZuaHNlUGkxby1HZnlTbWp0U3RzSTlTUUNWZGlCemhadlFtOU9uQ2FuWWVjM3BpZHpPcEZSRWhvQVJzcGxRQXc0RXVZRkpiNGh5dDNrUlJLOGo5ZFBRMGQwUWxWR1BKYnI0UWdQYlVUX1o5TFRWYm82Wk0zTW1MVTQ1bllNaDBsb19mZ0ZLbmJlYzJfbHhqNjNGc1N3S21IZTdJYXlhNnhrbFdtMU5FaFJkUGswa2t4WkJVZ3ZNX05DUGgzZlA2bWVKUWRTaUFKc2tmRmNUT1kzTnZHc2wyVjFYWmVmTEw4RDBfTDdVRWFGQmg4YTVJMVpOSVdLcTNZQjh3X1hUdl95OXpfU1g1WEpXajd1TGo1WllnUlI1YmZrbGdMaDlwVlhqNV94Z0ZDMTBwbXRzeVVtOFpsbVHSAcwCQVVfeXFMTXdxNlVVeERJalJmT0ViempkVzd4QW9HYXlxZFJqaGRuVUJ2SXhOTW1XU0JXd05oV0VNcllQV3ZCbTFZcTVlS3RTQ21pSUhvVG1HOXBwNHNWdjZkSEpvY3RreVM2VjJlSXJENERyREJrTWdGOFFBSDdOaGVaMzd5V0l0WmtMeVpVQ3hUSXZKdFVUaGprNTVuV2U4NldLMWl5NVRnOTlxbG55MVcyTG0tb25jOHR2RW8zSm5QdW1VcXlLZ2xzZkYtR1lDYXhlYkxESXdwVWM2Vzd4cy1sa1hEeEtnSndJc1k1UndVdWpqYzhTN1Q0SnJKWEUwVHlnUkJzV3cxbWFRYVRvaE12dTFSak94RWU1M2dXYXotNGpjWkdmV3lDN1N4Wk9JWEJlYW4tbDNjMkpTY2VsZm0zS0JWVVlZYUF6dDJPOHdnMnI?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T04:22:01+00:00",
-   "vu_le": "2026-11-26T04:30:52.781426+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Medicover finalise la cession de ses activités hospitalières en Inde - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLUVRS3V1VHpnUjdvX1hockVuVlhEOW9abWszQjVmSmpXbTdzQnFRZUs3NHp1RkpvZkJrbmtZR3BhckFXdDBLdDBQdGtsSUFtM2lrWkRrWlpWWmZFUjZzeFFhbzFKQVJXVkhIeDNMV0hYZkhyZzdLTDBKNEs5RS1LQUJwV3Z6R2d1eHV4WnNiQVF3NV9lZEdpcTdaTzdaYTM1bkl1d2xqb2RUQ0hLeEo4Ym5OZVVsVEFhczRUcHBaYlBQR0w3OFRr?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLUVRS3V1VHpnUjdvX1hockVuVlhEOW9abWszQjVmSmpXbTdzQnFRZUs3NHp1RkpvZkJrbmtZR3BhckFXdDBLdDBQdGtsSUFtM2lrWkRrWlpWWmZFUjZzeFFhbzFKQVJXVkhIeDNMV0hYZkhyZzdLTDBKNEs5RS1LQUJwV3Z6R2d1eHV4WnNiQVF3NV9lZEdpcTdaTzdaYTM1bkl1d2xqb2RUQ0hLeEo4Ym5OZVVsVEFhczRUcHBaYlBQR0w3OFRr?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T04:17:11+00:00",
-   "vu_le": "2026-11-26T04:30:53.288934+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "BBVA va se retirer de la Bourse de Londres - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGtCNDFPU1FfM0laQ1FCUGFhSFhwN1JIajRwckFUb1hSaEVTWEU1NmJYUEVYcUJCTUlvNm9aNVFzRFZiQTN3S3FWOUp4dklqUnRsdWNnckVBXy1FaXlfVFZZa1ZFM2tCcjVrakpkS0ZuMXpMdzlVcExSM1libVhteGhGWXh5MlVtbmFkRmZGcXFvMnVGODdXOFgxZmRqRE84NHlRNg?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGtCNDFPU1FfM0laQ1FCUGFhSFhwN1JIajRwckFUb1hSaEVTWEU1NmJYUEVYcUJCTUlvNm9aNVFzRFZiQTN3S3FWOUp4dklqUnRsdWNnckVBXy1FaXlfVFZZa1ZFM2tCcjVrakpkS0ZuMXpMdzlVcExSM1libVhteGhGWXh5MlVtbmFkRmZGcXFvMnVGODdXOFgxZmRqRE84NHlRNg?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T04:15:31+00:00",
-   "vu_le": "2026-11-26T04:30:53.305447+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Pure Resources Limited approuve l’élection de son conseil d’administration - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWF90RzhKdjJ1amVJU0lIOVY5bmlYNE9GcnRKY0M3ZDB6MTI5SERVMml6ZnRVRVNSSjBmN2p5ZFZyTE50UU5vdGNoSS1BMTZyTHVKOVV6VnFMRjA4Ukh0UDdUaTI5MnhMQlRDQXpVZW4yZmMteGpVeDFOWExUd2NEU0I4V2c4RktOUi1hZjRrck9uaGJORFRCSkxHdW1hRlc0cC1jano3U1RQZ3dWd3cyQUFVbHNpQ1NUWEtnbm43OFpyNGZ0di1oTmpscGVRdU5IWlRB?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWF90RzhKdjJ1amVJU0lIOVY5bmlYNE9GcnRKY0M3ZDB6MTI5SERVMml6ZnRVRVNSSjBmN2p5ZFZyTE50UU5vdGNoSS1BMTZyTHVKOVV6VnFMRjA4Ukh0UDdUaTI5MnhMQlRDQXpVZW4yZmMteGpVeDFOWExUd2NEU0I4V2c4RktOUi1hZjRrck9uaGJORFRCSkxHdW1hRlc0cC1jano3U1RQZ3dWd3cyQUFVbHNpQ1NUWEtnbm43OFpyNGZ0di1oTmpscGVRdU5IWlRB?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T04:05:21+00:00",
-   "vu_le": "2026-11-26T04:30:53.447988+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse CAC 40 - 26/11/2026 05:04:44 - Aujourd'hui , le CAC est sans les US . . .car thanksgiving - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feFFjdlhodUtldHhycmJISmRKZWVWNzhYckdMZ1NuV3RHbThpaG5TLXhjSGN3YXd4c0ZjZ1NYM0RnLUF2WkJxdXNVRWRuVXFHR0JnbjMzaWxEX19pdjhhYVBaTDhGSTFNMXJWeXlJaXdsdw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feFFjdlhodUtldHhycmJISmRKZWVWNzhYckdMZ1NuV3RHbThpaG5TLXhjSGN3YXd4c0ZjZ1NYM0RnLUF2WkJxdXNVRWRuVXFHR0JnbjMzaWxEX19pdjhhYVBaTDhGSTFNMXJWeXlJaXdsdw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T04:04:44+00:00",
-   "vu_le": "2026-11-26T04:30:52.731494+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
-   "date_publication": "2026-11-26T04:00:25+00:00",
-   "vu_le": "2026-11-26T04:30:52.253315+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Un an après la liquidation, les licenciés d’Ascométal entre galère, colère et nostalgie : « Je suis tombée très bas. C’est comme vivre un deuil »",
-   "source": "Le Monde Economie",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.lemonde.fr/economie/article/2026/11/26/un-an-apres-la-liquidation-les-licencies-d-ascometal-entre-galere-colere-et-nostalgie-je-suis-tombee-tres-bas-c-est-comme-vivre-un-deuil_6815464_3234.html",
-   "url_propre": "https://www.lemonde.fr/economie/article/2026/11/26/un-an-apres-la-liquidation-les-licencies-d-ascometal-entre-galere-colere-et-nostalgie-je-suis-tombee-tres-bas-c-est-comme-vivre-un-deuil_6815464_3234.html",
-   "date_publication": "2026-11-26T04:00:19+00:00",
-   "vu_le": "2026-11-26T04:30:52.328160+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
-   "titre": "Top 5 IA du 25/11/2026 - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkhFU1pkYVpHVVFjaDRDMnNkc2RLQ2FTS2E3cDVGTnJNYmhCQ1k2Q2Q2aElZVHphczJUUk1VbXM1ZTB5bE8yVXJRajRITGJxd3JoZE81Y1NVUnlMSk9nT0RuV1MwX0ZGLWZDU3NCbTBZcDFrMl80SlhaWXg2YU9ubGVrMTM3OTVGakZuci1maFgxTUpsaWNqTUVrWTNyTkJCanfSAacBQVVfeXFMUHduU3l5SzFKTFZMU29mczgtUUxwckdIN3d4SDhZUHVMNHNNLUd0VkdxbGtKWkFkSkZLMG1tLXJpRDd4MEthb1JNb18tb09kVWtjLU5FXzhfVGJaaTVkU2VXd0hUZVQ0b0I2bTFidWtuR2hhU2luSklVS0QyckEyWUduTWdOQ3VHbGpkbDk4R3ktT1hMYWtmaFJlQjJKQmxhSTU0OTI5OUE?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkhFU1pkYVpHVVFjaDRDMnNkc2RLQ2FTS2E3cDVGTnJNYmhCQ1k2Q2Q2aElZVHphczJUUk1VbXM1ZTB5bE8yVXJRajRITGJxd3JoZE81Y1NVUnlMSk9nT0RuV1MwX0ZGLWZDU3NCbTBZcDFrMl80SlhaWXg2YU9ubGVrMTM3OTVGakZuci1maFgxTUpsaWNqTUVrWTNyTkJCanfSAacBQVVfeXFMUHduU3l5SzFKTFZMU29mczgtUUxwckdIN3d4SDhZUHVMNHNNLUd0VkdxbGtKWkFkSkZLMG1tLXJpRDd4MEthb1JNb18tb09kVWtjLU5FXzhfVGJaaTVkU2VXd0hUZVQ0b0I2bTFidWtuR2hhU2luSklVS0QyckEyWUduTWdOQ3VHbGpkbDk4R3ktT1hMYWtmaFJlQjJKQmxhSTU0OTI5OUE?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T04:00:09+00:00",
-   "vu_le": "2026-11-26T04:30:52.699933+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Stocks advance in Asia after volatile US trading over AI risks",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
-   "url_propre": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
-   "date_publication": "2026-11-26T03:28:45+00:00",
-   "vu_le": "2026-11-26T04:30:52.144287+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a6062907988e54db"
-  },
-  {
-   "titre": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
-   "date_publication": "2026-11-26T03:11:09+00:00",
-   "vu_le": "2026-11-26T04:30:52.274030+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60629087998c895"
-  },
-  {
-   "titre": "Dong vietnamien, cours de l’or – 26 novembre - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhEUlBDaTBvcEtoQlBXTzY2eFZFb1VZOXVnSl94cHFnSmN5LU1NcmtGSWMwc2poa29OU01xYmlvNkhnc2pMU2tRQm1kMFdoamRUd29FVW00dzROTmEtVUdHOVMtWEZpU3VGaTU2YUlhMVJaeGVzY05EbVR2V1VDMFhsODU0bVg5cEtndGJ0dkxHbE5TbXJCSnhseWZscndHSWtKU3QyZw?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhEUlBDaTBvcEtoQlBXTzY2eFZFb1VZOXVnSl94cHFnSmN5LU1NcmtGSWMwc2poa29OU01xYmlvNkhnc2pMU2tRQm1kMFdoamRUd29FVW00dzROTmEtVUdHOVMtWEZpU3VGaTU2YUlhMVJaeGVzY05EbVR2V1VDMFhsODU0bVg5cEtndGJ0dkxHbE5TbXJCSnhseWZscndHSWtKU3QyZw?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T03:08:28+00:00",
-   "vu_le": "2026-11-26T04:30:53.499834+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Meituan : BOC International Holdings Ltd. à l'achat - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDlaWDFZN0F6WElDSGFqMzFlQkNuNENETDRSRlRGYWduZlZ2S2JYUDc1V0FZYmNBdHpkU3QyUDh2U19WQVNEMFVKR3hJaVdiYTFhMWxUaHViOGZDVm8tZ3MxVDFvVl9WNHFnRTRnNWt6cmhCajBsZFZReFFoc3VyNmh1Y3hhdVprc205NG5vYVVZdWhMTnpXeUVVUExtYllFZ2EtS3NhRUZ2Rm9o?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDlaWDFZN0F6WElDSGFqMzFlQkNuNENETDRSRlRGYWduZlZ2S2JYUDc1V0FZYmNBdHpkU3QyUDh2U19WQVNEMFVKR3hJaVdiYTFhMWxUaHViOGZDVm8tZ3MxVDFvVl9WNHFnRTRnNWt6cmhCajBsZFZReFFoc3VyNmh1Y3hhdVprc205NG5vYVVZdWhMTnpXeUVVUExtYllFZ2EtS3NhRUZ2Rm9o?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T03:02:07+00:00",
-   "vu_le": "2026-11-26T04:30:53.387771+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Toyota Motor Corporation : BNP Paribas à l'achat - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlBidU11TS1ORHd4WmY4X0xsM2JRc3A1LXdvVVU2Q1R2bjhXU1phUlEwcU40NjRWUmVTcnJiazBoM3AyR0lnZ3lleDc5SUxYdEdVRzFISXNaTzNCUVoxOS1kR1ZQa29NTGlxbWh1RWxnbGFfNWYzSVFUNG1BTXlILXNOcllDd1pyZkxlQ1M3RUhRc1hwSnBORl9nVnp5cDRGNlgwWTFiUnA3UQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlBidU11TS1ORHd4WmY4X0xsM2JRc3A1LXdvVVU2Q1R2bjhXU1phUlEwcU40NjRWUmVTcnJiazBoM3AyR0lnZ3lleDc5SUxYdEdVRzFISXNaTzNCUVoxOS1kR1ZQa29NTGlxbWh1RWxnbGFfNWYzSVFUNG1BTXlILXNOcllDd1pyZkxlQ1M3RUhRc1hwSnBORl9nVnp5cDRGNlgwWTFiUnA3UQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T03:01:45+00:00",
-   "vu_le": "2026-11-26T04:30:53.347073+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Bank of Korea raises interest rates amid AI chip boom",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
-   "url_propre": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
-   "date_publication": "2026-11-26T02:27:04+00:00",
-   "vu_le": "2026-11-26T04:30:52.209902+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a60629080f4a70b9"
-  },
-  {
-   "titre": "Harvey Norman Holdings Limited : Jarden Securities passe de neutre à vendeur - Zonebourse Suisse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTF9oOVBXRDFQNlFGMThST1Rza1hzQ2dSY2x2Slc0ZXRUdUlxVUM0VjJsc09acXc3TzNzT3R3dXRfUkYwd3o3WERmaDU3X3BQWk9pTlAwVkpkWjJJYW9tOF9aSWhqUnpQMl94QWszU05rN29KWV9abnNQTzNzeFBsRTczR0VFUFhPbUlzTjR0blU4bVZsZXZRZkhtdjBCYWJuN2xPbkdkLUhiZl9HRmw5TEoydWFNTE8tTG4xTUF6QUZ2cEppR3pnS3BfRDM4a0U?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTF9oOVBXRDFQNlFGMThST1Rza1hzQ2dSY2x2Slc0ZXRUdUlxVUM0VjJsc09acXc3TzNzT3R3dXRfUkYwd3o3WERmaDU3X3BQWk9pTlAwVkpkWjJJYW9tOF9aSWhqUnpQMl94QWszU05rN29KWV9abnNQTzNzeFBsRTczR0VFUFhPbUlzTjR0blU4bVZsZXZRZkhtdjBCYWJuN2xPbkdkLUhiZl9HRmw5TEoydWFNTE8tTG4xTUF6QUZ2cEppR3pnS3BfRDM4a0U?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-26T02:01:20+00:00",
-   "vu_le": "2026-11-26T04:30:53.455823+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-   "date_publication": "2026-11-26T00:45:54+00:00",
-   "vu_le": "2026-11-26T04:30:52.319493+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a6062908befea096"
-  },
-  {
-   "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
-   "source": "Le Monde Economie",
-   "theme": "Entreprises",
-   "couleur": "9DC3E6",
-   "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
-   "url_propre": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
-   "date_publication": "2026-11-25T23:50:44+00:00",
-   "vu_le": "2026-11-26T04:30:52.295599+00:00",
-   "resume": "Votre trafic a Ã©tÃ© identifiÃ© comme automatisÃ© (bot). Si vous Ãªtes partenaire autorisÃ©, abonnÃ© au Monde, ou si vous souhaitez obtenir une autorisation dâaccÃ¨s Ã ce contenu, merci de contacter : licensing[@]groupelemonde.fr en joignant une copie de cette page dâerreur, incluant votre adresse I"
-  },
-  {
    "titre": "Forum Bourse AMOEBA - 26/11/2026 00:39:00 - Point sur les AMM et calendrier des prochaines échéances - Boursorama",
    "source": "Boursorama",
    "theme": "Bourse / Marchés",
@@ -1475,39 +1376,6 @@
    "url_propre": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WU3lRdjR6cVBLekFuY3J4NFgzd3NvSUt4WVpVYjh4YjN6alRpLUxfMnF1Ni1jTHQ0VllKT0hSa1FWX2g4UUdLaERqOWFWVmJEM2hUYjhHMTBEX2ZiZGw3bGRSNUZiNVdBb2J3YUlxTUhDQXBp?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
    "date_publication": "2026-11-25T23:39:00+00:00",
    "vu_le": "2026-11-26T14:18:20.422877+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Israeli judges advise prosecutors to drop some charges against Netanyahu",
-   "source": "Financial Times",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1",
-   "url_propre": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1",
-   "date_publication": "2026-11-25T23:18:48+00:00",
-   "vu_le": "2026-11-26T04:30:52.358985+00:00",
-   "resume": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code CG000 / 403 - Request ID a6062908ef07ef57"
-  },
-  {
-   "titre": "Forum Bourse CAC 40 - 25/11/2026 23:38:04 - Les us ne retourneront pas plus bas qu'aujourd'hui cette année - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53SnFkajRjLUI0TEhlNnVhcW9OclR3Q2hXSmIzSzl1YmJ4XzBvX3NIU2YtVlFpeEdWazZvQlEzS2RHX3ljY0VvZWVuWV9SazEyUlFHQXdiMFNKMk4xX2oyRkNKX2YwMDl1bTNSeUFibkdoQQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE53SnFkajRjLUI0TEhlNnVhcW9OclR3Q2hXSmIzSzl1YmJ4XzBvX3NIU2YtVlFpeEdWazZvQlEzS2RHX3ljY0VvZWVuWV9SazEyUlFHQXdiMFNKMk4xX2oyRkNKX2YwMDl1bTNSeUFibkdoQQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-25T22:38:04+00:00",
-   "vu_le": "2026-11-26T04:30:52.765591+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Mene Inc. annonce une transition à la direction générale - Zonebourse",
-   "source": "ZoneBourse",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmpxaFRXNV9VckthTndHVndlSWNiVE9NSnlQZ2JQZlR5anN3S1dRYnpydG80OU8tVUxQNnVlbmZxaUh4RXJ0bUNZSDVnNnJDU2lzNFlObjBFclhjY3RjSDRzUEdMY0VzdmU2WWRvMkd4aVY3NEpXTkZkczdOMnVSXzlQeE9pUVVScWQxeHRjWnJRLWVaNHRXNF9vaE1ZZl9iZWtsc1Qwc1JvYWprMHR5THVDQmUtNk0?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmpxaFRXNV9VckthTndHVndlSWNiVE9NSnlQZ2JQZlR5anN3S1dRYnpydG80OU8tVUxQNnVlbmZxaUh4RXJ0bUNZSDVnNnJDU2lzNFlObjBFclhjY3RjSDRzUEdMY0VzdmU2WWRvMkd4aVY3NEpXTkZkczdOMnVSXzlQeE9pUVVScWQxeHRjWnJRLWVaNHRXNF9vaE1ZZl9iZWtsc1Qwc1JvYWprMHR5THVDQmUtNk0?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-25T22:00:00+00:00",
-   "vu_le": "2026-11-26T04:30:53.411583+00:00",
    "resume": ""
   },
   {
@@ -1522,26 +1390,15 @@
    "resume": ""
   },
   {
-   "titre": "Forum Bourse ABIVAX - 25/11/2026 20:51:43 - Live 75.36 équivalent euros à ws ça risque de courir - Boursorama",
-   "source": "Boursorama",
+   "titre": "L’action Axa pourrait bondir de 70% selon Berenberg, trois dossiers à potentiel sur lesquels se positionner, les pros de la finance interpellent les candidats à la présidentielle… Consultez La lettre des placements",
+   "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
    "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aWVdjelNOZHJYU1NCeExPY1pyTHI3RGE3R3U0R25vSFN4djhlblI3U1NGcC04d0tYZ0NScFFzNVM1d2JidDRMMjhEZ1g1TmNpTm51d2x1VFkwNFB6SjBxOWFjaF9MTW9OMGRFYm1fZmtQcEU?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aWVdjelNOZHJYU1NCeExPY1pyTHI3RGE3R3U0R25vSFN4djhlblI3U1NGcC04d0tYZ0NScFFzNVM1d2JidDRMMjhEZ1g1TmNpTm51d2x1VFkwNFB6SjBxOWFjaF9MTW9OMGRFYm1fZmtQcEU?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-25T19:51:43+00:00",
-   "vu_le": "2026-11-26T04:30:52.852428+00:00",
-   "resume": ""
-  },
-  {
-   "titre": "Forum Bourse SOITEC - 25/11/2026 19:54:09 - Pronostic pour demain. - Boursorama",
-   "source": "Boursorama",
-   "theme": "Bourse / Marchés",
-   "couleur": "FFD966",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SWRNbDFDY3pxU0d6bVljb2xPWEd2WWdhZkFlNUlzZlE2ZnJkRVpYSm1VS0xWdXA1U0N1Nzlaa19RdEZDU0xpNlJucUtFaElZTEpzc25UQl84dEdRdjBFVFNsc2JnR3QzNHI2MkN5cEJwUQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SWRNbDFDY3pxU0d6bVljb2xPWEd2WWdhZkFlNUlzZlE2ZnJkRVpYSm1VS0xWdXA1U0N1Nzlaa19RdEZDU0xpNlJucUtFaElZTEpzc25UQl84dEdRdjBFVFNsc2JnR3QzNHI2MkN5cEJwUQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-25T18:54:09+00:00",
-   "vu_le": "2026-11-26T04:30:52.932702+00:00",
-   "resume": ""
+   "url": "https://bourse.lefigaro.fr/expertise/l-action-axa-pourrait-bondir-de-70-selon-berenberg-trois-dossiers-a-potentiel-sur-lesquels-se-positionner-les-pros-de-la-finance-interpellent-les-candidats-a-la-presidentielle-consultez-la-lettre-des-placements-20261125",
+   "url_propre": "https://bourse.lefigaro.fr/expertise/l-action-axa-pourrait-bondir-de-70-selon-berenberg-trois-dossiers-a-potentiel-sur-lesquels-se-positionner-les-pros-de-la-finance-interpellent-les-candidats-a-la-presidentielle-consultez-la-lettre-des-placements-20261125",
+   "date_publication": "2026-11-25T20:20:11+00:00",
+   "vu_le": "2026-11-27T04:57:39.143769+00:00",
+   "resume": "L’action Axa pourrait bondir de 70% selon Berenberg, trois dossiers à potentiel sur lesquels se positionner, les pros de la finance interpellent les candidats à la présidentielle… Consultez La lettre des placements Le bureau d’analyse allemand Berenberg voit l’action Axa progresser de 70%. Adobe Sto"
   },
   {
    "titre": "SRD en Bourse : comment fonctionne le Service de Règlement Différé ? - Boursorama",
@@ -1555,17 +1412,6 @@
    "resume": ""
   },
   {
-   "titre": "L'UE veut créer un fonds souverain pour investir dans le quantique et l'IA - Boursorama",
-   "source": "Boursorama",
-   "theme": "Finance / Economie (général)",
-   "couleur": "D9D9D9",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaXlmNDNqZ3NTWWJYOTFONDNMSXNMYVVBT0xkN0tBV1ZqTk1JN1dueU1DVmNBYWljRjVRaDZpbmt5NFZUd1hobjJIN0hLNVdZUnoyZ3hWYlZWczB6REN6T2oyUGx5cWRJQzE4MDJXRW1kTFhXdi1IVzBKR0J2YndNSnRTMXA3MlJjRXdiUFRiUnF5U3ZoVVJTTXJLMGNTU3NFSUVDaFEyOHpIQUl1bjkxVk16SjRTZk9Oem1CTnhBYjVwT1dYdjJXODFCcHV2Z2M5TGRBUjI0X0hNMTEtZF93R2hHTk1RMmdybzRkeDh3OEZSbU5rZ2xBTFpB0gH_AUFVX3lxTE44RE1qdXF2N2NBWGZKTlJSTXNDTjJNU0dKOXBZWFBvYVRGT0toa3pFMWF1MzRlQW9zcnJmZnBDcG9tUnFhZkx5ZUY1STJGdmg2WmpiUWxkaXVqaFpOZmtRVmE2NnU5cVpTMkoyWnFpdU9BS3JtQkxqLVM5Y2NSWHQ1bGZGREhyVFZ4VDdpQ2VTWjVFUWN1NFZzN2NjZHhYYU9fNmY1S3Nub3R6WlJvX0c2VE5uS0hfb1FMZ2o5d3YxclZuNmN6Nng0VjEtNmNDTF85OEk2em03Qjdfb3QxX3FUOFJMV2pzbVJxQkNtdGdmMEd2V1VHVzFYMTBUdGtXTQ?oc=5&hl=fr&gl=FR&ceid=FR:fr",
-   "url_propre": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaXlmNDNqZ3NTWWJYOTFONDNMSXNMYVVBT0xkN0tBV1ZqTk1JN1dueU1DVmNBYWljRjVRaDZpbmt5NFZUd1hobjJIN0hLNVdZUnoyZ3hWYlZWczB6REN6T2oyUGx5cWRJQzE4MDJXRW1kTFhXdi1IVzBKR0J2YndNSnRTMXA3MlJjRXdiUFRiUnF5U3ZoVVJTTXJLMGNTU3NFSUVDaFEyOHpIQUl1bjkxVk16SjRTZk9Oem1CTnhBYjVwT1dYdjJXODFCcHV2Z2M5TGRBUjI0X0hNMTEtZF93R2hHTk1RMmdybzRkeDh3OEZSbU5rZ2xBTFpB0gH_AUFVX3lxTE44RE1qdXF2N2NBWGZKTlJSTXNDTjJNU0dKOXBZWFBvYVRGT0toa3pFMWF1MzRlQW9zcnJmZnBDcG9tUnFhZkx5ZUY1STJGdmg2WmpiUWxkaXVqaFpOZmtRVmE2NnU5cVpTMkoyWnFpdU9BS3JtQkxqLVM5Y2NSWHQ1bGZGREhyVFZ4VDdpQ2VTWjVFUWN1NFZzN2NjZHhYYU9fNmY1S3Nub3R6WlJvX0c2VE5uS0hfb1FMZ2o5d3YxclZuNmN6Nng0VjEtNmNDTF85OEk2em03Qjdfb3QxX3FUOFJMV2pzbVJxQkNtdGdmMEd2V1VHVzFYMTBUdGtXTQ?oc=5&hl=fr&gl=FR&ceid=FR%3Afr",
-   "date_publication": "2026-11-25T10:22:00+00:00",
-   "vu_le": "2026-11-26T04:30:52.552476+00:00",
-   "resume": ""
-  },
-  {
    "titre": "« Simulateur de cocus » : comment GTA VI fait paniquer les joueurs masculinistes",
    "source": "Le Figaro Economie",
    "theme": "Entreprises",
@@ -1575,6 +1421,17 @@
    "date_publication": "2026-11-25T09:53:07+00:00",
    "vu_le": "2026-11-26T14:18:19.158482+00:00",
    "resume": "Des joueurs issus de la mouvance masculiniste s’en prennent aux personnages du dernier GTA. Isabel Infantes / REUTERS DÉCRYPTAGE - Accusé de ne pas être assez viril, Jason, l’un des deux protagonistes du dernier blockbuster de Rockstar est la cible d’attaques issues de la mouvance masculiniste, qui "
+  },
+  {
+   "titre": "L’action Siemens est bien partie pour inscrire un nouveau sommet historique, selon Bank of America",
+   "source": "Le Figaro Bourse",
+   "theme": "Bourse / Marchés",
+   "couleur": "FFD966",
+   "url": "https://bourse.lefigaro.fr/actu-conseils/l-action-siemens-est-bien-partie-pour-inscrire-un-nouveau-sommet-historique-selon-bank-of-america-20261124",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/l-action-siemens-est-bien-partie-pour-inscrire-un-nouveau-sommet-historique-selon-bank-of-america-20261124",
+   "date_publication": "2026-11-24T06:04:00+00:00",
+   "vu_le": "2026-11-27T04:57:39.310979+00:00",
+   "resume": "Le 28 août 2026 à la Bourse de Francfort, l’action Siemens a inscrit un record historique à 291,70 euros, avant de retomber d’environ 8% à ce jour. Mais selon Bank of America, elle pourrait grimper jusqu’à 345 euros. HJBC - stock.adobe.com - Le Figaro Chaque semaine, Le Figaro Patrimoine et Bourse r"
   },
   {
    "titre": "Voiture électrique, Chine, surcapacités industrielles : les équipementiers automobiles face à bien des difficultés, selon Ecofi",
@@ -1610,15 +1467,15 @@
    "resume": "Est-il possible pour un particulier d’investir sur les marchés non cotés ? Vie des entreprises, fonctionnement du marché, droit boursier... La rédaction du Figaro Patrimoine et Bourse se saisit de vos questions et vous apporte son expertise. Passer la publicité Passer la publicité C’est en effet pos"
   },
   {
-   "titre": "J’ai acheté 40 actions Rheinmetall et je suis maintenant en pertes de 5.000€. Que dois-je faire ?",
+   "titre": "Les clés pour comprendre la Bourse coréenne, un marché atypique bouleversé par l’IA",
    "source": "Le Figaro Bourse",
    "theme": "Bourse / Marchés",
    "couleur": "FFD966",
-   "url": "https://bourse.lefigaro.fr/actu-conseils/j-ai-achete-40-actions-rheinmetall-et-je-suis-maintenant-en-pertes-de-5-000-que-dois-je-faire-20261120",
-   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/j-ai-achete-40-actions-rheinmetall-et-je-suis-maintenant-en-pertes-de-5-000-que-dois-je-faire-20261120",
-   "date_publication": "2026-11-20T06:01:00+00:00",
-   "vu_le": "2026-11-26T04:30:52.656260+00:00",
-   "resume": "Rheinmetall, le géant allemand des équipements de défense, fait face à un sérieux problème : il peine à transformer son plantureux carnet de commandes en chiffre d’affaires et en profits dans les conditions escomptées. Ardan Fuessmann - stock.adbo.com - Le Figaro Vie des entreprises, fonctionnement "
+   "url": "https://bourse.lefigaro.fr/actu-conseils/les-cles-pour-comprendre-la-bourse-coreenne-un-marche-atypique-bouleverse-par-l-ia-20261121",
+   "url_propre": "https://bourse.lefigaro.fr/actu-conseils/les-cles-pour-comprendre-la-bourse-coreenne-un-marche-atypique-bouleverse-par-l-ia-20261121",
+   "date_publication": "2026-11-21T09:00:00+00:00",
+   "vu_le": "2026-11-27T04:57:40.347697+00:00",
+   "resume": "Qu’achète-t-on quand on investit dans le Kospi ou le MSCI Korea ? «La réponse est simple : on achète des puces mémoire, et principalement de la mémoire DRAM, plutôt utilisée pour du calcul que pour stocker des données sur plus long terme», répond David Rainville, gérant du fonds Sycomore Sustainable"
   }
  ]
 }
